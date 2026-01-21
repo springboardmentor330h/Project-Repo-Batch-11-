@@ -1,0 +1,15 @@
+download_manifest.csv
+cookies.txt
+episodes/
+*.mp4
+*.part
+*.ytdl
+*.wav
+
+# Large output directories (hundreds of JSON files, too large for git)
+output_json_baseline/
+output_json_embedding/
+output_kws_summaries/
+
+# Downloaded models
+models/
