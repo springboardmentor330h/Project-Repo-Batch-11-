@@ -1,4 +1,3 @@
-# language_adaptation/pipeline.py
 
 from language_adaptation.romanizer import romanize_text
 

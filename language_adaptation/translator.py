@@ -1,95 +1,119 @@
-# language_adaptation/translator.py
+
+"""
+translator.py - Multi-language translation using deep-translator
+"""
+
+try:
+    from deep_translator import GoogleTranslator
+    USE_DEEP_TRANSLATOR = True
+except ImportError:
+    USE_DEEP_TRANSLATOR = False
 
 from transformers import MarianMTModel, MarianTokenizer
-import torch
 
-# -------------------------------
-# Supported translation models
-# -------------------------------
-
-MODEL_MAP = {
-    ("te", "en"): "Helsinki-NLP/opus-mt-te-en",
-    ("hi", "en"): "Helsinki-NLP/opus-mt-hi-en",
-    ("ta", "en"): "Helsinki-NLP/opus-mt-ta-en",
-    ("kn", "en"): "Helsinki-NLP/opus-mt-kn-en",
-    ("ml", "en"): "Helsinki-NLP/opus-mt-ml-en",
-    ("bn", "en"): "Helsinki-NLP/opus-mt-bn-en",
-    ("mr", "en"): "Helsinki-NLP/opus-mt-mr-en",
-    ("ur", "en"): "Helsinki-NLP/opus-mt-ur-en",
-    ("ar", "en"): "Helsinki-NLP/opus-mt-ar-en",
-    ("ru", "en"): "Helsinki-NLP/opus-mt-ru-en",
-    ("zh", "en"): "Helsinki-NLP/opus-mt-zh-en",
-}
-
-# Cache loaded models
-_LOADED_MODELS = {}
-
-# -------------------------------
-# Language normalization
-# -------------------------------
-
-def normalize_lang(lang: str) -> str:
-    """Normalize language codes coming from Whisper / detectors"""
-    if not lang:
-        return "en"
-
-    lang = lang.lower()
-
-    if lang.startswith("zh"):
-        return "zh"
-
-    return lang
+_MODEL_CACHE = {}
 
 
-# -------------------------------
-# Translation API (STABLE)
-# -------------------------------
+def _load_model(source_lang: str, target_lang: str):
+    model_name = f"Helsinki-NLP/opus-mt-{source_lang}-{target_lang}"
+
+    if model_name in _MODEL_CACHE:
+        return _MODEL_CACHE[model_name]
+
+    tokenizer = MarianTokenizer.from_pretrained(model_name)
+    model = MarianMTModel.from_pretrained(model_name)
+
+    _MODEL_CACHE[model_name] = (tokenizer, model)
+    return tokenizer, model
+
+
+def chunk_text(text: str, max_chars: int = 4500) -> list[str]:
+    """
+    Split text into chunks of at most max_chars, trying to split at sentence endings.
+    """
+    if len(text) <= max_chars:
+        return [text]
+    
+    chunks = []
+    current_chunk = []
+    current_length = 0
+    
+    # Split by simple sentence delimiters
+    sentences = text.replace('? ', '?. ').replace('! ', '!. ').split('. ')
+    
+    for sentence in sentences:
+        # Add the period back if it was removed
+        if not sentence.endswith(('.', '?', '!')):
+            sentence += '.'
+            
+        sent_len = len(sentence)
+        if current_length + sent_len < max_chars:
+            current_chunk.append(sentence)
+            current_length += sent_len
+        else:
+            # If a single sentence is huge (unlikely but possible), force split it
+            if not current_chunk:
+                chunks.append(sentence[:max_chars])
+                if len(sentence) > max_chars:
+                     # Recursive chunking for the remainder
+                     chunks.extend(chunk_text(sentence[max_chars:], max_chars))
+            else:
+                chunks.append(" ".join(current_chunk))
+                current_chunk = [sentence]
+                current_length = sent_len
+                
+    if current_chunk:
+        chunks.append(" ".join(current_chunk))
+        
+    return chunks
 
 def translate_auto(text: str, source_lang: str, target_lang: str) -> str:
     """
-    Translate text from source_lang -> target_lang.
-    Safe fallback: returns original text if unsupported.
+    Translate text from source language to target language.
+    Uses deep-translator (Google Translate) with chunking support.
     """
-
-    if not text or source_lang == target_lang:
+    if not text.strip():
         return text
 
-    source_lang = normalize_lang(source_lang)
-    target_lang = normalize_lang(target_lang)
-
-    key = (source_lang, target_lang)
-
-    if key not in MODEL_MAP:
-        # Unsupported language pair → no translation
+    if source_lang == target_lang:
         return text
-
-    # Lazy load model
-    if key not in _LOADED_MODELS:
-        tokenizer = MarianTokenizer.from_pretrained(MODEL_MAP[key])
-        model = MarianMTModel.from_pretrained(MODEL_MAP[key])
-
-        device = "cuda" if torch.cuda.is_available() else "cpu"
-        model.to(device)
-
-        _LOADED_MODELS[key] = (tokenizer, model, device)
-
-    tokenizer, model, device = _LOADED_MODELS[key]
-
+    
+    # Try deep-translator first (Google Translate backend)
+    if USE_DEEP_TRANSLATOR:
+        try:
+            # GoogleTranslator expects language codes like 'en', 'te', 'hi'
+            translator = GoogleTranslator(source=source_lang, target=target_lang)
+            
+            # Handle long text via chunking
+            chunks = chunk_text(text)
+            translated_chunks = []
+            
+            for chunk in chunks:
+                res = translator.translate(chunk)
+                if res:
+                    translated_chunks.append(res)
+            
+            return " ".join(translated_chunks)
+            
+        except Exception as e:
+            print(f"Deep Translator error: {e}")
+            pass  # Fall through to Helsinki-NLP
+    
+    # Fallback to Helsinki-NLP
     try:
-        inputs = tokenizer(
-            text,
-            return_tensors="pt",
-            truncation=True,
-            max_length=512
-        ).to(device)
-
-        outputs = model.generate(
-            **inputs,
-            max_length=512
-        )
-
-        return tokenizer.decode(outputs[0], skip_special_tokens=True)
-
+        tokenizer, model = _load_model(source_lang, target_lang)
+        # Handle chunking for local model too (max 512 tokens -> approx 2000 chars safe bet)
+        chunks = chunk_text(text, max_chars=1500)
+        translated_chunks = []
+        
+        for chunk in chunks:
+            inputs = tokenizer(chunk, return_tensors="pt", truncation=True)
+            translated = model.generate(**inputs)
+            out = tokenizer.decode(translated[0], skip_special_tokens=True)
+            if out:
+                translated_chunks.append(out.strip())
+                
+        return " ".join(translated_chunks) if translated_chunks else text
     except Exception:
-        # Absolute safety: never crash pipeline
+        # If both fail, return original
         return text

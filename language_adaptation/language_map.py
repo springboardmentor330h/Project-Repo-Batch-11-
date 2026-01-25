@@ -1,4 +1,3 @@
-# language_adaptation/language_map.py
 
 SUPPORTED_LANGUAGES = {
     "te": "Telugu",

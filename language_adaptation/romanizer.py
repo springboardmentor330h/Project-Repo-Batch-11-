@@ -1,49 +1,64 @@
-"""
-Language-aware romanizer.
 
-Romanization is OPTIONAL.
-Pipeline may generate it, UI decides whether to display it.
-No language-specific library is imported unless required.
-"""
 
-def romanize_text(text: str, language: str) -> str:
-    if not text or not language:
+
+
+try:
+    from indic_transliteration import sanscript
+    from indic_transliteration.sanscript import transliterate
+    USE_INDIC = True
+except ImportError:
+    USE_INDIC = False
+
+from unidecode import unidecode
+
+SUPPORTED_ROMANIZATION_LANGS = {
+    "hi", "mr", "sa", "te", "ta", "kn", "ml", "bn", "gu", "mni",
+    "ar", "ru", "ja", "zh", "ko", "pa"
+}
+
+# Mapping specific languages to indic-transliteration constants
+INDIC_SCRIPT_MAP = {
+    "hi": sanscript.DEVANAGARI,
+    "mr": sanscript.DEVANAGARI,
+    "sa": sanscript.DEVANAGARI,
+    "te": sanscript.TELUGU,
+    "ta": sanscript.TAMIL,
+    "kn": sanscript.KANNADA,
+    "ml": sanscript.MALAYALAM,
+    "bn": sanscript.BENGALI,
+    "gu": sanscript.GUJARATI,
+    "pa": sanscript.GURMUKHI
+}
+
+def romanize_text(text: str, lang: str) -> str:
+    """
+    Romanize text using indic-transliteration for Indic scripts (IAST format) 
+    and unidecode for others.
+    """
+    if not text or not text.strip():
         return text
 
-    lang = language.lower()
-
-    # --------------------------------------------------
-    # Latin-script languages → return as-is
-    # --------------------------------------------------
-    if lang in {"en", "fr", "de", "es", "it", "pt", "nl"}:
+    if lang == "en":
         return text
 
-    # --------------------------------------------------
-    # Indic languages
-    # --------------------------------------------------
-    if lang in {"hi", "ta", "te", "kn", "ml", "mr"}:
-        try:
-            from indic_transliteration import sanscript
-            from indic_transliteration.sanscript import transliterate
-            return transliterate(text, sanscript.DEVANAGARI, sanscript.ITRANS)
-        except Exception:
-            return text
+    if lang not in SUPPORTED_ROMANIZATION_LANGS:
+        return text
 
-    # --------------------------------------------------
-    # Chinese
-    # --------------------------------------------------
-    if lang in {"zh", "zh-cn", "zh-tw"}:
+    # Use indic-transliteration for Indic languages if available
+    if USE_INDIC and lang in INDIC_SCRIPT_MAP:
         try:
-            from pypinyin import lazy_pinyin
-            return " ".join(lazy_pinyin(text))
-        except Exception:
-            return text
+            source_script = INDIC_SCRIPT_MAP[lang]
+            # Convert to IAST (International Alphabet of Sanskrit Transliteration)
+            # This provides high-quality, readable romanization with diacritics
+            romanized = transliterate(text, source_script, sanscript.IAST)
+            if romanized and romanized != text:
+                return romanized
+        except Exception as e:
+            print(f"Indic-transliteration error: {e}")
+            # Fallback to unidecode
 
-    # --------------------------------------------------
-    # Universal fallback (ASCII-ish)
-    # --------------------------------------------------
     try:
-        from unidecode import unidecode
-        return unidecode(text)
+        romanized = unidecode(text)
+        return romanized.strip() if romanized else text
     except Exception:
         return text

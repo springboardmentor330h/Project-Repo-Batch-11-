@@ -1,10 +1,8 @@
-# language_adaptation/romanizer.py
 
 from indic_transliteration import sanscript
 from indic_transliteration.sanscript import transliterate
 
 
-# ---------- INDIC SCRIPT MAP ----------
 INDIC_LANG_MAP = {
     "hi": sanscript.DEVANAGARI,
     "te": sanscript.TELUGU,
@@ -24,7 +22,6 @@ def romanize_indic(text: str, lang: str) -> str:
     return transliterate(text, scheme, sanscript.ITRANS)
 
 
-# ---------- ARABIC ----------
 def romanize_arabic(text: str) -> str:
     replacements = {
         "هذا": "hatha",
@@ -49,7 +46,6 @@ def romanize_arabic(text: str) -> str:
     return text
 
 
-# ---------- RUSSIAN ----------
 def romanize_russian(text: str) -> str:
     table = str.maketrans(
         "абвгдеёжзийклмнопрстуфхцчшщыэюя",
@@ -58,7 +54,6 @@ def romanize_russian(text: str) -> str:
     return text.lower().translate(table)
 
 
-# ---------- CHINESE (PINYIN STYLE) ----------
 def romanize_chinese(text: str) -> str:
     replacements = {
         "这个": "zhe ge",
@@ -82,7 +77,6 @@ def romanize_chinese(text: str) -> str:
     return text
 
 
-# ---------- MAIN ENTRY ----------
 def romanize_text(text: str, lang: str) -> str:
     if lang in INDIC_LANG_MAP:
         return romanize_indic(text, lang)
