@@ -32,13 +32,30 @@ if not episode_files:
     st.stop()
 
 # -----------------------------
-# EPISODE SELECTOR
+# LOAD TITLES FOR DROPDOWN
 # -----------------------------
-episode_file = st.selectbox(
+@st.cache_data
+def load_episode_titles(data_dir, files):
+    title_to_file = {}
+    for fname in files:
+        path = os.path.join(data_dir, fname)
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            title = data.get("title", fname)
+            title_to_file[title] = fname
+    return title_to_file
+
+title_to_file = load_episode_titles(DATA_DIR, episode_files)
+
+# -----------------------------
+# EPISODE SELECTOR (TITLE-BASED)
+# -----------------------------
+selected_title = st.selectbox(
     "🎙️ Select Podcast Episode",
-    episode_files
+    options=list(title_to_file.keys())
 )
 
+episode_file = title_to_file[selected_title]
 episode_path = os.path.join(DATA_DIR, episode_file)
 
 with open(episode_path, "r", encoding="utf-8") as f:
@@ -73,7 +90,7 @@ def build_segment_label(seg):
 labels = [build_segment_label(s) for s in segments]
 
 # -----------------------------
-# SEGMENT DROPDOWN (KEY FIX)
+# SEGMENT DROPDOWN
 # -----------------------------
 selected_index = st.selectbox(
     "📌 Select Topic Segment",
