@@ -119,3 +119,6 @@ Podcast AI is a powerful tool designed to transform raw audio content into struc
 │   └── app.py              # Main UI entry point
 └── requirements.txt        # Project dependencies
 ```
+Author: Potheesh Vignesh K
+tech stack: Python
+Tools and Framework: Chat Gpt, Anti Gravity & lib in requirment.txt
