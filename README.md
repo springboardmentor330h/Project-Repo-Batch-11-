@@ -119,18 +119,21 @@ Podcast AI is a powerful tool designed to transform raw audio content into struc
 │   └── app.py              # Main UI entry point
 └── requirements.txt        # Project dependencies
 ```
+
 👤 Author
-Potheesh Vignesh K
 
-Role: Lead Developer
+    Potheesh Vignesh K
 
-Stack: Python, NLP, Streamlit
+    Role: Lead Developer
+
+    Stack: Python, NLP, Streamlit
 
 ⚡ Acknowledgements
-ChatGPT: For assistance with code optimization and documentation.
 
-Anti-Gravity: For keeping things light (and Pythonic).
+    ChatGPT: For assistance with code optimization and documentation.
 
-Open Source Community: For the amazing libraries (transformers, whisper, deep-translator).
+    Anti-Gravity: For keeping things light (and Pythonic).
+
+    Open Source Community: For the amazing libraries (transformers, whisper, deep-translator).
 
 Built with ❤️ and Python.
