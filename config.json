@@ -1,0 +1,23 @@
+{
+  "security": {
+    "data_retention_days": 7,
+    "max_file_size_mb": 100,
+    "allowed_file_types": [".mp3", ".wav"],
+    "enable_input_sanitization": true,
+    "enable_file_cleanup": true
+  },
+  "ui": {
+    "max_topics_display": 50,
+    "default_timeline_view": true,
+    "sentiment_color_mapping": {
+      "POSITIVE": "#4CAF50",
+      "NEUTRAL": "#FF9800", 
+      "NEGATIVE": "#F44336"
+    }
+  },
+  "processing": {
+    "timeout_seconds": 600,
+    "max_segment_length": 10000,
+    "min_segment_confidence": 0.8
+  }
+}

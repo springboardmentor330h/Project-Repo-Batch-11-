@@ -15,9 +15,31 @@ if str(PROJECT_ROOT) not in sys.path:
 
 from language_adaptation.translator import translate_auto
 from language_adaptation.romanizer import romanize_text
+from textblob import TextBlob
 
 PIPELINE_OUTPUT = PROJECT_ROOT / "outputs" / "pipeline_output.json"
 SEGMENTED_OUTPUT = PROJECT_ROOT / "outputs" / "segmented_output.json"
+CONFIG_FILE = PROJECT_ROOT / "config.json"
+
+# Load configuration
+def load_config():
+    try:
+        with open(CONFIG_FILE, "r") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        # Return default configuration
+        return {
+            "security": {
+                "max_file_size_mb": 100,
+                "allowed_file_types": [".mp3", ".wav"],
+                "enable_input_sanitization": True
+            },
+            "ui": {
+                "max_topics_display": 50
+            }
+        }
+
+CONFIG = load_config()
 
 st.set_page_config(
     page_title="Podcast AI",
@@ -30,11 +52,49 @@ if "processed_file" not in st.session_state:
     st.session_state.processed_file = None
 if "data_loaded" not in st.session_state:
     st.session_state.data_loaded = False
+if "selected_topic" not in st.session_state:
+    st.session_state.selected_topic = None
 
 st.markdown("""
 <style>
     .stApp {
         background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+    }
+    
+    .timeline-container {
+        background: #ffffff;
+        padding: 20px;
+        border-radius: 12px;
+        margin: 20px 0;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    }
+    
+    .segment-block {
+        height: 40px;
+        border-radius: 6px;
+        margin: 5px 2px;
+        display: inline-block;
+        cursor: pointer;
+        text-align: center;
+        line-height: 40px;
+        color: white;
+        font-weight: 500;
+        font-size: 12px;
+    }
+    
+    .sentiment-positive { background-color: #4CAF50; }
+    .sentiment-neutral { background-color: #FF9800; }
+    .sentiment-negative { background-color: #F44336; }
+    
+    .keyword-tag {
+        display: inline-block;
+        background: #1976d2;
+        color: #ffffff;
+        padding: 0.4rem 1rem;
+        border-radius: 20px;
+        margin: 0.3rem;
+        font-size: 0.9rem;
+        font-weight: 600;
     }
     
     .main-header {
@@ -343,6 +403,135 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
+def format_duration(seconds):
+    """Convert seconds to MM:SS format"""
+    minutes = int(seconds // 60)
+    secs = int(seconds % 60)
+    return f"{minutes:02d}:{secs:02d}"
+
+
+def get_sentiment_color(sentiment):
+    """Get color class for sentiment"""
+    if sentiment == "POSITIVE":
+        return "sentiment-positive"
+    elif sentiment == "NEGATIVE":
+        return "sentiment-negative"
+    else:
+        return "sentiment-neutral"
+
+
+def render_timeline(data):
+    """Render interactive timeline visualization"""
+    if not data or "topics" not in data:
+        return
+    
+    topics = data["topics"]
+    if not topics:
+        return
+    
+    # Get total duration
+    total_duration = max(topic.get("end", 0) for topic in topics)
+    
+    st.markdown("### 📊 Interactive Timeline")
+    st.markdown("<div class='timeline-container'>", unsafe_allow_html=True)
+    
+    # Create a horizontal bar timeline
+    timeline_html = "<div style='width: 100%; height: 60px; position: relative; background-color: #e0e0e0; border-radius: 8px; overflow: hidden; margin-bottom: 15px;'>"
+    
+    # Calculate and render segments
+    for i, topic in enumerate(topics):
+        start = topic.get("start", 0)
+        end = topic.get("end", 0)
+        duration = end - start
+        width_percent = (duration / total_duration) * 100 if total_duration > 0 else 0
+        left_percent = (start / total_duration) * 100 if total_duration > 0 else 0
+        
+        sentiment_class = get_sentiment_color(topic.get("sentiment", "NEUTRAL"))
+        duration_text = f"T{i+1} ({format_duration(start)}-{format_duration(end)})"
+        
+        # Create segment block
+        segment_html = f"""
+        <div class='segment-block {sentiment_class}' 
+             style='width: {width_percent:.2f}%; height: 100%; left: {left_percent:.2f}%; position: absolute; border-radius: 4px; cursor: pointer; display: flex; align-items: center; justify-content: center; z-index: 1; transition: opacity 0.2s;'
+             onclick='document.getElementById("timeline-topic-btn-{i}").click()'>
+            <span style='font-size: 12px; font-weight: 500; color: white; text-align: center; z-index: 2;'>
+                {duration_text}
+            </span>
+        </div>
+        """
+        timeline_html += segment_html
+    
+    timeline_html += "</div>"
+    
+    # Display timeline legend
+    legend_html = """
+    <div style='display: flex; gap: 20px; margin-bottom: 15px;'>
+        <div style='display: flex; align-items: center; gap: 5px;'>
+            <div style='width: 20px; height: 20px; background-color: #4CAF50; border-radius: 4px;'></div>
+            <span>Positive</span>
+        </div>
+        <div style='display: flex; align-items: center; gap: 5px;'>
+            <div style='width: 20px; height: 20px; background-color: #FF9800; border-radius: 4px;'></div>
+            <span>Neutral</span>
+        </div>
+        <div style='display: flex; align-items: center; gap: 5px;'>
+            <div style='width: 20px; height: 20px; background-color: #F44336; border-radius: 4px;'></div>
+            <span>Negative</span>
+        </div>
+    </div>
+    """
+    st.markdown(legend_html, unsafe_allow_html=True)
+    
+    st.markdown(timeline_html, unsafe_allow_html=True)
+    
+    # Create invisible buttons for interaction
+    for i in range(len(topics)):
+        if st.button(f"Select Topic {i+1}", key=f"timeline-topic-btn-{i}", help=f"View details for topic {i+1}", 
+                 type="secondary", use_container_width=True):
+            st.session_state.selected_topic = i
+    
+    st.markdown("</div>", unsafe_allow_html=True)
+
+
+def sanitize_input(text):
+    """Basic input sanitization"""
+    if not text:
+        return ""
+    # Remove potentially dangerous characters
+    return str(text).replace("<", "&lt;").replace(">", "&gt;")
+
+def display_topic_details(topic):
+    """Display detailed information for a selected topic with security measures"""
+    topic_id = topic.get("topic_id", 0) + 1
+    st.markdown(f"### 📌 Topic {topic_id}")
+    
+    # Summary with sanitization
+    st.markdown("**📋 Summary:**")
+    summary = sanitize_input(topic.get("summary", "No summary available"))
+    st.markdown(f"<div class='transcript-box'>{summary}</div>", unsafe_allow_html=True)
+    
+    # Keywords with sanitization
+    keywords = topic.get("keywords", [])
+    if keywords:
+        st.markdown("**🏷️ Keywords:**")
+        keyword_html = ""
+        for keyword in keywords:
+            safe_keyword = sanitize_input(keyword)
+            keyword_html += f"<span class='keyword-tag'>{safe_keyword}</span>"
+        st.markdown(keyword_html, unsafe_allow_html=True)
+    
+    # Sentiment with defensive programming
+    if "sentiment" in topic and topic["sentiment"]:
+        sentiment = topic["sentiment"]
+        score = topic.get("sentiment_score", 0)
+        color_class = get_sentiment_color(sentiment)
+        st.markdown(f"**😊 Sentiment:** <span class='{color_class}'>{sentiment}</span> (Score: {score})", unsafe_allow_html=True)
+    
+    # Full text with sanitization
+    st.markdown("**📝 Full Transcript:**")
+    full_text = sanitize_input(topic.get("text", ""))
+    st.markdown(f"<div class='transcript-box'>{full_text}</div>", unsafe_allow_html=True)
+
 st.markdown("---")
 
 st.markdown('<div class="step-header"><h2> Upload Audio</h2></div>', unsafe_allow_html=True)
@@ -350,19 +539,33 @@ st.markdown('<div class="step-header"><h2> Upload Audio</h2></div>', unsafe_allo
 col1, col2 = st.columns([2, 1])
 
 with col1:
+    max_size = CONFIG["security"]["max_file_size_mb"] * 1024 * 1024
+    
     audio_file = st.file_uploader(
-        "Upload your podcast audio file (MP3 or WAV)",
+        f"Upload your podcast audio file (MP3 or WAV, max {CONFIG['security']['max_file_size_mb']}MB)",
         type=["mp3", "wav"],
         help="Select an audio file to transcribe and analyze"
     )
+    
+    # File size validation
+    if audio_file and audio_file.size > max_size:
+        st.error(f"❌ File too large! Maximum size is {CONFIG['security']['max_file_size_mb']}MB. Your file is {audio_file.size / 1024 / 1024:.1f}MB.")
+        audio_file = None
 
 if audio_file and st.session_state.processed_file != audio_file.name:
     st.session_state.processed_file = None
     st.session_state.data_loaded = False
-    if PIPELINE_OUTPUT.exists():
-        PIPELINE_OUTPUT.unlink()
-    if SEGMENTED_OUTPUT.exists():
-        SEGMENTED_OUTPUT.unlink()
+    # Clean up old outputs (with error handling)
+    try:
+        if PIPELINE_OUTPUT.exists():
+            PIPELINE_OUTPUT.unlink()
+    except PermissionError:
+        pass  # File in use, skip cleanup
+    try:
+        if SEGMENTED_OUTPUT.exists():
+            SEGMENTED_OUTPUT.unlink()
+    except PermissionError:
+        pass  # File in use, skip cleanup
 
 with col2:
     if audio_file:
@@ -494,6 +697,12 @@ else:
     st.warning("⚠️ No transcript available.")
 
 st.markdown("---")
+st.markdown('<div class="step-header"><h2> 📊 Interactive Timeline</h2></div>', unsafe_allow_html=True)
+
+# Display interactive timeline
+render_timeline(segmented_data)
+
+st.markdown("---")
 st.markdown('<div class="step-header"><h2> Topic Segmentation</h2></div>', unsafe_allow_html=True)
 
 col1, col2 = st.columns([2, 1])
@@ -549,6 +758,14 @@ for idx, topic in enumerate(topics):
         st.markdown("### 📝 Summary")
         summary_text = topic.get('summary', 'No summary available')
         st.markdown(f'<div style="background: #f8f9fa; padding: 1rem; border-radius: 8px; border-left: 3px solid #667eea; margin-bottom: 1.5rem; color: #1a1a1a; font-size: 1rem; text-align: justify;">{summary_text}</div>', unsafe_allow_html=True)
+        
+        # Add sentiment analysis display
+        if "sentiment" in topic:
+            sentiment = topic["sentiment"]
+            score = topic.get("sentiment_score", 0)
+            color_class = get_sentiment_color(sentiment)
+            st.markdown("### 😊 Sentiment Analysis")
+            st.markdown(f'<div class="{color_class}" style="padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem; text-align: center; font-weight: 600;">{sentiment} (Score: {score})</div>', unsafe_allow_html=True)
         
         keywords = topic.get("keywords", [])
         if keywords:

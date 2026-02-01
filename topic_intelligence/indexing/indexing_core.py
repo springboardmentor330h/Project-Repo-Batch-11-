@@ -1,6 +1,7 @@
 import json
 import sys
 from pathlib import Path
+from collections import defaultdict
 
 
 def build_index(input_path: str) -> dict:
@@ -12,24 +13,37 @@ def build_index(input_path: str) -> dict:
     with open(input_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    if "topics" in data:
-        return data
+    if "topics" not in data:
+        raise ValueError("Input JSON must contain 'topics'")
 
-    if "segments" not in data:
-        raise ValueError("Input JSON must contain 'segments' or 'topics'")
-
-    topics = [
-        {
-            "topic_id": 0,
-            "title": "Main Topic",
-            "segments": data["segments"]
-        }
-    ]
+    # Build search index
+    search_index = defaultdict(list)
+    
+    for topic in data["topics"]:
+        # Index by keywords
+        for keyword in topic.get("keywords", []):
+            search_index[keyword.lower()].append(topic["topic_id"])
+        
+        # Index by summary content
+        summary_words = topic.get("summary", "").lower().split()
+        for word in summary_words:
+            if len(word) > 3:  # Filter short words
+                search_index[word].append(topic["topic_id"])
+        
+        # Index by full text
+        text_words = topic.get("text", "").lower().split()
+        for word in text_words:
+            if len(word) > 3:
+                search_index[word].append(topic["topic_id"])
 
     indexed = {
         "audio_file": data.get("audio_file"),
-        "language_detected": data.get("language_detected"),
-        "topics": topics
+        "topics": data["topics"],
+        "search_index": dict(search_index),
+        "metadata": {
+            "total_topics": len(data["topics"]),
+            "indexed_at": __import__("datetime").datetime.now().isoformat()
+        }
     }
 
     return indexed

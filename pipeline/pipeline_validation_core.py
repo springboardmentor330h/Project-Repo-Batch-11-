@@ -5,21 +5,26 @@ from pathlib import Path
 
 REQUIRED_TOP_LEVEL_KEYS = {
     "audio_file": str,
-    "language_detected": str,
     "topics": list
 }
 
 REQUIRED_TOPIC_KEYS = {
     "topic_id": int,
-    "segments": list
-}
-
-REQUIRED_SEGMENT_KEYS = {
     "start": (int, float),
     "end": (int, float),
+    "summary": str,
+    "keywords": list,
+    "text": str,
+    "sentences": list
+}
+
+REQUIRED_SENTENCE_KEYS = {
     "text": str,
     "translation": str,
-    "romanized": str
+    "romanized": str,
+    "language": str,
+    "start": (int, float),
+    "end": (int, float)
 }
 
 
@@ -37,12 +42,12 @@ def validate_schema(data: dict) -> None:
             if not isinstance(topic[key], expected_type):
                 raise TypeError(f"Topic key '{key}' must be {expected_type}")
 
-        for seg in topic["segments"]:
-            for key, expected_type in REQUIRED_SEGMENT_KEYS.items():
-                if key not in seg:
-                    raise ValueError(f"Segment missing key: {key}")
-                if not isinstance(seg[key], expected_type):
-                    raise TypeError(f"Segment key '{key}' must be {expected_type}")
+        for sent in topic["sentences"]:
+            for key, expected_type in REQUIRED_SENTENCE_KEYS.items():
+                if key not in sent:
+                    raise ValueError(f"Sentence missing key: {key}")
+                if not isinstance(sent[key], expected_type):
+                    raise TypeError(f"Sentence key '{key}' must be {expected_type}")
 
 
 def validate_file(input_path: str) -> None:

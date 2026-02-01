@@ -4,7 +4,8 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent.resolve()
 
-PYTHON = PROJECT_ROOT / "venv" / "Scripts" / "python.exe"
+import sys
+PYTHON = sys.executable
 
 PIPELINE_OUTPUT = PROJECT_ROOT / "pipeline_output.json"
 SEGMENTED_OUTPUT = PROJECT_ROOT / "segmented_output.json"
@@ -44,7 +45,7 @@ if __name__ == "__main__":
 
     run_step(
         "indexing_core",
-        [str(PYTHON), "indexing_core.py", str(SEGMENTED_OUTPUT)]
+        [str(PYTHON), "-m", "topic_intelligence.indexing.indexing_core", str(SEGMENTED_OUTPUT)]
     )
 
     run_step(

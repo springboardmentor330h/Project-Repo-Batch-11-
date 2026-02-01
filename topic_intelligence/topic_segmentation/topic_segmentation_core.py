@@ -12,6 +12,7 @@ from .concept_anchors import has_concept_anchor
 from .definition_filter import is_definition
 from .keywords import extract_keywords
 from .summaries import generate_summary
+from textblob import TextBlob
 
 
 EMBED_MODEL = "all-MiniLM-L6-v2"
@@ -88,6 +89,16 @@ def build_topic(topic_id, ids, sentences, timestamps, original_segments):
     summary = generate_summary(cleaned)
     keywords = extract_keywords(cleaned, summary_text=summary)
     
+    # Add sentiment analysis
+    blob = TextBlob(cleaned)
+    sentiment_score = blob.sentiment.polarity
+    if sentiment_score > 0.1:
+        sentiment = "POSITIVE"
+    elif sentiment_score < -0.1:
+        sentiment = "NEGATIVE"
+    else:
+        sentiment = "NEUTRAL"
+    
     topic_sentences = [sentences[i] for i in ids]
     topic_timestamps = [timestamps[i] for i in ids]
     sentences_data = map_sentences_to_segments(topic_sentences, topic_timestamps, original_segments)
@@ -99,7 +110,9 @@ def build_topic(topic_id, ids, sentences, timestamps, original_segments):
         "summary": summary,
         "keywords": keywords,
         "text": " ".join(fallback_sents),
-        "sentences": sentences_data
+        "sentences": sentences_data,
+        "sentiment": sentiment,
+        "sentiment_score": round(sentiment_score, 2)
     }
 
 
