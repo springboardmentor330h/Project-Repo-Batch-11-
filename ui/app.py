@@ -2,9 +2,11 @@ import streamlit as st
 import sys
 import json
 import subprocess
+import io
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from pathlib import Path
+from wordcloud import WordCloud
 
 # Set up project paths
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -28,6 +30,63 @@ from textblob import TextBlob
 PIPELINE_OUTPUT = PROJECT_ROOT / "outputs" / "pipeline_output.json"
 SEGMENTED_OUTPUT = PROJECT_ROOT / "outputs" / "segmented_output.json"
 CONFIG_FILE = PROJECT_ROOT / "config.json"
+
+
+def generate_wordcloud(keywords, topic_id=None):
+    """
+    Generate a word cloud image from existing keywords for a specific topic.
+    Uses keyword position to determine weight (earlier keywords = higher weight).
+    
+    Args:
+        keywords: List of keyword strings from topic data
+        topic_id: Topic number for labeling the word cloud
+    
+    Returns:
+        BytesIO image buffer or None if no keywords
+    """
+    if not keywords or len(keywords) == 0:
+        return None
+    
+    # Create frequency dict based on keyword position
+    # First keyword gets highest weight, decreasing for subsequent keywords
+    word_freq = {}
+    for i, keyword in enumerate(keywords):
+        # Weight: first keyword = len(keywords), last = 1
+        weight = len(keywords) - i
+        word_freq[keyword] = weight
+    
+    try:
+        # Generate word cloud with dark text for visibility
+        wc = WordCloud(
+            width=600,
+            height=250,
+            background_color='white',
+            colormap='viridis',
+            max_words=50,
+            min_font_size=10,
+            max_font_size=70,
+            prefer_horizontal=0.9
+        ).generate_from_frequencies(word_freq)
+        
+        # Create figure with title for topic label
+        fig, ax = plt.subplots(figsize=(8, 4))
+        ax.imshow(wc, interpolation='bilinear')
+        ax.axis('off')
+        
+        # Add topic label as title
+        if topic_id is not None:
+            ax.set_title(f"Topic {topic_id} - Keyword Word Cloud", fontsize=14, fontweight='bold', pad=10, color='#333333')
+        
+        plt.tight_layout()
+        
+        # Convert to image bytes
+        img_buffer = io.BytesIO()
+        fig.savefig(img_buffer, format='PNG', dpi=100, bbox_inches='tight', facecolor='white')
+        plt.close(fig)
+        img_buffer.seek(0)
+        return img_buffer
+    except Exception:
+        return None
 
 # Load configuration
 def load_config():
@@ -247,6 +306,32 @@ st.markdown("""
         margin: 0.3rem;
         font-size: 0.9rem;
         font-weight: 600;
+    }
+    
+    /* === EXPANDER STYLING (Fix Text Overlap) === */
+    /* Ensure expander headers render as block-level elements */
+    [data-testid="stExpander"] {
+        margin-bottom: 1rem;
+    }
+    
+    [data-testid="stExpander"] summary {
+        display: flex !important;
+        align-items: center !important;
+        padding: 0.75rem 1rem !important;
+        font-weight: 500 !important;
+        line-height: 1.5 !important;
+        white-space: normal !important;
+        word-wrap: break-word !important;
+    }
+    
+    [data-testid="stExpander"] summary span {
+        display: inline-block !important;
+        position: relative !important;
+    }
+    
+    /* Topic container spacing */
+    [data-testid="stExpander"] > div {
+        padding: 1rem !important;
     }
     
     /* Make file uploader background white */
@@ -547,7 +632,7 @@ def render_timeline(data):
         with col:
             is_selected = (st.session_state.selected_topic == i)
             btn_type = "primary" if is_selected else "secondary"
-            if st.button(f"Topic {topic_display_id}", key=f"topic-select-btn-{i}", type=btn_type, use_container_width=True):
+            if st.button(f"Topic {topic_display_id}", key=f"topic-select-btn-{i}", type=btn_type, width='stretch'):
                 st.session_state.selected_topic = i
                 st.rerun()
     
@@ -824,8 +909,11 @@ for idx, topic in enumerate(topics):
     # Create unique key for this topic container based on sorted index
     topic_key = f"topic_container_{idx}"
     
-    # Expander header shows topic number and preview
-    expander_title = f"**Topic {topic_display_id}** ({format_duration(topic_start)} - {format_duration(topic_end)}) — {topic_summary[:60]}..."
+    # Expander header - plain text format to prevent overlap
+    # Format: Topic X | MM:SS - MM:SS | Summary preview
+    time_range = f"{format_duration(topic_start)} - {format_duration(topic_end)}"
+    summary_preview = topic_summary[:50] + "..." if len(topic_summary) > 50 else topic_summary
+    expander_title = f"Topic {topic_display_id}  |  {time_range}  |  {summary_preview}"
     
     with st.expander(expander_title, expanded=(idx == 0)):
         # === TOPIC CONTAINER START ===
@@ -876,6 +964,14 @@ for idx, topic in enumerate(topics):
             st.markdown("### Keywords")
             keyword_html = "".join([f'<span class="keyword-tag">{kw}</span>' for kw in keywords])
             st.markdown(f'<div style="margin-bottom: 1.5rem;">{keyword_html}</div>', unsafe_allow_html=True)
+            
+            # 4.1 WORD CLOUD (uses existing keywords only - separate for each topic)
+            st.markdown(f"### Topic {topic_display_id} - Word Cloud")
+            wordcloud_img = generate_wordcloud(keywords, topic_id=topic_display_id)
+            if wordcloud_img:
+                st.image(wordcloud_img, width='stretch')
+            else:
+                st.info("Unable to generate word cloud for this topic.")
         
         # 5. TRANSCRIPT
         st.markdown("### Transcript")

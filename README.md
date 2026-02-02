@@ -48,6 +48,12 @@ Podcast AI is a powerful tool designed to transform raw audio content into struc
 -   **Clean Typography**: Consistent font families and professional presentation.
 -   **Responsive Layout**: Works well on various screen sizes.
 
+### 10. **Keyword Word Clouds**
+-   **Visual Keyword Representation**: Each topic segment displays a word cloud of its keywords.
+-   **Importance-Based Sizing**: Keywords are sized based on their TF-IDF importance.
+-   **Topic-Labeled**: Each word cloud is clearly labeled with its topic number.
+-   Powered by **`wordcloud`** library for visualization.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -60,6 +66,7 @@ Podcast AI is a powerful tool designed to transform raw audio content into struc
     -   Translation: `deep-translator`
     -   Romanization: `indic-transliteration`
     -   Sentiment: `textblob`
+    -   Word Clouds: `wordcloud`
 -   **Backend Logic**: Python
 
 ---
