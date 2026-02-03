@@ -151,7 +151,8 @@ The following components have been completed:
 - Naming standardization
 - Manifest generation
 - Reproducible pipeline setup
-- Topic Segmentation, Keywords, and Summaries
+- **Week 3:** Topic Segmentation, Keywords, and Summaries
+- **Week 4:** User Interface and Transcript Navigation
 
 ## Week 3: Topic Segmentation and Analysis
 
@@ -245,6 +246,7 @@ The folder contains:
 - `output_json_baseline/` - Baseline algorithm segments 
 - `output_json_embedding/` - Embedding algorithm segments 
 - `output_kws_summaries/json_updated/` - Segments with keywords and summaries 
+- `output_kws_summaries/json_with_sentiment/` - Segments with keywords and summaries and sentiment (positive, negative or neutral)
 
 **Local outputs (in repository):**
 - `segments_all_baseline.csv` - Combined baseline segments
@@ -303,7 +305,6 @@ python compare_algorithms.py
 ```bash
 python keywords_and_summaries.py --input_json_dir output_json_embedding --local_model_dir models/t5-small --top_k 10
 ```
-
 
 ---
 
@@ -388,6 +389,97 @@ The application will open in your default browser at `http://localhost:8501`
 - `st.text_area()` - Transcript display with scrolling
 - `st.metric()` - Metadata visualization
 
+## Week 5: Visualization and Detail Enhancements
+
+### Overview
+
+Week 5 focuses on improving the visualization, presentation, and usability of the outputs generated in Weeks 3 and 4.  
+No new machine learning models are trained in this phase. Instead, existing results such as topic segments, summaries, keywords, and sentiment scores are transformed into interactive and visual components.
+
+The objective is to make long-form podcast transcripts easier to explore, interpret, and navigate for human users.
+
+---
+
+### Features Implemented
+
+**File:** `app.py` (Streamlit application)
+
+---
+
+### 1. Visual Topic Timeline
+
+A visual timeline is introduced to represent the full podcast episode as a single continuous horizontal bar.
+
+- Each block represents one topic segment
+- Block width is proportional to the segment length (measured using word count)
+- Blocks are arranged sequentially to reflect podcast progression
+- Color encoding represents sentiment:
+  - Green → Positive
+  - Orange → Neutral
+  - Red → Negative
+
+This timeline provides a high-level structural overview of the podcast and enables quick understanding of topic flow.
+
+---
+
+### 2. Sentiment Visualization
+
+Each topic segment includes sentiment information computed earlier in the pipeline.
+
+- Sentiment label: Positive / Neutral / Negative
+- Sentiment score: Numerical polarity value
+
+Sentiment is displayed:
+- Visually in the timeline using color
+- Textually in the segment detail view
+
+---
+
+### 3. Keyword Display and Keyword Cloud
+
+For every selected segment:
+
+- Extracted keywords are displayed as a list
+- A keyword cloud is generated using the `WordCloud` library
+- Word size reflects keyword importance (uniform weighting used for visualization)
+
+This allows users to quickly grasp the dominant themes within each segment.
+
+---
+
+### 4. Polished Segment Summaries
+
+Summaries generated in Week 3 are refined for readability without regenerating them.
+
+Improvements include:
+- Corrected capitalization and grammar
+- Removal of filler words
+- Improved sentence flow
+- Ensuring summaries remain concise (2–3 sentences)
+
+This enhances presentation quality while preserving original semantic meaning.
+
+---
+
+### 5. Improved Formatting and Layout
+
+The interface is reorganized to make information more scannable and user-friendly.
+
+Each segment’s information is clearly separated using headings:
+- Summary
+- Keywords
+- Keyword Cloud
+- Sentiment
+- Transcript Text
+
+Additional improvements include:
+- Consistent spacing between sections
+- Clear visual separation
+- Scrollable transcript display for long segments
+
+The focus is on clarity, usability, and functional design.
+
+---
 
 ## Notes
 
