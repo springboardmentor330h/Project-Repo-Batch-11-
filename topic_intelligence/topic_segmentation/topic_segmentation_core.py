@@ -12,18 +12,31 @@ from .concept_anchors import has_concept_anchor
 from .definition_filter import is_definition
 from .keywords import extract_keywords
 from .summaries import generate_summary
+from .topic_title_generator import generate_topic_title
 from textblob import TextBlob
 
+# Import animation module
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+from topic_intelligence.animation.animation_state import generate_animation_states
+
+
+# =========================
+# CONFIG
+# =========================
 
 EMBED_MODEL = "all-MiniLM-L6-v2"
 SIM_THRESHOLD = 0.82
 MIN_DEF_SENTENCES = 2
 MAX_SENTENCES_PER_TOPIC = 10
+PROJECT_TITLE = "AudioMind: Automated Podcast Transcription & Insights"
 
 embedder = SentenceTransformer(EMBED_MODEL)
 
 
 def split_sentences(text: str):
+    """Split text into sentences with minimum length."""
     return [
         s.strip()
         for s in re.split(r'(?<=[.!?])\s+', text)
@@ -32,6 +45,15 @@ def split_sentences(text: str):
 
 
 def segment_topics(segments):
+    """
+    Segment transcript into topic groups based on semantic similarity.
+    
+    Args:
+        segments: List of transcript segments from Whisper
+        
+    Returns:
+        Tuple of (topic_groups, sentences, timestamps)
+    """
     merged = merge_short_segments(segments)
 
     sentences = []
@@ -41,6 +63,9 @@ def segment_topics(segments):
         for sent in split_sentences(seg["translation"]):
             sentences.append(sent)
             timestamps.append((seg["start"], seg["end"]))
+
+    if not sentences:
+        return [], [], []
 
     cleaned = [clean_text(s) for s in sentences]
     embeddings = embedder.encode(cleaned)
@@ -74,8 +99,19 @@ def segment_topics(segments):
 
 
 def build_topic(topic_id, ids, sentences, timestamps, original_segments):
+    """
+    Build a complete topic object with title, summary, keywords, and sentiment.
     
+    Args:
+        topic_id: Unique topic identifier
+        ids: List of sentence indices in this topic
+        sentences: All sentences list
+        timestamps: All timestamps list
+        original_segments: Original Whisper segments
         
+    Returns:
+        Dictionary with topic data including topic_title
+    """
     definition_sents = [sentences[i] for i in ids if is_definition(sentences[i])]
     fallback_sents = [sentences[i] for i in ids]
 
@@ -88,6 +124,9 @@ def build_topic(topic_id, ids, sentences, timestamps, original_segments):
     cleaned = clean_text(base_text)
     summary = generate_summary(cleaned)
     keywords = extract_keywords(cleaned, summary_text=summary)
+    
+    # Generate context-aware topic title (max 8-10 words)
+    topic_title = generate_topic_title(cleaned, keywords)
     
     # Add sentiment analysis
     blob = TextBlob(cleaned)
@@ -105,8 +144,10 @@ def build_topic(topic_id, ids, sentences, timestamps, original_segments):
 
     return {
         "topic_id": topic_id,
+        "segment_id": f"seg_{topic_id + 1:03d}",
         "start": timestamps[ids[0]][0],
         "end": timestamps[ids[-1]][1],
+        "topic_title": topic_title,
         "summary": summary,
         "keywords": keywords,
         "text": " ".join(fallback_sents),
@@ -116,8 +157,41 @@ def build_topic(topic_id, ids, sentences, timestamps, original_segments):
     }
 
 
-def main(input_path):
+def validate_topics(topics):
+    """
+    Validate topic output for completeness and non-overlap.
     
+    Args:
+        topics: List of topic dictionaries
+        
+    Returns:
+        Tuple of (is_valid, errors)
+    """
+    errors = []
+    
+    # Check each segment has exactly one topic title
+    for topic in topics:
+        if not topic.get("topic_title"):
+            errors.append(f"Topic {topic.get('topic_id')} missing topic_title")
+    
+    # Check for overlapping segments
+    sorted_topics = sorted(topics, key=lambda t: t.get("start", 0))
+    for i in range(1, len(sorted_topics)):
+        prev = sorted_topics[i-1]
+        curr = sorted_topics[i]
+        if prev.get("end", 0) > curr.get("start", 0):
+            errors.append(f"Overlapping: {prev.get('segment_id')} and {curr.get('segment_id')}")
+    
+    return len(errors) == 0, errors
+
+
+def main(input_path):
+    """
+    Main entry point for topic segmentation.
+    
+    Args:
+        input_path: Path to pipeline_output.json
+    """
     input_path = Path(input_path)
     
     with open(input_path, "r", encoding="utf-8") as f:
@@ -130,18 +204,45 @@ def main(input_path):
         for i, ids in enumerate(topic_ids)
         if len(ids) >= 3
     ]
+    
+    # Validate topics
+    is_valid, errors = validate_topics(topics)
+    if not is_valid:
+        print(f"[WARNING] Validation issues: {errors}")
+    
+    # Generate animation states for 3D visualization
+    animation_states = generate_animation_states(topics)
 
     output_path = input_path.parent / "segmented_output.json"
     
+    # Format output according to AudioMind schema
+    output_data = {
+        "Project_Title": PROJECT_TITLE,
+        "audio_file": data["audio_file"],
+        "topics": topics,
+        "Transcription_Output": [
+            {
+                "Segment_ID": t["segment_id"],
+                "Start_Time": t["start"],
+                "End_Time": t["end"],
+                "Topic_Title": t["topic_title"],
+                "Transcript_Text": t["text"]
+            }
+            for t in topics
+        ],
+        "3D_Animation_Output": animation_states
+    }
+    
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(
-            {"audio_file": data["audio_file"], "topics": topics},
+            output_data,
             f,
             indent=2,
             ensure_ascii=False
         )
 
-    print(f"[SUCCESS] Topic segmentation completed: {output_path}")
+    print(f"[SUCCESS] AudioMind topic segmentation completed: {output_path}")
+    print(f"[INFO] Generated {len(topics)} topics with titles and animation states")
 
 
 if __name__ == "__main__":

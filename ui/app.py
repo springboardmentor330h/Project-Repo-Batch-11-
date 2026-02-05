@@ -109,8 +109,8 @@ def load_config():
 CONFIG = load_config()
 
 st.set_page_config(
-    page_title="Podcast AI",
-    page_icon="audio_spectrum",
+    page_title="AudioMind",
+    page_icon="🎧",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
@@ -505,16 +505,16 @@ LANGUAGES = {
     "Russian": "ru",
 }
 
-st.markdown('<div class="main-header">Podcast AI</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header">🎧 AudioMind</div>', unsafe_allow_html=True)
 st.markdown(
-    '<div class="sub-header">Intelligent Audio Analysis | Topic Segmentation | Multi-Language Support</div>',
+    '<div class="sub-header">Automated Podcast Transcription & Insights | 3D Visualization | Multi-Language Support</div>',
     unsafe_allow_html=True
 )
 
 st.markdown("""
 <div style="background: #f8f9fa; padding: 1.25rem; border-radius: 12px; margin-bottom: 2rem; border: 1px solid #dee2e6;">
     <p style="margin: 0; color: #1a1a1a; font-size: 1rem; text-align: center; font-weight: 500;">
-        Transform your audio content with AI-powered transcription, intelligent topic segmentation, and seamless translation.
+        Transform your audio content with AI-powered transcription, context-aware topic titles, and interactive 3D visualization.
     </p>
 </div>
 """, unsafe_allow_html=True)
@@ -881,6 +881,59 @@ st.markdown('<div class="step-header"><h2>Interactive Timeline</h2></div>', unsa
 # Display interactive timeline
 render_timeline(segmented_data)
 
+# === 3D VISUALIZATION SECTION ===
+st.markdown("---")
+st.markdown('<div class="step-header"><h2>🎬 3D Topic Visualization</h2></div>', unsafe_allow_html=True)
+
+st.markdown("""
+<div style="background: #e3f2fd; padding: 1.25rem; border-radius: 10px; margin-bottom: 1.5rem; border-left: 4px solid #2196F3;">
+    <p style="margin: 0; color: #1565c0; font-size: 1.05rem; font-weight: 600;">Interactive 3D View: Explore topic flow with animated nodes and connections.</p>
+</div>
+""", unsafe_allow_html=True)
+
+# Initialize 3D toggle state
+if '3d_enabled' not in st.session_state:
+    st.session_state['3d_enabled'] = False
+
+col_3d_1, col_3d_2 = st.columns([1, 4])
+with col_3d_1:
+    if st.button("🔮 Toggle 3D View", type="primary"):
+        st.session_state['3d_enabled'] = not st.session_state['3d_enabled']
+        st.rerun()
+
+with col_3d_2:
+    status = "ON ✅" if st.session_state['3d_enabled'] else "OFF ⭕"
+    st.markdown(f"<p style='color:#333333; padding-top: 0.5rem;'>3D Visualization: <strong>{status}</strong></p>", unsafe_allow_html=True)
+
+if st.session_state['3d_enabled']:
+    # Load animation data from segmented output
+    animation_data = segmented_data.get("3D_Animation_Output", [])
+    
+    if animation_data:
+        import streamlit.components.v1 as components
+        import json
+        
+        # Read and inject the 3D visualization HTML
+        viz_html_path = UI_DIR / "visualization" / "3d_visualization.html"
+        try:
+            with open(viz_html_path, 'r', encoding='utf-8') as f:
+                html_content = f.read()
+            
+            # Inject animation data
+            data_script = f"<script>window.animationData = {json.dumps(animation_data)};</script>"
+            html_content = html_content.replace('</head>', f'{data_script}</head>')
+            
+            components.html(html_content, height=500, scrolling=False)
+            
+            # Show animation summary
+            total_duration = sum(d.get('Visual_Metadata', {}).get('duration', 0) for d in animation_data)
+            st.markdown(f"<p style='color:#333333; text-align: center;'>📊 {len(animation_data)} topic nodes | ⏱️ Total duration: {total_duration:.0f}s</p>", unsafe_allow_html=True)
+        except FileNotFoundError:
+            st.warning("3D visualization file not found. Please ensure the installation is complete.")
+    else:
+        st.info("No animation data available. Re-process audio to generate 3D visualization.")
+
+
 st.markdown("---")
 st.markdown('<div class="step-header"><h2> Topic Segmentation</h2></div>', unsafe_allow_html=True)
 
@@ -904,16 +957,16 @@ for idx, topic in enumerate(topics):
     topic_start = topic.get("start", 0)
     topic_end = topic.get("end", 0)
     topic_duration = topic_end - topic_start
+    # Get topic title (new AudioMind feature)
+    topic_title = topic.get('topic_title', f'Topic {topic_display_id}')
     topic_summary = topic.get('summary', 'No summary available')
     
     # Create unique key for this topic container based on sorted index
     topic_key = f"topic_container_{idx}"
     
-    # Expander header - plain text format to prevent overlap
-    # Format: Topic X | MM:SS - MM:SS | Summary preview
+    # Expander header with topic title
     time_range = f"{format_duration(topic_start)} - {format_duration(topic_end)}"
-    summary_preview = topic_summary[:50] + "..." if len(topic_summary) > 50 else topic_summary
-    expander_title = f"Topic {topic_display_id}  |  {time_range}  |  {summary_preview}"
+    expander_title = f"{topic_title}  |  {time_range}"
     
     with st.expander(expander_title, expanded=(idx == 0)):
         # === TOPIC CONTAINER START ===
@@ -1066,7 +1119,7 @@ if st.button("Romanize Translations", type="primary"):
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; padding: 2rem; color: #666666;">
-    <p>Podcast AI</p>
-    <p style="font-size: 0.875rem;">Powered by Whisper | Transformers | Streamlit</p>
+    <p><strong>🎧 AudioMind</strong>: Automated Podcast Transcription & Insights</p>
+    <p style="font-size: 0.875rem;">Powered by Whisper | Transformers | Three.js | Streamlit</p>
 </div>
 """, unsafe_allow_html=True)

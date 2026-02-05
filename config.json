@@ -1,4 +1,8 @@
 {
+  "project": {
+    "title": "AudioMind: Automated Podcast Transcription & Insights",
+    "version": "2.0.0"
+  },
   "security": {
     "data_retention_days": 7,
     "max_file_size_mb": 100,
@@ -9,11 +13,23 @@
   "ui": {
     "max_topics_display": 50,
     "default_timeline_view": true,
+    "enable_3d_visualization": true,
     "sentiment_color_mapping": {
       "POSITIVE": "#4CAF50",
       "NEUTRAL": "#FF9800", 
       "NEGATIVE": "#F44336"
     }
+  },
+  "topic_title": {
+    "max_words": 10,
+    "min_words": 3,
+    "use_llm": true
+  },
+  "animation": {
+    "enabled": true,
+    "transition_duration_ms": 500,
+    "node_colors": ["#2196F3", "#4CAF50", "#FF9800", "#9C27B0", "#00BCD4", "#E91E63", "#3F51B5", "#009688"],
+    "default_node_size": 1.0
   },
   "processing": {
     "timeout_seconds": 600,

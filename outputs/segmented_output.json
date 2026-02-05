@@ -1,80 +1,262 @@
 {
-  "audio_file": "Allusionist+HSBC+PRE+2019-07-12.mp3",
+  "Project_Title": "AudioMind: Automated Podcast Transcription & Insights",
+  "audio_file": "McDonalds_LNG_061019.wav",
   "topics": [
     {
       "topic_id": 0,
+      "segment_id": "seg_001",
       "start": 0.0,
-      "end": 44.2,
-      "summary": "This topic is about the illusionist is supported by hsbc. banking with hsbc has many advantages zero dollar global wire transfer fees, no interact e transfer fees and access to over 3,380m all over...",
+      "end": 41.44,
+      "topic_title": "Mcdonald'S Happy Melee",
+      "summary": "This topic is about hey canadians, this is for you guys and for mcdonald's. i can't tell you how many of the little toys we collected, christian.",
       "keywords": [
-        "transfer",
-        "all",
-        "fees",
-        "hsbc",
-        "much",
-        "offers"
+        "toys",
+        "mcdonald",
+        "christian",
+        "canadians",
+        "appreciate",
+        "appreciate fought"
       ],
-      "text": "The illusionist is supported by HSBC. Did you know you can get up to $700 when you start banking with HSBC? Plus, you could pay no monthly banking fees, but really you get much, much more. Banking with HSBC has many advantages like zero dollar global wire transfer fees, no interact E transfer fees and access to over 3,380M all over the country. And also I've noticed that HSBC offers 10 gender neutral titles, not just misdru and misses and miss, which is often all you'll give in the title options. Visit HSBC.ca slash offers today to get started. Terms and conditions apply, HSBC bank, together we thrive.",
+      "text": "Hey Canadians, this is for you guys and for McDonald's. And so I'm gonna read it in my most Canadian voice possible. It's impossible to be bummed out when you think about a McDonald's happy melee. I think everyone has an nostalgic attachment to them, including me and Christian. I can't tell you how many of the little toys we collected, right, Christian? And well Canadians are very sarcastic, so I appreciate that. And we fought over the toys even with our fists. You broke my nose on one occasion. Oh man, that was actually really bad.",
       "sentences": [
         {
-          "text": "The illusionist is supported by HSBC.",
-          "translation": "The illusionist is supported by HSBC.",
-          "romanized": "The illusionist is supported by HSBC.",
+          "text": "Hey Canadians, this is for you guys and for McDonald's.",
+          "translation": "Hey Canadians, this is for you guys and for McDonald's.",
+          "romanized": "Hey Canadians, this is for you guys and for McDonald's.",
           "language": "en",
           "start": 0.0,
-          "end": 14.08
+          "end": 9.0
         },
         {
-          "text": "Did you know you can get up to $700 when you start banking with HSBC?",
-          "translation": "Did you know you can get up to $700 when you start banking with HSBC?",
-          "romanized": "Did you know you can get up to $700 when you start banking with HSBC?",
+          "text": "And so I'm gonna read it in my most Canadian voice possible.",
+          "translation": "And so I'm gonna read it in my most Canadian voice possible.",
+          "romanized": "And so I'm gonna read it in my most Canadian voice possible.",
           "language": "en",
           "start": 0.0,
-          "end": 14.08
+          "end": 9.0
         },
         {
-          "text": "Plus, you could pay no monthly banking fees, but really you get much, much more.",
-          "translation": "Plus, you could pay no monthly banking fees, but really you get much, much more.",
-          "romanized": "Plus, you could pay no monthly banking fees, but really you get much, much more.",
+          "text": "It's impossible to be bummed out",
+          "translation": "It's impossible to be bummed out",
+          "romanized": "It's impossible to be bummed out",
           "language": "en",
           "start": 0.0,
-          "end": 14.08
+          "end": 9.0
         },
         {
-          "text": "Banking with HSBC has many advantages like zero dollar global wire transfer fees, no interact E transfer fees and access to over 3,380M all over the country.",
-          "translation": "Banking with HSBC has many advantages like zero dollar global wire transfer fees,",
-          "romanized": "Banking with HSBC has many advantages like zero dollar global wire transfer fees,",
+          "text": "when you think about a McDonald's happy melee.",
+          "translation": "when you think about a McDonald's happy melee.",
+          "romanized": "when you think about a McDonald's happy melee.",
           "language": "en",
-          "start": 14.08,
-          "end": 25.88
+          "start": 9.0,
+          "end": 16.080000000000002
         },
         {
-          "text": "And also I've noticed that HSBC offers 10 gender neutral titles, not just misdru and misses and miss, which is often all you'll give in the title options.",
-          "translation": "not just misdru and misses and miss, which is often all you'll give in the title options.",
-          "romanized": "not just misdru and misses and miss, which is often all you'll give in the title options.",
+          "text": "I think everyone has an nostalgic attachment to them, including me and Christian.",
+          "translation": "I think everyone has an nostalgic attachment to them,",
+          "romanized": "I think everyone has an nostalgic attachment to them,",
           "language": "en",
-          "start": 25.88,
-          "end": 35.16
+          "start": 9.0,
+          "end": 16.080000000000002
         },
         {
-          "text": "Visit HSBC.ca slash offers today to get started.",
-          "translation": "Visit HSBC.ca slash offers today to get started.",
-          "romanized": "Visit HSBC.ca slash offers today to get started.",
+          "text": "I can't tell you how many of the little toys we collected, right, Christian?",
+          "translation": "I can't tell you how many of the little toys we collected,",
+          "romanized": "I can't tell you how many of the little toys we collected,",
           "language": "en",
-          "start": 35.16,
-          "end": 44.2
+          "start": 16.080000000000002,
+          "end": 23.92
         },
         {
-          "text": "Terms and conditions apply, HSBC bank, together we thrive.",
-          "translation": "Terms and conditions apply, HSBC bank, together we thrive.",
-          "romanized": "Terms and conditions apply, HSBC bank, together we thrive.",
+          "text": "And well Canadians are very sarcastic, so I appreciate that.",
+          "translation": "And well Canadians are very sarcastic,",
+          "romanized": "And well Canadians are very sarcastic,",
           "language": "en",
-          "start": 35.16,
-          "end": 44.2
+          "start": 23.92,
+          "end": 32.56
+        },
+        {
+          "text": "And we fought over the toys even with our fists.",
+          "translation": "And we fought over the toys even with our fists.",
+          "romanized": "And we fought over the toys even with our fists.",
+          "language": "en",
+          "start": 23.92,
+          "end": 32.56
+        },
+        {
+          "text": "You broke my nose on one occasion.",
+          "translation": "You broke my nose on one occasion.",
+          "romanized": "You broke my nose on one occasion.",
+          "language": "en",
+          "start": 32.56,
+          "end": 41.44
+        },
+        {
+          "text": "Oh man, that was actually really bad.",
+          "translation": "Oh man, that was actually really bad.",
+          "romanized": "Oh man, that was actually really bad.",
+          "language": "en",
+          "start": 32.56,
+          "end": 41.44
+        }
+      ],
+      "sentiment": "NEUTRAL",
+      "sentiment_score": -0.01
+    },
+    {
+      "topic_id": 1,
+      "segment_id": "seg_002",
+      "start": 32.56,
+      "end": 83.2,
+      "topic_title": "Mcdonald'S Grilled Chicken",
+      "summary": "This topic is about mcdonald's cares about families, especially in canada. i wonder if the chickens are canadian.",
+      "keywords": [
+        "chicken",
+        "canada",
+        "canadian",
+        "artificial",
+        "ingredients",
+        "preservatives"
+      ],
+      "text": "McDonald's cares about families, especially in Canada. So they care about the ingredients in their happy meals. The hamburgers are made with 100% beef from where else? From the plains of Canada, with no artificial preservatives, additives, or fillers. I wonder if the chickens are Canadian. And grilled chicken snack wraps. Canadian raised seasoned chicken. No artificial flavors, colors, or preservatives. Enjoy quality ingredients while spending quality time with your family, whether they're Canadian, or friends visiting from out of the country.",
+      "sentences": [
+        {
+          "text": "McDonald's cares about families, especially in Canada.",
+          "translation": "McDonald's cares about families, especially in Canada.",
+          "romanized": "McDonald's cares about families, especially in Canada.",
+          "language": "en",
+          "start": 32.56,
+          "end": 41.44
+        },
+        {
+          "text": "So they care about the ingredients in their happy meals.",
+          "translation": "So they care about the ingredients in their happy meals.",
+          "romanized": "So they care about the ingredients in their happy meals.",
+          "language": "en",
+          "start": 41.44,
+          "end": 49.64
+        },
+        {
+          "text": "The hamburgers are made with 100% beef from where else?",
+          "translation": "The hamburgers are made with 100% beef from where else?",
+          "romanized": "The hamburgers are made with 100% beef from where else?",
+          "language": "en",
+          "start": 41.44,
+          "end": 49.64
+        },
+        {
+          "text": "From the plains of Canada, with no artificial preservatives, additives, or fillers.",
+          "translation": "From the plains of Canada, with no artificial preservatives,",
+          "romanized": "From the plains of Canada, with no artificial preservatives,",
+          "language": "en",
+          "start": 49.64,
+          "end": 59.120000000000005
+        },
+        {
+          "text": "I wonder if the chickens are Canadian.",
+          "translation": "I wonder if the chickens are Canadian.",
+          "romanized": "I wonder if the chickens are Canadian.",
+          "language": "en",
+          "start": 49.64,
+          "end": 59.120000000000005
+        },
+        {
+          "text": "And grilled chicken snack wraps.",
+          "translation": "And grilled chicken snack wraps.",
+          "romanized": "And grilled chicken snack wraps.",
+          "language": "en",
+          "start": 59.120000000000005,
+          "end": 65.84
+        },
+        {
+          "text": "Canadian raised seasoned chicken.",
+          "translation": "Canadian raised seasoned chicken.",
+          "romanized": "Canadian raised seasoned chicken.",
+          "language": "en",
+          "start": 59.120000000000005,
+          "end": 65.84
+        },
+        {
+          "text": "No artificial flavors, colors, or preservatives.",
+          "translation": "No artificial flavors, colors, or preservatives.",
+          "romanized": "No artificial flavors, colors, or preservatives.",
+          "language": "en",
+          "start": 65.84,
+          "end": 73.84
+        },
+        {
+          "text": "Enjoy quality ingredients while spending quality time with your family, whether they're Canadian,",
+          "translation": "Enjoy quality ingredients while spending quality time",
+          "romanized": "Enjoy quality ingredients while spending quality time",
+          "language": "en",
+          "start": 65.84,
+          "end": 73.84
+        },
+        {
+          "text": "or friends visiting from out of the country.",
+          "translation": "or friends visiting from out of the country.",
+          "romanized": "or friends visiting from out of the country.",
+          "language": "en",
+          "start": 73.84,
+          "end": 83.2
         }
       ],
       "sentiment": "POSITIVE",
-      "sentiment_score": 0.23
+      "sentiment_score": 0.11
+    }
+  ],
+  "Transcription_Output": [
+    {
+      "Segment_ID": "seg_001",
+      "Start_Time": 0.0,
+      "End_Time": 41.44,
+      "Topic_Title": "Mcdonald'S Happy Melee",
+      "Transcript_Text": "Hey Canadians, this is for you guys and for McDonald's. And so I'm gonna read it in my most Canadian voice possible. It's impossible to be bummed out when you think about a McDonald's happy melee. I think everyone has an nostalgic attachment to them, including me and Christian. I can't tell you how many of the little toys we collected, right, Christian? And well Canadians are very sarcastic, so I appreciate that. And we fought over the toys even with our fists. You broke my nose on one occasion. Oh man, that was actually really bad."
+    },
+    {
+      "Segment_ID": "seg_002",
+      "Start_Time": 32.56,
+      "End_Time": 83.2,
+      "Topic_Title": "Mcdonald'S Grilled Chicken",
+      "Transcript_Text": "McDonald's cares about families, especially in Canada. So they care about the ingredients in their happy meals. The hamburgers are made with 100% beef from where else? From the plains of Canada, with no artificial preservatives, additives, or fillers. I wonder if the chickens are Canadian. And grilled chicken snack wraps. Canadian raised seasoned chicken. No artificial flavors, colors, or preservatives. Enjoy quality ingredients while spending quality time with your family, whether they're Canadian, or friends visiting from out of the country."
+    }
+  ],
+  "3D_Animation_Output": [
+    {
+      "Segment_ID": "seg_001",
+      "Animation_Type": "intro",
+      "Animation_State": "active",
+      "Sync_Timestamp": 0.0,
+      "Visual_Metadata": {
+        "node_color": "#2196F3",
+        "node_size": 2.0,
+        "position": {
+          "x": 3.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "connections": [],
+        "duration": 41.44
+      }
+    },
+    {
+      "Segment_ID": "seg_002",
+      "Animation_Type": "outro",
+      "Animation_State": "active",
+      "Sync_Timestamp": 32.56,
+      "Visual_Metadata": {
+        "node_color": "#4CAF50",
+        "node_size": 2.0,
+        "position": {
+          "x": -2.67,
+          "y": 0.5,
+          "z": 1.94
+        },
+        "connections": [
+          "seg_001"
+        ],
+        "duration": 50.64
+      }
     }
   ]
 }

@@ -1,18 +1,34 @@
+# AudioMind: Automated Podcast Transcription & Insights
+# Core Dependencies
+
+# UI Framework
 streamlit
+
+# Audio Processing
 openai-whisper
+ffmpeg-python
+
+# NLP & Machine Learning
 transformers
 sentence-transformers
+torch
+scikit-learn
+nltk
+textblob
+sentencepiece
+
+# Translation & Localization
 deep-translator
 indic-transliteration
 unidecode
-scikit-learn
-torch
+
+# Data Processing
 numpy
 pandas
-nltk
-watchdog
-sentencepiece
-ffmpeg-python
-textblob
+
+# Visualization
 matplotlib
 wordcloud
+
+# File System
+watchdog
