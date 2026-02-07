@@ -771,6 +771,35 @@ if audio_file:
     st.markdown("<br>", unsafe_allow_html=True)
     st.audio(str(audio_path), format="audio/mp3")
     
+    # Language selection for transcription
+    st.markdown("<br>", unsafe_allow_html=True)
+    source_languages = {
+        "auto": "🔍 Auto-Detect (Default)",
+        "en": "🇬🇧 English",
+        "te": "🇮🇳 Telugu (తెలుగు)",
+        "hi": "🇮🇳 Hindi (हिंदी)",
+        "ta": "🇮🇳 Tamil (தமிழ்)",
+        "ml": "🇮🇳 Malayalam (മലയാളം)",
+        "kn": "🇮🇳 Kannada (ಕನ್ನಡ)",
+        "bn": "🇮🇳 Bengali (বাংলা)",
+        "mr": "🇮🇳 Marathi (मराठी)",
+        "gu": "🇮🇳 Gujarati (ગુજરાતી)",
+        "pa": "🇮🇳 Punjabi (ਪੰਜਾਬੀ)",
+        "ur": "🇵🇰 Urdu (اردو)",
+        "ar": "🇸🇦 Arabic (العربية)",
+        "ru": "🇷🇺 Russian (Русский)",
+        "zh": "🇨🇳 Chinese (中文)",
+        "ja": "🇯🇵 Japanese (日本語)",
+        "ko": "🇰🇷 Korean (한국어)",
+    }
+    selected_source_lang = st.selectbox(
+        "🎤 Source Language (Select if auto-detect fails)",
+        options=list(source_languages.keys()),
+        format_func=lambda x: source_languages[x],
+        index=0,
+        help="Select the language spoken in the audio. Use this if auto-detect gives wrong results."
+    )
+    
     # Initialize processing state if needed
     if "processing" not in st.session_state:
         st.session_state.processing = False
@@ -784,11 +813,11 @@ if audio_file:
                 # Step 1: Run pipeline_core for transcription
                 st.info("Step 1/2: Transcribing audio...")
                 result = subprocess.run(
-                    [str(VENV_PYTHON), str(PROJECT_ROOT / "pipeline" / "pipeline_core.py"), str(audio_path)],
+                    [str(VENV_PYTHON), str(PROJECT_ROOT / "pipeline" / "pipeline_core.py"), str(audio_path), selected_source_lang],
                     cwd=str(PROJECT_ROOT),
                     capture_output=True,
-                    text=True,
-                    timeout=600
+                    text=True
+                    # No timeout - allow unlimited time for model download + processing
                 )
                 
                 if result.returncode != 0:
@@ -802,8 +831,8 @@ if audio_file:
                          str(PIPELINE_OUTPUT)],
                         cwd=str(PROJECT_ROOT),
                         capture_output=True,
-                        text=True,
-                        timeout=300
+                        text=True
+                        # No timeout for segmentation
                     )
                     
                     if result2.returncode != 0:

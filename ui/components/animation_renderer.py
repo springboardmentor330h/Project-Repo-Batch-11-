@@ -25,8 +25,8 @@ def render_3d_visualization(
         height: Height of the visualization iframe in pixels
         show_controls: Whether to show camera controls
     """
-    # Path to the HTML file
-    html_path = Path(__file__).parent / "visualization" / "3d_visualization.html"
+    # Path to the HTML file (visualization folder is at ui/visualization, not ui/components/visualization)
+    html_path = Path(__file__).parent.parent / "visualization" / "3d_visualization.html"
     
     try:
         with open(html_path, 'r', encoding='utf-8') as f:

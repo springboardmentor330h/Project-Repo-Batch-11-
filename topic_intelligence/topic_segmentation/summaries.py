@@ -112,13 +112,13 @@ def generate_abstractive_summary(text: str) -> str:
         if not key_points or len(key_points) < 50:
             return create_simple_summary(text)
         
-        # Use specific prompt for summarization
-        prompt = f"Summarize the following text in one concise sentence that captures the main topic and key points:\n\n{key_points}"
+        # Improved prompt for better summarization
+        prompt = f"Summarize this in one sentence: {key_points}"
         
         result = _llm(
             prompt,
-            max_new_tokens=100,
-            min_length=20,
+            max_new_tokens=80,
+            min_length=15,
             do_sample=False,
             num_beams=4
         )
@@ -131,10 +131,9 @@ def generate_abstractive_summary(text: str) -> str:
         # Clean up the summary
         summary = summary.strip('.,!? ')
         
-        # Format as "This topic is about..."
-        if summary and not summary.lower().startswith('this topic'):
-            summary = summary[0].lower() + summary[1:] if len(summary) > 1 else summary.lower()
-            summary = f"This topic is about {summary}"
+        # Make first letter uppercase if needed
+        if summary and len(summary) > 1:
+            summary = summary[0].upper() + summary[1:]
         
         # Ensure proper ending
         if summary and not summary.endswith('.'):
@@ -153,7 +152,7 @@ def generate_abstractive_summary(text: str) -> str:
 
 def create_simple_summary(text: str) -> str:
     """
-    Create a simple but meaningful summary by identifying key themes.
+    Create a meaningful summary by analyzing the content themes.
     """
     text = clean_text_for_summary(text)
     
@@ -162,47 +161,44 @@ def create_simple_summary(text: str) -> str:
     words = [w for w in words if w not in STOPWORDS]
     
     if not words:
-        return "This topic discusses key concepts from the audio."
+        return "This segment contains audio content."
     
-    # Count word frequencies
+    # Count word frequencies to find themes
     word_freq = Counter(words)
     top_words = [word for word, _ in word_freq.most_common(5)]
     
-    # Try to identify the main subject
-    sentences = re.split(r'(?<=[.!?])\s+', text)
-    first_sent = sentences[0] if sentences else ""
+    # Detect content type and create appropriate summary
+    text_lower = text.lower()
     
-    # Extract key noun phrases from first sentence
-    subject_words = []
-    for word in top_words[:3]:
-        if word in first_sent.lower():
-            subject_words.append(word)
+    # Check for song/music content patterns
+    music_indicators = ['love', 'heart', 'feel', 'baby', 'night', 'dream', 'want', 'need', 
+                        'wanna', 'gonna', 'slave', 'master', 'yours', 'mine', 'forever']
+    is_music = sum(1 for w in music_indicators if w in text_lower) >= 2
     
-    if not subject_words:
-        subject_words = top_words[:3]
+    if is_music:
+        # Create a music-style summary
+        themes = []
+        if any(w in text_lower for w in ['love', 'heart', 'yours', 'mine']):
+            themes.append('love and devotion')
+        if any(w in text_lower for w in ['want', 'wanna', 'need', 'desire']):
+            themes.append('desire and longing')
+        if any(w in text_lower for w in ['slave', 'master', 'control']):
+            themes.append('passion and intensity')
+        if any(w in text_lower for w in ['night', 'dream', 'feel']):
+            themes.append('emotions and feelings')
+        
+        if themes:
+            return f"This segment contains song lyrics expressing {' and '.join(themes[:2])}."
+        return "This segment contains song lyrics with emotional themes."
     
-    # Build summary based on content analysis
-    if 'virtual' in words and 'assistant' in words:
-        return "This topic is about virtual assistants, discussing the benefits of working remotely with flexible schedules and diverse opportunities."
-    
-    if 'podcast' in words:
-        themes = ", ".join(subject_words[:3])
-        return f"This topic is about a podcast episode covering {themes} and related concepts."
-    
-    if 'work' in words and ('remote' in words or 'home' in words):
-        return "This topic discusses remote work opportunities and the flexibility of working from home."
-    
-    if 'flexibility' in words:
-        return "This topic covers the flexibility and benefits of a particular work arrangement or lifestyle."
-    
-    # Generic but meaningful summary
-    if len(subject_words) >= 2:
-        themes = " and ".join(subject_words[:2])
-        return f"This topic discusses {themes} and their importance."
-    elif subject_words:
-        return f"This topic is about {subject_words[0]} and related concepts."
+    # For spoken content, summarize key themes
+    if len(top_words) >= 3:
+        themes = f"{top_words[0]}, {top_words[1]}, and {top_words[2]}"
+        return f"This segment discusses topics related to {themes}."
+    elif len(top_words) >= 1:
+        return f"This segment focuses on {top_words[0]} and related themes."
     else:
-        return "This topic covers important points from the discussion."
+        return "This segment contains spoken audio content."
 
 
 # =========================

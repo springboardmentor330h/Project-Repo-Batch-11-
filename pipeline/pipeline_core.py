@@ -13,7 +13,7 @@ from language_adaptation.translator import translate_auto
 from language_adaptation.romanizer import romanize_text
 
 
-WHISPER_MODEL = "base"
+WHISPER_MODEL = "small"  # Small model (244M params) - good balance of accuracy and speed
 USER_PREFERRED_LANGUAGE = "en"
 
 
@@ -50,7 +50,13 @@ def detect_language_from_script(text: str, fallback: str) -> str:
     return fallback
 
 
-def process_audio(audio_path: str) -> dict:
+def process_audio(audio_path: str, source_lang: str = "auto") -> dict:
+    """Process audio file and transcribe it.
+    
+    Args:
+        audio_path: Path to the audio file
+        source_lang: Language code ('auto' for auto-detect, or specific code like 'te', 'hi', etc.)
+    """
     audio_path = Path(audio_path)
 
     if not audio_path.exists():
@@ -58,8 +64,26 @@ def process_audio(audio_path: str) -> dict:
 
     model = whisper.load_model(WHISPER_MODEL)
 
+    # Determine transcription language
+    if source_lang and source_lang != "auto":
+        # Use user-specified language (for when auto-detect fails)
+        detected_lang = source_lang
+        print(f"Using user-specified language: {detected_lang}")
+    else:
+        # Auto-detect language from audio
+        audio = whisper.load_audio(str(audio_path))
+        audio_30s = whisper.pad_or_trim(audio)  # Use first 30 seconds for detection
+        mel = whisper.log_mel_spectrogram(audio_30s, n_mels=model.dims.n_mels).to(model.device)
+        
+        _, probs = model.detect_language(mel)
+        detected_lang = max(probs, key=probs.get)
+        print(f"Auto-detected language: {detected_lang} (confidence: {probs[detected_lang]:.2f})")
+
+    # Transcribe with determined language
     result = model.transcribe(
         str(audio_path),
+        language=detected_lang,  # Use determined language for accurate transcription
+        task="transcribe",  # Transcribe in native language, do NOT translate to English
         fp16=False,
         verbose=False
     )
@@ -105,12 +129,14 @@ def process_audio(audio_path: str) -> dict:
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
-        print("Usage: python pipeline_core.py <audio_file>")
+    if len(sys.argv) < 2:
+        print("Usage: python pipeline_core.py <audio_file> [language_code]")
+        print("       language_code: 'auto' (default), 'te', 'hi', 'ta', 'en', etc.")
         sys.exit(1)
 
     audio_file = sys.argv[1]
-    output = process_audio(audio_file)
+    source_lang = sys.argv[2] if len(sys.argv) > 2 else "auto"
+    output = process_audio(audio_file, source_lang)
 
     OUTPUT_FILE = PROJECT_ROOT / "outputs" / "pipeline_output.json"
     OUTPUT_FILE.parent.mkdir(exist_ok=True)

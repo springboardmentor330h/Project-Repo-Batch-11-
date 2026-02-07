@@ -92,14 +92,14 @@ def generate_llm_title(text: str) -> str:
         cleaned_text = clean_text_for_title(text)
         
         if not cleaned_text or len(cleaned_text) < 30:
-            return UNKNOWN_TITLE
+            return create_fallback_title(text)
         
-        # Specific prompt for title generation
-        prompt = f"Generate a short title (5-8 words) for this text:\n\n{cleaned_text}"
+        # Improved prompt for better title generation
+        prompt = f"What is this text about? Summarize in 5-7 words: {cleaned_text}"
         
         result = _llm(
             prompt,
-            max_new_tokens=20,
+            max_new_tokens=25,
             min_length=3,
             do_sample=False,
             num_beams=4
@@ -112,7 +112,7 @@ def generate_llm_title(text: str) -> str:
         
         # Clean up the title
         title = title.strip('.,!?:;"\'')
-        title = re.sub(r'^(title:|topic:)\s*', '', title, flags=re.IGNORECASE)
+        title = re.sub(r'^(title:|topic:|about:?)\s*', '', title, flags=re.IGNORECASE)
         
         # Capitalize first letter of each word
         title = title.title()
@@ -120,9 +120,9 @@ def generate_llm_title(text: str) -> str:
         # Enforce word limit
         title = truncate_to_word_limit(title)
         
-        # Validate word count
+        # Validate - if too short or generic, use fallback
         word_count = len(title.split())
-        if word_count < MIN_TITLE_WORDS:
+        if word_count < MIN_TITLE_WORDS or 'and' in title.lower().split()[-1:]:
             return create_fallback_title(text)
         
         return title
@@ -134,19 +134,35 @@ def generate_llm_title(text: str) -> str:
 
 def create_fallback_title(text: str) -> str:
     """
-    Create a fallback title from key concepts when LLM fails.
+    Create a fallback title by extracting the first meaningful phrase.
     """
+    # Clean and get first sentence
+    cleaned = clean_text_for_title(text)
+    sentences = re.split(r'[.!?]', cleaned)
+    
+    if sentences:
+        first_sent = sentences[0].strip()
+        # Extract first 6-8 meaningful words
+        words = first_sent.split()
+        meaningful = [w for w in words if w.lower() not in STOPWORDS and len(w) > 1]
+        
+        if len(meaningful) >= 3:
+            # Create title from first meaningful words
+            title_words = meaningful[:6]
+            title = ' '.join(w.title() for w in title_words)
+            return truncate_to_word_limit(title)
+    
+    # Final fallback: extract theme from content
     key_concepts = extract_key_concepts(text)
     
     if not key_concepts:
-        return UNKNOWN_TITLE
+        return "Audio Segment Content"
     
-    if len(key_concepts) >= 3:
-        title = f"Discussion on {key_concepts[0].title()}, {key_concepts[1].title()}, and {key_concepts[2].title()}"
-    elif len(key_concepts) == 2:
-        title = f"Discussion on {key_concepts[0].title()} and {key_concepts[1].title()}"
+    # Create a more natural title
+    if len(key_concepts) >= 2:
+        title = f"{key_concepts[0].title()} and {key_concepts[1].title()} Theme"
     else:
-        title = f"Topic About {key_concepts[0].title()}"
+        title = f"{key_concepts[0].title()} Content"
     
     return truncate_to_word_limit(title)
 

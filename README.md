@@ -5,8 +5,10 @@ AudioMind is a powerful AI-driven platform that transforms raw audio content int
 ## 🚀 Key Features
 
 ### 1. **Intelligent Transcription**
--   Uses **OpenAI's Whisper** model for high-accuracy speech-to-text conversion.
--   Handles various accents and audio conditions effectively.
+-   Uses **OpenAI's Whisper Small** model (244M params) for high-accuracy speech-to-text.
+-   **Native Language Transcription**: Automatically transcribes in the original language (Telugu, Hindi, Tamil, etc.) rather than translating to English.
+-   **Manual Language Selection**: Override auto-detection when needed for songs with heavy background music.
+-   Handles various accents, music, and audio conditions effectively.
 
 ### 2. **Topic Segmentation with Context-Aware Titles**
 -   Automatically divides audio into coherent topic segments.
@@ -87,7 +89,7 @@ AudioMind is a powerful AI-driven platform that transforms raw audio content int
 -   **3D Visualization**: [Three.js](https://threejs.org/)
 -   **Visualization**: [Matplotlib](https://matplotlib.org/)
 -   **AI/ML Models**: 
-    -   Transcription: `openai/whisper`
+    -   Transcription: `openai/whisper` (Medium model - 769M params)
     -   Summarization: `google/flan-t5-base`
     -   Translation: `deep-translator`
     -   Romanization: `indic-transliteration`
@@ -200,6 +202,5 @@ AudioMind is a powerful AI-driven platform that transforms raw audio content int
 
     Anti-Gravity: For keeping things light (and Pythonic).
 
-    Open Source Community: For the amazing libraries (transformers, whisper, deep-translator, three.js).
 
 Built with ❤️ and Python.
