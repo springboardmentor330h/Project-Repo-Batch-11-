@@ -16,7 +16,7 @@ from audio_preprocessor import AudioPreprocessor
 
 # -------------------- SETUP --------------------
 st.set_page_config(
-    page_title="Audio Analysis App",
+    page_title="EchoAI - Automated Podcast Transcription & Insights",
     layout="wide"
 )
 
@@ -55,10 +55,13 @@ def process_segments(transcript_data, algorithm="Similarity"):
     else:
         segmented_texts = segmenter.segment_with_similarity(text)
     
+    # Enforce topic count adaptively based on audio length
+    total_audio_duration = raw_segments[-1]["end"] if raw_segments else 0.0
+    segmented_texts = segmenter.enforce_topic_count(segmented_texts, duration=total_audio_duration)
+    
     # Map segmented texts back to timestamps
     processed = []
     current_raw_idx = 0
-    total_audio_duration = raw_segments[-1]["end"] if raw_segments else 0.0
     
     for i, seg in enumerate(segmented_texts):
         content = seg["text"]
@@ -90,9 +93,13 @@ def process_segments(transcript_data, algorithm="Similarity"):
         polished = polish_summary(raw_summary)
         sentiment_label, sentiment_score, sentiment_color = analyze_sentiment(content)
         
+        # Generate context-aware title
+        topic_title = segmenter.generate_title(content, keywords)
+        
         processed.append({
             "id": i,
-            "label": f"Topic {i+1}: {polished[:40]}...",
+            "label": f"Topic {i+1}: {topic_title}",
+            "title": topic_title,
             "text": content,
             "keywords": keywords,
             "summary": polished,
@@ -150,11 +157,10 @@ def clean_text(text):
     """
     Cleans raw text to remove numeric artifacts and Whisper noise.
     """
-    # Remove repeated short numbers that look like timestamps or artifacts (e.g. 2000 2000)
-    cleaned = re.sub(r'\b\d{1,4}\b\s+\b\d{1,4}\b', '', text)
-    # Remove Whisper-specific artifacts like [Music], [Applause], or seek counts [00:00.000]
-    cleaned = re.sub(r'\[.*?\]', '', cleaned)
-    # Remove hallucinated repeat numbers at start of lines (common in Whisper)
+    # Remove Whisper-specific noise artifacts like [Music], [Applause], or [00:00.000]
+    cleaned = re.sub(r'\[.*?\]', '', text)
+    # Remove repeated/stray Whisper artifacts (often short numbers like "2000 2000" or single digits at start)
+    cleaned = re.sub(r'\b\d{1,4}\b\s+\b\d{1,4}\b', '', cleaned)
     cleaned = re.sub(r'^\d+\s+', '', cleaned, flags=re.MULTILINE)
     # General whitespace cleanup
     cleaned = re.sub(r'\s+', ' ', cleaned).strip()
@@ -204,8 +210,7 @@ def polish_summary(summary):
     return sentences
 
 # -------------------- UI LAYOUT --------------------
-st.title("🎙️ Automated Podcast Transcription & Analysis")
-st.markdown("### Workflow: Input ➡ Preprocessing ➡ Transcription ➡ Segmentation")
+st.title("🎙️ EchoAI - Automated Podcast Transcription & Insights")
 
 # Sidebar
 with st.sidebar:
@@ -331,7 +336,7 @@ if st.session_state.segments:
         
         h_col1, h_col2 = st.columns([3, 1])
         with h_col1:
-            st.markdown(f"#### Topic {selected_segment['id'] + 1} ({start_fmt} – {end_fmt})")
+            st.markdown(f"#### Topic {selected_segment['id'] + 1}: {selected_segment['title']} ({start_fmt} – {end_fmt})")
             st.markdown(f"**Duration: {duration_fmt}**")
         with h_col2:
             st.markdown(f"<span style='color:{selected_segment['sentiment_color']}; font-weight:bold;'>{selected_segment['sentiment_label']} (Score: {selected_segment['sentiment_score']}/10)</span>", unsafe_allow_html=True)
