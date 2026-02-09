@@ -1,0 +1,5031 @@
+{
+  "episode_id": "episode_48",
+  "source_file": "episode_48_whisper.json",
+  "total_sentences": 711,
+  "algorithm_used": "embedding-based (Sentence Transformers)",
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_sentence_idx": 0,
+      "end_sentence_idx": 9,
+      "num_sentences": 9,
+      "start_time_sec": 0.66,
+      "end_time_sec": 16.66,
+      "text_preview": "What's it take to put the past behind us? What's it take for all countries to do it? Let's say to this story, afterward we're two, Nuremberg Trials, Documented German Warcramed Trossies, and the Holocaust. The Germans didn't accept it. Historians have noted that, as far as the Ge…",
+      "keywords": [
+        "germans",
+        "war",
+        "warcramed",
+        "take",
+        "justice",
+        "nuremberg"
+      ],
+      "summary": "Nuremberg Trials, Documented German Warcramed Trossies, and the Holocaust. The Germans didn't accept it. What's it take to put the past behind us?"
+    },
+    {
+      "segment_id": 2,
+      "start_sentence_idx": 9,
+      "end_sentence_idx": 10,
+      "num_sentences": 1,
+      "start_time_sec": 17.66,
+      "end_time_sec": 17.66,
+      "text_preview": "And even that wasn't right.",
+      "keywords": [],
+      "summary": "And even that wasn't right. …"
+    },
+    {
+      "segment_id": 3,
+      "start_sentence_idx": 10,
+      "end_sentence_idx": 11,
+      "num_sentences": 1,
+      "start_time_sec": 19.66,
+      "end_time_sec": 19.66,
+      "text_preview": "As one writer put it, it took an accumulation of a million school visits, concentration camps, a thousand books, the Hollywood television series Holocaust, a vast molecular reckoning between generations, still going on.",
+      "keywords": [
+        "writer",
+        "visits",
+        "vast",
+        "took",
+        "thousand",
+        "television"
+      ],
+      "summary": "As one writer put it, it took an accumulation of a million school visits, concentration camps, a thousand books, the Hollywood television series Holocaust, a vast molecular reckoning between generations, still going on. …"
+    },
+    {
+      "segment_id": 4,
+      "start_sentence_idx": 11,
+      "end_sentence_idx": 12,
+      "num_sentences": 1,
+      "start_time_sec": 21.66,
+      "end_time_sec": 21.66,
+      "text_preview": "WB EZI Chicago, System American Life, My Regardless, Today on our program, how to come to peace with past.",
+      "keywords": [],
+      "summary": "WB EZI Chicago, System American Life, My Regardless, Today on our program, how to come to peace with past. …"
+    },
+    {
+      "segment_id": 5,
+      "start_sentence_idx": 12,
+      "end_sentence_idx": 16,
+      "num_sentences": 4,
+      "start_time_sec": 22.66,
+      "end_time_sec": 27.66,
+      "text_preview": "Stories of people running toward and running from the truth and shame, act one, international justice, and entire nation coming to grips with past. Actually, not coming to grips with the ends. Act two, juvenile justice, criminals face the past, juvenile criminals, report from sta…",
+      "keywords": [
+        "act",
+        "justice",
+        "juvenile",
+        "past",
+        "running",
+        "coming"
+      ],
+      "summary": "International justice, and entire nation coming to grips with past. Act two, juvenile justice, criminals face the past, juvenile criminals, report from staff carrier. Act"
+    },
+    {
+      "segment_id": 6,
+      "start_sentence_idx": 16,
+      "end_sentence_idx": 22,
+      "num_sentences": 6,
+      "start_time_sec": 30.66,
+      "end_time_sec": 30.66,
+      "text_preview": "At one, by ever since the end of World War II, there's been this idealistic notion kicking around that when nations through horrible things, the best way to deal with it, but this thing's to rest, to be that of a court somewhere, a court for war crimes, crimes against humanity. E…",
+      "keywords": [
+        "war",
+        "trials",
+        "crimes",
+        "normburg",
+        "ii",
+        "court"
+      ],
+      "summary": "First time since the Normburg and Tokyo trials at the end of World War II, this is actually in Session. This is the War crimes Tribunal for the former Yugoslavia. These trials are happening far from the Balkans, they're in hate, and none of them."
+    },
+    {
+      "segment_id": 7,
+      "start_sentence_idx": 22,
+      "end_sentence_idx": 23,
+      "num_sentences": 1,
+      "start_time_sec": 30.66,
+      "end_time_sec": 30.66,
+      "text_preview": "Their warriors in Judd, Egypt, and France in Sri Lanka and Canada and lots of Americans there.",
+      "keywords": [],
+      "summary": "Their warriors in Judd, Egypt, and France in Sri Lanka and Canada and lots of Americans there. …"
+    },
+    {
+      "segment_id": 8,
+      "start_sentence_idx": 23,
+      "end_sentence_idx": 24,
+      "num_sentences": 1,
+      "start_time_sec": 34.1,
+      "end_time_sec": 34.1,
+      "text_preview": "Kitty Faudi is a familiar voice to public radio listeners or a coverage of the O.J.",
+      "keywords": [],
+      "summary": "Kitty Faudi is a familiar voice to public radio listeners or a coverage of the O.J. …"
+    },
+    {
+      "segment_id": 9,
+      "start_sentence_idx": 24,
+      "end_sentence_idx": 25,
+      "num_sentences": 1,
+      "start_time_sec": 34.1,
+      "end_time_sec": 34.1,
+      "text_preview": "Simpson trial and Rodney King beating trial.",
+      "keywords": [],
+      "summary": "Simpson trial and Rodney King beating trial. …"
+    },
+    {
+      "segment_id": 10,
+      "start_sentence_idx": 25,
+      "end_sentence_idx": 27,
+      "num_sentences": 2,
+      "start_time_sec": 38.66,
+      "end_time_sec": 43.06,
+      "text_preview": "But over the course of the last year she spent several weeks in the head, watching this new form of justice. Gabby O'Curcmit Donald is arguably the most powerful African-American woman in the world, which probably never heard of her.",
+      "keywords": [
+        "year",
+        "world",
+        "woman",
+        "weeks",
+        "watching",
+        "spent"
+      ],
+      "summary": "But over the course of the last year she spent several weeks in the head, watching this new form of justice. Gabby O'Curcmit Donald is arguably the most powerful African-American woman in the world, which probably never  …"
+    },
+    {
+      "segment_id": 11,
+      "start_sentence_idx": 27,
+      "end_sentence_idx": 29,
+      "num_sentences": 2,
+      "start_time_sec": 46.9,
+      "end_time_sec": 60.66,
+      "text_preview": "Medellin is the presiding judge for the first international war crimes trial in half a century. And she sits in her judicial robes week after week inside the courtroom, and becomes clear that judgment Donald is  most Americans when it comes to things foreign.",
+      "keywords": [
+        "week",
+        "war",
+        "trial",
+        "things",
+        "sits",
+        "robes"
+      ],
+      "summary": "Medellin is the presiding judge for the first international war crimes trial in half a century. And she sits in her judicial robes week after week inside the courtroom, and becomes clear that judgment Donald is  most Ame …"
+    },
+    {
+      "segment_id": 12,
+      "start_sentence_idx": 29,
+      "end_sentence_idx": 30,
+      "num_sentences": 1,
+      "start_time_sec": 68.66,
+      "end_time_sec": 68.66,
+      "text_preview": "We can't read the maps.",
+      "keywords": [],
+      "summary": "We can't read the maps. …"
+    },
+    {
+      "segment_id": 13,
+      "start_sentence_idx": 30,
+      "end_sentence_idx": 31,
+      "num_sentences": 1,
+      "start_time_sec": 75.66,
+      "end_time_sec": 75.66,
+      "text_preview": "am Mr yolk thoroughê BR from Bosky Samage, maybe, was he somewhere up there, as I recall.",
+      "keywords": [],
+      "summary": "am Mr yolk thoroughê BR from Bosky Samage, maybe, was he somewhere up there, as I recall. …"
+    },
+    {
+      "segment_id": 14,
+      "start_sentence_idx": 31,
+      "end_sentence_idx": 32,
+      "num_sentences": 1,
+      "start_time_sec": 77.66,
+      "end_time_sec": 77.66,
+      "text_preview": "We don't know the history, and we have the devil at the time pronouncing the names.",
+      "keywords": [],
+      "summary": "We don't know the history, and we have the devil at the time pronouncing the names. …"
+    },
+    {
+      "segment_id": 15,
+      "start_sentence_idx": 32,
+      "end_sentence_idx": 33,
+      "num_sentences": 1,
+      "start_time_sec": 80.66,
+      "end_time_sec": 80.66,
+      "text_preview": "The witness.",
+      "keywords": [],
+      "summary": "The witness. …"
+    },
+    {
+      "segment_id": 16,
+      "start_sentence_idx": 33,
+      "end_sentence_idx": 34,
+      "num_sentences": 1,
+      "start_time_sec": 85.66,
+      "end_time_sec": 85.66,
+      "text_preview": "Mr.",
+      "keywords": [],
+      "summary": "Mr. …"
+    },
+    {
+      "segment_id": 17,
+      "start_sentence_idx": 34,
+      "end_sentence_idx": 35,
+      "num_sentences": 1,
+      "start_time_sec": 90.66,
+      "end_time_sec": 90.66,
+      "text_preview": "Gross, Gross, and that.",
+      "keywords": [],
+      "summary": "Gross, Gross, and that. …"
+    },
+    {
+      "segment_id": 18,
+      "start_sentence_idx": 35,
+      "end_sentence_idx": 36,
+      "num_sentences": 1,
+      "start_time_sec": 97.66,
+      "end_time_sec": 97.66,
+      "text_preview": "Gross and he testifies.",
+      "keywords": [],
+      "summary": "Gross and he testifies. …"
+    },
+    {
+      "segment_id": 19,
+      "start_sentence_idx": 36,
+      "end_sentence_idx": 37,
+      "num_sentences": 1,
+      "start_time_sec": 108.98,
+      "end_time_sec": 108.98,
+      "text_preview": "But judgment Donald also brings to the tribunal another American attribute for idealism.",
+      "keywords": [],
+      "summary": "But judgment Donald also brings to the tribunal another American attribute for idealism. …"
+    },
+    {
+      "segment_id": 20,
+      "start_sentence_idx": 37,
+      "end_sentence_idx": 38,
+      "num_sentences": 1,
+      "start_time_sec": 113.42,
+      "end_time_sec": 113.42,
+      "text_preview": "I love the law.",
+      "keywords": [],
+      "summary": "I love the law. …"
+    },
+    {
+      "segment_id": 21,
+      "start_sentence_idx": 38,
+      "end_sentence_idx": 48,
+      "num_sentences": 10,
+      "start_time_sec": 118.38,
+      "end_time_sec": 142.7,
+      "text_preview": "I  solving problems, and I think for certain duration minority I think. that the use of our laws in the United States is the way that we bring about equality and inclusion. And McDonald isn't the only American working at the Tribunal. By the time you left of Stina, period or abou…",
+      "keywords": [
+        "tribunal",
+        "us",
+        "think",
+        "legal",
+        "american",
+        "community"
+      ],
+      "summary": "About two dozen American lawyers and investigators have been scundered or loaned out to the tribunal. Americans make up the largest legal community at the Tribunal. Some complain that through sheer numbers, the turning what's supposed to be a brand new legal system into something that looks like US constitutional law."
+    },
+    {
+      "segment_id": 22,
+      "start_sentence_idx": 48,
+      "end_sentence_idx": 49,
+      "num_sentences": 1,
+      "start_time_sec": 142.7,
+      "end_time_sec": 142.7,
+      "text_preview": "Most of the Americans are here out of a sense of moral conviction.",
+      "keywords": [],
+      "summary": "Most of the Americans are here out of a sense of moral conviction. …"
+    },
+    {
+      "segment_id": 23,
+      "start_sentence_idx": 49,
+      "end_sentence_idx": 50,
+      "num_sentences": 1,
+      "start_time_sec": 146.26,
+      "end_time_sec": 146.26,
+      "text_preview": "Alan Teeger, White Judge McBall, was a civil rights lawyer.",
+      "keywords": [],
+      "summary": "Alan Teeger, White Judge McBall, was a civil rights lawyer. …"
+    },
+    {
+      "segment_id": 24,
+      "start_sentence_idx": 50,
+      "end_sentence_idx": 51,
+      "num_sentences": 1,
+      "start_time_sec": 148.54,
+      "end_time_sec": 148.54,
+      "text_preview": "He was one of the pros.",
+      "keywords": [],
+      "summary": "He was one of the pros. …"
+    },
+    {
+      "segment_id": 25,
+      "start_sentence_idx": 51,
+      "end_sentence_idx": 52,
+      "num_sentences": 1,
+      "start_time_sec": 150.66,
+      "end_time_sec": 150.66,
+      "text_preview": "at the federal, rot-necking feeding trial.",
+      "keywords": [],
+      "summary": "at the federal, rot-necking feeding trial. …"
+    },
+    {
+      "segment_id": 26,
+      "start_sentence_idx": 52,
+      "end_sentence_idx": 53,
+      "num_sentences": 1,
+      "start_time_sec": 154.82,
+      "end_time_sec": 154.82,
+      "text_preview": "His parents were holocaust survivors.",
+      "keywords": [],
+      "summary": "His parents were holocaust survivors. …"
+    },
+    {
+      "segment_id": 27,
+      "start_sentence_idx": 53,
+      "end_sentence_idx": 54,
+      "num_sentences": 1,
+      "start_time_sec": 160.5,
+      "end_time_sec": 160.5,
+      "text_preview": "The prosecution's chief investigator Terry Bowers since he came to the haig to do work of significance to human kind.",
+      "keywords": [
+        "work",
+        "terry",
+        "since",
+        "significance",
+        "prosecution",
+        "kind"
+      ],
+      "summary": "The prosecution's chief investigator Terry Bowers since he came to the haig to do work of significance to human kind. …"
+    },
+    {
+      "segment_id": 28,
+      "start_sentence_idx": 54,
+      "end_sentence_idx": 55,
+      "num_sentences": 1,
+      "start_time_sec": 162.82,
+      "end_time_sec": 162.82,
+      "text_preview": "But from the start, his new job presented challenges he never faced in his old position as head of the U.S. Attorney's Office in Los Angeles.",
+      "keywords": [
+        "start",
+        "presented",
+        "position",
+        "old",
+        "office",
+        "new"
+      ],
+      "summary": "But from the start, his new job presented challenges he never faced in his old position as head of the U.S. Attorney's Office in Los Angeles. …"
+    },
+    {
+      "segment_id": 29,
+      "start_sentence_idx": 55,
+      "end_sentence_idx": 56,
+      "num_sentences": 1,
+      "start_time_sec": 168.06,
+      "end_time_sec": 168.06,
+      "text_preview": "I mean, when we went into Tuzla, we flew into the airport and the next morning, the serve started showing airport.",
+      "keywords": [
+        "airport",
+        "went",
+        "tuzla",
+        "started",
+        "serve",
+        "showing"
+      ],
+      "summary": "I mean, when we went into Tuzla, we flew into the airport and the next morning, the serve started showing airport. …"
+    },
+    {
+      "segment_id": 30,
+      "start_sentence_idx": 56,
+      "end_sentence_idx": 57,
+      "num_sentences": 1,
+      "start_time_sec": 173.46,
+      "end_time_sec": 173.46,
+      "text_preview": "we weren't even able to get out of where you have to dodge our cellary and some areas you just can't get into.",
+      "keywords": [
+        "get",
+        "even",
+        "dodge",
+        "cellary",
+        "areas",
+        "able"
+      ],
+      "summary": "we weren't even able to get out of where you have to dodge our cellary and some areas you just can't get into. …"
+    },
+    {
+      "segment_id": 31,
+      "start_sentence_idx": 57,
+      "end_sentence_idx": 59,
+      "num_sentences": 2,
+      "start_time_sec": 177.86,
+      "end_time_sec": 180.06,
+      "text_preview": "Immediately we knew that we were up against any enormous challenge, but these cases together. There were all sorts of challenges and one thing in particular that Americans and other non-Ugoslobs at the Tribunal found so very difficult to understand.",
+      "keywords": [
+        "understand",
+        "ugoslobs",
+        "tribunal",
+        "together",
+        "thing",
+        "sorts"
+      ],
+      "summary": "Immediately we knew that we were up against any enormous challenge, but these cases together. There were all sorts of challenges and one thing in particular that Americans and other non-Ugoslobs at the Tribunal found so  …"
+    },
+    {
+      "segment_id": 32,
+      "start_sentence_idx": 59,
+      "end_sentence_idx": 60,
+      "num_sentences": 1,
+      "start_time_sec": 183.46,
+      "end_time_sec": 183.46,
+      "text_preview": "But now familiar stories of neighbor turning against you, almost overnight.",
+      "keywords": [],
+      "summary": "But now familiar stories of neighbor turning against you, almost overnight. …"
+    },
+    {
+      "segment_id": 33,
+      "start_sentence_idx": 60,
+      "end_sentence_idx": 61,
+      "num_sentences": 1,
+      "start_time_sec": 180.66,
+      "end_time_sec": 180.66,
+      "text_preview": "Judge McDonald asked witness after witness about this over and over again.",
+      "keywords": [],
+      "summary": "Judge McDonald asked witness after witness about this over and over again. …"
+    },
+    {
+      "segment_id": 34,
+      "start_sentence_idx": 61,
+      "end_sentence_idx": 66,
+      "num_sentences": 5,
+      "start_time_sec": 185.28,
+      "end_time_sec": 191.86,
+      "text_preview": "I guess my question, perhaps it's not fair question. I don't know that you could give a complete answer, but perhaps it can help me to understand since I am not from that area. How could you explain that some of the atrocities that we've heard were Kevin committed? How can you ex…",
+      "keywords": [
+        "give",
+        "together",
+        "perhaps",
+        "question",
+        "could",
+        "explain"
+      ],
+      "summary": "\"I don't know that you could give a complete answer, but perhaps it can help me to understand since I am not from that area. How could you explain that some of the atrocities that we've heard were committed? How"
+    },
+    {
+      "segment_id": 35,
+      "start_sentence_idx": 66,
+      "end_sentence_idx": 67,
+      "num_sentences": 1,
+      "start_time_sec": 191.86,
+      "end_time_sec": 191.86,
+      "text_preview": "She never found an answer that satisfied her, and as the trial war on, she and other judges found themselves searching for something in their own experiences to explain it.",
+      "keywords": [
+        "found",
+        "trial",
+        "war",
+        "something",
+        "searching",
+        "never"
+      ],
+      "summary": "She never found an answer that satisfied her, and as the trial war on, she and other judges found themselves searching for something in their own experiences to explain it. …"
+    },
+    {
+      "segment_id": 36,
+      "start_sentence_idx": 67,
+      "end_sentence_idx": 68,
+      "num_sentences": 1,
+      "start_time_sec": 195.34,
+      "end_time_sec": 195.34,
+      "text_preview": "And that raises this question.",
+      "keywords": [],
+      "summary": "And that raises this question. …"
+    },
+    {
+      "segment_id": 37,
+      "start_sentence_idx": 68,
+      "end_sentence_idx": 69,
+      "num_sentences": 1,
+      "start_time_sec": 197.46,
+      "end_time_sec": 197.46,
+      "text_preview": "What does it mean when people with one sort of history are trying and judging people with a very different sort?",
+      "keywords": [
+        "sort",
+        "people",
+        "trying",
+        "one",
+        "mean",
+        "judging"
+      ],
+      "summary": "What does it mean when people with one sort of history are trying and judging people with a very different sort? …"
+    },
+    {
+      "segment_id": 38,
+      "start_sentence_idx": 69,
+      "end_sentence_idx": 70,
+      "num_sentences": 1,
+      "start_time_sec": 200.34,
+      "end_time_sec": 200.34,
+      "text_preview": "She can't do that.",
+      "keywords": [],
+      "summary": "She can't do that. …"
+    },
+    {
+      "segment_id": 39,
+      "start_sentence_idx": 70,
+      "end_sentence_idx": 71,
+      "num_sentences": 1,
+      "start_time_sec": 202.9,
+      "end_time_sec": 202.9,
+      "text_preview": "National Criminal Chief and All for the Farmer Yugoslavia is now in session, for the National International for Lexi Yugoslavia at the very end.",
+      "keywords": [
+        "yugoslavia",
+        "national",
+        "session",
+        "lexi",
+        "international",
+        "farmer"
+      ],
+      "summary": "National Criminal Chief and All for the Farmer Yugoslavia is now in session, for the National International for Lexi Yugoslavia at the very end. …"
+    },
+    {
+      "segment_id": 40,
+      "start_sentence_idx": 71,
+      "end_sentence_idx": 72,
+      "num_sentences": 1,
+      "start_time_sec": 205.46,
+      "end_time_sec": 205.46,
+      "text_preview": "Please be seated.",
+      "keywords": [],
+      "summary": "Please be seated. …"
+    },
+    {
+      "segment_id": 41,
+      "start_sentence_idx": 72,
+      "end_sentence_idx": 73,
+      "num_sentences": 1,
+      "start_time_sec": 209.06,
+      "end_time_sec": 209.06,
+      "text_preview": "It was back in May of 1993, with the United Nations Security Council set up the tribunal at the urging of the U.S. and Western Europe.",
+      "keywords": [
+        "western",
+        "urging",
+        "united",
+        "tribunal",
+        "set",
+        "security"
+      ],
+      "summary": "It was back in May of 1993, with the United Nations Security Council set up the tribunal at the urging of the U.S. and Western Europe. …"
+    },
+    {
+      "segment_id": 42,
+      "start_sentence_idx": 73,
+      "end_sentence_idx": 74,
+      "num_sentences": 1,
+      "start_time_sec": 210.66,
+      "end_time_sec": 210.66,
+      "text_preview": "At the time, NATO was resisting police from the Bosvians to come to their aid in the war.",
+      "keywords": [],
+      "summary": "At the time, NATO was resisting police from the Bosvians to come to their aid in the war. …"
+    },
+    {
+      "segment_id": 43,
+      "start_sentence_idx": 74,
+      "end_sentence_idx": 75,
+      "num_sentences": 1,
+      "start_time_sec": 218.0,
+      "end_time_sec": 218.0,
+      "text_preview": "And cynics suggested that the West set up the tribunal simply be... because it was easier to commit lawyers than troops.",
+      "keywords": [
+        "west",
+        "troops",
+        "tribunal",
+        "suggested",
+        "simply",
+        "set"
+      ],
+      "summary": "And cynics suggested that the West set up the tribunal simply be... because it was easier to commit lawyers than troops. …"
+    },
+    {
+      "segment_id": 44,
+      "start_sentence_idx": 75,
+      "end_sentence_idx": 76,
+      "num_sentences": 1,
+      "start_time_sec": 218.0,
+      "end_time_sec": 218.0,
+      "text_preview": "Some people feel that the tribunal was created as kind of an apology because the world community wasn't doing anything.",
+      "keywords": [
+        "world",
+        "tribunal",
+        "people",
+        "kind",
+        "feel",
+        "created"
+      ],
+      "summary": "Some people feel that the tribunal was created as kind of an apology because the world community wasn't doing anything. …"
+    },
+    {
+      "segment_id": 45,
+      "start_sentence_idx": 76,
+      "end_sentence_idx": 77,
+      "num_sentences": 1,
+      "start_time_sec": 219.36,
+      "end_time_sec": 219.36,
+      "text_preview": "Again, Judge McDonald, I don't care.",
+      "keywords": [],
+      "summary": "Again, Judge McDonald, I don't care. …"
+    },
+    {
+      "segment_id": 46,
+      "start_sentence_idx": 77,
+      "end_sentence_idx": 78,
+      "num_sentences": 1,
+      "start_time_sec": 223.04,
+      "end_time_sec": 223.04,
+      "text_preview": "I don't care what their reason was.",
+      "keywords": [],
+      "summary": "I don't care what their reason was. …"
+    },
+    {
+      "segment_id": 47,
+      "start_sentence_idx": 78,
+      "end_sentence_idx": 80,
+      "num_sentences": 2,
+      "start_time_sec": 228.84,
+      "end_time_sec": 232.36,
+      "text_preview": "The point is that we have been established. And I think that we're making a contribution.",
+      "keywords": [],
+      "summary": "The point is that we have been established. And I think that we're making a contribution. …"
+    },
+    {
+      "segment_id": 48,
+      "start_sentence_idx": 80,
+      "end_sentence_idx": 81,
+      "num_sentences": 1,
+      "start_time_sec": 237.12,
+      "end_time_sec": 237.12,
+      "text_preview": "But to see just how difficult it is to make a contribution, consider the case of witness out.",
+      "keywords": [],
+      "summary": "But to see just how difficult it is to make a contribution, consider the case of witness out. …"
+    },
+    {
+      "segment_id": 49,
+      "start_sentence_idx": 81,
+      "end_sentence_idx": 82,
+      "num_sentences": 1,
+      "start_time_sec": 240.66,
+      "end_time_sec": 240.66,
+      "text_preview": "The Tribunal allows witnesses who fear for their lives to testify behind closed doors their identities kept secret.",
+      "keywords": [],
+      "summary": "The Tribunal allows witnesses who fear for their lives to testify behind closed doors their identities kept secret. …"
+    },
+    {
+      "segment_id": 50,
+      "start_sentence_idx": 82,
+      "end_sentence_idx": 83,
+      "num_sentences": 1,
+      "start_time_sec": 244.18,
+      "end_time_sec": 244.18,
+      "text_preview": "Witness L explained to the Tribunal that he was a guard at one of the serve-run prison camps where he witnessed the Tribunal's first dependent of Bosni and Serb-Purati teacher named Doosantatech, the myth war crimes.",
+      "keywords": [
+        "tribunal",
+        "witnessed",
+        "witness",
+        "war",
+        "teacher",
+        "serve"
+      ],
+      "summary": "Witness L explained to the Tribunal that he was a guard at one of the serve-run prison camps where he witnessed the Tribunal's first dependent of Bosni and Serb-Purati teacher named Doosantatech, the myth war crimes. …"
+    },
+    {
+      "segment_id": 51,
+      "start_sentence_idx": 83,
+      "end_sentence_idx": 84,
+      "num_sentences": 1,
+      "start_time_sec": 247.34,
+      "end_time_sec": 247.34,
+      "text_preview": "The prosecution had other witnesses who told of Tatech delivering brutal beatings, but L was the only credible witness who sought Tatech rape and kill.",
+      "keywords": [
+        "tatech",
+        "witnesses",
+        "witness",
+        "told",
+        "sought",
+        "rape"
+      ],
+      "summary": "The prosecution had other witnesses who told of Tatech delivering brutal beatings, but L was the only credible witness who sought Tatech rape and kill. …"
+    },
+    {
+      "segment_id": 52,
+      "start_sentence_idx": 84,
+      "end_sentence_idx": 90,
+      "num_sentences": 6,
+      "start_time_sec": 251.1,
+      "end_time_sec": 269.7,
+      "text_preview": "people. L testified about one incident where 10 elderly men were taken into the infamous White House, seen most tortures at the Omask Prison camp. According to L, Tadach pointed to him and said, come here and perform the killing of these 10 prisoners. L answered, why me, why do I…",
+      "keywords": [
+        "tadach",
+        "prisoners",
+        "said",
+        "10",
+        "white",
+        "taken"
+      ],
+      "summary": "L testified about one incident where 10 elderly men were taken into the infamous White House, seen most tortures at the Omask Prison camp. According to L, Tadach pointed to him and said, come here"
+    },
+    {
+      "segment_id": 53,
+      "start_sentence_idx": 90,
+      "end_sentence_idx": 91,
+      "num_sentences": 1,
+      "start_time_sec": 270.66,
+      "end_time_sec": 270.66,
+      "text_preview": "It was dramatic, damning testimony, the strongest.",
+      "keywords": [],
+      "summary": "It was dramatic, damning testimony, the strongest. …"
+    },
+    {
+      "segment_id": 54,
+      "start_sentence_idx": 91,
+      "end_sentence_idx": 105,
+      "num_sentences": 14,
+      "start_time_sec": 273.66,
+      "end_time_sec": 324.7,
+      "text_preview": "brought forth about prosecution. Unfortunately, he wasn't true. Two months after Elzanyshal Court appearance, prosecutors had a stand before the court, and admit that El had lied on the same. He had never been a camp guard, never witnessed the alleged atrocities he'd never even s…",
+      "keywords": [
+        "never",
+        "prosecution",
+        "court",
+        "evidence",
+        "lied",
+        "said"
+      ],
+      "summary": "Two months after Elzanyshal Court appearance, prosecutors had a stand before the court, and admit that El had lied on the same. He had never been a camp guard, never witnessed the alleged atrocities he'd never even seen do some totagent person until he walked into the courtroom. At this point,"
+    },
+    {
+      "segment_id": 55,
+      "start_sentence_idx": 105,
+      "end_sentence_idx": 106,
+      "num_sentences": 1,
+      "start_time_sec": 324.7,
+      "end_time_sec": 324.7,
+      "text_preview": "If they were trying to bring justice to the victims, it was those victims, the Muslims in this case, who were fabricating evidence, trying to swing the verdict their way.",
+      "keywords": [
+        "victims",
+        "trying",
+        "way",
+        "verdict",
+        "swing",
+        "muslims"
+      ],
+      "summary": "If they were trying to bring justice to the victims, it was those victims, the Muslims in this case, who were fabricating evidence, trying to swing the verdict their way. …"
+    },
+    {
+      "segment_id": 56,
+      "start_sentence_idx": 106,
+      "end_sentence_idx": 107,
+      "num_sentences": 1,
+      "start_time_sec": 329.9,
+      "end_time_sec": 329.9,
+      "text_preview": "The accused would you rise please, and state your identity, Mr. Dmitry.",
+      "keywords": [],
+      "summary": "The accused would you rise please, and state your identity, Mr. Dmitry. …"
+    },
+    {
+      "segment_id": 57,
+      "start_sentence_idx": 107,
+      "end_sentence_idx": 108,
+      "num_sentences": 1,
+      "start_time_sec": 330.66,
+      "end_time_sec": 330.66,
+      "text_preview": "Pragent, F.D.M.",
+      "keywords": [],
+      "summary": "Pragent, F.D.M. …"
+    },
+    {
+      "segment_id": 58,
+      "start_sentence_idx": 108,
+      "end_sentence_idx": 110,
+      "num_sentences": 2,
+      "start_time_sec": 332.66,
+      "end_time_sec": 337.66,
+      "text_preview": "of which I was born in Tuzla in 1971. I am a Crelat by National.",
+      "keywords": [],
+      "summary": "of which I was born in Tuzla in 1971. I am a Crelat by National. …"
+    },
+    {
+      "segment_id": 59,
+      "start_sentence_idx": 110,
+      "end_sentence_idx": 111,
+      "num_sentences": 1,
+      "start_time_sec": 341.66,
+      "end_time_sec": 341.66,
+      "text_preview": "Thus far the tribunal has only handed down one sentence.",
+      "keywords": [],
+      "summary": "Thus far the tribunal has only handed down one sentence. …"
+    },
+    {
+      "segment_id": 60,
+      "start_sentence_idx": 111,
+      "end_sentence_idx": 112,
+      "num_sentences": 1,
+      "start_time_sec": 346.66,
+      "end_time_sec": 346.66,
+      "text_preview": "It's a case where no one disputes the basic facts of the crime.",
+      "keywords": [],
+      "summary": "It's a case where no one disputes the basic facts of the crime. …"
+    },
+    {
+      "segment_id": 61,
+      "start_sentence_idx": 112,
+      "end_sentence_idx": 113,
+      "num_sentences": 1,
+      "start_time_sec": 348.66,
+      "end_time_sec": 348.66,
+      "text_preview": "This was the case of draws in your demovage.",
+      "keywords": [],
+      "summary": "This was the case of draws in your demovage. …"
+    },
+    {
+      "segment_id": 62,
+      "start_sentence_idx": 113,
+      "end_sentence_idx": 114,
+      "num_sentences": 1,
+      "start_time_sec": 356.66,
+      "end_time_sec": 356.66,
+      "text_preview": "The story of a man who risked his life and his freedom to tell the world the truth about what he'd done.",
+      "keywords": [
+        "world",
+        "truth",
+        "tell",
+        "story",
+        "risked",
+        "man"
+      ],
+      "summary": "The story of a man who risked his life and his freedom to tell the world the truth about what he'd done. …"
+    },
+    {
+      "segment_id": 63,
+      "start_sentence_idx": 114,
+      "end_sentence_idx": 115,
+      "num_sentences": 1,
+      "start_time_sec": 360.66,
+      "end_time_sec": 360.66,
+      "text_preview": "Her demovage is 25, a baby-faced kid with acne scars.",
+      "keywords": [],
+      "summary": "Her demovage is 25, a baby-faced kid with acne scars. …"
+    },
+    {
+      "segment_id": 64,
+      "start_sentence_idx": 115,
+      "end_sentence_idx": 116,
+      "num_sentences": 1,
+      "start_time_sec": 366.78,
+      "end_time_sec": 366.78,
+      "text_preview": "His Croatian, his wife, is a surre.",
+      "keywords": [],
+      "summary": "His Croatian, his wife, is a surre. …"
+    },
+    {
+      "segment_id": 65,
+      "start_sentence_idx": 116,
+      "end_sentence_idx": 117,
+      "num_sentences": 1,
+      "start_time_sec": 370.74,
+      "end_time_sec": 370.74,
+      "text_preview": "They have a young son.",
+      "keywords": [],
+      "summary": "They have a young son. …"
+    },
+    {
+      "segment_id": 66,
+      "start_sentence_idx": 117,
+      "end_sentence_idx": 118,
+      "num_sentences": 1,
+      "start_time_sec": 375.62,
+      "end_time_sec": 375.62,
+      "text_preview": "Her demovage was trained.",
+      "keywords": [],
+      "summary": "Her demovage was trained. …"
+    },
+    {
+      "segment_id": 67,
+      "start_sentence_idx": 118,
+      "end_sentence_idx": 119,
+      "num_sentences": 1,
+      "start_time_sec": 380.66,
+      "end_time_sec": 380.66,
+      "text_preview": "and is a tool in diemaker.",
+      "keywords": [],
+      "summary": "and is a tool in diemaker. …"
+    },
+    {
+      "segment_id": 68,
+      "start_sentence_idx": 119,
+      "end_sentence_idx": 120,
+      "num_sentences": 1,
+      "start_time_sec": 382.98,
+      "end_time_sec": 382.98,
+      "text_preview": "By the time he had learned his trade, the war had broken out, so he became a career soldier, and served with all three armies during the war.",
+      "keywords": [
+        "war",
+        "trade",
+        "time",
+        "three",
+        "soldier",
+        "served"
+      ],
+      "summary": "By the time he had learned his trade, the war had broken out, so he became a career soldier, and served with all three armies during the war. …"
+    },
+    {
+      "segment_id": 69,
+      "start_sentence_idx": 120,
+      "end_sentence_idx": 121,
+      "num_sentences": 1,
+      "start_time_sec": 387.58,
+      "end_time_sec": 387.58,
+      "text_preview": "But he says he chose combat units that conducted reconnaissance missions and man border checkpoints.",
+      "keywords": [],
+      "summary": "But he says he chose combat units that conducted reconnaissance missions and man border checkpoints. …"
+    },
+    {
+      "segment_id": 70,
+      "start_sentence_idx": 121,
+      "end_sentence_idx": 122,
+      "num_sentences": 1,
+      "start_time_sec": 390.14,
+      "end_time_sec": 390.14,
+      "text_preview": "Jobs where he didn't have to kill anyone.",
+      "keywords": [],
+      "summary": "Jobs where he didn't have to kill anyone. …"
+    },
+    {
+      "segment_id": 71,
+      "start_sentence_idx": 122,
+      "end_sentence_idx": 126,
+      "num_sentences": 4,
+      "start_time_sec": 390.66,
+      "end_time_sec": 402.5,
+      "text_preview": "Until July of 1995, that's when special battalion, the Bosnian Sir Barmy, attempts sabotage unit, was ordered to a farm field near Pilitsa. It was shortly after the fall of Shrapuk Nitsa, the UN had set up a safe area there, which 25,000 Bosnian Muslims had fled for protection. B…",
+      "keywords": [
+        "un",
+        "bosnian",
+        "unit",
+        "tiny",
+        "special",
+        "sir"
+      ],
+      "summary": "Bosnian Sir Barmy, a sabotage unit, was ordered to a farm field near Pilitsa. The UN had set up a safe area there, which 25,000 Bosnian Muslims had fled for protection."
+    },
+    {
+      "segment_id": 72,
+      "start_sentence_idx": 126,
+      "end_sentence_idx": 127,
+      "num_sentences": 1,
+      "start_time_sec": 408.1,
+      "end_time_sec": 408.1,
+      "text_preview": "Their damage and his unit had been given instructions on how to kill large numbers of people in a short period of time.",
+      "keywords": [
+        "unit",
+        "time",
+        "short",
+        "period",
+        "people",
+        "numbers"
+      ],
+      "summary": "Their damage and his unit had been given instructions on how to kill large numbers of people in a short period of time. …"
+    },
+    {
+      "segment_id": 73,
+      "start_sentence_idx": 127,
+      "end_sentence_idx": 128,
+      "num_sentences": 1,
+      "start_time_sec": 411.54,
+      "end_time_sec": 411.54,
+      "text_preview": "then the buses started riding.",
+      "keywords": [],
+      "summary": "then the buses started riding. …"
+    },
+    {
+      "segment_id": 74,
+      "start_sentence_idx": 128,
+      "end_sentence_idx": 130,
+      "num_sentences": 2,
+      "start_time_sec": 416.66,
+      "end_time_sec": 420.1,
+      "text_preview": "The first group of ten were blindfolded, their hands tied behind their backs. A dame of itch in his comrades were then ordered to shoot the prisoners in the back.",
+      "keywords": [
+        "tied",
+        "ten",
+        "shoot",
+        "prisoners",
+        "ordered",
+        "itch"
+      ],
+      "summary": "The first group of ten were blindfolded, their hands tied behind their backs. A dame of itch in his comrades were then ordered to shoot the prisoners in the back. …"
+    },
+    {
+      "segment_id": 75,
+      "start_sentence_idx": 130,
+      "end_sentence_idx": 140,
+      "num_sentences": 10,
+      "start_time_sec": 420.66,
+      "end_time_sec": 447.42,
+      "text_preview": "I was sorry for those people, simply. I had no reason to shoot at those people. They had done nothing to me. But a dame of itch empty-dice rifle again and again, killing as many as a hundred of the 1200 killed that day. For sure, I'm assuming. Your honor, I had to do this if I ha…",
+      "keywords": [
+        "unit",
+        "sorry",
+        "refused",
+        "kill",
+        "ordered",
+        "people"
+      ],
+      "summary": "I was sorry for those people, simply. I had no reason to shoot at those people. They had done nothing to me. But a dame of itch empty-dice rifle again and again, killing as many as a hundred of the 1200 killed that day. Your honor, I had to do this"
+    },
+    {
+      "segment_id": 76,
+      "start_sentence_idx": 140,
+      "end_sentence_idx": 146,
+      "num_sentences": 6,
+      "start_time_sec": 450.66,
+      "end_time_sec": 472.58,
+      "text_preview": "A Demovic says this time, he did refuse saying, wasn't there enough blood weren't there enough dead people. A Demovic says he didn't care what happened to himself anymore. Told American prosecutor Mark Harmon, I didn't want to become a robot for extermination. Are you able to est…",
+      "keywords": [
+        "people",
+        "says",
+        "many",
+        "know",
+        "enough",
+        "killed"
+      ],
+      "summary": "A Demovic says he didn't care what happened to himself anymore. Told American prosecutor Mark Harmon, I didn't want to become a robot for extermination. Are you able to estimate how many people you"
+    },
+    {
+      "segment_id": 77,
+      "start_sentence_idx": 146,
+      "end_sentence_idx": 147,
+      "num_sentences": 1,
+      "start_time_sec": 477.18,
+      "end_time_sec": 477.18,
+      "text_preview": "A Demovitch's refusal to kill again did not go unnoticed by his comrades.",
+      "keywords": [],
+      "summary": "A Demovitch's refusal to kill again did not go unnoticed by his comrades. …"
+    },
+    {
+      "segment_id": 78,
+      "start_sentence_idx": 147,
+      "end_sentence_idx": 148,
+      "num_sentences": 1,
+      "start_time_sec": 480.66,
+      "end_time_sec": 480.66,
+      "text_preview": "A few days later in a bar fight one of them shot him four times.",
+      "keywords": [],
+      "summary": "A few days later in a bar fight one of them shot him four times. …"
+    },
+    {
+      "segment_id": 79,
+      "start_sentence_idx": 148,
+      "end_sentence_idx": 151,
+      "num_sentences": 3,
+      "start_time_sec": 480.66,
+      "end_time_sec": 486.66,
+      "text_preview": "Her Demovitch said it was because they knew he couldn't keep his mouth shut. And he couldn't. Demovitch's after the massacre he couldn't sleep.",
+      "keywords": [
+        "demovitch",
+        "sleep",
+        "said",
+        "shut",
+        "mouth",
+        "massacre"
+      ],
+      "summary": "Her Demovitch said it was because they knew he couldn't keep his mouth shut. And he couldn't. Demovitch's after the massacre he couldn't sleep. …"
+    },
+    {
+      "segment_id": 80,
+      "start_sentence_idx": 151,
+      "end_sentence_idx": 152,
+      "num_sentences": 1,
+      "start_time_sec": 491.94,
+      "end_time_sec": 491.94,
+      "text_preview": "Stay away from home and drink.",
+      "keywords": [],
+      "summary": "Stay away from home and drink. …"
+    },
+    {
+      "segment_id": 81,
+      "start_sentence_idx": 152,
+      "end_sentence_idx": 153,
+      "num_sentences": 1,
+      "start_time_sec": 496.74,
+      "end_time_sec": 496.74,
+      "text_preview": "After he had partially recovered from the gunshot wounds, he says he finally decided to tell his story to the war crimes tribunal, but there was no tribunal representative anywhere nearby.",
+      "keywords": [
+        "tribunal",
+        "wounds",
+        "war",
+        "tell",
+        "story",
+        "says"
+      ],
+      "summary": "After he had partially recovered from the gunshot wounds, he says he finally decided to tell his story to the war crimes tribunal, but there was no tribunal representative anywhere nearby. …"
+    },
+    {
+      "segment_id": 82,
+      "start_sentence_idx": 153,
+      "end_sentence_idx": 159,
+      "num_sentences": 6,
+      "start_time_sec": 496.74,
+      "end_time_sec": 516.66,
+      "text_preview": "So he went to the American Embassy in Belgrade. They gave him a list of news agencies. He called the first one on the list and told his story to a stringer for ABC News. Unfortunately, the phones were tapped, and the reporters' tapes were confiscated at the airport. their damage …",
+      "keywords": [
+        "list",
+        "news",
+        "went",
+        "unfortunately",
+        "told",
+        "tapes"
+      ],
+      "summary": "American Embassy in Belgrade gave reporter list of news agencies. He called the first one on the list and told his story to a stringer for ABC News. Unfortunately, the phones were tapped"
+    },
+    {
+      "segment_id": 83,
+      "start_sentence_idx": 159,
+      "end_sentence_idx": 161,
+      "num_sentences": 2,
+      "start_time_sec": 521.46,
+      "end_time_sec": 521.46,
+      "text_preview": "His story at the Pilates' massacre was translated and retold all over the world. Her demavic eventually made his way to the tribunal and we told her story again.",
+      "keywords": [
+        "story",
+        "world",
+        "tribunal",
+        "way",
+        "translated",
+        "told"
+      ],
+      "summary": "His story at the Pilates' massacre was translated and retold all over the world. Her demavic eventually made his way to the tribunal and we told her story again. …"
+    },
+    {
+      "segment_id": 84,
+      "start_sentence_idx": 161,
+      "end_sentence_idx": 162,
+      "num_sentences": 1,
+      "start_time_sec": 527.66,
+      "end_time_sec": 527.66,
+      "text_preview": "I just want the truth to be known and for someone to understand that this actually happened and how these people had lost their lives because as we heard today, nobody knew about the place of Pilates.",
+      "keywords": [
+        "want",
+        "understand",
+        "truth",
+        "today",
+        "someone",
+        "place"
+      ],
+      "summary": "I just want the truth to be known and for someone to understand that this actually happened and how these people had lost their lives because as we heard today, nobody knew about the place of Pilates. …"
+    },
+    {
+      "segment_id": 85,
+      "start_sentence_idx": 162,
+      "end_sentence_idx": 163,
+      "num_sentences": 1,
+      "start_time_sec": 532.94,
+      "end_time_sec": 532.94,
+      "text_preview": "said that a crime had happened there and what kind of crime?",
+      "keywords": [],
+      "summary": "said that a crime had happened there and what kind of crime? …"
+    },
+    {
+      "segment_id": 86,
+      "start_sentence_idx": 163,
+      "end_sentence_idx": 164,
+      "num_sentences": 1,
+      "start_time_sec": 532.94,
+      "end_time_sec": 532.94,
+      "text_preview": "Perhaps that's where most people were killed.",
+      "keywords": [],
+      "summary": "Perhaps that's where most people were killed. …"
+    },
+    {
+      "segment_id": 87,
+      "start_sentence_idx": 164,
+      "end_sentence_idx": 165,
+      "num_sentences": 1,
+      "start_time_sec": 537.54,
+      "end_time_sec": 537.54,
+      "text_preview": "And to have someone believe me that I really had to do it that I didn't want to do it.",
+      "keywords": [
+        "want",
+        "someone",
+        "really",
+        "believe"
+      ],
+      "summary": "And to have someone believe me that I really had to do it that I didn't want to do it. …"
+    },
+    {
+      "segment_id": 88,
+      "start_sentence_idx": 165,
+      "end_sentence_idx": 166,
+      "num_sentences": 1,
+      "start_time_sec": 540.66,
+      "end_time_sec": 540.66,
+      "text_preview": "That's why.",
+      "keywords": [],
+      "summary": "That's why. …"
+    },
+    {
+      "segment_id": 89,
+      "start_sentence_idx": 166,
+      "end_sentence_idx": 168,
+      "num_sentences": 2,
+      "start_time_sec": 545.58,
+      "end_time_sec": 549.66,
+      "text_preview": "Judges deciding, as case, had a difficult time understanding how our Demovitch got himself in such a no-wion situation, by didn't he just flee the country? Your Demovitch explained, he couldn't get a passport until you'd complete it your mill.",
+      "keywords": [
+        "demovitch",
+        "wion",
+        "understanding",
+        "situation",
+        "time",
+        "mill"
+      ],
+      "summary": "Judges deciding, as case, had a difficult time understanding how our Demovitch got himself in such a no-wion situation, by didn't he just flee the country? Your Demovitch explained, he couldn't get a passport until you'd …"
+    },
+    {
+      "segment_id": 90,
+      "start_sentence_idx": 168,
+      "end_sentence_idx": 169,
+      "num_sentences": 1,
+      "start_time_sec": 554.66,
+      "end_time_sec": 554.66,
+      "text_preview": "territory service and by then the war at Broken Out.",
+      "keywords": [],
+      "summary": "territory service and by then the war at Broken Out. …"
+    },
+    {
+      "segment_id": 91,
+      "start_sentence_idx": 169,
+      "end_sentence_idx": 171,
+      "num_sentences": 2,
+      "start_time_sec": 560.98,
+      "end_time_sec": 562.98,
+      "text_preview": "Egyptian judge, poet Riyat, questioned why he kept enlisting in the army. He pleaded very much the cause of peace.",
+      "keywords": [
+        "riyat",
+        "questioned",
+        "poet",
+        "pleaded",
+        "peace",
+        "much"
+      ],
+      "summary": "Egyptian judge, poet Riyat, questioned why he kept enlisting in the army. He pleaded very much the cause of peace. …"
+    },
+    {
+      "segment_id": 92,
+      "start_sentence_idx": 171,
+      "end_sentence_idx": 172,
+      "num_sentences": 1,
+      "start_time_sec": 567.7,
+      "end_time_sec": 567.7,
+      "text_preview": "At the same time, you happened to join all the fighting groups during this war.",
+      "keywords": [],
+      "summary": "At the same time, you happened to join all the fighting groups during this war. …"
+    },
+    {
+      "segment_id": 93,
+      "start_sentence_idx": 172,
+      "end_sentence_idx": 173,
+      "num_sentences": 1,
+      "start_time_sec": 570.66,
+      "end_time_sec": 570.66,
+      "text_preview": "Was there any other way to express your belief in coexistence?",
+      "keywords": [],
+      "summary": "Was there any other way to express your belief in coexistence? …"
+    },
+    {
+      "segment_id": 94,
+      "start_sentence_idx": 173,
+      "end_sentence_idx": 174,
+      "num_sentences": 1,
+      "start_time_sec": 570.66,
+      "end_time_sec": 570.66,
+      "text_preview": "How shall I put it?",
+      "keywords": [],
+      "summary": "How shall I put it? …"
+    },
+    {
+      "segment_id": 95,
+      "start_sentence_idx": 174,
+      "end_sentence_idx": 175,
+      "num_sentences": 1,
+      "start_time_sec": 570.66,
+      "end_time_sec": 570.66,
+      "text_preview": "We were forced to join the army.",
+      "keywords": [],
+      "summary": "We were forced to join the army. …"
+    },
+    {
+      "segment_id": 96,
+      "start_sentence_idx": 175,
+      "end_sentence_idx": 176,
+      "num_sentences": 1,
+      "start_time_sec": 577.46,
+      "end_time_sec": 577.46,
+      "text_preview": "I had received the scholar papers I had no one to turn to.",
+      "keywords": [],
+      "summary": "I had received the scholar papers I had no one to turn to. …"
+    },
+    {
+      "segment_id": 97,
+      "start_sentence_idx": 176,
+      "end_sentence_idx": 177,
+      "num_sentences": 1,
+      "start_time_sec": 582.98,
+      "end_time_sec": 582.98,
+      "text_preview": "Who was, obviously, the simple drussian edema which with nobody who would listen to me.",
+      "keywords": [],
+      "summary": "Who was, obviously, the simple drussian edema which with nobody who would listen to me. …"
+    },
+    {
+      "segment_id": 98,
+      "start_sentence_idx": 177,
+      "end_sentence_idx": 178,
+      "num_sentences": 1,
+      "start_time_sec": 588.42,
+      "end_time_sec": 588.42,
+      "text_preview": "Edema which go increasingly frustrated at the judges' questioning.",
+      "keywords": [],
+      "summary": "Edema which go increasingly frustrated at the judges' questioning. …"
+    },
+    {
+      "segment_id": 99,
+      "start_sentence_idx": 178,
+      "end_sentence_idx": 179,
+      "num_sentences": 1,
+      "start_time_sec": 593.94,
+      "end_time_sec": 593.94,
+      "text_preview": "He cried several times on the stand.",
+      "keywords": [],
+      "summary": "He cried several times on the stand. …"
+    },
+    {
+      "segment_id": 100,
+      "start_sentence_idx": 179,
+      "end_sentence_idx": 180,
+      "num_sentences": 1,
+      "start_time_sec": 593.94,
+      "end_time_sec": 593.94,
+      "text_preview": "At one point, he and the French.",
+      "keywords": [],
+      "summary": "At one point, he and the French. …"
+    },
+    {
+      "segment_id": 101,
+      "start_sentence_idx": 180,
+      "end_sentence_idx": 181,
+      "num_sentences": 1,
+      "start_time_sec": 593.94,
+      "end_time_sec": 593.94,
+      "text_preview": "judge quad-jord began shouting at each other in their native languages, either one waiting for translation.",
+      "keywords": [],
+      "summary": "judge quad-jord began shouting at each other in their native languages, either one waiting for translation. …"
+    },
+    {
+      "segment_id": 102,
+      "start_sentence_idx": 181,
+      "end_sentence_idx": 182,
+      "num_sentences": 1,
+      "start_time_sec": 600.66,
+      "end_time_sec": 600.66,
+      "text_preview": "I think I'm a person who says, I don't understand me.",
+      "keywords": [],
+      "summary": "I think I'm a person who says, I don't understand me. …"
+    },
+    {
+      "segment_id": 103,
+      "start_sentence_idx": 182,
+      "end_sentence_idx": 183,
+      "num_sentences": 1,
+      "start_time_sec": 604.5,
+      "end_time_sec": 604.5,
+      "text_preview": "My wife is a surm.",
+      "keywords": [],
+      "summary": "My wife is a surm. …"
+    },
+    {
+      "segment_id": 104,
+      "start_sentence_idx": 183,
+      "end_sentence_idx": 184,
+      "num_sentences": 1,
+      "start_time_sec": 609.1,
+      "end_time_sec": 609.1,
+      "text_preview": "Was I supposed to... Hey, Ter because she was a Serbian.",
+      "keywords": [],
+      "summary": "Was I supposed to... Hey, Ter because she was a Serbian. …"
+    },
+    {
+      "segment_id": 105,
+      "start_sentence_idx": 184,
+      "end_sentence_idx": 185,
+      "num_sentences": 1,
+      "start_time_sec": 613.98,
+      "end_time_sec": 613.98,
+      "text_preview": "I apologize, but let me explain this to you.",
+      "keywords": [],
+      "summary": "I apologize, but let me explain this to you. …"
+    },
+    {
+      "segment_id": 106,
+      "start_sentence_idx": 185,
+      "end_sentence_idx": 186,
+      "num_sentences": 1,
+      "start_time_sec": 621.74,
+      "end_time_sec": 621.74,
+      "text_preview": "I do understand this, but this is the 12th time that I'm repeating my story.",
+      "keywords": [],
+      "summary": "I do understand this, but this is the 12th time that I'm repeating my story. …"
+    },
+    {
+      "segment_id": 107,
+      "start_sentence_idx": 186,
+      "end_sentence_idx": 188,
+      "num_sentences": 2,
+      "start_time_sec": 621.74,
+      "end_time_sec": 629.1,
+      "text_preview": "The story of how my life has been destroyed. Please try to understand me.",
+      "keywords": [],
+      "summary": "The story of how my life has been destroyed. Please try to understand me. …"
+    },
+    {
+      "segment_id": 108,
+      "start_sentence_idx": 188,
+      "end_sentence_idx": 189,
+      "num_sentences": 1,
+      "start_time_sec": 630.66,
+      "end_time_sec": 630.66,
+      "text_preview": "This is the 12th time I'm doing this.",
+      "keywords": [],
+      "summary": "This is the 12th time I'm doing this. …"
+    },
+    {
+      "segment_id": 109,
+      "start_sentence_idx": 189,
+      "end_sentence_idx": 190,
+      "num_sentences": 1,
+      "start_time_sec": 634.82,
+      "end_time_sec": 634.82,
+      "text_preview": "Her death of it even pulled up a shirt to show the two-foot scar on his belly.",
+      "keywords": [],
+      "summary": "Her death of it even pulled up a shirt to show the two-foot scar on his belly. …"
+    },
+    {
+      "segment_id": 110,
+      "start_sentence_idx": 190,
+      "end_sentence_idx": 192,
+      "num_sentences": 2,
+      "start_time_sec": 640.3,
+      "end_time_sec": 643.1,
+      "text_preview": "The result of several operations to repair damage done by his comrades bullets. bullets.",
+      "keywords": [],
+      "summary": "The result of several operations to repair damage done by his comrades bullets. bullets. …"
+    },
+    {
+      "segment_id": 111,
+      "start_sentence_idx": 192,
+      "end_sentence_idx": 193,
+      "num_sentences": 1,
+      "start_time_sec": 648.1,
+      "end_time_sec": 648.1,
+      "text_preview": "Judge Jordan was unmoved.",
+      "keywords": [],
+      "summary": "Judge Jordan was unmoved. …"
+    },
+    {
+      "segment_id": 112,
+      "start_sentence_idx": 193,
+      "end_sentence_idx": 194,
+      "num_sentences": 1,
+      "start_time_sec": 650.1,
+      "end_time_sec": 650.1,
+      "text_preview": "I understand that it's painful for you.",
+      "keywords": [],
+      "summary": "I understand that it's painful for you. …"
+    },
+    {
+      "segment_id": 113,
+      "start_sentence_idx": 194,
+      "end_sentence_idx": 195,
+      "num_sentences": 1,
+      "start_time_sec": 655.02,
+      "end_time_sec": 655.02,
+      "text_preview": "We understand that you would call it in a storm.",
+      "keywords": [],
+      "summary": "We understand that you would call it in a storm. …"
+    },
+    {
+      "segment_id": 114,
+      "start_sentence_idx": 195,
+      "end_sentence_idx": 198,
+      "num_sentences": 3,
+      "start_time_sec": 657.42,
+      "end_time_sec": 660.66,
+      "text_preview": "But that is not a reason for us just  that to say that these many, many people would kill simply will be written off. Prosecutors say they never would have known what had happened to those 1200 victims. If your death of a chet not come forward.",
+      "keywords": [
+        "would",
+        "many",
+        "say",
+        "victims",
+        "written",
+        "simply"
+      ],
+      "summary": "But that is not a reason for us just  that to say that these many, many people would kill simply will be written off. Prosecutors say they never would have known what had happened to those 1200 victims. If your death of  …"
+    },
+    {
+      "segment_id": 115,
+      "start_sentence_idx": 198,
+      "end_sentence_idx": 207,
+      "num_sentences": 9,
+      "start_time_sec": 660.66,
+      "end_time_sec": 690.66,
+      "text_preview": "Yet the tribunal judges sentenced him to 10 years behind bars for him. role in the killings, dismissing his claims that he had no choice but to shoot. The judges said they only had his word on it. So here the tribunal has sentenced its first war criminal. The kid they have encase…",
+      "keywords": [
+        "yet",
+        "shoot",
+        "sentenced",
+        "tribunal",
+        "man",
+        "judges"
+      ],
+      "summary": "The tribunal judges sentenced him to 10 years behind bars for him role in the killings. Yet the tribunal judges dismissed his claims that he had no choice but to shoot. The judges said they only had his word on it."
+    },
+    {
+      "segment_id": 116,
+      "start_sentence_idx": 207,
+      "end_sentence_idx": 213,
+      "num_sentences": 6,
+      "start_time_sec": 695.58,
+      "end_time_sec": 723.94,
+      "text_preview": "Does this justice punishing only the small fish? The Weas are worth the Canadian chief prosecutor to try and look at its angry when their demivic is described as a little fish. How small a fish can you be when you're prepared to admit to the killing of 100 people? By any national…",
+      "keywords": [
+        "fish",
+        "people",
+        "killers",
+        "small",
+        "waste",
+        "worth"
+      ],
+      "summary": "By any national standard, this would be the biggest crime in the history of Canada. Does this justice punishing only the small fish? The Weas are worth the Canadian chief prosecutor to try and look at its angry when their demivic is described as a little fish."
+    },
+    {
+      "segment_id": 117,
+      "start_sentence_idx": 213,
+      "end_sentence_idx": 214,
+      "num_sentences": 1,
+      "start_time_sec": 728.88,
+      "end_time_sec": 728.88,
+      "text_preview": "Which brings us to the biggest problem facing the tribe and not.",
+      "keywords": [],
+      "summary": "Which brings us to the biggest problem facing the tribe and not. …"
+    },
+    {
+      "segment_id": 118,
+      "start_sentence_idx": 214,
+      "end_sentence_idx": 216,
+      "num_sentences": 2,
+      "start_time_sec": 733.42,
+      "end_time_sec": 737.26,
+      "text_preview": "Unlike most criminal justice systems, the Tribunal has no police force to be its own. And so it has no way of bringing cute Jews to justice.",
+      "keywords": [
+        "justice",
+        "unlike",
+        "way",
+        "tribunal",
+        "systems",
+        "police"
+      ],
+      "summary": "Unlike most criminal justice systems, the Tribunal has no police force to be its own. And so it has no way of bringing cute Jews to justice. …"
+    },
+    {
+      "segment_id": 119,
+      "start_sentence_idx": 216,
+      "end_sentence_idx": 217,
+      "num_sentences": 1,
+      "start_time_sec": 741.98,
+      "end_time_sec": 741.98,
+      "text_preview": "The Yugoslav Tribunal has indicted 75 people so far.",
+      "keywords": [],
+      "summary": "The Yugoslav Tribunal has indicted 75 people so far. …"
+    },
+    {
+      "segment_id": 120,
+      "start_sentence_idx": 217,
+      "end_sentence_idx": 219,
+      "num_sentences": 2,
+      "start_time_sec": 744.58,
+      "end_time_sec": 749.14,
+      "text_preview": "One has died, seven are in custody, and the rest are working and living free in the former Yugoslavia. Before the den of Khotem, the daughter of the the Bosnian Serbian and Croatian governments are supposed to hand over and die at work criminals living in their territories.",
+      "keywords": [
+        "living",
+        "working",
+        "yugoslavia",
+        "territories",
+        "supposed",
+        "seven"
+      ],
+      "summary": "One has died, seven are in custody, and the rest are working and living free in the former Yugoslavia. Before the den of Khotem, the daughter of the the Bosnian Serbian and Croatian governments are supposed to hand over  …"
+    },
+    {
+      "segment_id": 121,
+      "start_sentence_idx": 219,
+      "end_sentence_idx": 220,
+      "num_sentences": 1,
+      "start_time_sec": 750.66,
+      "end_time_sec": 750.66,
+      "text_preview": "Rare exceptions this has happened.",
+      "keywords": [],
+      "summary": "Rare exceptions this has happened. …"
+    },
+    {
+      "segment_id": 122,
+      "start_sentence_idx": 220,
+      "end_sentence_idx": 221,
+      "num_sentences": 1,
+      "start_time_sec": 752.66,
+      "end_time_sec": 752.66,
+      "text_preview": "Under date NATO troops are also authorized to make a rest of any indicted work criminals they encounter.",
+      "keywords": [],
+      "summary": "Under date NATO troops are also authorized to make a rest of any indicted work criminals they encounter. …"
+    },
+    {
+      "segment_id": 123,
+      "start_sentence_idx": 221,
+      "end_sentence_idx": 222,
+      "num_sentences": 1,
+      "start_time_sec": 758.66,
+      "end_time_sec": 758.66,
+      "text_preview": "The joke is tribunal, that NATO troops have to cross the street not to run into them.",
+      "keywords": [],
+      "summary": "The joke is tribunal, that NATO troops have to cross the street not to run into them. …"
+    },
+    {
+      "segment_id": 124,
+      "start_sentence_idx": 222,
+      "end_sentence_idx": 223,
+      "num_sentences": 1,
+      "start_time_sec": 761.66,
+      "end_time_sec": 761.66,
+      "text_preview": "If the international community doesn't follow through with its commitment to the tribunal, if the United War criminals are allowed to remain free, it sends exactly up.",
+      "keywords": [
+        "war",
+        "united",
+        "tribunal",
+        "sends",
+        "remain",
+        "international"
+      ],
+      "summary": "If the international community doesn't follow through with its commitment to the tribunal, if the United War criminals are allowed to remain free, it sends exactly up. …"
+    },
+    {
+      "segment_id": 125,
+      "start_sentence_idx": 223,
+      "end_sentence_idx": 224,
+      "num_sentences": 1,
+      "start_time_sec": 769.66,
+      "end_time_sec": 769.66,
+      "text_preview": "opposite message from the one Americans at the Tribunal were hoping to send.",
+      "keywords": [],
+      "summary": "opposite message from the one Americans at the Tribunal were hoping to send. …"
+    },
+    {
+      "segment_id": 126,
+      "start_sentence_idx": 224,
+      "end_sentence_idx": 225,
+      "num_sentences": 1,
+      "start_time_sec": 772.66,
+      "end_time_sec": 772.66,
+      "text_preview": "It says essentially, the future characterizes a melodicist who commit any atrocities they want, and the world won't bother to bring them to justice.",
+      "keywords": [
+        "world",
+        "want",
+        "says",
+        "melodicist",
+        "justice",
+        "future"
+      ],
+      "summary": "It says essentially, the future characterizes a melodicist who commit any atrocities they want, and the world won't bother to bring them to justice. …"
+    },
+    {
+      "segment_id": 127,
+      "start_sentence_idx": 225,
+      "end_sentence_idx": 226,
+      "num_sentences": 1,
+      "start_time_sec": 775.66,
+      "end_time_sec": 775.66,
+      "text_preview": "The Dutch  most Europeans are not particularly churchgoing people.",
+      "keywords": [],
+      "summary": "The Dutch  most Europeans are not particularly churchgoing people. …"
+    },
+    {
+      "segment_id": 128,
+      "start_sentence_idx": 226,
+      "end_sentence_idx": 227,
+      "num_sentences": 1,
+      "start_time_sec": 780.66,
+      "end_time_sec": 780.66,
+      "text_preview": "Every small town boasts a beautiful cathedral, but it's usually empty.",
+      "keywords": [],
+      "summary": "Every small town boasts a beautiful cathedral, but it's usually empty. …"
+    },
+    {
+      "segment_id": 129,
+      "start_sentence_idx": 227,
+      "end_sentence_idx": 229,
+      "num_sentences": 2,
+      "start_time_sec": 784.06,
+      "end_time_sec": 787.06,
+      "text_preview": "When a holiday called to the Pinkster and World Around, when london. day, none of the locals in the court knew what it was.",
+      "keywords": [
+        "world",
+        "pinkster",
+        "none",
+        "london",
+        "locals",
+        "knew"
+      ],
+      "summary": "When a holiday called to the Pinkster and World Around, when london. day, none of the locals in the court knew what it was. …"
+    },
+    {
+      "segment_id": 130,
+      "start_sentence_idx": 229,
+      "end_sentence_idx": 230,
+      "num_sentences": 1,
+      "start_time_sec": 790.66,
+      "end_time_sec": 790.66,
+      "text_preview": "Many foreigners had a consultant with surgical calendar to find out he was the second day of the country cost.",
+      "keywords": [
+        "surgical",
+        "second",
+        "many",
+        "foreigners",
+        "find",
+        "day"
+      ],
+      "summary": "Many foreigners had a consultant with surgical calendar to find out he was the second day of the country cost. …"
+    },
+    {
+      "segment_id": 131,
+      "start_sentence_idx": 230,
+      "end_sentence_idx": 231,
+      "num_sentences": 1,
+      "start_time_sec": 794.26,
+      "end_time_sec": 794.26,
+      "text_preview": "So here in the midst of this rather secular society, he's a child about another society where religious divisions became a matter of life and death.",
+      "keywords": [
+        "society",
+        "secular",
+        "religious",
+        "rather",
+        "midst",
+        "matter"
+      ],
+      "summary": "So here in the midst of this rather secular society, he's a child about another society where religious divisions became a matter of life and death. …"
+    },
+    {
+      "segment_id": 132,
+      "start_sentence_idx": 231,
+      "end_sentence_idx": 232,
+      "num_sentences": 1,
+      "start_time_sec": 796.86,
+      "end_time_sec": 796.86,
+      "text_preview": "And in this setting, those who come to work every day at the tribunal are the truly faith.",
+      "keywords": [],
+      "summary": "And in this setting, those who come to work every day at the tribunal are the truly faith. …"
+    },
+    {
+      "segment_id": 133,
+      "start_sentence_idx": 232,
+      "end_sentence_idx": 236,
+      "num_sentences": 4,
+      "start_time_sec": 799.86,
+      "end_time_sec": 820.66,
+      "text_preview": "The world community won't arrest the criminals they indict. As if at the war. or don't seem particularly interested in the truth about it. The international media ignores what they're doing.",
+      "keywords": [
+        "world",
+        "war",
+        "truth",
+        "seem",
+        "particularly",
+        "media"
+      ],
+      "summary": "The world community won't arrest the criminals they indict. As if at the war. or don't seem particularly interested in the truth about it. The international media ignores what they're doing. …"
+    },
+    {
+      "segment_id": 134,
+      "start_sentence_idx": 236,
+      "end_sentence_idx": 237,
+      "num_sentences": 1,
+      "start_time_sec": 825.66,
+      "end_time_sec": 825.66,
+      "text_preview": "But still, the lawyers and the judges come in, salmon evidence they work on their cases.",
+      "keywords": [],
+      "summary": "But still, the lawyers and the judges come in, salmon evidence they work on their cases. …"
+    },
+    {
+      "segment_id": 135,
+      "start_sentence_idx": 237,
+      "end_sentence_idx": 238,
+      "num_sentences": 1,
+      "start_time_sec": 829.66,
+      "end_time_sec": 829.66,
+      "text_preview": "Troublesievers in the idea that the rule of law is the only way to create a lasting peace.",
+      "keywords": [],
+      "summary": "Troublesievers in the idea that the rule of law is the only way to create a lasting peace. …"
+    },
+    {
+      "segment_id": 136,
+      "start_sentence_idx": 238,
+      "end_sentence_idx": 241,
+      "num_sentences": 3,
+      "start_time_sec": 834.66,
+      "end_time_sec": 838.66,
+      "text_preview": "Sitting there day after day, I remember the oldest, lamin' proffer that says one hour of doing justice is worth a hundred and prayer. They come to this brick temple. a courthouse every day to do their praying by working for justice.",
+      "keywords": [
+        "day",
+        "justice",
+        "worth",
+        "working",
+        "sitting",
+        "temple"
+      ],
+      "summary": "Sitting there day after day, I remember the oldest, lamin' proffer that says one hour of doing justice is worth a hundred and prayer. They come to this brick temple. a courthouse every day to do their praying by working  …"
+    },
+    {
+      "segment_id": 137,
+      "start_sentence_idx": 241,
+      "end_sentence_idx": 242,
+      "num_sentences": 1,
+      "start_time_sec": 840.66,
+      "end_time_sec": 840.66,
+      "text_preview": "Even if no one hears their prayer.",
+      "keywords": [],
+      "summary": "Even if no one hears their prayer. …"
+    },
+    {
+      "segment_id": 138,
+      "start_sentence_idx": 242,
+      "end_sentence_idx": 243,
+      "num_sentences": 1,
+      "start_time_sec": 845.58,
+      "end_time_sec": 845.58,
+      "text_preview": "That's story by Kitty Feldy.",
+      "keywords": [],
+      "summary": "That's story by Kitty Feldy. …"
+    },
+    {
+      "segment_id": 139,
+      "start_sentence_idx": 243,
+      "end_sentence_idx": 244,
+      "num_sentences": 1,
+      "start_time_sec": 850.62,
+      "end_time_sec": 850.62,
+      "text_preview": "There's this remarkable essay about Warcrime's trials and National Truth Solutions by Michael Dodio and current issue with index on censorship.",
+      "keywords": [
+        "warcrime",
+        "truth",
+        "trials",
+        "solutions",
+        "remarkable",
+        "national"
+      ],
+      "summary": "There's this remarkable essay about Warcrime's trials and National Truth Solutions by Michael Dodio and current issue with index on censorship. …"
+    },
+    {
+      "segment_id": 140,
+      "start_sentence_idx": 244,
+      "end_sentence_idx": 246,
+      "num_sentences": 2,
+      "start_time_sec": 852.42,
+      "end_time_sec": 855.22,
+      "text_preview": "Ignania is writing a book on Truth and National Reconciliation. He's examining the Warcrime's trial on Hague and from Wanda and Truth Commission's in Argentina and Chile and South Africa, the situation in Ireland.",
+      "keywords": [
+        "truth",
+        "writing",
+        "warcrime",
+        "wanda",
+        "trial",
+        "south"
+      ],
+      "summary": "Ignania is writing a book on Truth and National Reconciliation. He's examining the Warcrime's trial on Hague and from Wanda and Truth Commission's in Argentina and Chile and South Africa, the situation in Ireland. …"
+    },
+    {
+      "segment_id": 141,
+      "start_sentence_idx": 246,
+      "end_sentence_idx": 247,
+      "num_sentences": 1,
+      "start_time_sec": 857.74,
+      "end_time_sec": 857.74,
+      "text_preview": "And in the sense that he writes, it's open to question whether just... Justice Truth actually heals.",
+      "keywords": [],
+      "summary": "And in the sense that he writes, it's open to question whether just... Justice Truth actually heals. …"
+    },
+    {
+      "segment_id": 142,
+      "start_sentence_idx": 247,
+      "end_sentence_idx": 248,
+      "num_sentences": 1,
+      "start_time_sec": 863.1,
+      "end_time_sec": 863.1,
+      "text_preview": "The one thing he says, what you see as the truth depends on who you are.",
+      "keywords": [],
+      "summary": "The one thing he says, what you see as the truth depends on who you are. …"
+    },
+    {
+      "segment_id": 143,
+      "start_sentence_idx": 248,
+      "end_sentence_idx": 249,
+      "num_sentences": 1,
+      "start_time_sec": 867.86,
+      "end_time_sec": 867.86,
+      "text_preview": "He does this story.",
+      "keywords": [],
+      "summary": "He does this story. …"
+    },
+    {
+      "segment_id": 144,
+      "start_sentence_idx": 249,
+      "end_sentence_idx": 250,
+      "num_sentences": 1,
+      "start_time_sec": 869.34,
+      "end_time_sec": 869.34,
+      "text_preview": "In June of 1996, he was as the chariot discussion of historians, Serbia, Croatia, and Bosnia.",
+      "keywords": [],
+      "summary": "In June of 1996, he was as the chariot discussion of historians, Serbia, Croatia, and Bosnia. …"
+    },
+    {
+      "segment_id": 145,
+      "start_sentence_idx": 250,
+      "end_sentence_idx": 251,
+      "num_sentences": 1,
+      "start_time_sec": 870.66,
+      "end_time_sec": 870.66,
+      "text_preview": "And all these ended people who opposed the war, the most impacted in the post-transport.",
+      "keywords": [],
+      "summary": "And all these ended people who opposed the war, the most impacted in the post-transport. …"
+    },
+    {
+      "segment_id": 146,
+      "start_sentence_idx": 251,
+      "end_sentence_idx": 252,
+      "num_sentences": 1,
+      "start_time_sec": 876.92,
+      "end_time_sec": 876.92,
+      "text_preview": "And they hadn't given into the national hatreds and plain by the way they remained friends.",
+      "keywords": [],
+      "summary": "And they hadn't given into the national hatreds and plain by the way they remained friends. …"
+    },
+    {
+      "segment_id": 147,
+      "start_sentence_idx": 252,
+      "end_sentence_idx": 253,
+      "num_sentences": 1,
+      "start_time_sec": 882.16,
+      "end_time_sec": 882.16,
+      "text_preview": "And I got them round with jable and I asked them at one.",
+      "keywords": [],
+      "summary": "And I got them round with jable and I asked them at one. …"
+    },
+    {
+      "segment_id": 148,
+      "start_sentence_idx": 253,
+      "end_sentence_idx": 254,
+      "num_sentences": 1,
+      "start_time_sec": 887.16,
+      "end_time_sec": 887.16,
+      "text_preview": "point.",
+      "keywords": [],
+      "summary": "point. …"
+    },
+    {
+      "segment_id": 149,
+      "start_sentence_idx": 254,
+      "end_sentence_idx": 261,
+      "num_sentences": 7,
+      "start_time_sec": 894.36,
+      "end_time_sec": 914.98,
+      "text_preview": "Don't you think it would be possible for you all to get together and produce a history of the war? It is a simple matter of how this catastrophe happens in your free society. Those are kind of destiny assignments after I made this mobility and well-meaning proposal and people the…",
+      "keywords": [
+        "war",
+        "began",
+        "people",
+        "think",
+        "agree",
+        "history"
+      ],
+      "summary": "\"We couldn't do it. We couldn't even agree what event should be included,\" he says. \"It is a simple matter of how this catastrophe happens in your free society\""
+    },
+    {
+      "segment_id": 150,
+      "start_sentence_idx": 261,
+      "end_sentence_idx": 262,
+      "num_sentences": 1,
+      "start_time_sec": 914.98,
+      "end_time_sec": 914.98,
+      "text_preview": "And a simple factual questions become in other words, questions that attribution of responsibility and questions that give.",
+      "keywords": [],
+      "summary": "And a simple factual questions become in other words, questions that attribution of responsibility and questions that give. …"
+    },
+    {
+      "segment_id": 151,
+      "start_sentence_idx": 262,
+      "end_sentence_idx": 263,
+      "num_sentences": 1,
+      "start_time_sec": 917.54,
+      "end_time_sec": 917.54,
+      "text_preview": "I mean, it'll take generation.",
+      "keywords": [],
+      "summary": "I mean, it'll take generation. …"
+    },
+    {
+      "segment_id": 152,
+      "start_sentence_idx": 263,
+      "end_sentence_idx": 264,
+      "num_sentences": 1,
+      "start_time_sec": 921.86,
+      "end_time_sec": 921.86,
+      "text_preview": "And I'm not.",
+      "keywords": [],
+      "summary": "And I'm not. …"
+    },
+    {
+      "segment_id": 153,
+      "start_sentence_idx": 264,
+      "end_sentence_idx": 268,
+      "num_sentences": 4,
+      "start_time_sec": 921.86,
+      "end_time_sec": 935.22,
+      "text_preview": "sure that outsiders do it. It's  a family, trauma, and as a family, they will have to talk it out. But it will claim, , 30, 40, 50 years. So would you make a dismissal of the Americans and the other partners who are fortunate to have been with it?",
+      "keywords": [
+        "family",
+        "years",
+        "trauma",
+        "would",
+        "sure",
+        "partners"
+      ],
+      "summary": "\"It's  a family, trauma, and as a family,. they will have to talk it out. But it will claim,"
+    },
+    {
+      "segment_id": 154,
+      "start_sentence_idx": 268,
+      "end_sentence_idx": 270,
+      "num_sentences": 2,
+      "start_time_sec": 939.94,
+      "end_time_sec": 944.54,
+      "text_preview": "Okay, we're going to get it true. Well, I think I don't want to be cynical about that because I think it will really go through this terribly important thing.",
+      "keywords": [
+        "think",
+        "well",
+        "want",
+        "true",
+        "thing",
+        "terribly"
+      ],
+      "summary": "Okay, we're going to get it true. Well, I think I don't want to be cynical about that because I think it will really go through this terribly important thing. …"
+    },
+    {
+      "segment_id": 155,
+      "start_sentence_idx": 270,
+      "end_sentence_idx": 273,
+      "num_sentences": 3,
+      "start_time_sec": 953.22,
+      "end_time_sec": 960.66,
+      "text_preview": "And I think outside is can play a limited role. Isn't outside it say, here are the four-in-six facts about certain work on it. And we can establish the international survey, who can establish what work on is happening to where, by human tools, there's no guarantee that that tool …",
+      "keywords": [
+        "work",
+        "outside",
+        "establish",
+        "tool",
+        "survey",
+        "somewhat"
+      ],
+      "summary": "\"I think outside is can play a limited role. Isn't outside it say, here are the four-in-six facts about certain work on it?\""
+    },
+    {
+      "segment_id": 156,
+      "start_sentence_idx": 273,
+      "end_sentence_idx": 274,
+      "num_sentences": 1,
+      "start_time_sec": 960.66,
+      "end_time_sec": 960.66,
+      "text_preview": "Yeah, but it's just a first step.",
+      "keywords": [],
+      "summary": "Yeah, but it's just a first step. …"
+    },
+    {
+      "segment_id": 157,
+      "start_sentence_idx": 274,
+      "end_sentence_idx": 275,
+      "num_sentences": 1,
+      "start_time_sec": 972.06,
+      "end_time_sec": 972.06,
+      "text_preview": "Absolutely, for a step in, , I would be naive to think that one that's trying to be in a wine puppet's working for so many years, and I'm in all the volumes of evidence published that this is of itself, and it makes much different.",
+      "keywords": [
+        "years",
+        "would",
+        "working",
+        "wine",
+        "volumes",
+        "trying"
+      ],
+      "summary": "Absolutely, for a step in, , I would be naive to think that one that's trying to be in a wine puppet's working for so many years, and I'm in all the volumes of evidence published that this is of itself, and it makes much …"
+    },
+    {
+      "segment_id": 158,
+      "start_sentence_idx": 275,
+      "end_sentence_idx": 276,
+      "num_sentences": 1,
+      "start_time_sec": 972.06,
+      "end_time_sec": 972.06,
+      "text_preview": "I mean, the really scary, I think, is the sentencing which, , a lot of Serbia, and I think Croatian society, the conclusions that even the evidence of the Pangegrb discounted before it's even heard, , it's kind of alien, , and the meaner.",
+      "keywords": [
+        "think",
+        "even",
+        "society",
+        "serbia",
+        "scary",
+        "sentencing"
+      ],
+      "summary": "I mean, the really scary, I think, is the sentencing which, , a lot of Serbia, and I think Croatian society, the conclusions that even the evidence of the Pangegrb discounted before it's even heard, , it's kind of alien, …"
+    },
+    {
+      "segment_id": 159,
+      "start_sentence_idx": 276,
+      "end_sentence_idx": 282,
+      "num_sentences": 6,
+      "start_time_sec": 978.02,
+      "end_time_sec": 990.66,
+      "text_preview": "understand this but our self that can not know one of the standards or the service but no one understands the class but the class no one understands the Muslims but the Muslims and therefore anything the international tribunal says to them has to be wrong. It's such an interestin…",
+      "keywords": [
+        "truth",
+        "place",
+        "one",
+        "regimes",
+        "trying",
+        "understands"
+      ],
+      "summary": "There's a place where that truth is going to go and you can actually help them back there there's ready to work. We're not regimes which really allow and welcome to let the truth. understand this but our self that can not know one of the standards."
+    },
+    {
+      "segment_id": 160,
+      "start_sentence_idx": 282,
+      "end_sentence_idx": 287,
+      "num_sentences": 5,
+      "start_time_sec": 995.54,
+      "end_time_sec": 1020.66,
+      "text_preview": "and then totally off. , the age of a view of will be crying in the wilderness. In his essay, Michael is not your princesses. It comes to terms with the past to entire nations, have to go through the same psychological processes that a person goes through. When they face the past.",
+      "keywords": [
+        "past",
+        "view",
+        "wilderness",
+        "totally",
+        "terms",
+        "processes"
+      ],
+      "summary": "In his essay, Michael is not your princesses. It comes to terms with the past to entire nations, have to go through the same"
+    },
+    {
+      "segment_id": 161,
+      "start_sentence_idx": 287,
+      "end_sentence_idx": 288,
+      "num_sentences": 1,
+      "start_time_sec": 1025.66,
+      "end_time_sec": 1025.66,
+      "text_preview": "Now, there's this, you have to be a moment of admitting the truth, admit it guilt, admit it shame.",
+      "keywords": [],
+      "summary": "Now, there's this, you have to be a moment of admitting the truth, admit it guilt, admit it shame. …"
+    },
+    {
+      "segment_id": 162,
+      "start_sentence_idx": 288,
+      "end_sentence_idx": 289,
+      "num_sentences": 1,
+      "start_time_sec": 1028.66,
+      "end_time_sec": 1028.66,
+      "text_preview": "Do it with a few of those moments, very different setting, admit it.",
+      "keywords": [],
+      "summary": "Do it with a few of those moments, very different setting, admit it. …"
+    },
+    {
+      "segment_id": 163,
+      "start_sentence_idx": 289,
+      "end_sentence_idx": 290,
+      "num_sentences": 1,
+      "start_time_sec": 1034.66,
+      "end_time_sec": 1034.66,
+      "text_preview": "hih It's this American life, America.",
+      "keywords": [],
+      "summary": "hih It's this American life, America. …"
+    },
+    {
+      "segment_id": 164,
+      "start_sentence_idx": 290,
+      "end_sentence_idx": 291,
+      "num_sentences": 1,
+      "start_time_sec": 1036.66,
+      "end_time_sec": 1036.66,
+      "text_preview": "Last, each week at a program of course, which is theme, bring you radio, monolids, miniature documentaries, pound tape, anything we can think of on that theme.",
+      "keywords": [
+        "theme",
+        "week",
+        "think",
+        "tape",
+        "radio",
+        "program"
+      ],
+      "summary": "Last, each week at a program of course, which is theme, bring you radio, monolids, miniature documentaries, pound tape, anything we can think of on that theme. …"
+    },
+    {
+      "segment_id": 165,
+      "start_sentence_idx": 291,
+      "end_sentence_idx": 292,
+      "num_sentences": 1,
+      "start_time_sec": 1038.66,
+      "end_time_sec": 1038.66,
+      "text_preview": "Today's program, what puts past the rest?",
+      "keywords": [],
+      "summary": "Today's program, what puts past the rest? …"
+    },
+    {
+      "segment_id": 166,
+      "start_sentence_idx": 292,
+      "end_sentence_idx": 293,
+      "num_sentences": 1,
+      "start_time_sec": 1041.66,
+      "end_time_sec": 1041.66,
+      "text_preview": "We are at Act 2, kids.",
+      "keywords": [],
+      "summary": "We are at Act 2, kids. …"
+    },
+    {
+      "segment_id": 167,
+      "start_sentence_idx": 293,
+      "end_sentence_idx": 294,
+      "num_sentences": 1,
+      "start_time_sec": 1045.66,
+      "end_time_sec": 1045.66,
+      "text_preview": "This program is not too sunny or sunny, but it's basically through the reason teenagers do so bad when the juvenile justice system.",
+      "keywords": [
+        "sunny",
+        "teenagers",
+        "system",
+        "reason",
+        "program",
+        "juvenile"
+      ],
+      "summary": "This program is not too sunny or sunny, but it's basically through the reason teenagers do so bad when the juvenile justice system. …"
+    },
+    {
+      "segment_id": 168,
+      "start_sentence_idx": 294,
+      "end_sentence_idx": 295,
+      "num_sentences": 1,
+      "start_time_sec": 1049.66,
+      "end_time_sec": 1049.66,
+      "text_preview": "They said they're trying to victim, not by their peers, but by the teeny, By adults, outside of it.",
+      "keywords": [],
+      "summary": "They said they're trying to victim, not by their peers, but by the teeny, By adults, outside of it. …"
+    },
+    {
+      "segment_id": 169,
+      "start_sentence_idx": 295,
+      "end_sentence_idx": 296,
+      "num_sentences": 1,
+      "start_time_sec": 1050.66,
+      "end_time_sec": 1050.66,
+      "text_preview": "Scott Carrier visited a Tucson courtroom set up with the premise that teenagers who be tried and convicted by the teenagers.",
+      "keywords": [
+        "teenagers",
+        "visited",
+        "tucson",
+        "tried",
+        "set",
+        "scott"
+      ],
+      "summary": "Scott Carrier visited a Tucson courtroom set up with the premise that teenagers who be tried and convicted by the teenagers. …"
+    },
+    {
+      "segment_id": 170,
+      "start_sentence_idx": 296,
+      "end_sentence_idx": 297,
+      "num_sentences": 1,
+      "start_time_sec": 1052.66,
+      "end_time_sec": 1052.66,
+      "text_preview": "I'm guilty.",
+      "keywords": [],
+      "summary": "I'm guilty. …"
+    },
+    {
+      "segment_id": 171,
+      "start_sentence_idx": 297,
+      "end_sentence_idx": 298,
+      "num_sentences": 1,
+      "start_time_sec": 1055.66,
+      "end_time_sec": 1055.66,
+      "text_preview": "One minute into the first trial, the prosecuting attorney stands up to examine the witness.",
+      "keywords": [],
+      "summary": "One minute into the first trial, the prosecuting attorney stands up to examine the witness. …"
+    },
+    {
+      "segment_id": 172,
+      "start_sentence_idx": 298,
+      "end_sentence_idx": 299,
+      "num_sentences": 1,
+      "start_time_sec": 1059.66,
+      "end_time_sec": 1059.66,
+      "text_preview": "She's beautiful, a knockout blurred in a tight black cashier sweater.",
+      "keywords": [],
+      "summary": "She's beautiful, a knockout blurred in a tight black cashier sweater. …"
+    },
+    {
+      "segment_id": 173,
+      "start_sentence_idx": 299,
+      "end_sentence_idx": 300,
+      "num_sentences": 1,
+      "start_time_sec": 1068.66,
+      "end_time_sec": 1068.66,
+      "text_preview": "She's maybe 17, but in Tinkorn everyone has rolled play, and she plays the prosecuting very well.",
+      "keywords": [],
+      "summary": "She's maybe 17, but in Tinkorn everyone has rolled play, and she plays the prosecuting very well. …"
+    },
+    {
+      "segment_id": 174,
+      "start_sentence_idx": 300,
+      "end_sentence_idx": 303,
+      "num_sentences": 3,
+      "start_time_sec": 1073.66,
+      "end_time_sec": 1080.66,
+      "text_preview": "Why didn't you go to your room? Was the question that you were turning asked you and you can't answer that? Why didn't you go to your room?",
+      "keywords": [
+        "room",
+        "go",
+        "turning",
+        "question",
+        "asked",
+        "answer"
+      ],
+      "summary": "Why didn't you go to your room? Was the question that you were turning asked you and you can't answer that? Why didn't you go to your room? …"
+    },
+    {
+      "segment_id": 175,
+      "start_sentence_idx": 303,
+      "end_sentence_idx": 304,
+      "num_sentences": 1,
+      "start_time_sec": 1085.16,
+      "end_time_sec": 1085.16,
+      "text_preview": "You have no idea why you wouldn't go to your room The boy on the stand is 12 still with baby fat here's look back to look cool His crime was the pile of false reports in our anymore.",
+      "keywords": [
+        "look",
+        "still",
+        "stand",
+        "reports",
+        "room",
+        "pile"
+      ],
+      "summary": "You have no idea why you wouldn't go to your room The boy on the stand is 12 still with baby fat here's look back to look cool His crime was the pile of false reports in our anymore. …"
+    },
+    {
+      "segment_id": 176,
+      "start_sentence_idx": 304,
+      "end_sentence_idx": 305,
+      "num_sentences": 1,
+      "start_time_sec": 1088.66,
+      "end_time_sec": 1088.66,
+      "text_preview": "I said his mom was getting it Do  what nine one one is he's half What is it?",
+      "keywords": [],
+      "summary": "I said his mom was getting it Do  what nine one one is he's half What is it? …"
+    },
+    {
+      "segment_id": 177,
+      "start_sentence_idx": 305,
+      "end_sentence_idx": 307,
+      "num_sentences": 2,
+      "start_time_sec": 1092.66,
+      "end_time_sec": 1097.66,
+      "text_preview": "It's an emergency only at the phone call,  if there's an intruder in the house or someone really is abusing you to point out where you're scared for your life. Do you think this fits into an emergency?",
+      "keywords": [
+        "emergency",
+        "someone",
+        "scared",
+        "really",
+        "think",
+        "point"
+      ],
+      "summary": "It's an emergency only at the phone call,  if there's an intruder in the house or someone really is abusing you to point out where you're scared for your life. Do you think this fits into an emergency? …"
+    },
+    {
+      "segment_id": 178,
+      "start_sentence_idx": 307,
+      "end_sentence_idx": 309,
+      "num_sentences": 2,
+      "start_time_sec": 1103.66,
+      "end_time_sec": 1108.66,
+      "text_preview": "I mean now that you can think about it, do you think that you should have called them? Yeah.",
+      "keywords": [],
+      "summary": "I mean now that you can think about it, do you think that you should have called them? Yeah. …"
+    },
+    {
+      "segment_id": 179,
+      "start_sentence_idx": 309,
+      "end_sentence_idx": 310,
+      "num_sentences": 1,
+      "start_time_sec": 1110.66,
+      "end_time_sec": 1110.66,
+      "text_preview": "The mother tells me her son is a Tahuna, an old-em-Indian, that she adopted him when he was five, and then he's always been angry, angry at her, angry in a lot of days.",
+      "keywords": [
+        "angry",
+        "tahuna",
+        "son",
+        "old",
+        "tells",
+        "mother"
+      ],
+      "summary": "The mother tells me her son is a Tahuna, an old-em-Indian, that she adopted him when he was five, and then he's always been angry, angry at her, angry in a lot of days. …"
+    },
+    {
+      "segment_id": 180,
+      "start_sentence_idx": 310,
+      "end_sentence_idx": 311,
+      "num_sentences": 1,
+      "start_time_sec": 1112.66,
+      "end_time_sec": 1112.66,
+      "text_preview": "They got into an argument, boy said, why don't you just hit me?",
+      "keywords": [],
+      "summary": "They got into an argument, boy said, why don't you just hit me? …"
+    },
+    {
+      "segment_id": 181,
+      "start_sentence_idx": 311,
+      "end_sentence_idx": 312,
+      "num_sentences": 1,
+      "start_time_sec": 1117.66,
+      "end_time_sec": 1117.66,
+      "text_preview": "Go ahead, hit me, and she did.",
+      "keywords": [],
+      "summary": "Go ahead, hit me, and she did. …"
+    },
+    {
+      "segment_id": 182,
+      "start_sentence_idx": 312,
+      "end_sentence_idx": 313,
+      "num_sentences": 1,
+      "start_time_sec": 1121.54,
+      "end_time_sec": 1121.54,
+      "text_preview": "She slugged him in the arm, and the boy called 911.",
+      "keywords": [],
+      "summary": "She slugged him in the arm, and the boy called 911. …"
+    },
+    {
+      "segment_id": 183,
+      "start_sentence_idx": 313,
+      "end_sentence_idx": 314,
+      "num_sentences": 1,
+      "start_time_sec": 1124.66,
+      "end_time_sec": 1124.66,
+      "text_preview": "No bachelor in 15 courts in 30 states around the country, and their numbers increase in rapidly, because they seem to work.",
+      "keywords": [
+        "work",
+        "states",
+        "seem",
+        "rapidly",
+        "numbers",
+        "increase"
+      ],
+      "summary": "No bachelor in 15 courts in 30 states around the country, and their numbers increase in rapidly, because they seem to work. …"
+    },
+    {
+      "segment_id": 184,
+      "start_sentence_idx": 314,
+      "end_sentence_idx": 315,
+      "num_sentences": 1,
+      "start_time_sec": 1130.5,
+      "end_time_sec": 1130.5,
+      "text_preview": "In Tucson, the recidivism rate, kids ago from King court is only 8%.",
+      "keywords": [],
+      "summary": "In Tucson, the recidivism rate, kids ago from King court is only 8%. …"
+    },
+    {
+      "segment_id": 185,
+      "start_sentence_idx": 315,
+      "end_sentence_idx": 316,
+      "num_sentences": 1,
+      "start_time_sec": 1136.06,
+      "end_time_sec": 1136.06,
+      "text_preview": "Compared with 37% kids who go through regular juvenile court or similar or minor offenses.",
+      "keywords": [],
+      "summary": "Compared with 37% kids who go through regular juvenile court or similar or minor offenses. …"
+    },
+    {
+      "segment_id": 186,
+      "start_sentence_idx": 316,
+      "end_sentence_idx": 317,
+      "num_sentences": 1,
+      "start_time_sec": 1140.66,
+      "end_time_sec": 1140.66,
+      "text_preview": "The social workers, judges, lawyers, and policemen who work in volunteer for teen court are convinced that it's a good program.",
+      "keywords": [
+        "workers",
+        "work",
+        "volunteer",
+        "teen",
+        "social",
+        "program"
+      ],
+      "summary": "The social workers, judges, lawyers, and policemen who work in volunteer for teen court are convinced that it's a good program. …"
+    },
+    {
+      "segment_id": 187,
+      "start_sentence_idx": 317,
+      "end_sentence_idx": 318,
+      "num_sentences": 1,
+      "start_time_sec": 1144.76,
+      "end_time_sec": 1144.76,
+      "text_preview": "They surround the kids with attention, try to show them that they care, that there's a whole community that cares.",
+      "keywords": [
+        "whole",
+        "try",
+        "surround",
+        "show",
+        "kids",
+        "community"
+      ],
+      "summary": "They surround the kids with attention, try to show them that they care, that there's a whole community that cares. …"
+    },
+    {
+      "segment_id": 188,
+      "start_sentence_idx": 318,
+      "end_sentence_idx": 319,
+      "num_sentences": 1,
+      "start_time_sec": 1145.76,
+      "end_time_sec": 1145.76,
+      "text_preview": "But if you ask them why it works, they usually say it's the jury process of having the kids explain themselves and their actions to a jury of their peers, other teenagers.",
+      "keywords": [
+        "jury",
+        "usually",
+        "works",
+        "teenagers",
+        "say",
+        "peers"
+      ],
+      "summary": "But if you ask them why it works, they usually say it's the jury process of having the kids explain themselves and their actions to a jury of their peers, other teenagers. …"
+    },
+    {
+      "segment_id": 189,
+      "start_sentence_idx": 319,
+      "end_sentence_idx": 320,
+      "num_sentences": 1,
+      "start_time_sec": 1149.94,
+      "end_time_sec": 1149.94,
+      "text_preview": "and then hearing the response that this has an unusual, even amazing rehabilitative effect.",
+      "keywords": [],
+      "summary": "and then hearing the response that this has an unusual, even amazing rehabilitative effect. …"
+    },
+    {
+      "segment_id": 190,
+      "start_sentence_idx": 320,
+      "end_sentence_idx": 321,
+      "num_sentences": 1,
+      "start_time_sec": 1154.58,
+      "end_time_sec": 1154.58,
+      "text_preview": "In this case, however, this part of the process seems to be more about shame.",
+      "keywords": [],
+      "summary": "In this case, however, this part of the process seems to be more about shame. …"
+    },
+    {
+      "segment_id": 191,
+      "start_sentence_idx": 321,
+      "end_sentence_idx": 322,
+      "num_sentences": 1,
+      "start_time_sec": 1158.22,
+      "end_time_sec": 1158.22,
+      "text_preview": "Are you aware that you provoked your mother to hit you?",
+      "keywords": [],
+      "summary": "Are you aware that you provoked your mother to hit you? …"
+    },
+    {
+      "segment_id": 192,
+      "start_sentence_idx": 322,
+      "end_sentence_idx": 326,
+      "num_sentences": 4,
+      "start_time_sec": 1162.46,
+      "end_time_sec": 1170.66,
+      "text_preview": "It sounds to me  you provoked her, didn't you? Why would you watch your mother to hit you? Blonde. So, I was  an experimentation you were testing your mother to see if she'd actually hit you.",
+      "keywords": [
+        "mother",
+        "hit",
+        "would",
+        "testing",
+        "watch",
+        "see"
+      ],
+      "summary": "It sounds to me  you provoked her, didn't you? Why would you watch your mother to hit you? Blonde. So, I was  an experimentation you were testing your mother to see if she'd actually hit you. …"
+    },
+    {
+      "segment_id": 193,
+      "start_sentence_idx": 326,
+      "end_sentence_idx": 327,
+      "num_sentences": 1,
+      "start_time_sec": 1174.54,
+      "end_time_sec": 1174.54,
+      "text_preview": "Why would you do that to somebody, especially in my life?",
+      "keywords": [],
+      "summary": "Why would you do that to somebody, especially in my life? …"
+    },
+    {
+      "segment_id": 194,
+      "start_sentence_idx": 327,
+      "end_sentence_idx": 328,
+      "num_sentences": 1,
+      "start_time_sec": 1174.54,
+      "end_time_sec": 1174.54,
+      "text_preview": "In theory, if things were to go as flat, the boys offender, as breaker of a law, should tell the jury that he recognizes his responsibility for the offense and its consequences, and apologizes and say he'll try not to do it again.",
+      "keywords": [
+        "try",
+        "things",
+        "theory",
+        "tell",
+        "say",
+        "responsibility"
+      ],
+      "summary": "In theory, if things were to go as flat, the boys offender, as breaker of a law, should tell the jury that he recognizes his responsibility for the offense and its consequences, and apologizes and say he'll try not to do …"
+    },
+    {
+      "segment_id": 195,
+      "start_sentence_idx": 328,
+      "end_sentence_idx": 329,
+      "num_sentences": 1,
+      "start_time_sec": 1178.46,
+      "end_time_sec": 1178.46,
+      "text_preview": "But instead, I understand, he decides that maybe he wasn't so wrong in calling 911. on that this wasn't the first time his mother hit him and she hits his little brother too.",
+      "keywords": [
+        "wrong",
+        "understand",
+        "time",
+        "mother",
+        "maybe",
+        "little"
+      ],
+      "summary": "But instead, I understand, he decides that maybe he wasn't so wrong in calling 911. on that this wasn't the first time his mother hit him and she hits his little brother too. …"
+    },
+    {
+      "segment_id": 196,
+      "start_sentence_idx": 329,
+      "end_sentence_idx": 330,
+      "num_sentences": 1,
+      "start_time_sec": 1178.46,
+      "end_time_sec": 1178.46,
+      "text_preview": "This is a mistake and in a closing argument the prosecutor asked the jury to remember that the boy is not sorry that he isn't admitting his responsibility.",
+      "keywords": [
+        "sorry",
+        "responsibility",
+        "remember",
+        "prosecutor",
+        "mistake",
+        "jury"
+      ],
+      "summary": "This is a mistake and in a closing argument the prosecutor asked the jury to remember that the boy is not sorry that he isn't admitting his responsibility. …"
+    },
+    {
+      "segment_id": 197,
+      "start_sentence_idx": 330,
+      "end_sentence_idx": 333,
+      "num_sentences": 3,
+      "start_time_sec": 1183.26,
+      "end_time_sec": 1188.44,
+      "text_preview": "The jury is comprised of 18 agents, seven of them have been in team class before defendants and their serving jury duties. their sentences. The eight jurors of girl who's doing this for credit at a private school, she's eager to be the formant of the jury.",
+      "keywords": [
+        "jury",
+        "seven",
+        "team",
+        "serving",
+        "sentences",
+        "school"
+      ],
+      "summary": "The jury is comprised of 18 agents, seven of them have been in team class before defendants and their serving jury duties. their sentences. The eight jurors of girl who's doing this for credit at a private school, she's  …"
+    },
+    {
+      "segment_id": 198,
+      "start_sentence_idx": 333,
+      "end_sentence_idx": 334,
+      "num_sentences": 1,
+      "start_time_sec": 1188.44,
+      "end_time_sec": 1188.44,
+      "text_preview": "She speaks right up and asks if there are any objections to her being the four person and no one objects of course so she gets right down to it.",
+      "keywords": [
+        "right",
+        "speaks",
+        "person",
+        "one",
+        "objects",
+        "objections"
+      ],
+      "summary": "She speaks right up and asks if there are any objections to her being the four person and no one objects of course so she gets right down to it. …"
+    },
+    {
+      "segment_id": 199,
+      "start_sentence_idx": 334,
+      "end_sentence_idx": 335,
+      "num_sentences": 1,
+      "start_time_sec": 1193.18,
+      "end_time_sec": 1193.18,
+      "text_preview": "I think she at the self-steam roof sucks.",
+      "keywords": [],
+      "summary": "I think she at the self-steam roof sucks. …"
+    },
+    {
+      "segment_id": 200,
+      "start_sentence_idx": 335,
+      "end_sentence_idx": 336,
+      "num_sentences": 1,
+      "start_time_sec": 1196.62,
+      "end_time_sec": 1196.62,
+      "text_preview": "It really seems  he needs that he called 911 for a really no reason.",
+      "keywords": [],
+      "summary": "It really seems  he needs that he called 911 for a really no reason. …"
+    },
+    {
+      "segment_id": 201,
+      "start_sentence_idx": 336,
+      "end_sentence_idx": 337,
+      "num_sentences": 1,
+      "start_time_sec": 1200.66,
+      "end_time_sec": 1200.66,
+      "text_preview": "Because of kids I can't  kids he wants you to have this attention.",
+      "keywords": [],
+      "summary": "Because of kids I can't  kids he wants you to have this attention. …"
+    },
+    {
+      "segment_id": 202,
+      "start_sentence_idx": 337,
+      "end_sentence_idx": 343,
+      "num_sentences": 6,
+      "start_time_sec": 1204.74,
+      "end_time_sec": 1227.82,
+      "text_preview": "... usually say about teenagers. The way he acted in there is  not except was I think he doesn't have a spirit for anything and he doesn't take the seriously. I think his parents had them enough or something. He doesn't want to even listen to his mom and nothing and he don't hear…",
+      "keywords": [
+        "parents",
+        "mom",
+        "think",
+        "hit",
+        "usually",
+        "way"
+      ],
+      "summary": "\"The way he acted in there is  not except was I think he doesn't have a spirit for anything,\" she says. \"He doesn't want to even listen to his mom and nothing and he don't hear what he has to have to grow up at attitude\""
+    },
+    {
+      "segment_id": 203,
+      "start_sentence_idx": 343,
+      "end_sentence_idx": 344,
+      "num_sentences": 1,
+      "start_time_sec": 1230.66,
+      "end_time_sec": 1230.66,
+      "text_preview": "Everyone's saying he should have respect for his elders, but I mean we don't know what happened before he started provoking her.",
+      "keywords": [
+        "started",
+        "saying",
+        "respect",
+        "provoking",
+        "mean",
+        "know"
+      ],
+      "summary": "Everyone's saying he should have respect for his elders, but I mean we don't know what happened before he started provoking her. …"
+    },
+    {
+      "segment_id": 204,
+      "start_sentence_idx": 344,
+      "end_sentence_idx": 345,
+      "num_sentences": 1,
+      "start_time_sec": 1233.74,
+      "end_time_sec": 1233.74,
+      "text_preview": "I mean  if she was starting pressing a hand or something, I mean she should have respect for him too, and it's both ways.",
+      "keywords": [
+        "mean",
+        "starting",
+        "ways",
+        "something",
+        "respect",
+        "pressing"
+      ],
+      "summary": "I mean  if she was starting pressing a hand or something, I mean she should have respect for him too, and it's both ways. …"
+    },
+    {
+      "segment_id": 205,
+      "start_sentence_idx": 345,
+      "end_sentence_idx": 346,
+      "num_sentences": 1,
+      "start_time_sec": 1238.28,
+      "end_time_sec": 1238.28,
+      "text_preview": "This girl's 13 years old and really pity.",
+      "keywords": [],
+      "summary": "This girl's 13 years old and really pity. …"
+    },
+    {
+      "segment_id": 206,
+      "start_sentence_idx": 346,
+      "end_sentence_idx": 347,
+      "num_sentences": 1,
+      "start_time_sec": 1240.56,
+      "end_time_sec": 1240.56,
+      "text_preview": "She's been in pain.",
+      "keywords": [],
+      "summary": "She's been in pain. …"
+    },
+    {
+      "segment_id": 207,
+      "start_sentence_idx": 347,
+      "end_sentence_idx": 352,
+      "num_sentences": 5,
+      "start_time_sec": 1246.66,
+      "end_time_sec": 1260.06,
+      "text_preview": "quite twice already. Once per possession of marijuana, and again for hitting her mother, domestic violence. Oh, we don't really know what, , what really goes on in that house. So we can't say that that was the first time he was hit. Maybe you got hit  a lot of time before.",
+      "keywords": [
+        "really",
+        "time",
+        "hit",
+        "twice",
+        "say",
+        "violence"
+      ],
+      "summary": "\"We don't really know what, , what really goes on in that house. So we can't say that that was the first time"
+    },
+    {
+      "segment_id": 208,
+      "start_sentence_idx": 352,
+      "end_sentence_idx": 354,
+      "num_sentences": 2,
+      "start_time_sec": 1260.66,
+      "end_time_sec": 1263.9,
+      "text_preview": "She's the only jurors to try to see things from the boys point of view, most likely because she's been there. She really is, it's appeared.",
+      "keywords": [
+        "view",
+        "try",
+        "things",
+        "see",
+        "really",
+        "point"
+      ],
+      "summary": "She's the only jurors to try to see things from the boys point of view, most likely because she's been there. She really is, it's appeared. …"
+    },
+    {
+      "segment_id": 209,
+      "start_sentence_idx": 354,
+      "end_sentence_idx": 355,
+      "num_sentences": 1,
+      "start_time_sec": 1266.9,
+      "end_time_sec": 1266.9,
+      "text_preview": "She gets into a lot of trouble, fights without the mother.",
+      "keywords": [],
+      "summary": "She gets into a lot of trouble, fights without the mother. …"
+    },
+    {
+      "segment_id": 210,
+      "start_sentence_idx": 355,
+      "end_sentence_idx": 356,
+      "num_sentences": 1,
+      "start_time_sec": 1269.98,
+      "end_time_sec": 1269.98,
+      "text_preview": "She argues for the defense, but the others will have none of it.",
+      "keywords": [],
+      "summary": "She argues for the defense, but the others will have none of it. …"
+    },
+    {
+      "segment_id": 211,
+      "start_sentence_idx": 356,
+      "end_sentence_idx": 357,
+      "num_sentences": 1,
+      "start_time_sec": 1272.94,
+      "end_time_sec": 1272.94,
+      "text_preview": "He's guilty and is not sorry.",
+      "keywords": [],
+      "summary": "He's guilty and is not sorry. …"
+    },
+    {
+      "segment_id": 212,
+      "start_sentence_idx": 357,
+      "end_sentence_idx": 358,
+      "num_sentences": 1,
+      "start_time_sec": 1275.26,
+      "end_time_sec": 1275.26,
+      "text_preview": "He needs to be taught less.",
+      "keywords": [],
+      "summary": "He needs to be taught less. …"
+    },
+    {
+      "segment_id": 213,
+      "start_sentence_idx": 358,
+      "end_sentence_idx": 359,
+      "num_sentences": 1,
+      "start_time_sec": 1278.82,
+      "end_time_sec": 1278.82,
+      "text_preview": "Surprisingly, it turns out that the Beteek girl, even though she seems to understand before, she's willing to punish him just as much as any of the others.",
+      "keywords": [
+        "willing",
+        "understand",
+        "turns",
+        "though",
+        "surprisingly",
+        "seems"
+      ],
+      "summary": "Surprisingly, it turns out that the Beteek girl, even though she seems to understand before, she's willing to punish him just as much as any of the others. …"
+    },
+    {
+      "segment_id": 214,
+      "start_sentence_idx": 359,
+      "end_sentence_idx": 360,
+      "num_sentences": 1,
+      "start_time_sec": 1280.7,
+      "end_time_sec": 1280.7,
+      "text_preview": "I ask her how she would help the boy, and she says she will reduce.",
+      "keywords": [],
+      "summary": "I ask her how she would help the boy, and she says she will reduce. …"
+    },
+    {
+      "segment_id": 215,
+      "start_sentence_idx": 360,
+      "end_sentence_idx": 361,
+      "num_sentences": 1,
+      "start_time_sec": 1283.3,
+      "end_time_sec": 1283.3,
+      "text_preview": "Are you sitting on a jewellery for my couple days?",
+      "keywords": [],
+      "summary": "Are you sitting on a jewellery for my couple days? …"
+    },
+    {
+      "segment_id": 216,
+      "start_sentence_idx": 361,
+      "end_sentence_idx": 362,
+      "num_sentences": 1,
+      "start_time_sec": 1286.22,
+      "end_time_sec": 1286.22,
+      "text_preview": "Have you been to Juvie?",
+      "keywords": [],
+      "summary": "Have you been to Juvie? …"
+    },
+    {
+      "segment_id": 217,
+      "start_sentence_idx": 362,
+      "end_sentence_idx": 363,
+      "num_sentences": 1,
+      "start_time_sec": 1287.94,
+      "end_time_sec": 1287.94,
+      "text_preview": "Yeah, for just a couple hours.",
+      "keywords": [],
+      "summary": "Yeah, for just a couple hours. …"
+    },
+    {
+      "segment_id": 218,
+      "start_sentence_idx": 363,
+      "end_sentence_idx": 364,
+      "num_sentences": 1,
+      "start_time_sec": 1290.66,
+      "end_time_sec": 1290.66,
+      "text_preview": "Was it?",
+      "keywords": [],
+      "summary": "Was it? …"
+    },
+    {
+      "segment_id": 219,
+      "start_sentence_idx": 364,
+      "end_sentence_idx": 365,
+      "num_sentences": 1,
+      "start_time_sec": 1295.66,
+      "end_time_sec": 1295.66,
+      "text_preview": "What was it?",
+      "keywords": [],
+      "summary": "What was it? …"
+    },
+    {
+      "segment_id": 220,
+      "start_sentence_idx": 365,
+      "end_sentence_idx": 366,
+      "num_sentences": 1,
+      "start_time_sec": 1320.66,
+      "end_time_sec": 1320.66,
+      "text_preview": "I'm just keeping away from his parents for a little bit and now he could see that if it happens again, he'll know where he will be.",
+      "keywords": [
+        "see",
+        "parents",
+        "little",
+        "know",
+        "keeping",
+        "happens"
+      ],
+      "summary": "I'm just keeping away from his parents for a little bit and now he could see that if it happens again, he'll know where he will be. …"
+    },
+    {
+      "segment_id": 221,
+      "start_sentence_idx": 366,
+      "end_sentence_idx": 367,
+      "num_sentences": 1,
+      "start_time_sec": 1324.34,
+      "end_time_sec": 1324.34,
+      "text_preview": "I've been told that teenage jurors are notoriously more harsh in their sentence than regular juvenile court judges.",
+      "keywords": [],
+      "summary": "I've been told that teenage jurors are notoriously more harsh in their sentence than regular juvenile court judges. …"
+    },
+    {
+      "segment_id": 222,
+      "start_sentence_idx": 367,
+      "end_sentence_idx": 372,
+      "num_sentences": 5,
+      "start_time_sec": 1329.22,
+      "end_time_sec": 1347.14,
+      "text_preview": "That perhaps this is because teenagers are being asked to act as adults, and they know from experience how adults act in these situations. Adults punish. or perhaps the kids from experience know what really works is to make it heard. The organizers and administrators of Team Cour…",
+      "keywords": [
+        "adults",
+        "perhaps",
+        "experience",
+        "know",
+        "try",
+        "kids"
+      ],
+      "summary": "The organizers and administrators of Team Court try to discourage the idea of punishment. They try instead to encourage corrective sentencing that will help the kids teach them."
+    },
+    {
+      "segment_id": 223,
+      "start_sentence_idx": 372,
+      "end_sentence_idx": 375,
+      "num_sentences": 3,
+      "start_time_sec": 1350.66,
+      "end_time_sec": 1357.66,
+      "text_preview": "There's the minimum sense consisting of jury duty, letters of apology, and a basic course in responsible decision making. But the jury can. if it decides the defendant needs additional corrections.",
+      "keywords": [
+        "jury",
+        "sense",
+        "responsible",
+        "minimum",
+        "needs",
+        "making"
+      ],
+      "summary": "There's the minimum sense consisting of jury duty, letters of apology, and a basic course in responsible decision making. But the jury can. if it decides the defendant needs additional corrections. …"
+    },
+    {
+      "segment_id": 224,
+      "start_sentence_idx": 375,
+      "end_sentence_idx": 379,
+      "num_sentences": 4,
+      "start_time_sec": 1359.66,
+      "end_time_sec": 1375.66,
+      "text_preview": "Require that he performed manual labor, such as painting over graffiti, or making a tent and successfully complete a self-esteem workshop. 5. One-and-a-half-hour sessions in which they learn skills for non-violent problem solving and increasing belief in internal versus external …",
+      "keywords": [
+        "workshop",
+        "violent",
+        "versus",
+        "topics",
+        "tent",
+        "successfully"
+      ],
+      "summary": "One-and-a-half-hour sessions in which they learn skills for non-violent problem solving. Topics include identification and expression of emotions, anger"
+    },
+    {
+      "segment_id": 225,
+      "start_sentence_idx": 379,
+      "end_sentence_idx": 380,
+      "num_sentences": 1,
+      "start_time_sec": 1375.66,
+      "end_time_sec": 1375.66,
+      "text_preview": "In this case, the case of the boss report, since they cannot send the boy to prison, they send him to self esteem workshops, to for good nation, and give him a day's labor community guard.",
+      "keywords": [
+        "case",
+        "send",
+        "since",
+        "workshops",
+        "report",
+        "self"
+      ],
+      "summary": "In this case, the case of the boss report, since they cannot send the boy to prison, they send him to self esteem workshops, to for good nation, and give him a day's labor community guard. …"
+    },
+    {
+      "segment_id": 226,
+      "start_sentence_idx": 380,
+      "end_sentence_idx": 381,
+      "num_sentences": 1,
+      "start_time_sec": 1380.66,
+      "end_time_sec": 1380.66,
+      "text_preview": "The next trial concerns a 13-year-old in this cop with a smoking hole, the marijuana pipe out behind the school.",
+      "keywords": [
+        "year",
+        "trial",
+        "smoking",
+        "school",
+        "pipe",
+        "old"
+      ],
+      "summary": "The next trial concerns a 13-year-old in this cop with a smoking hole, the marijuana pipe out behind the school. …"
+    },
+    {
+      "segment_id": 227,
+      "start_sentence_idx": 381,
+      "end_sentence_idx": 390,
+      "num_sentences": 9,
+      "start_time_sec": 1381.66,
+      "end_time_sec": 1414.46,
+      "text_preview": "He's been suspended for five weeks, and his dad tells me this is excessive punishment. Not constructive at all, because the sun is just missing out on his classes, just sits at home all day. He says he thinks the King Court system is a good, better than the juvenile court. But ba…",
+      "keywords": [
+        "son",
+        "years",
+        "dad",
+        "13",
+        "says",
+        "court"
+      ],
+      "summary": "His son is 13 years old. He's been suspended for five weeks, and his dad tells me this is excessive punishment. He says he thinks the King Court system is a good, better than the juvenile court."
+    },
+    {
+      "segment_id": 228,
+      "start_sentence_idx": 390,
+      "end_sentence_idx": 391,
+      "num_sentences": 1,
+      "start_time_sec": 1419.3,
+      "end_time_sec": 1419.3,
+      "text_preview": "starting to be a man.",
+      "keywords": [],
+      "summary": "starting to be a man. …"
+    },
+    {
+      "segment_id": 229,
+      "start_sentence_idx": 391,
+      "end_sentence_idx": 392,
+      "num_sentences": 1,
+      "start_time_sec": 1425.78,
+      "end_time_sec": 1425.78,
+      "text_preview": "It is son, has just been changed in public.",
+      "keywords": [],
+      "summary": "It is son, has just been changed in public. …"
+    },
+    {
+      "segment_id": 230,
+      "start_sentence_idx": 392,
+      "end_sentence_idx": 393,
+      "num_sentences": 1,
+      "start_time_sec": 1429.78,
+      "end_time_sec": 1429.78,
+      "text_preview": "This time in the jury, we're nearly everyone is in favor of letting it defend and off easy.",
+      "keywords": [],
+      "summary": "This time in the jury, we're nearly everyone is in favor of letting it defend and off easy. …"
+    },
+    {
+      "segment_id": 231,
+      "start_sentence_idx": 393,
+      "end_sentence_idx": 394,
+      "num_sentences": 1,
+      "start_time_sec": 1435.3,
+      "end_time_sec": 1435.3,
+      "text_preview": "The private school girl wants to send it to self-esteem classes, but no one else seems to agree.",
+      "keywords": [],
+      "summary": "The private school girl wants to send it to self-esteem classes, but no one else seems to agree. …"
+    },
+    {
+      "segment_id": 232,
+      "start_sentence_idx": 394,
+      "end_sentence_idx": 396,
+      "num_sentences": 2,
+      "start_time_sec": 1437.06,
+      "end_time_sec": 1440.1,
+      "text_preview": "That, that, that doesn't have enough to do it. I mean, it doesn't have a lot of self-esteem obviously not.",
+      "keywords": [
+        "self",
+        "obviously",
+        "mean",
+        "lot",
+        "esteem",
+        "enough"
+      ],
+      "summary": "That, that, that doesn't have enough to do it. I mean, it doesn't have a lot of self-esteem obviously not. …"
+    },
+    {
+      "segment_id": 233,
+      "start_sentence_idx": 396,
+      "end_sentence_idx": 405,
+      "num_sentences": 9,
+      "start_time_sec": 1440.66,
+      "end_time_sec": 1465.62,
+      "text_preview": "off the scene which is not just so- I know but all that's going to be it's quite a class that's going to be something we watch is saying watch is the clock all time and go to the scene and make everybody participate if I saw on the street just the way he lives but he just lives b…",
+      "keywords": [
+        "know",
+        "one",
+        "scene",
+        "self",
+        "lives",
+        "go"
+      ],
+      "summary": "During Monitor and I wrote a professional social worker who's overseeing the deliberation. She counts for in favor of self-esteem, in court against. But I count for against one in favor, and three who will not say one way or the other."
+    },
+    {
+      "segment_id": 234,
+      "start_sentence_idx": 405,
+      "end_sentence_idx": 407,
+      "num_sentences": 2,
+      "start_time_sec": 1470.66,
+      "end_time_sec": 1473.66,
+      "text_preview": "I'm wondering if he's in a dead criminal suicide. I mean, people that try to that, try to bear a low self-esteem.",
+      "keywords": [
+        "try",
+        "wondering",
+        "suicide",
+        "self",
+        "people",
+        "mean"
+      ],
+      "summary": "I'm wondering if he's in a dead criminal suicide. I mean, people that try to that, try to bear a low self-esteem. …"
+    },
+    {
+      "segment_id": 235,
+      "start_sentence_idx": 407,
+      "end_sentence_idx": 408,
+      "num_sentences": 1,
+      "start_time_sec": 1479.66,
+      "end_time_sec": 1479.66,
+      "text_preview": "And is he ramen glass?",
+      "keywords": [],
+      "summary": "And is he ramen glass? …"
+    },
+    {
+      "segment_id": 236,
+      "start_sentence_idx": 408,
+      "end_sentence_idx": 409,
+      "num_sentences": 1,
+      "start_time_sec": 1481.66,
+      "end_time_sec": 1481.66,
+      "text_preview": "Yeah, because that's what you call a low self-esteem.",
+      "keywords": [],
+      "summary": "Yeah, because that's what you call a low self-esteem. …"
+    },
+    {
+      "segment_id": 237,
+      "start_sentence_idx": 409,
+      "end_sentence_idx": 410,
+      "num_sentences": 1,
+      "start_time_sec": 1485.66,
+      "end_time_sec": 1485.66,
+      "text_preview": "Okay, I'll be right back.",
+      "keywords": [],
+      "summary": "Okay, I'll be right back. …"
+    },
+    {
+      "segment_id": 238,
+      "start_sentence_idx": 410,
+      "end_sentence_idx": 411,
+      "num_sentences": 1,
+      "start_time_sec": 1490.66,
+      "end_time_sec": 1490.66,
+      "text_preview": "While the social workers out of the room, I ask for kids what they really think about male models.",
+      "keywords": [],
+      "summary": "While the social workers out of the room, I ask for kids what they really think about male models. …"
+    },
+    {
+      "segment_id": 239,
+      "start_sentence_idx": 411,
+      "end_sentence_idx": 414,
+      "num_sentences": 3,
+      "start_time_sec": 1494.66,
+      "end_time_sec": 1497.66,
+      "text_preview": "No, we had a party or something. I thinkvin' a \"-digigigimez\"- This is your more. more chest to die and thinking, hi.",
+      "keywords": [
+        "thinkvin",
+        "thinking",
+        "something",
+        "party",
+        "hi",
+        "digigigimez"
+      ],
+      "summary": "No, we had a party or something. I thinkvin' a \"-digigigimez\"- This is your more. more chest to die and thinking, hi. …"
+    },
+    {
+      "segment_id": 240,
+      "start_sentence_idx": 414,
+      "end_sentence_idx": 415,
+      "num_sentences": 1,
+      "start_time_sec": 1500.66,
+      "end_time_sec": 1500.66,
+      "text_preview": "But yeah, what is the rest of you did bust?",
+      "keywords": [],
+      "summary": "But yeah, what is the rest of you did bust? …"
+    },
+    {
+      "segment_id": 241,
+      "start_sentence_idx": 415,
+      "end_sentence_idx": 416,
+      "num_sentences": 1,
+      "start_time_sec": 1506.06,
+      "end_time_sec": 1506.06,
+      "text_preview": "So?",
+      "keywords": [],
+      "summary": "So? …"
+    },
+    {
+      "segment_id": 242,
+      "start_sentence_idx": 416,
+      "end_sentence_idx": 417,
+      "num_sentences": 1,
+      "start_time_sec": 1510.1,
+      "end_time_sec": 1510.1,
+      "text_preview": "No, anymore.",
+      "keywords": [],
+      "summary": "No, anymore. …"
+    },
+    {
+      "segment_id": 243,
+      "start_sentence_idx": 417,
+      "end_sentence_idx": 418,
+      "num_sentences": 1,
+      "start_time_sec": 1513.46,
+      "end_time_sec": 1513.46,
+      "text_preview": "You can't really think bad about people because there's lots of different people that use them different reasons.",
+      "keywords": [],
+      "summary": "You can't really think bad about people because there's lots of different people that use them different reasons. …"
+    },
+    {
+      "segment_id": 244,
+      "start_sentence_idx": 418,
+      "end_sentence_idx": 419,
+      "num_sentences": 1,
+      "start_time_sec": 1518.66,
+      "end_time_sec": 1518.66,
+      "text_preview": "Just different stuff.",
+      "keywords": [],
+      "summary": "Just different stuff. …"
+    },
+    {
+      "segment_id": 245,
+      "start_sentence_idx": 419,
+      "end_sentence_idx": 420,
+      "num_sentences": 1,
+      "start_time_sec": 1524.26,
+      "end_time_sec": 1524.26,
+      "text_preview": "I mean, the guys, they're , you can't even hear anything.",
+      "keywords": [],
+      "summary": "I mean, the guys, they're , you can't even hear anything. …"
+    },
+    {
+      "segment_id": 246,
+      "start_sentence_idx": 420,
+      "end_sentence_idx": 421,
+      "num_sentences": 1,
+      "start_time_sec": 1530.66,
+      "end_time_sec": 1530.66,
+      "text_preview": "They're all the hot to know.",
+      "keywords": [],
+      "summary": "They're all the hot to know. …"
+    },
+    {
+      "segment_id": 247,
+      "start_sentence_idx": 421,
+      "end_sentence_idx": 422,
+      "num_sentences": 1,
+      "start_time_sec": 1534.66,
+      "end_time_sec": 1534.66,
+      "text_preview": "Yeah, if you had a chance, you would have probably the one.",
+      "keywords": [],
+      "summary": "Yeah, if you had a chance, you would have probably the one. …"
+    },
+    {
+      "segment_id": 248,
+      "start_sentence_idx": 422,
+      "end_sentence_idx": 423,
+      "num_sentences": 1,
+      "start_time_sec": 1537.66,
+      "end_time_sec": 1537.66,
+      "text_preview": "Yeah, the one.",
+      "keywords": [],
+      "summary": "Yeah, the one. …"
+    },
+    {
+      "segment_id": 249,
+      "start_sentence_idx": 423,
+      "end_sentence_idx": 424,
+      "num_sentences": 1,
+      "start_time_sec": 1541.66,
+      "end_time_sec": 1541.66,
+      "text_preview": "And the ones are all of it.",
+      "keywords": [],
+      "summary": "And the ones are all of it. …"
+    },
+    {
+      "segment_id": 250,
+      "start_sentence_idx": 424,
+      "end_sentence_idx": 425,
+      "num_sentences": 1,
+      "start_time_sec": 1541.66,
+      "end_time_sec": 1541.66,
+      "text_preview": "This is a bad person.",
+      "keywords": [],
+      "summary": "This is a bad person. …"
+    },
+    {
+      "segment_id": 251,
+      "start_sentence_idx": 425,
+      "end_sentence_idx": 427,
+      "num_sentences": 2,
+      "start_time_sec": 1545.66,
+      "end_time_sec": 1549.66,
+      "text_preview": "This is a bad person. This is a bad person.",
+      "keywords": [],
+      "summary": "This is a bad person. This is a bad person. …"
+    },
+    {
+      "segment_id": 252,
+      "start_sentence_idx": 427,
+      "end_sentence_idx": 429,
+      "num_sentences": 2,
+      "start_time_sec": 1553.66,
+      "end_time_sec": 1556.66,
+      "text_preview": "I'm not joking. I'm not joking.",
+      "keywords": [],
+      "summary": "I'm not joking. I'm not joking. …"
+    },
+    {
+      "segment_id": 253,
+      "start_sentence_idx": 429,
+      "end_sentence_idx": 434,
+      "num_sentences": 5,
+      "start_time_sec": 1560.66,
+      "end_time_sec": 1569.06,
+      "text_preview": "I think it's high. That's not a good thing. It's a good problem. It's better. But it's not just a small.",
+      "keywords": [
+        "good",
+        "thing",
+        "think",
+        "small",
+        "problem",
+        "high"
+      ],
+      "summary": "I think it's high. That's not a good thing. It's a good problem. It's better. But it's not just a small. …"
+    },
+    {
+      "segment_id": 254,
+      "start_sentence_idx": 434,
+      "end_sentence_idx": 437,
+      "num_sentences": 3,
+      "start_time_sec": 1571.94,
+      "end_time_sec": 1583.58,
+      "text_preview": "It's society's problem. So we are put. We are part of society.",
+      "keywords": [],
+      "summary": "It's society's problem. So we are put. We are part of society. …"
+    },
+    {
+      "segment_id": 255,
+      "start_sentence_idx": 437,
+      "end_sentence_idx": 438,
+      "num_sentences": 1,
+      "start_time_sec": 1583.58,
+      "end_time_sec": 1583.58,
+      "text_preview": "And we're right in here.",
+      "keywords": [],
+      "summary": "And we're right in here. …"
+    },
+    {
+      "segment_id": 256,
+      "start_sentence_idx": 438,
+      "end_sentence_idx": 439,
+      "num_sentences": 1,
+      "start_time_sec": 1590.66,
+      "end_time_sec": 1590.66,
+      "text_preview": "So he doesn't grow up doing it.",
+      "keywords": [],
+      "summary": "So he doesn't grow up doing it. …"
+    },
+    {
+      "segment_id": 257,
+      "start_sentence_idx": 439,
+      "end_sentence_idx": 440,
+      "num_sentences": 1,
+      "start_time_sec": 1593.66,
+      "end_time_sec": 1593.66,
+      "text_preview": "And he can be a bigger person.",
+      "keywords": [],
+      "summary": "And he can be a bigger person. …"
+    },
+    {
+      "segment_id": 258,
+      "start_sentence_idx": 440,
+      "end_sentence_idx": 441,
+      "num_sentences": 1,
+      "start_time_sec": 1595.66,
+      "end_time_sec": 1595.66,
+      "text_preview": "The one girl who's in outside are here.",
+      "keywords": [],
+      "summary": "The one girl who's in outside are here. …"
+    },
+    {
+      "segment_id": 259,
+      "start_sentence_idx": 441,
+      "end_sentence_idx": 443,
+      "num_sentences": 2,
+      "start_time_sec": 1599.66,
+      "end_time_sec": 1603.66,
+      "text_preview": "The one who goes to a private school. If he doesn't grow up.",
+      "keywords": [],
+      "summary": "The one who goes to a private school. If he doesn't grow up. …"
+    },
+    {
+      "segment_id": 260,
+      "start_sentence_idx": 443,
+      "end_sentence_idx": 444,
+      "num_sentences": 1,
+      "start_time_sec": 1606.66,
+      "end_time_sec": 1606.66,
+      "text_preview": "and it becomes clear that everyone else sometimes against me.",
+      "keywords": [],
+      "summary": "and it becomes clear that everyone else sometimes against me. …"
+    },
+    {
+      "segment_id": 261,
+      "start_sentence_idx": 444,
+      "end_sentence_idx": 461,
+      "num_sentences": 17,
+      "start_time_sec": 1610.66,
+      "end_time_sec": 1710.66,
+      "text_preview": "I'm the only kid in my neighborhood to do doesn't do it. It's at my school. I got to have a school. I got to have that. Yeah, I don't go to a private school. I'm the only child in the eighth grade. It doesn't do. Because I've had enough stuff to do. I want to go to college. I don…",
+      "keywords": [
+        "going",
+        "school",
+        "mean",
+        "got",
+        "go",
+        "year"
+      ],
+      "summary": "I'm the only child in the eighth grade. It doesn't do. Because I've had enough stuff to do. I want to go to college. I don't my brain to turn in a much,  what, but though."
+    },
+    {
+      "segment_id": 262,
+      "start_sentence_idx": 461,
+      "end_sentence_idx": 462,
+      "num_sentences": 1,
+      "start_time_sec": 1714.28,
+      "end_time_sec": 1714.28,
+      "text_preview": "through high school I'm still graduating this year.",
+      "keywords": [],
+      "summary": "through high school I'm still graduating this year. …"
+    },
+    {
+      "segment_id": 263,
+      "start_sentence_idx": 462,
+      "end_sentence_idx": 465,
+      "num_sentences": 3,
+      "start_time_sec": 1718.16,
+      "end_time_sec": 1723.92,
+      "text_preview": "But just because he smokes weed, doesn't he? He's going to have a bad life  she said. But do you want to take a chance of walking?",
+      "keywords": [
+        "weed",
+        "want",
+        "walking",
+        "take",
+        "smokes",
+        "said"
+      ],
+      "summary": "But just because he smokes weed, doesn't he? He's going to have a bad life  she said. But do you want to take a chance of walking? …"
+    },
+    {
+      "segment_id": 264,
+      "start_sentence_idx": 465,
+      "end_sentence_idx": 466,
+      "num_sentences": 1,
+      "start_time_sec": 1729.0,
+      "end_time_sec": 1729.0,
+      "text_preview": "I've been growing up smoking more smoking weed.",
+      "keywords": [],
+      "summary": "I've been growing up smoking more smoking weed. …"
+    },
+    {
+      "segment_id": 265,
+      "start_sentence_idx": 466,
+      "end_sentence_idx": 467,
+      "num_sentences": 1,
+      "start_time_sec": 1734.32,
+      "end_time_sec": 1734.32,
+      "text_preview": "Weed is the gateway drug.",
+      "keywords": [],
+      "summary": "Weed is the gateway drug. …"
+    },
+    {
+      "segment_id": 266,
+      "start_sentence_idx": 467,
+      "end_sentence_idx": 468,
+      "num_sentences": 1,
+      "start_time_sec": 1740.12,
+      "end_time_sec": 1740.12,
+      "text_preview": "The social worker comes back in the room and tells them that the defendant has never tried to kill himself.",
+      "keywords": [
+        "worker",
+        "tried",
+        "tells",
+        "social",
+        "room",
+        "never"
+      ],
+      "summary": "The social worker comes back in the room and tells them that the defendant has never tried to kill himself. …"
+    },
+    {
+      "segment_id": 267,
+      "start_sentence_idx": 468,
+      "end_sentence_idx": 469,
+      "num_sentences": 1,
+      "start_time_sec": 1740.66,
+      "end_time_sec": 1740.66,
+      "text_preview": "Because his self has deemed seems intact, because his crime is one of the most of the jurors have committed themselves, because they are united against the private schoolgirl they give him a minimum of service.",
+      "keywords": [
+        "united",
+        "service",
+        "self",
+        "seems",
+        "schoolgirl",
+        "private"
+      ],
+      "summary": "Because his self has deemed seems intact, because his crime is one of the most of the jurors have committed themselves, because they are united against the private schoolgirl they give him a minimum of service. …"
+    },
+    {
+      "segment_id": 268,
+      "start_sentence_idx": 469,
+      "end_sentence_idx": 470,
+      "num_sentences": 1,
+      "start_time_sec": 1740.66,
+      "end_time_sec": 1740.66,
+      "text_preview": "In the third trial of 14-year-old girl on the stand for physically assaulting a former friend.",
+      "keywords": [],
+      "summary": "In the third trial of 14-year-old girl on the stand for physically assaulting a former friend. …"
+    },
+    {
+      "segment_id": 269,
+      "start_sentence_idx": 470,
+      "end_sentence_idx": 474,
+      "num_sentences": 4,
+      "start_time_sec": 1740.66,
+      "end_time_sec": 1758.16,
+      "text_preview": "The former friend had been spreading a room in the sheet, the friend, had slept with the 14-year-old girl's boyfriend. She said the boyfriend got her pregnant. The 14-year-old told her to stop, but she did it again to another boy and another girlfriend. So the 14-year-old girl we…",
+      "keywords": [
+        "year",
+        "14",
+        "old",
+        "girl",
+        "friend",
+        "boyfriend"
+      ],
+      "summary": "The former friend had been spreading a room in the sheet, the friend, had slept with the 14-year-old girl's boyfriend. The boyfriend got her pregnant."
+    },
+    {
+      "segment_id": 270,
+      "start_sentence_idx": 474,
+      "end_sentence_idx": 475,
+      "num_sentences": 1,
+      "start_time_sec": 1758.16,
+      "end_time_sec": 1758.16,
+      "text_preview": "Her defense attorney tries to get her to say she's sorry that she won't.",
+      "keywords": [],
+      "summary": "Her defense attorney tries to get her to say she's sorry that she won't. …"
+    },
+    {
+      "segment_id": 271,
+      "start_sentence_idx": 475,
+      "end_sentence_idx": 476,
+      "num_sentences": 1,
+      "start_time_sec": 1763.86,
+      "end_time_sec": 1763.86,
+      "text_preview": "do it again.",
+      "keywords": [],
+      "summary": "do it again. …"
+    },
+    {
+      "segment_id": 272,
+      "start_sentence_idx": 476,
+      "end_sentence_idx": 477,
+      "num_sentences": 1,
+      "start_time_sec": 1767.42,
+      "end_time_sec": 1767.42,
+      "text_preview": "Why did you do it?",
+      "keywords": [],
+      "summary": "Why did you do it? …"
+    },
+    {
+      "segment_id": 273,
+      "start_sentence_idx": 477,
+      "end_sentence_idx": 478,
+      "num_sentences": 1,
+      "start_time_sec": 1770.66,
+      "end_time_sec": 1770.66,
+      "text_preview": "Bad temper.",
+      "keywords": [],
+      "summary": "Bad temper. …"
+    },
+    {
+      "segment_id": 274,
+      "start_sentence_idx": 478,
+      "end_sentence_idx": 481,
+      "num_sentences": 3,
+      "start_time_sec": 1776.42,
+      "end_time_sec": 1782.14,
+      "text_preview": "What do your feelings now about? What should I do? It really doesn't bother me because I didn't care.",
+      "keywords": [],
+      "summary": "What do your feelings now about? What should I do? It really doesn't bother me because I didn't care. …"
+    },
+    {
+      "segment_id": 275,
+      "start_sentence_idx": 481,
+      "end_sentence_idx": 482,
+      "num_sentences": 1,
+      "start_time_sec": 1785.46,
+      "end_time_sec": 1785.46,
+      "text_preview": "Take it back, so.",
+      "keywords": [],
+      "summary": "Take it back, so. …"
+    },
+    {
+      "segment_id": 276,
+      "start_sentence_idx": 482,
+      "end_sentence_idx": 483,
+      "num_sentences": 1,
+      "start_time_sec": 1786.46,
+      "end_time_sec": 1786.46,
+      "text_preview": "Thank you, no further questions, honey.",
+      "keywords": [],
+      "summary": "Thank you, no further questions, honey. …"
+    },
+    {
+      "segment_id": 277,
+      "start_sentence_idx": 483,
+      "end_sentence_idx": 484,
+      "num_sentences": 1,
+      "start_time_sec": 1791.54,
+      "end_time_sec": 1791.54,
+      "text_preview": "Thank you, you're on a... You lost your temper and got into a fight, right?",
+      "keywords": [],
+      "summary": "Thank you, you're on a... You lost your temper and got into a fight, right? …"
+    },
+    {
+      "segment_id": 278,
+      "start_sentence_idx": 484,
+      "end_sentence_idx": 499,
+      "num_sentences": 15,
+      "start_time_sec": 1791.54,
+      "end_time_sec": 1850.26,
+      "text_preview": "Guess you're provoking. If I want that peel  this, I start... and talking massive crap to your face. Would you hit me because I provoked you? Maybe. Maybe. It doesn't bother you now that you got to fight. No. No. No. This fight is everything. It doesn't make the difference. It ha…",
+      "keywords": [
+        "maybe",
+        "fight",
+        "되는",
+        "would",
+        "yeah",
+        "talking"
+      ],
+      "summary": "\"This fight is everything. If I want that peel  this, I start... and talking massive crap to your face. Would you hit me because I provoked you? Maybe. No. It doesn't make the difference\""
+    },
+    {
+      "segment_id": 279,
+      "start_sentence_idx": 499,
+      "end_sentence_idx": 506,
+      "num_sentences": 7,
+      "start_time_sec": 1855.58,
+      "end_time_sec": 1881.34,
+      "text_preview": "So you guys said, love. Whether there's a gun and knife or dying involved, fighting is against a lot. Just  snow cave. Just  everything else. Just  killing. So you guys said, love. Just do something  that.",
+      "keywords": [
+        "said",
+        "love",
+        "guys",
+        "something",
+        "snow",
+        "lot"
+      ],
+      "summary": "So you guys said, love. Whether there's a gun and knife or dying involved, fighting is against a lot. Just  snow cave. Just  everything else. Just  killing. So you guys said, love. Just do something  that. …"
+    },
+    {
+      "segment_id": 280,
+      "start_sentence_idx": 506,
+      "end_sentence_idx": 507,
+      "num_sentences": 1,
+      "start_time_sec": 1882.14,
+      "end_time_sec": 1882.14,
+      "text_preview": "That's why you're here today.",
+      "keywords": [],
+      "summary": "That's why you're here today. …"
+    },
+    {
+      "segment_id": 281,
+      "start_sentence_idx": 507,
+      "end_sentence_idx": 509,
+      "num_sentences": 2,
+      "start_time_sec": 1888.98,
+      "end_time_sec": 1890.66,
+      "text_preview": "Can you tell us, Jerry, that you're not going to fight again? We love you.",
+      "keywords": [],
+      "summary": "Can you tell us, Jerry, that you're not going to fight again? We love you. …"
+    },
+    {
+      "segment_id": 282,
+      "start_sentence_idx": 509,
+      "end_sentence_idx": 511,
+      "num_sentences": 2,
+      "start_time_sec": 1900.18,
+      "end_time_sec": 1905.7,
+      "text_preview": "This trial has a different jury. When they debate, no one mentions the statement by the defense that in her neighborhood, fighting is an everyday thing.",
+      "keywords": [
+        "trial",
+        "thing",
+        "statement",
+        "one",
+        "neighborhood",
+        "mentions"
+      ],
+      "summary": "This trial has a different jury. When they debate, no one mentions the statement by the defense that in her neighborhood, fighting is an everyday thing. …"
+    },
+    {
+      "segment_id": 283,
+      "start_sentence_idx": 511,
+      "end_sentence_idx": 512,
+      "num_sentences": 1,
+      "start_time_sec": 1911.3,
+      "end_time_sec": 1911.3,
+      "text_preview": "No big deal.",
+      "keywords": [],
+      "summary": "No big deal. …"
+    },
+    {
+      "segment_id": 284,
+      "start_sentence_idx": 512,
+      "end_sentence_idx": 513,
+      "num_sentences": 1,
+      "start_time_sec": 1915.26,
+      "end_time_sec": 1915.26,
+      "text_preview": "deal with.",
+      "keywords": [],
+      "summary": "deal with. …"
+    },
+    {
+      "segment_id": 285,
+      "start_sentence_idx": 513,
+      "end_sentence_idx": 516,
+      "num_sentences": 3,
+      "start_time_sec": 1920.66,
+      "end_time_sec": 1925.3,
+      "text_preview": "It either just blow with her heads, but it doesn't make any difference to them. The most important thing for that is that the dependent feels no remorse as supper of no shame and  the first jury. So now there's certain that change is the essential ingredient.",
+      "keywords": [
+        "thing",
+        "supper",
+        "shame",
+        "remorse",
+        "make",
+        "jury"
+      ],
+      "summary": "It either just blow with her heads, but it doesn't make any difference to them. The most important thing for that is that the dependent feels no remorse as supper of no shame and  the first jury. So now there's certain t …"
+    },
+    {
+      "segment_id": 286,
+      "start_sentence_idx": 516,
+      "end_sentence_idx": 517,
+      "num_sentences": 1,
+      "start_time_sec": 1931.14,
+      "end_time_sec": 1931.14,
+      "text_preview": "The first step in changing the criminal into a good citizen.",
+      "keywords": [],
+      "summary": "The first step in changing the criminal into a good citizen. …"
+    },
+    {
+      "segment_id": 287,
+      "start_sentence_idx": 517,
+      "end_sentence_idx": 518,
+      "num_sentences": 1,
+      "start_time_sec": 1935.58,
+      "end_time_sec": 1935.58,
+      "text_preview": "She is at full battle about it at all, you guys.",
+      "keywords": [],
+      "summary": "She is at full battle about it at all, you guys. …"
+    },
+    {
+      "segment_id": 288,
+      "start_sentence_idx": 518,
+      "end_sentence_idx": 519,
+      "num_sentences": 1,
+      "start_time_sec": 1948.06,
+      "end_time_sec": 1948.06,
+      "text_preview": "girl.",
+      "keywords": [],
+      "summary": "girl. …"
+    },
+    {
+      "segment_id": 289,
+      "start_sentence_idx": 519,
+      "end_sentence_idx": 520,
+      "num_sentences": 1,
+      "start_time_sec": 1950.66,
+      "end_time_sec": 1950.66,
+      "text_preview": "Yeah, my friends and the survivors team.",
+      "keywords": [],
+      "summary": "Yeah, my friends and the survivors team. …"
+    },
+    {
+      "segment_id": 290,
+      "start_sentence_idx": 520,
+      "end_sentence_idx": 523,
+      "num_sentences": 3,
+      "start_time_sec": 1950.66,
+      "end_time_sec": 1955.22,
+      "text_preview": "Yeah, come and introduce one. Oh, I sure want to be three. Yeah, sure.",
+      "keywords": [],
+      "summary": "Yeah, come and introduce one. Oh, I sure want to be three. Yeah, sure. …"
+    },
+    {
+      "segment_id": 291,
+      "start_sentence_idx": 523,
+      "end_sentence_idx": 524,
+      "num_sentences": 1,
+      "start_time_sec": 1959.9,
+      "end_time_sec": 1959.9,
+      "text_preview": "People get a little bit of care,  she just sits there and makes you feel good.",
+      "keywords": [],
+      "summary": "People get a little bit of care,  she just sits there and makes you feel good. …"
+    },
+    {
+      "segment_id": 292,
+      "start_sentence_idx": 524,
+      "end_sentence_idx": 525,
+      "num_sentences": 1,
+      "start_time_sec": 1963.22,
+      "end_time_sec": 1963.22,
+      "text_preview": "I think she's going to have some steam workshop at the open time.",
+      "keywords": [],
+      "summary": "I think she's going to have some steam workshop at the open time. …"
+    },
+    {
+      "segment_id": 293,
+      "start_sentence_idx": 525,
+      "end_sentence_idx": 527,
+      "num_sentences": 2,
+      "start_time_sec": 1963.22,
+      "end_time_sec": 1963.22,
+      "text_preview": "Yeah, you can't thank you for sharing your stories to cash on me. Yeah, I'm too much trash-ass.",
+      "keywords": [],
+      "summary": "Yeah, you can't thank you for sharing your stories to cash on me. Yeah, I'm too much trash-ass. …"
+    },
+    {
+      "segment_id": 294,
+      "start_sentence_idx": 527,
+      "end_sentence_idx": 528,
+      "num_sentences": 1,
+      "start_time_sec": 1968.24,
+      "end_time_sec": 1968.24,
+      "text_preview": "I would do that.",
+      "keywords": [],
+      "summary": "I would do that. …"
+    },
+    {
+      "segment_id": 295,
+      "start_sentence_idx": 528,
+      "end_sentence_idx": 529,
+      "num_sentences": 1,
+      "start_time_sec": 1968.24,
+      "end_time_sec": 1968.24,
+      "text_preview": "You're going to do that.",
+      "keywords": [],
+      "summary": "You're going to do that. …"
+    },
+    {
+      "segment_id": 296,
+      "start_sentence_idx": 529,
+      "end_sentence_idx": 530,
+      "num_sentences": 1,
+      "start_time_sec": 1973.54,
+      "end_time_sec": 1973.54,
+      "text_preview": "Most members of the jury have already been through the workshops.",
+      "keywords": [],
+      "summary": "Most members of the jury have already been through the workshops. …"
+    },
+    {
+      "segment_id": 297,
+      "start_sentence_idx": 530,
+      "end_sentence_idx": 531,
+      "num_sentences": 1,
+      "start_time_sec": 1973.54,
+      "end_time_sec": 1973.54,
+      "text_preview": "They know what the right answer is.",
+      "keywords": [],
+      "summary": "They know what the right answer is. …"
+    },
+    {
+      "segment_id": 298,
+      "start_sentence_idx": 531,
+      "end_sentence_idx": 532,
+      "num_sentences": 1,
+      "start_time_sec": 1977.92,
+      "end_time_sec": 1977.92,
+      "text_preview": "They get excited, they write the comments.",
+      "keywords": [],
+      "summary": "They get excited, they write the comments. …"
+    },
+    {
+      "segment_id": 299,
+      "start_sentence_idx": 532,
+      "end_sentence_idx": 533,
+      "num_sentences": 1,
+      "start_time_sec": 1977.92,
+      "end_time_sec": 1977.92,
+      "text_preview": "Yeah, she needs to hear, she's  feeling so fast.",
+      "keywords": [],
+      "summary": "Yeah, she needs to hear, she's  feeling so fast. …"
+    },
+    {
+      "segment_id": 300,
+      "start_sentence_idx": 533,
+      "end_sentence_idx": 534,
+      "num_sentences": 1,
+      "start_time_sec": 1980.66,
+      "end_time_sec": 1980.66,
+      "text_preview": "Okay, we feel that there will be people at 9 and 2, your whole life to you.",
+      "keywords": [],
+      "summary": "Okay, we feel that there will be people at 9 and 2, your whole life to you. …"
+    },
+    {
+      "segment_id": 301,
+      "start_sentence_idx": 534,
+      "end_sentence_idx": 536,
+      "num_sentences": 2,
+      "start_time_sec": 1980.66,
+      "end_time_sec": 1986.5,
+      "text_preview": "But you can't get them all up. Okay, we have to grow up all over.",
+      "keywords": [],
+      "summary": "But you can't get them all up. Okay, we have to grow up all over. …"
+    },
+    {
+      "segment_id": 302,
+      "start_sentence_idx": 536,
+      "end_sentence_idx": 537,
+      "num_sentences": 1,
+      "start_time_sec": 1991.94,
+      "end_time_sec": 1991.94,
+      "text_preview": "It's first got on.",
+      "keywords": [],
+      "summary": "It's first got on. …"
+    },
+    {
+      "segment_id": 303,
+      "start_sentence_idx": 537,
+      "end_sentence_idx": 538,
+      "num_sentences": 1,
+      "start_time_sec": 1991.94,
+      "end_time_sec": 1991.94,
+      "text_preview": "My emotional All that's good.",
+      "keywords": [],
+      "summary": "My emotional All that's good. …"
+    },
+    {
+      "segment_id": 304,
+      "start_sentence_idx": 538,
+      "end_sentence_idx": 545,
+      "num_sentences": 7,
+      "start_time_sec": 1997.22,
+      "end_time_sec": 2010.66,
+      "text_preview": "After they delivered the sentence that comes down off the stand, and I ask if she wants to talk to me for a moment. But she looks at me, as if she'd  to rip my throat out,  where's my knife when I eat it. She's not been shaped. In her neighborhood, fighting his and everyday, a wa…",
+      "keywords": [
+        "way",
+        "say",
+        "wants",
+        "throat",
+        "understood",
+        "staying"
+      ],
+      "summary": "\"She looks at me, as if she'd  to rip my throat out,  where's my knife when I eat it,\" he says. \"In her neighborhood, fighting his and everyday, a way of life\""
+    },
+    {
+      "segment_id": 305,
+      "start_sentence_idx": 545,
+      "end_sentence_idx": 550,
+      "num_sentences": 5,
+      "start_time_sec": 2015.22,
+      "end_time_sec": 2032.58,
+      "text_preview": "I thought we were out of the courtroom, but down the hallway to the room where she'll have her exit interview. I watched her sit down at a long wooden table, surrounded by social workers, police officers. And her body is there, but she's gone. Check that along the present day of …",
+      "keywords": [
+        "workers",
+        "wooden",
+        "watched",
+        "thought",
+        "table",
+        "surrounded"
+      ],
+      "summary": "\"I watched her sit down at a long wooden table, surrounded by social workers, police officers. And her body is there, but she's gone. She just"
+    },
+    {
+      "segment_id": 306,
+      "start_sentence_idx": 550,
+      "end_sentence_idx": 551,
+      "num_sentences": 1,
+      "start_time_sec": 2036.5,
+      "end_time_sec": 2036.5,
+      "text_preview": "I can go in and sit down and watch as the administrators try to see whether she understands or sentence as they try to get through to her .",
+      "keywords": [
+        "try",
+        "whether",
+        "watch",
+        "understands",
+        "sit",
+        "sentence"
+      ],
+      "summary": "I can go in and sit down and watch as the administrators try to see whether she understands or sentence as they try to get through to her . …"
+    },
+    {
+      "segment_id": 307,
+      "start_sentence_idx": 551,
+      "end_sentence_idx": 552,
+      "num_sentences": 1,
+      "start_time_sec": 2036.5,
+      "end_time_sec": 2036.5,
+      "text_preview": "But I go.",
+      "keywords": [],
+      "summary": "But I go. …"
+    },
+    {
+      "segment_id": 308,
+      "start_sentence_idx": 552,
+      "end_sentence_idx": 553,
+      "num_sentences": 1,
+      "start_time_sec": 2040.66,
+      "end_time_sec": 2040.66,
+      "text_preview": "It's great to be a child, young and crazy wild, burning up the road with gasoline, and smash the car at a rubble.",
+      "keywords": [
+        "young",
+        "wild",
+        "smash",
+        "rubble",
+        "road",
+        "great"
+      ],
+      "summary": "It's great to be a child, young and crazy wild, burning up the road with gasoline, and smash the car at a rubble. …"
+    },
+    {
+      "segment_id": 309,
+      "start_sentence_idx": 553,
+      "end_sentence_idx": 554,
+      "num_sentences": 1,
+      "start_time_sec": 2040.66,
+      "end_time_sec": 2040.66,
+      "text_preview": "Get all the girls in trouble, you can't be arrested.",
+      "keywords": [],
+      "summary": "Get all the girls in trouble, you can't be arrested. …"
+    },
+    {
+      "segment_id": 310,
+      "start_sentence_idx": 554,
+      "end_sentence_idx": 555,
+      "num_sentences": 1,
+      "start_time_sec": 2045.72,
+      "end_time_sec": 2045.72,
+      "text_preview": "Every day justice.",
+      "keywords": [],
+      "summary": "Every day justice. …"
+    },
+    {
+      "segment_id": 311,
+      "start_sentence_idx": 555,
+      "end_sentence_idx": 556,
+      "num_sentences": 1,
+      "start_time_sec": 2046.72,
+      "end_time_sec": 2046.72,
+      "text_preview": "Well, the impulse to confess to admit the truth to state your shame is so important and so basic that of course people do not need a trial to make do it.",
+      "keywords": [
+        "well",
+        "truth",
+        "trial",
+        "state",
+        "shame",
+        "people"
+      ],
+      "summary": "Well, the impulse to confess to admit the truth to state your shame is so important and so basic that of course people do not need a trial to make do it. …"
+    },
+    {
+      "segment_id": 312,
+      "start_sentence_idx": 556,
+      "end_sentence_idx": 562,
+      "num_sentences": 6,
+      "start_time_sec": 2046.72,
+      "end_time_sec": 2064.18,
+      "text_preview": "In 1980, a New Yorker named Alan Bridge said a telephone line he called the Apology Line. People call on confessed to anything. They were recorded and you could call on you could listen to other people's report about. Have it. the whole thing turned into a little community of con…",
+      "keywords": [
+        "line",
+        "people",
+        "responding",
+        "recorded",
+        "alan",
+        "bridge"
+      ],
+      "summary": "In 1980, a New Yorker named Alan Bridge said a telephone line he called the Apology Line. People call on confessed to anything. They were recorded and you could call on."
+    },
+    {
+      "segment_id": 313,
+      "start_sentence_idx": 562,
+      "end_sentence_idx": 563,
+      "num_sentences": 1,
+      "start_time_sec": 2064.18,
+      "end_time_sec": 2064.18,
+      "text_preview": "Here's some, , some footage.",
+      "keywords": [],
+      "summary": "Here's some, , some footage. …"
+    },
+    {
+      "segment_id": 314,
+      "start_sentence_idx": 563,
+      "end_sentence_idx": 564,
+      "num_sentences": 1,
+      "start_time_sec": 2069.34,
+      "end_time_sec": 2069.34,
+      "text_preview": "You're going to apologize, right?",
+      "keywords": [],
+      "summary": "You're going to apologize, right? …"
+    },
+    {
+      "segment_id": 315,
+      "start_sentence_idx": 564,
+      "end_sentence_idx": 566,
+      "num_sentences": 2,
+      "start_time_sec": 2070.66,
+      "end_time_sec": 2074.5,
+      "text_preview": "Because I broke the town hall windows. I flooded the basement.",
+      "keywords": [],
+      "summary": "Because I broke the town hall windows. I flooded the basement. …"
+    },
+    {
+      "segment_id": 316,
+      "start_sentence_idx": 566,
+      "end_sentence_idx": 567,
+      "num_sentences": 1,
+      "start_time_sec": 2074.5,
+      "end_time_sec": 2074.5,
+      "text_preview": "I broke the window on the back of the door of town.",
+      "keywords": [],
+      "summary": "I broke the window on the back of the door of town. …"
+    },
+    {
+      "segment_id": 317,
+      "start_sentence_idx": 567,
+      "end_sentence_idx": 568,
+      "num_sentences": 1,
+      "start_time_sec": 2078.82,
+      "end_time_sec": 2078.82,
+      "text_preview": "I could pretty bad value.",
+      "keywords": [],
+      "summary": "I could pretty bad value. …"
+    },
+    {
+      "segment_id": 318,
+      "start_sentence_idx": 568,
+      "end_sentence_idx": 569,
+      "num_sentences": 1,
+      "start_time_sec": 2084.34,
+      "end_time_sec": 2084.34,
+      "text_preview": "Is that?",
+      "keywords": [],
+      "summary": "Is that? …"
+    },
+    {
+      "segment_id": 319,
+      "start_sentence_idx": 569,
+      "end_sentence_idx": 570,
+      "num_sentences": 1,
+      "start_time_sec": 2087.78,
+      "end_time_sec": 2087.78,
+      "text_preview": "Did someone say that?",
+      "keywords": [],
+      "summary": "Did someone say that? …"
+    },
+    {
+      "segment_id": 320,
+      "start_sentence_idx": 570,
+      "end_sentence_idx": 571,
+      "num_sentences": 1,
+      "start_time_sec": 2092.66,
+      "end_time_sec": 2092.66,
+      "text_preview": "16 years old, some child's class quality, due to the offer of pretty long time I say.",
+      "keywords": [],
+      "summary": "16 years old, some child's class quality, due to the offer of pretty long time I say. …"
+    },
+    {
+      "segment_id": 321,
+      "start_sentence_idx": 571,
+      "end_sentence_idx": 583,
+      "num_sentences": 12,
+      "start_time_sec": 2096.42,
+      "end_time_sec": 2151.66,
+      "text_preview": "Sorry for my resting, through public officials, making the bomb threat and death nurses. Sorry for the armed terrorist, fire bomb, and I was bomb, and they got paid me to, to some guys have, sorry for, or what I've come, a party, and a tough court of intervention. I'm sorry for t…",
+      "keywords": [
+        "sorry",
+        "bomb",
+        "calling",
+        "sick",
+        "threat",
+        "tough"
+      ],
+      "summary": "\"I felt so sad I had a sick, I was sick by it. So I had to...so long. I'm sorry for the courage to rational out of people,\" he says."
+    },
+    {
+      "segment_id": 322,
+      "start_sentence_idx": 583,
+      "end_sentence_idx": 584,
+      "num_sentences": 1,
+      "start_time_sec": 2159.66,
+      "end_time_sec": 2159.66,
+      "text_preview": "The world is where we are, want to apologize.",
+      "keywords": [],
+      "summary": "The world is where we are, want to apologize. …"
+    },
+    {
+      "segment_id": 323,
+      "start_sentence_idx": 584,
+      "end_sentence_idx": 588,
+      "num_sentences": 4,
+      "start_time_sec": 2160.66,
+      "end_time_sec": 2172.82,
+      "text_preview": "I don't know if even you were what I did with long advice, but that was an Israel. Six months before I killed six Arabs at night. Oh, yap! depending on how the Jewish settlers and the time we thought we would fight, I believe still we fight for a home that keeps the Arabs.",
+      "keywords": [
+        "six",
+        "fight",
+        "arabs",
+        "time",
+        "thought",
+        "would"
+      ],
+      "summary": "\"Six months before I killed six Arabs at night. Oh, yap! depending on how the Jewish settlers and the time we thought we would fight"
+    },
+    {
+      "segment_id": 324,
+      "start_sentence_idx": 588,
+      "end_sentence_idx": 589,
+      "num_sentences": 1,
+      "start_time_sec": 2172.82,
+      "end_time_sec": 2172.82,
+      "text_preview": "Perhaps now that I am here, they are going realize that maybe killing not right way, or it's almost all right.",
+      "keywords": [
+        "right",
+        "way",
+        "realize",
+        "perhaps",
+        "maybe",
+        "killing"
+      ],
+      "summary": "Perhaps now that I am here, they are going realize that maybe killing not right way, or it's almost all right. …"
+    },
+    {
+      "segment_id": 325,
+      "start_sentence_idx": 589,
+      "end_sentence_idx": 590,
+      "num_sentences": 1,
+      "start_time_sec": 2177.06,
+      "end_time_sec": 2177.06,
+      "text_preview": "Thank you.",
+      "keywords": [],
+      "summary": "Thank you. …"
+    },
+    {
+      "segment_id": 326,
+      "start_sentence_idx": 590,
+      "end_sentence_idx": 591,
+      "num_sentences": 1,
+      "start_time_sec": 2183.22,
+      "end_time_sec": 2183.22,
+      "text_preview": "Yeah, I want to apologize to something, maybe  a human, who  a father, who request I want to apologize to them.",
+      "keywords": [
+        "want",
+        "apologize",
+        "something",
+        "yeah",
+        "request",
+        "maybe"
+      ],
+      "summary": "Yeah, I want to apologize to something, maybe  a human, who  a father, who request I want to apologize to them. …"
+    },
+    {
+      "segment_id": 327,
+      "start_sentence_idx": 591,
+      "end_sentence_idx": 592,
+      "num_sentences": 1,
+      "start_time_sec": 2190.66,
+      "end_time_sec": 2190.66,
+      "text_preview": "So now my mother was led with four months.",
+      "keywords": [],
+      "summary": "So now my mother was led with four months. …"
+    },
+    {
+      "segment_id": 328,
+      "start_sentence_idx": 592,
+      "end_sentence_idx": 593,
+      "num_sentences": 1,
+      "start_time_sec": 2195.86,
+      "end_time_sec": 2195.86,
+      "text_preview": "If you get too hot, you're on the roof there.",
+      "keywords": [],
+      "summary": "If you get too hot, you're on the roof there. …"
+    },
+    {
+      "segment_id": 329,
+      "start_sentence_idx": 593,
+      "end_sentence_idx": 594,
+      "num_sentences": 1,
+      "start_time_sec": 2205.54,
+      "end_time_sec": 2205.54,
+      "text_preview": "And I had no job and I had no way making money.",
+      "keywords": [],
+      "summary": "And I had no job and I had no way making money. …"
+    },
+    {
+      "segment_id": 330,
+      "start_sentence_idx": 594,
+      "end_sentence_idx": 595,
+      "num_sentences": 1,
+      "start_time_sec": 2209.54,
+      "end_time_sec": 2209.54,
+      "text_preview": "And when she was hungry at Thursday, I was making give me money.",
+      "keywords": [],
+      "summary": "And when she was hungry at Thursday, I was making give me money. …"
+    },
+    {
+      "segment_id": 331,
+      "start_sentence_idx": 595,
+      "end_sentence_idx": 596,
+      "num_sentences": 1,
+      "start_time_sec": 2209.54,
+      "end_time_sec": 2209.54,
+      "text_preview": "I gave her a drink.",
+      "keywords": [],
+      "summary": "I gave her a drink. …"
+    },
+    {
+      "segment_id": 332,
+      "start_sentence_idx": 596,
+      "end_sentence_idx": 597,
+      "num_sentences": 1,
+      "start_time_sec": 2215.3,
+      "end_time_sec": 2215.3,
+      "text_preview": "she'd be happy to be fried out for a glass of water 10 hours a day.",
+      "keywords": [],
+      "summary": "she'd be happy to be fried out for a glass of water 10 hours a day. …"
+    },
+    {
+      "segment_id": 333,
+      "start_sentence_idx": 597,
+      "end_sentence_idx": 598,
+      "num_sentences": 1,
+      "start_time_sec": 2215.3,
+      "end_time_sec": 2215.3,
+      "text_preview": "Yeah, yeah.",
+      "keywords": [],
+      "summary": "Yeah, yeah. …"
+    },
+    {
+      "segment_id": 334,
+      "start_sentence_idx": 598,
+      "end_sentence_idx": 599,
+      "num_sentences": 1,
+      "start_time_sec": 2220.66,
+      "end_time_sec": 2220.66,
+      "text_preview": "Yeah, yeah.",
+      "keywords": [],
+      "summary": "Yeah, yeah. …"
+    },
+    {
+      "segment_id": 335,
+      "start_sentence_idx": 599,
+      "end_sentence_idx": 601,
+      "num_sentences": 2,
+      "start_time_sec": 2220.66,
+      "end_time_sec": 2226.5,
+      "text_preview": "I can't say a private tour, I know what I do with probably more powerful thing in the world. And I know we'll be able to say a private tour and I hope I can go to the home brand and put it.",
+      "keywords": [
+        "tour",
+        "say",
+        "know",
+        "private",
+        "world",
+        "thing"
+      ],
+      "summary": "I can't say a private tour, I know what I do with probably more powerful thing in the world. And I know we'll be able to say a private tour and I hope I can go to the home brand and put it. …"
+    },
+    {
+      "segment_id": 336,
+      "start_sentence_idx": 601,
+      "end_sentence_idx": 602,
+      "num_sentences": 1,
+      "start_time_sec": 2226.5,
+      "end_time_sec": 2226.5,
+      "text_preview": "Because it was the right and it's not where the shit can be.",
+      "keywords": [],
+      "summary": "Because it was the right and it's not where the shit can be. …"
+    },
+    {
+      "segment_id": 337,
+      "start_sentence_idx": 602,
+      "end_sentence_idx": 603,
+      "num_sentences": 1,
+      "start_time_sec": 2231.5,
+      "end_time_sec": 2231.5,
+      "text_preview": "I just want to tell our friends.",
+      "keywords": [],
+      "summary": "I just want to tell our friends. …"
+    },
+    {
+      "segment_id": 338,
+      "start_sentence_idx": 603,
+      "end_sentence_idx": 604,
+      "num_sentences": 1,
+      "start_time_sec": 2233.7,
+      "end_time_sec": 2233.7,
+      "text_preview": "Thanks.",
+      "keywords": [],
+      "summary": "Thanks. …"
+    },
+    {
+      "segment_id": 339,
+      "start_sentence_idx": 604,
+      "end_sentence_idx": 605,
+      "num_sentences": 1,
+      "start_time_sec": 2233.7,
+      "end_time_sec": 2233.7,
+      "text_preview": "I've never told anyone that's because I played my drink.",
+      "keywords": [],
+      "summary": "I've never told anyone that's because I played my drink. …"
+    },
+    {
+      "segment_id": 340,
+      "start_sentence_idx": 605,
+      "end_sentence_idx": 606,
+      "num_sentences": 1,
+      "start_time_sec": 2240.54,
+      "end_time_sec": 2240.54,
+      "text_preview": "I accidentally told my cousin when I was a very small child.",
+      "keywords": [],
+      "summary": "I accidentally told my cousin when I was a very small child. …"
+    },
+    {
+      "segment_id": 341,
+      "start_sentence_idx": 606,
+      "end_sentence_idx": 607,
+      "num_sentences": 1,
+      "start_time_sec": 2240.54,
+      "end_time_sec": 2240.54,
+      "text_preview": "And it's hard to be all my life, but I didn't really need it.",
+      "keywords": [],
+      "summary": "And it's hard to be all my life, but I didn't really need it. …"
+    },
+    {
+      "segment_id": 342,
+      "start_sentence_idx": 607,
+      "end_sentence_idx": 621,
+      "num_sentences": 14,
+      "start_time_sec": 2240.54,
+      "end_time_sec": 2280.66,
+      "text_preview": "It was, I was, I was, it was just a game to me. I was really, really, too young to be all I thought I was doing. And I was putting her head and body up from the plastic bag. So, I'm gonna work my hands right now. I just did the figure face trip, but I guess I was a lot of fun. I …",
+      "keywords": [
+        "thought",
+        "went",
+        "guess",
+        "bag",
+        "really",
+        "plastic"
+      ],
+      "summary": "\"It was just a game to me. I was really, really, too young to be all I thought I was doing\" \"I hid the plastic bag and I... I went out of the house, my parents went home. Never... found out they thought it was crammed out\""
+    },
+    {
+      "segment_id": 343,
+      "start_sentence_idx": 621,
+      "end_sentence_idx": 622,
+      "num_sentences": 1,
+      "start_time_sec": 2282.66,
+      "end_time_sec": 2282.66,
+      "text_preview": ", what's not how they did it, man.",
+      "keywords": [],
+      "summary": ", what's not how they did it, man. …"
+    },
+    {
+      "segment_id": 344,
+      "start_sentence_idx": 622,
+      "end_sentence_idx": 623,
+      "num_sentences": 1,
+      "start_time_sec": 2282.66,
+      "end_time_sec": 2282.66,
+      "text_preview": ".",
+      "keywords": [],
+      "summary": ". …"
+    },
+    {
+      "segment_id": 345,
+      "start_sentence_idx": 623,
+      "end_sentence_idx": 626,
+      "num_sentences": 3,
+      "start_time_sec": 2284.34,
+      "end_time_sec": 2287.94,
+      "text_preview": "Yeah, there's. Yeah, I've never been able to tell them I thought that I think he would hurt that work. Yeah.",
+      "keywords": [
+        "yeah",
+        "would",
+        "work",
+        "thought",
+        "think",
+        "tell"
+      ],
+      "summary": "Yeah, there's. Yeah, I've never been able to tell them I thought that I think he would hurt that work. Yeah. …"
+    },
+    {
+      "segment_id": 346,
+      "start_sentence_idx": 626,
+      "end_sentence_idx": 627,
+      "num_sentences": 1,
+      "start_time_sec": 2288.94,
+      "end_time_sec": 2288.94,
+      "text_preview": "The nowing.",
+      "keywords": [],
+      "summary": "The nowing. …"
+    },
+    {
+      "segment_id": 347,
+      "start_sentence_idx": 627,
+      "end_sentence_idx": 628,
+      "num_sentences": 1,
+      "start_time_sec": 2289.3,
+      "end_time_sec": 2289.3,
+      "text_preview": "And moving her.",
+      "keywords": [],
+      "summary": "And moving her. …"
+    },
+    {
+      "segment_id": 348,
+      "start_sentence_idx": 628,
+      "end_sentence_idx": 629,
+      "num_sentences": 1,
+      "start_time_sec": 2291.94,
+      "end_time_sec": 2291.94,
+      "text_preview": "Find out that I did it.",
+      "keywords": [],
+      "summary": "Find out that I did it. …"
+    },
+    {
+      "segment_id": 349,
+      "start_sentence_idx": 629,
+      "end_sentence_idx": 630,
+      "num_sentences": 1,
+      "start_time_sec": 2294.94,
+      "end_time_sec": 2294.94,
+      "text_preview": "I had to wish my parents could hear it of the tape, but I guess they were well.",
+      "keywords": [],
+      "summary": "I had to wish my parents could hear it of the tape, but I guess they were well. …"
+    },
+    {
+      "segment_id": 350,
+      "start_sentence_idx": 630,
+      "end_sentence_idx": 631,
+      "num_sentences": 1,
+      "start_time_sec": 2296.1,
+      "end_time_sec": 2296.1,
+      "text_preview": "You will have to fall in love with you alone too.",
+      "keywords": [],
+      "summary": "You will have to fall in love with you alone too. …"
+    },
+    {
+      "segment_id": 351,
+      "start_sentence_idx": 631,
+      "end_sentence_idx": 632,
+      "num_sentences": 1,
+      "start_time_sec": 2298.5,
+      "end_time_sec": 2298.5,
+      "text_preview": "I'm a little bit more annoying.",
+      "keywords": [],
+      "summary": "I'm a little bit more annoying. …"
+    },
+    {
+      "segment_id": 352,
+      "start_sentence_idx": 632,
+      "end_sentence_idx": 633,
+      "num_sentences": 1,
+      "start_time_sec": 2303.14,
+      "end_time_sec": 2303.14,
+      "text_preview": "All the slaves are not kind of sorry.",
+      "keywords": [],
+      "summary": "All the slaves are not kind of sorry. …"
+    },
+    {
+      "segment_id": 353,
+      "start_sentence_idx": 633,
+      "end_sentence_idx": 634,
+      "num_sentences": 1,
+      "start_time_sec": 2306.78,
+      "end_time_sec": 2306.78,
+      "text_preview": "All I love is 15, and I say I'm a little bit more stupid.",
+      "keywords": [],
+      "summary": "All I love is 15, and I say I'm a little bit more stupid. …"
+    },
+    {
+      "segment_id": 354,
+      "start_sentence_idx": 634,
+      "end_sentence_idx": 635,
+      "num_sentences": 1,
+      "start_time_sec": 2307.98,
+      "end_time_sec": 2307.98,
+      "text_preview": "Really stupid, I had a call.",
+      "keywords": [],
+      "summary": "Really stupid, I had a call. …"
+    },
+    {
+      "segment_id": 355,
+      "start_sentence_idx": 635,
+      "end_sentence_idx": 637,
+      "num_sentences": 2,
+      "start_time_sec": 2309.42,
+      "end_time_sec": 2310.66,
+      "text_preview": "Okay. Okay.",
+      "keywords": [],
+      "summary": "Okay. Okay. …"
+    },
+    {
+      "segment_id": 356,
+      "start_sentence_idx": 637,
+      "end_sentence_idx": 647,
+      "num_sentences": 10,
+      "start_time_sec": 2310.66,
+      "end_time_sec": 2347.38,
+      "text_preview": "I mean, you... What could I have on my feet? What are you all doing? I'm not going to take my feet away. What are you doing? Don't you think it's too old to be a child? And I won't ask anything to ask. What's wrong with you? I'm not going to take my feet away. I'm going to take m…",
+      "keywords": [
+        "feet",
+        "take",
+        "going",
+        "away",
+        "ask",
+        "old"
+      ],
+      "summary": "I'm not going to take my feet away. What are you doing? Don't you think it's too old to be a child? And I won't ask anything to ask. I mean"
+    },
+    {
+      "segment_id": 357,
+      "start_sentence_idx": 647,
+      "end_sentence_idx": 648,
+      "num_sentences": 1,
+      "start_time_sec": 2349.94,
+      "end_time_sec": 2349.94,
+      "text_preview": "The apology line doesn't exist anymore.",
+      "keywords": [],
+      "summary": "The apology line doesn't exist anymore. …"
+    },
+    {
+      "segment_id": 358,
+      "start_sentence_idx": 648,
+      "end_sentence_idx": 649,
+      "num_sentences": 1,
+      "start_time_sec": 2352.02,
+      "end_time_sec": 2352.02,
+      "text_preview": "Mr. Apology, I'm a bridge.",
+      "keywords": [],
+      "summary": "Mr. Apology, I'm a bridge. …"
+    },
+    {
+      "segment_id": 359,
+      "start_sentence_idx": 649,
+      "end_sentence_idx": 650,
+      "num_sentences": 1,
+      "start_time_sec": 2354.66,
+      "end_time_sec": 2354.66,
+      "text_preview": "Diad and August 29th.",
+      "keywords": [],
+      "summary": "Diad and August 29th. …"
+    },
+    {
+      "segment_id": 360,
+      "start_sentence_idx": 650,
+      "end_sentence_idx": 659,
+      "num_sentences": 9,
+      "start_time_sec": 2356.66,
+      "end_time_sec": 2372.66,
+      "text_preview": "When you did, the line was deluge with hundreds of messages from the regular college. His wife, Mary, says, is never clear of what the apology line meant to be. the years people would use to talk about all sorts of things. I think that maybe the word apology means something bigge…",
+      "keywords": [
+        "line",
+        "call",
+        "word",
+        "time",
+        "maybe",
+        "people"
+      ],
+      "summary": "His wife, Mary, says, is never clear of what the apology line meant to be. \"I think that maybe the word apology means something bigger than just saying you're sorry\""
+    },
+    {
+      "segment_id": 361,
+      "start_sentence_idx": 659,
+      "end_sentence_idx": 669,
+      "num_sentences": 10,
+      "start_time_sec": 2375.66,
+      "end_time_sec": 2398.66,
+      "text_preview": "And you'd apologize for that. More, yeah, sometimes more to get his attention than anything else. So when forget about me, up in Washington Heights. That's living. What would you apologize for back there? What would you do, remember what you would say? Oh, they were all, , just t…",
+      "keywords": [
+        "would",
+        "apologize",
+        "oh",
+        "attention",
+        "get",
+        "yeah"
+      ],
+      "summary": "\"I'm such a part of the mating game,\" he says. \"Once you actually had a real relationship, you wouldn't call the onion-y\""
+    },
+    {
+      "segment_id": 362,
+      "start_sentence_idx": 669,
+      "end_sentence_idx": 691,
+      "num_sentences": 22,
+      "start_time_sec": 2400.66,
+      "end_time_sec": 2437.26,
+      "text_preview": "No, but one thing that really struck me was after he died, I really turned into an apology line collar. Someone I would define as a apology line collar and the line was over. So when I really needed the line, it wasn't there. I was just completely lost. and I would have loved to …",
+      "keywords": [
+        "would",
+        "line",
+        "think",
+        "apology",
+        "hit",
+        "people"
+      ],
+      "summary": "\"I was just completely lost. and I would have loved to have been able to call the apology line\" \"I'm a much darker person than I was before he died and I think that I understand the callers and the line much better\""
+    },
+    {
+      "segment_id": 363,
+      "start_sentence_idx": 691,
+      "end_sentence_idx": 692,
+      "num_sentences": 1,
+      "start_time_sec": 2438.26,
+      "end_time_sec": 2438.26,
+      "text_preview": "Person out and he really believed in the power for forgiveness and everyone can be forgiven.",
+      "keywords": [],
+      "summary": "Person out and he really believed in the power for forgiveness and everyone can be forgiven. …"
+    },
+    {
+      "segment_id": 364,
+      "start_sentence_idx": 692,
+      "end_sentence_idx": 693,
+      "num_sentences": 1,
+      "start_time_sec": 2439.62,
+      "end_time_sec": 2439.62,
+      "text_preview": "I think that's something that he really grew to me.",
+      "keywords": [],
+      "summary": "I think that's something that he really grew to me. …"
+    },
+    {
+      "segment_id": 365,
+      "start_sentence_idx": 693,
+      "end_sentence_idx": 694,
+      "num_sentences": 1,
+      "start_time_sec": 2440.62,
+      "end_time_sec": 2440.62,
+      "text_preview": "First of bridge, this is a biology.",
+      "keywords": [],
+      "summary": "First of bridge, this is a biology. …"
+    },
+    {
+      "segment_id": 366,
+      "start_sentence_idx": 694,
+      "end_sentence_idx": 695,
+      "num_sentences": 1,
+      "start_time_sec": 2441.98,
+      "end_time_sec": 2441.98,
+      "text_preview": "I'm confessing that I love you.",
+      "keywords": [],
+      "summary": "I'm confessing that I love you. …"
+    },
+    {
+      "segment_id": 367,
+      "start_sentence_idx": 695,
+      "end_sentence_idx": 696,
+      "num_sentences": 1,
+      "start_time_sec": 2444.26,
+      "end_time_sec": 2444.26,
+      "text_preview": "Tell me do you love me too?",
+      "keywords": [],
+      "summary": "Tell me do you love me too? …"
+    },
+    {
+      "segment_id": 368,
+      "start_sentence_idx": 696,
+      "end_sentence_idx": 697,
+      "num_sentences": 1,
+      "start_time_sec": 2445.46,
+      "end_time_sec": 2445.46,
+      "text_preview": "Well, the program was produced today by the least speaking, part-time myself, the Peter County and the NC update contributing editors Jack Hat and Margie Rockland.",
+      "keywords": [
+        "well",
+        "update",
+        "today",
+        "time",
+        "speaking",
+        "rockland"
+      ],
+      "summary": "Well, the program was produced today by the least speaking, part-time myself, the Peter County and the NC update contributing editors Jack Hat and Margie Rockland. …"
+    },
+    {
+      "segment_id": 369,
+      "start_sentence_idx": 697,
+      "end_sentence_idx": 698,
+      "num_sentences": 1,
+      "start_time_sec": 2447.34,
+      "end_time_sec": 2447.34,
+      "text_preview": "Special thanks to day to John Conners and Steve pushing for music help and very, very special thanks to Marisa Bridge for apology tapes.",
+      "keywords": [
+        "thanks",
+        "special",
+        "tapes",
+        "steve",
+        "pushing",
+        "music"
+      ],
+      "summary": "Special thanks to day to John Conners and Steve pushing for music help and very, very special thanks to Marisa Bridge for apology tapes. …"
+    },
+    {
+      "segment_id": 370,
+      "start_sentence_idx": 698,
+      "end_sentence_idx": 699,
+      "num_sentences": 1,
+      "start_time_sec": 2448.58,
+      "end_time_sec": 2448.58,
+      "text_preview": "call this number 212 255 2748.",
+      "keywords": [],
+      "summary": "call this number 212 255 2748. …"
+    },
+    {
+      "segment_id": 371,
+      "start_sentence_idx": 699,
+      "end_sentence_idx": 701,
+      "num_sentences": 2,
+      "start_time_sec": 2450.5,
+      "end_time_sec": 2451.34,
+      "text_preview": "Look, copy of any of our programs call us at the BV Easy and Chicago, they only cost $10. The phone number 312, A32380, 312, A32380, or email address radio at whale.com.",
+      "keywords": [
+        "a32380",
+        "312",
+        "whale",
+        "radio",
+        "us",
+        "programs"
+      ],
+      "summary": "Look, copy of any of our programs call us at the BV Easy and Chicago, they only cost $10. The phone number 312, A32380, 312, A32380, or email address radio at whale.com. …"
+    },
+    {
+      "segment_id": 372,
+      "start_sentence_idx": 701,
+      "end_sentence_idx": 702,
+      "num_sentences": 1,
+      "start_time_sec": 2452.74,
+      "end_time_sec": 2452.74,
+      "text_preview": "Honey, for this American Life is been provided by the Corporation for Public Broadcasting, the John D and Catherine Team of Garth of Foundation, and the listeners of the BV Easy Chicago, the BV Easy Management over.",
+      "keywords": [
+        "bv",
+        "easy",
+        "team",
+        "public",
+        "provided",
+        "life"
+      ],
+      "summary": "Honey, for this American Life is been provided by the Corporation for Public Broadcasting, the John D and Catherine Team of Garth of Foundation, and the listeners of the BV Easy Chicago, the BV Easy Management over. …"
+    },
+    {
+      "segment_id": 373,
+      "start_sentence_idx": 702,
+      "end_sentence_idx": 703,
+      "num_sentences": 1,
+      "start_time_sec": 2455.14,
+      "end_time_sec": 2455.14,
+      "text_preview": "set by Toy Meliteer who reminds you that... We did is the gateway drug.",
+      "keywords": [],
+      "summary": "set by Toy Meliteer who reminds you that... We did is the gateway drug. …"
+    },
+    {
+      "segment_id": 374,
+      "start_sentence_idx": 703,
+      "end_sentence_idx": 704,
+      "num_sentences": 1,
+      "start_time_sec": 2455.94,
+      "end_time_sec": 2455.94,
+      "text_preview": "Sure is.",
+      "keywords": [],
+      "summary": "Sure is. …"
+    },
+    {
+      "segment_id": 375,
+      "start_sentence_idx": 704,
+      "end_sentence_idx": 705,
+      "num_sentences": 1,
+      "start_time_sec": 2457.14,
+      "end_time_sec": 2457.14,
+      "text_preview": "I'm Ira Glass.",
+      "keywords": [],
+      "summary": "I'm Ira Glass. …"
+    },
+    {
+      "segment_id": 376,
+      "start_sentence_idx": 705,
+      "end_sentence_idx": 711,
+      "num_sentences": 6,
+      "start_time_sec": 2459.26,
+      "end_time_sec": 2465.66,
+      "text_preview": "Back next week. More stories to the American life. Now if I started talking massive crap to your face, would you hit me because I prefer your life? Maybe. All new to play. So am I guess you can't do love me?",
+      "keywords": [
+        "life",
+        "week",
+        "would",
+        "talking",
+        "stories",
+        "prefer"
+      ],
+      "summary": "Back next week. More stories to the American life. Now if I started talking massive crap to your face, would you hit me because I prefer your life? Maybe. All new to play. So am I guess you can't do love me? …"
+    }
+  ]
+}

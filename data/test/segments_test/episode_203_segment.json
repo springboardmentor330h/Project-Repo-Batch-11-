@@ -1,0 +1,2023 @@
+{
+  "episode_id": "episode_203",
+  "source_file": "episode_203_whisper.json",
+  "total_sentences": 349,
+  "algorithm_used": "embedding-based (Sentence Transformers)",
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_sentence_idx": 0,
+      "end_sentence_idx": 5,
+      "num_sentences": 5,
+      "start_time_sec": 1.45,
+      "end_time_sec": 17.45,
+      "text_preview": "From the New York Times, I'm Natalie Kittle. This is the day. Tariff Circuit, highest rate in nearly a century. The labor market is weak. Over and over again, Trump is metal with corporate America and the country's most important economic institutions.",
+      "keywords": [
+        "york",
+        "weak",
+        "trump",
+        "times",
+        "tariff",
+        "rate"
+      ],
+      "summary": "From the New York Times, I'm Natalie Kittle. This is the day. Tariff Circuit, highest rate in nearly a century. The labor market is weak. Over and over again, Trump is metal with corporate America and the country's most  …"
+    },
+    {
+      "segment_id": 2,
+      "start_sentence_idx": 5,
+      "end_sentence_idx": 8,
+      "num_sentences": 3,
+      "start_time_sec": 24.45,
+      "end_time_sec": 31.45,
+      "text_preview": "And yet, the S&P at an all-time high, same for the NASDAF, by the way, the stock market. is kept on going up and up and up. Mark is continue to hit all time highs all of this despite lingering uncertainty caused by President Trump's tear of the agenda.",
+      "keywords": [
+        "time",
+        "yet",
+        "way",
+        "uncertainty",
+        "trump",
+        "tear"
+      ],
+      "summary": "And yet, the S&P at an all-time high, same for the NASDAF, by the way, the stock market. is kept on going up and up and up. Mark is continue to hit all time highs all of this despite lingering uncertainty caused by Presi …"
+    },
+    {
+      "segment_id": 3,
+      "start_sentence_idx": 8,
+      "end_sentence_idx": 9,
+      "num_sentences": 1,
+      "start_time_sec": 39.45,
+      "end_time_sec": 39.45,
+      "text_preview": "Today, my colleague Joe Rennison explains why at least until now, the market estate is so strong in such volatile times.",
+      "keywords": [
+        "volatile",
+        "today",
+        "times",
+        "strong",
+        "rennison",
+        "market"
+      ],
+      "summary": "Today, my colleague Joe Rennison explains why at least until now, the market estate is so strong in such volatile times. …"
+    },
+    {
+      "segment_id": 4,
+      "start_sentence_idx": 9,
+      "end_sentence_idx": 10,
+      "num_sentences": 1,
+      "start_time_sec": 39.45,
+      "end_time_sec": 39.45,
+      "text_preview": "And what we know about how long this can really last.",
+      "keywords": [],
+      "summary": "And what we know about how long this can really last. …"
+    },
+    {
+      "segment_id": 5,
+      "start_sentence_idx": 10,
+      "end_sentence_idx": 11,
+      "num_sentences": 1,
+      "start_time_sec": 45.01,
+      "end_time_sec": 45.01,
+      "text_preview": "It's Monday.",
+      "keywords": [],
+      "summary": "It's Monday. …"
+    },
+    {
+      "segment_id": 6,
+      "start_sentence_idx": 11,
+      "end_sentence_idx": 12,
+      "num_sentences": 1,
+      "start_time_sec": 51.49,
+      "end_time_sec": 51.49,
+      "text_preview": "I'mtober.",
+      "keywords": [],
+      "summary": "I'mtober. …"
+    },
+    {
+      "segment_id": 7,
+      "start_sentence_idx": 12,
+      "end_sentence_idx": 13,
+      "num_sentences": 1,
+      "start_time_sec": 51.49,
+      "end_time_sec": 51.49,
+      "text_preview": "funny.",
+      "keywords": [],
+      "summary": "funny. …"
+    },
+    {
+      "segment_id": 8,
+      "start_sentence_idx": 13,
+      "end_sentence_idx": 14,
+      "num_sentences": 1,
+      "start_time_sec": 51.49,
+      "end_time_sec": 51.49,
+      "text_preview": "Wow.",
+      "keywords": [],
+      "summary": "Wow. …"
+    },
+    {
+      "segment_id": 9,
+      "start_sentence_idx": 14,
+      "end_sentence_idx": 15,
+      "num_sentences": 1,
+      "start_time_sec": 51.49,
+      "end_time_sec": 51.49,
+      "text_preview": "He wrote a Bloomberg for a real penthouse.",
+      "keywords": [],
+      "summary": "He wrote a Bloomberg for a real penthouse. …"
+    },
+    {
+      "segment_id": 10,
+      "start_sentence_idx": 15,
+      "end_sentence_idx": 16,
+      "num_sentences": 1,
+      "start_time_sec": 61.45,
+      "end_time_sec": 61.45,
+      "text_preview": "In case you ask me what companies have done well since parents, I'm a deeper person.",
+      "keywords": [],
+      "summary": "In case you ask me what companies have done well since parents, I'm a deeper person. …"
+    },
+    {
+      "segment_id": 11,
+      "start_sentence_idx": 16,
+      "end_sentence_idx": 17,
+      "num_sentences": 1,
+      "start_time_sec": 61.45,
+      "end_time_sec": 61.45,
+      "text_preview": "It's a beautiful.",
+      "keywords": [],
+      "summary": "It's a beautiful. …"
+    },
+    {
+      "segment_id": 12,
+      "start_sentence_idx": 17,
+      "end_sentence_idx": 18,
+      "num_sentences": 1,
+      "start_time_sec": 61.45,
+      "end_time_sec": 61.45,
+      "text_preview": "I just caught a glimpse of it and that orange that bright orange letter.",
+      "keywords": [],
+      "summary": "I just caught a glimpse of it and that orange that bright orange letter. …"
+    },
+    {
+      "segment_id": 13,
+      "start_sentence_idx": 18,
+      "end_sentence_idx": 19,
+      "num_sentences": 1,
+      "start_time_sec": 61.45,
+      "end_time_sec": 61.45,
+      "text_preview": "Very distinctly.",
+      "keywords": [],
+      "summary": "Very distinctly. …"
+    },
+    {
+      "segment_id": 14,
+      "start_sentence_idx": 19,
+      "end_sentence_idx": 22,
+      "num_sentences": 3,
+      "start_time_sec": 75.53,
+      "end_time_sec": 75.53,
+      "text_preview": "Yeah. Can miss it. Yeah.",
+      "keywords": [],
+      "summary": "Yeah. Can miss it. Yeah. …"
+    },
+    {
+      "segment_id": 15,
+      "start_sentence_idx": 22,
+      "end_sentence_idx": 23,
+      "num_sentences": 1,
+      "start_time_sec": 80.25,
+      "end_time_sec": 80.25,
+      "text_preview": "Well, doubt.",
+      "keywords": [],
+      "summary": "Well, doubt. …"
+    },
+    {
+      "segment_id": 16,
+      "start_sentence_idx": 23,
+      "end_sentence_idx": 24,
+      "num_sentences": 1,
+      "start_time_sec": 80.25,
+      "end_time_sec": 80.25,
+      "text_preview": "Welcome to the show.",
+      "keywords": [],
+      "summary": "Welcome to the show. …"
+    },
+    {
+      "segment_id": 17,
+      "start_sentence_idx": 24,
+      "end_sentence_idx": 25,
+      "num_sentences": 1,
+      "start_time_sec": 80.25,
+      "end_time_sec": 80.25,
+      "text_preview": "Thanks for being in the studio.",
+      "keywords": [],
+      "summary": "Thanks for being in the studio. …"
+    },
+    {
+      "segment_id": 18,
+      "start_sentence_idx": 25,
+      "end_sentence_idx": 26,
+      "num_sentences": 1,
+      "start_time_sec": 80.25,
+      "end_time_sec": 80.25,
+      "text_preview": "Thanks so much for having me.",
+      "keywords": [],
+      "summary": "Thanks so much for having me. …"
+    },
+    {
+      "segment_id": 19,
+      "start_sentence_idx": 26,
+      "end_sentence_idx": 27,
+      "num_sentences": 1,
+      "start_time_sec": 80.25,
+      "end_time_sec": 80.25,
+      "text_preview": "So, we're coming to you because there has been this question on my mind for a while now.",
+      "keywords": [],
+      "summary": "So, we're coming to you because there has been this question on my mind for a while now. …"
+    },
+    {
+      "segment_id": 20,
+      "start_sentence_idx": 27,
+      "end_sentence_idx": 28,
+      "num_sentences": 1,
+      "start_time_sec": 86.17,
+      "end_time_sec": 86.17,
+      "text_preview": "And I think it's been on a lot of people's minds.",
+      "keywords": [],
+      "summary": "And I think it's been on a lot of people's minds. …"
+    },
+    {
+      "segment_id": 21,
+      "start_sentence_idx": 28,
+      "end_sentence_idx": 29,
+      "num_sentences": 1,
+      "start_time_sec": 86.17,
+      "end_time_sec": 86.17,
+      "text_preview": "And the question is, what is up with the markers?",
+      "keywords": [],
+      "summary": "And the question is, what is up with the markers? …"
+    },
+    {
+      "segment_id": 22,
+      "start_sentence_idx": 29,
+      "end_sentence_idx": 32,
+      "num_sentences": 3,
+      "start_time_sec": 86.17,
+      "end_time_sec": 91.45,
+      "text_preview": "Because it seems as though every few weeks or so something happens, whether it's a new Trump policy, whether it's weak jobs data, whether it's new tariffs, and at least for the past few months or so, the market has not really had a huge or lasting reaction to those things. Now a …",
+      "keywords": [
+        "whether",
+        "new",
+        "tariffs",
+        "market",
+        "trump",
+        "weak"
+      ],
+      "summary": "The market has not really had a huge or lasting reaction to those things. Now a week ago, we did see it. to decline when from threatened new tritid tariffs, but then the market seemed"
+    },
+    {
+      "segment_id": 23,
+      "start_sentence_idx": 32,
+      "end_sentence_idx": 33,
+      "num_sentences": 1,
+      "start_time_sec": 96.45,
+      "end_time_sec": 96.45,
+      "text_preview": "And at this point they've been in all time high territory for a while, and the mystery for me has been, how can that be, how can it be that all these theoretically destabilizing events are not seriously rattling investors?",
+      "keywords": [
+        "time",
+        "theoretically",
+        "territory",
+        "seriously",
+        "rattling",
+        "point"
+      ],
+      "summary": "And at this point they've been in all time high territory for a while, and the mystery for me has been, how can that be, how can it be that all these theoretically destabilizing events are not seriously rattling investor …"
+    },
+    {
+      "segment_id": 24,
+      "start_sentence_idx": 33,
+      "end_sentence_idx": 34,
+      "num_sentences": 1,
+      "start_time_sec": 98.45,
+      "end_time_sec": 98.45,
+      "text_preview": "Right, what you're not alone.",
+      "keywords": [],
+      "summary": "Right, what you're not alone. …"
+    },
+    {
+      "segment_id": 25,
+      "start_sentence_idx": 34,
+      "end_sentence_idx": 38,
+      "num_sentences": 4,
+      "start_time_sec": 101.45,
+      "end_time_sec": 113.45,
+      "text_preview": "There's plenty of people asking about exactly the same question right now. He makes sense for my sort of... intuitive perspective when you see so much what at least some people would describe as chaos or at least unorthodox things happening in the world. Why hasn't a bit of stron…",
+      "keywords": [
+        "things",
+        "question",
+        "least",
+        "people",
+        "world",
+        "unorthodox"
+      ],
+      "summary": "\"Why hasn't a bit of stronger reaction financial markets sure is there is a economic consequence to these things? And so it is an important question\""
+    },
+    {
+      "segment_id": 26,
+      "start_sentence_idx": 38,
+      "end_sentence_idx": 42,
+      "num_sentences": 4,
+      "start_time_sec": 119.45,
+      "end_time_sec": 133.53,
+      "text_preview": "And it's important question as well because it's important to understand what the signal is, the other stop on. , markets are still doing very well, shouldn't take that was a sign that things were okay, maybe within a couple of... we're being worried about massive. And so if that…",
+      "keywords": [
+        "well",
+        "understand",
+        "signal",
+        "important",
+        "explanation",
+        "maybe"
+      ],
+      "summary": " markets are still doing very well, shouldn't take that was a sign that things were okay, maybe within a couple of... we're being worried about massive. And so if that is the signal market, and so maybe we should"
+    },
+    {
+      "segment_id": 27,
+      "start_sentence_idx": 42,
+      "end_sentence_idx": 58,
+      "num_sentences": 16,
+      "start_time_sec": 139.69,
+      "end_time_sec": 184.01,
+      "text_preview": "Yeah, what do you mean that if , believe it or not, a majority of Americans are actually invested in sort of either through retirement plans or pension plans or rise of retail investors, they trade it and it picks up through and pound them in. And then while the stock market migh…",
+      "keywords": [
+        "market",
+        "many",
+        "economy",
+        "tariffs",
+        "trump",
+        "investors"
+      ],
+      "summary": "A majority of Americans are actually invested in sort of either through retirement plans or pension plans or rise of retail investors, they trade it and it picks up through and pound them in. While the stock market might not be the economy, and maybe it doesn't feel  it has this kind of direct effects on most"
+    },
+    {
+      "segment_id": 28,
+      "start_sentence_idx": 58,
+      "end_sentence_idx": 59,
+      "num_sentences": 1,
+      "start_time_sec": 186.25,
+      "end_time_sec": 186.25,
+      "text_preview": "It was more gradual, but those tariffs hit multiple sectors in multiple countries.",
+      "keywords": [],
+      "summary": "It was more gradual, but those tariffs hit multiple sectors in multiple countries. …"
+    },
+    {
+      "segment_id": 29,
+      "start_sentence_idx": 59,
+      "end_sentence_idx": 63,
+      "num_sentences": 4,
+      "start_time_sec": 188.65,
+      "end_time_sec": 196.41,
+      "text_preview": "Can you just explain that, break that down for me? Absolutely. So, come in to this year. in a pretty good place.",
+      "keywords": [
+        "year",
+        "pretty",
+        "place",
+        "good",
+        "explain",
+        "come"
+      ],
+      "summary": "Can you just explain that, break that down for me? Absolutely. So, come in to this year. in a pretty good place. …"
+    },
+    {
+      "segment_id": 30,
+      "start_sentence_idx": 63,
+      "end_sentence_idx": 64,
+      "num_sentences": 1,
+      "start_time_sec": 198.01,
+      "end_time_sec": 198.01,
+      "text_preview": "There was some enthusiasm around something elected as sort of more pro business president, at least perceived to be a more pro business president, and a sort of unleashing of growth and opportunity in the US for big business.",
+      "keywords": [
+        "business",
+        "president",
+        "sort",
+        "pro",
+        "unleashing",
+        "something"
+      ],
+      "summary": "There was some enthusiasm around something elected as sort of more pro business president, at least perceived to be a more pro business president, and a sort of unleashing of growth and opportunity in the US for big busi …"
+    },
+    {
+      "segment_id": 31,
+      "start_sentence_idx": 64,
+      "end_sentence_idx": 65,
+      "num_sentences": 1,
+      "start_time_sec": 199.05,
+      "end_time_sec": 199.05,
+      "text_preview": "And then the tariffs hit.",
+      "keywords": [],
+      "summary": "And then the tariffs hit. …"
+    },
+    {
+      "segment_id": 32,
+      "start_sentence_idx": 65,
+      "end_sentence_idx": 68,
+      "num_sentences": 3,
+      "start_time_sec": 201.85,
+      "end_time_sec": 208.89,
+      "text_preview": "On whilst these were expected, they came through a lot more punitive, a lot more harsh than investors had anticipated. And so there was a sharp reaction, and the reason a sharp reaction kind of kept almost more than the tariffs themselves almost more than sort of. what it said ab…",
+      "keywords": [
+        "almost",
+        "lot",
+        "reaction",
+        "sharp",
+        "sort",
+        "tariffs"
+      ],
+      "summary": "The tariffs were expected, but they came through a lot more punitive than investors had anticipated. And so there was a sharp reaction, and the reason"
+    },
+    {
+      "segment_id": 33,
+      "start_sentence_idx": 68,
+      "end_sentence_idx": 69,
+      "num_sentences": 1,
+      "start_time_sec": 211.45,
+      "end_time_sec": 211.45,
+      "text_preview": "Was it unexpected?",
+      "keywords": [],
+      "summary": "Was it unexpected? …"
+    },
+    {
+      "segment_id": 34,
+      "start_sentence_idx": 69,
+      "end_sentence_idx": 76,
+      "num_sentences": 7,
+      "start_time_sec": 215.15,
+      "end_time_sec": 232.29,
+      "text_preview": "Markets invests hate of certains. They can't price of certainty. It's impossible to price what you don't know. Right. Whether the economy could sustain through such a shock, whether the employment market would come under strength, whether inflation would rapidly rise. And so you …",
+      "keywords": [
+        "whether",
+        "would",
+        "price",
+        "markets",
+        "know",
+        "strength"
+      ],
+      "summary": " Markets invests hate of certains. They can't price of certainty. It's impossible to price what you don't know. Whether the economy could sustain through such a shock"
+    },
+    {
+      "segment_id": 35,
+      "start_sentence_idx": 76,
+      "end_sentence_idx": 77,
+      "num_sentences": 1,
+      "start_time_sec": 234.61,
+      "end_time_sec": 234.61,
+      "text_preview": "Now where we are now, sure there's still a lot of uncertainty.",
+      "keywords": [],
+      "summary": "Now where we are now, sure there's still a lot of uncertainty. …"
+    },
+    {
+      "segment_id": 36,
+      "start_sentence_idx": 77,
+      "end_sentence_idx": 82,
+      "num_sentences": 5,
+      "start_time_sec": 237.25,
+      "end_time_sec": 248.81,
+      "text_preview": "Well, we at least roughly know what base rate on tariffs can be. We, roughly know, we at least have some data on what the income from tariffs looks  to the government. Which is considerable, right? Yeah, much higher than people on display to the nation. We've seen inflation not g…",
+      "keywords": [
+        "tariffs",
+        "roughly",
+        "know",
+        "least",
+        "seen",
+        "well"
+      ],
+      "summary": "We at least roughly know what base rate on tariffs can be. We, roughly know, we at least have some data on what the income from"
+    },
+    {
+      "segment_id": 37,
+      "start_sentence_idx": 82,
+      "end_sentence_idx": 83,
+      "num_sentences": 1,
+      "start_time_sec": 250.65,
+      "end_time_sec": 250.65,
+      "text_preview": "Yes, there's pressure in inflation.",
+      "keywords": [],
+      "summary": "Yes, there's pressure in inflation. …"
+    },
+    {
+      "segment_id": 38,
+      "start_sentence_idx": 83,
+      "end_sentence_idx": 84,
+      "num_sentences": 1,
+      "start_time_sec": 254.81,
+      "end_time_sec": 254.81,
+      "text_preview": "It's not going There's a little from law, but you just have a little bit of time, it's going to analyze, but I had around, to point out there was at least less uncertainty than there was to consider.",
+      "keywords": [
+        "little",
+        "going",
+        "time",
+        "uncertainty",
+        "point",
+        "less"
+      ],
+      "summary": "It's not going There's a little from law, but you just have a little bit of time, it's going to analyze, but I had around, to point out there was at least less uncertainty than there was to consider. …"
+    },
+    {
+      "segment_id": 39,
+      "start_sentence_idx": 84,
+      "end_sentence_idx": 88,
+      "num_sentences": 4,
+      "start_time_sec": 260.49,
+      "end_time_sec": 271.45,
+      "text_preview": "So it sounds  what you're saying is we moved from this really unpredictable environment to a relatively, at least, more predictable one. And that with that shift, some of the anxiety has followed it. Yeah, exactly. Certainly, some of the big causes of consternation uncertainty ha…",
+      "keywords": [
+        "yeah",
+        "unpredictable",
+        "uncertainty",
+        "sounds",
+        "somewhat",
+        "shift"
+      ],
+      "summary": "So it sounds  what you're saying is we moved from this really unpredictable environment to a relatively, at least, more predictable one. And that with that shift, some of the anxiety has followed it. Yeah, exactly. Certa …"
+    },
+    {
+      "segment_id": 40,
+      "start_sentence_idx": 88,
+      "end_sentence_idx": 89,
+      "num_sentences": 1,
+      "start_time_sec": 276.97,
+      "end_time_sec": 276.97,
+      "text_preview": "And it isn't just curves.",
+      "keywords": [],
+      "summary": "And it isn't just curves. …"
+    },
+    {
+      "segment_id": 41,
+      "start_sentence_idx": 89,
+      "end_sentence_idx": 90,
+      "num_sentences": 1,
+      "start_time_sec": 277.97,
+      "end_time_sec": 277.97,
+      "text_preview": "We also have a big useful bill.",
+      "keywords": [],
+      "summary": "We also have a big useful bill. …"
+    },
+    {
+      "segment_id": 42,
+      "start_sentence_idx": 90,
+      "end_sentence_idx": 95,
+      "num_sentences": 5,
+      "start_time_sec": 284.17,
+      "end_time_sec": 301.45,
+      "text_preview": "The tax cart that went through, it's an extension of the tax cart, but it still is a tailwind from market. Said, it looks  it's now low interest rates. Those low interest rates will also offer a tailwind from market. It reduces borrowed costs. It boards and reduces costs to compa…",
+      "keywords": [
+        "market",
+        "tax",
+        "rates",
+        "tailwind",
+        "costs",
+        "cart"
+      ],
+      "summary": "The tax cart that went through, it's an extension of the tax cart, but it still is a tailwind from market. Said, it looks"
+    },
+    {
+      "segment_id": 43,
+      "start_sentence_idx": 95,
+      "end_sentence_idx": 96,
+      "num_sentences": 1,
+      "start_time_sec": 305.45,
+      "end_time_sec": 305.45,
+      "text_preview": "Tax cuts and reduce interest rates are two things that businesses.",
+      "keywords": [],
+      "summary": "Tax cuts and reduce interest rates are two things that businesses. …"
+    },
+    {
+      "segment_id": 44,
+      "start_sentence_idx": 96,
+      "end_sentence_idx": 97,
+      "num_sentences": 1,
+      "start_time_sec": 308.85,
+      "end_time_sec": 308.85,
+      "text_preview": "What?",
+      "keywords": [],
+      "summary": "What? …"
+    },
+    {
+      "segment_id": 45,
+      "start_sentence_idx": 97,
+      "end_sentence_idx": 98,
+      "num_sentences": 1,
+      "start_time_sec": 314.65,
+      "end_time_sec": 314.65,
+      "text_preview": "Good news.",
+      "keywords": [],
+      "summary": "Good news. …"
+    },
+    {
+      "segment_id": 46,
+      "start_sentence_idx": 98,
+      "end_sentence_idx": 100,
+      "num_sentences": 2,
+      "start_time_sec": 319.37,
+      "end_time_sec": 320.37,
+      "text_preview": "Yes. Yes.",
+      "keywords": [],
+      "summary": "Yes. Yes. …"
+    },
+    {
+      "segment_id": 47,
+      "start_sentence_idx": 100,
+      "end_sentence_idx": 101,
+      "num_sentences": 1,
+      "start_time_sec": 326.01,
+      "end_time_sec": 326.01,
+      "text_preview": "So there's more certainty in a bunch of areas.",
+      "keywords": [],
+      "summary": "So there's more certainty in a bunch of areas. …"
+    },
+    {
+      "segment_id": 48,
+      "start_sentence_idx": 101,
+      "end_sentence_idx": 102,
+      "num_sentences": 1,
+      "start_time_sec": 328.25,
+      "end_time_sec": 328.25,
+      "text_preview": "Taxes and düşün.",
+      "keywords": [],
+      "summary": "Taxes and düşün. …"
+    },
+    {
+      "segment_id": 49,
+      "start_sentence_idx": 102,
+      "end_sentence_idx": 103,
+      "num_sentences": 1,
+      "start_time_sec": 329.25,
+      "end_time_sec": 329.25,
+      "text_preview": "industries.",
+      "keywords": [],
+      "summary": "industries. …"
+    },
+    {
+      "segment_id": 50,
+      "start_sentence_idx": 103,
+      "end_sentence_idx": 107,
+      "num_sentences": 4,
+      "start_time_sec": 331.45,
+      "end_time_sec": 340.33,
+      "text_preview": "Isn't there, though, Joe still a lot of uncertainty just at a systemic level? As in Arthur concerns about how much trust we can have in the ability of the most important economic institutions in this country to do their jobs,  the Fed, the Bureau of Labor Statistics, these both b…",
+      "keywords": [
+        "labor",
+        "fed",
+        "trust",
+        "though",
+        "trump",
+        "systemic"
+      ],
+      "summary": "The Fed, the Bureau of Labor Statistics have been attacked by President Trump. Joe Biden: There are concerns about how much trust we can have in the most important economic institutions."
+    },
+    {
+      "segment_id": 51,
+      "start_sentence_idx": 107,
+      "end_sentence_idx": 108,
+      "num_sentences": 1,
+      "start_time_sec": 340.33,
+      "end_time_sec": 340.33,
+      "text_preview": "What's the impact of all that?",
+      "keywords": [],
+      "summary": "What's the impact of all that? …"
+    },
+    {
+      "segment_id": 52,
+      "start_sentence_idx": 108,
+      "end_sentence_idx": 110,
+      "num_sentences": 2,
+      "start_time_sec": 345.13,
+      "end_time_sec": 351.13,
+      "text_preview": "There is absolutely concern around these things. Whether that gets reflected in markets is a little bit distant.",
+      "keywords": [],
+      "summary": "There is absolutely concern around these things. Whether that gets reflected in markets is a little bit distant. …"
+    },
+    {
+      "segment_id": 53,
+      "start_sentence_idx": 110,
+      "end_sentence_idx": 113,
+      "num_sentences": 3,
+      "start_time_sec": 351.13,
+      "end_time_sec": 361.45,
+      "text_preview": "Markets are more, they don't have a system of governments that they are wedded to. What they fundamentally care about is the policy, especially monetary policy, currency, etc. is consistent with the sort of economic fundamentals that we're facing.",
+      "keywords": [
+        "policy",
+        "wedded",
+        "system",
+        "sort",
+        "monetary",
+        "markets"
+      ],
+      "summary": "Markets are more, they don't have a system of governments that they are wedded to. What they fundamentally care about is the policy, especially monetary policy, currency, etc. is consistent with the sort of economic fund …"
+    },
+    {
+      "segment_id": 54,
+      "start_sentence_idx": 113,
+      "end_sentence_idx": 114,
+      "num_sentences": 1,
+      "start_time_sec": 364.85,
+      "end_time_sec": 364.85,
+      "text_preview": "In authoritarian governments, that in some times we come dislocated, where the politicians are making institutions not with policy making things.",
+      "keywords": [
+        "making",
+        "times",
+        "things",
+        "politicians",
+        "policy",
+        "institutions"
+      ],
+      "summary": "In authoritarian governments, that in some times we come dislocated, where the politicians are making institutions not with policy making things. …"
+    },
+    {
+      "segment_id": 55,
+      "start_sentence_idx": 114,
+      "end_sentence_idx": 118,
+      "num_sentences": 4,
+      "start_time_sec": 367.77,
+      "end_time_sec": 374.01,
+      "text_preview": "And then you can end up with the economic policy that doesn't sit, they're calling me you have. can lead to some very unpleasant results. That's right. We're not in that situation.",
+      "keywords": [
+        "unpleasant",
+        "situation",
+        "sit",
+        "right",
+        "results",
+        "policy"
+      ],
+      "summary": "And then you can end up with the economic policy that doesn't sit, they're calling me you have. can lead to some very unpleasant results. That's right. We're not in that situation. …"
+    },
+    {
+      "segment_id": 56,
+      "start_sentence_idx": 118,
+      "end_sentence_idx": 136,
+      "num_sentences": 18,
+      "start_time_sec": 374.65,
+      "end_time_sec": 428.45,
+      "text_preview": "We're in a situation where yes, the administration is putting a lot of pressure on the federal reserves, that the impression federal reserve pennants through the attempt to file these cut. Yeah, but at least for now, the policy that they are pushing through is consistent with the…",
+      "keywords": [
+        "market",
+        "interest",
+        "see",
+        "rates",
+        "trump",
+        "yeah"
+      ],
+      "summary": "The Fed is sensing or seeing in the data some turn in that strength we are starting to see unemployment to cut slightly. And so they're trying to get ahead of them. This is all the late market action buckles, cracks, and we get to that point."
+    },
+    {
+      "segment_id": 57,
+      "start_sentence_idx": 136,
+      "end_sentence_idx": 137,
+      "num_sentences": 1,
+      "start_time_sec": 430.45,
+      "end_time_sec": 430.45,
+      "text_preview": "So, all of this, it helps explain why the markets aren't reacting very strongly to some of the more extreme trouble .",
+      "keywords": [
+        "trouble",
+        "strongly",
+        "reacting",
+        "markets",
+        "helps",
+        "extreme"
+      ],
+      "summary": "So, all of this, it helps explain why the markets aren't reacting very strongly to some of the more extreme trouble . …"
+    },
+    {
+      "segment_id": 58,
+      "start_sentence_idx": 137,
+      "end_sentence_idx": 140,
+      "num_sentences": 3,
+      "start_time_sec": 434.77,
+      "end_time_sec": 443.25,
+      "text_preview": "It doesn't totally explain though why we're in all-time high territory. What's behind that? What's that sort of?",
+      "keywords": [],
+      "summary": "It doesn't totally explain though why we're in all-time high territory. What's behind that? What's that sort of? …"
+    },
+    {
+      "segment_id": 59,
+      "start_sentence_idx": 140,
+      "end_sentence_idx": 141,
+      "num_sentences": 1,
+      "start_time_sec": 444.25,
+      "end_time_sec": 444.25,
+      "text_preview": "Yeah, sure.",
+      "keywords": [],
+      "summary": "Yeah, sure. …"
+    },
+    {
+      "segment_id": 60,
+      "start_sentence_idx": 141,
+      "end_sentence_idx": 142,
+      "num_sentences": 1,
+      "start_time_sec": 449.53,
+      "end_time_sec": 449.53,
+      "text_preview": "So I think it's good that we're coming to this point now, because there is a really big driving system market right now.",
+      "keywords": [
+        "think",
+        "system",
+        "right",
+        "really",
+        "point",
+        "market"
+      ],
+      "summary": "So I think it's good that we're coming to this point now, because there is a really big driving system market right now. …"
+    },
+    {
+      "segment_id": 61,
+      "start_sentence_idx": 142,
+      "end_sentence_idx": 143,
+      "num_sentences": 1,
+      "start_time_sec": 451.45,
+      "end_time_sec": 451.45,
+      "text_preview": "And that's our decision to tell it this.",
+      "keywords": [],
+      "summary": "And that's our decision to tell it this. …"
+    },
+    {
+      "segment_id": 62,
+      "start_sentence_idx": 143,
+      "end_sentence_idx": 144,
+      "num_sentences": 1,
+      "start_time_sec": 453.11,
+      "end_time_sec": 453.11,
+      "text_preview": "the enthusiasm of the transformational potential of AI is driving stock market through the roof because the biggest companies that stand to benefit from AI adoption are listed in the U.S.",
+      "keywords": [
+        "ai",
+        "transformational",
+        "stand",
+        "roof",
+        "potential",
+        "stock"
+      ],
+      "summary": "the enthusiasm of the transformational potential of AI is driving stock market through the roof because the biggest companies that stand to benefit from AI adoption are listed in the U.S. …"
+    },
+    {
+      "segment_id": 63,
+      "start_sentence_idx": 144,
+      "end_sentence_idx": 155,
+      "num_sentences": 11,
+      "start_time_sec": 454.37,
+      "end_time_sec": 476.01,
+      "text_preview": "These companies have grown astronomically over the past sort of four years or so and they have become these bear myths in market. You have the Magnificent 7 which is a name given to a group of seven stocks and includes alphabet. Amazon Apple Meta Microsoft Nvidia and Tesla. Those…",
+      "keywords": [
+        "seven",
+        "500",
+        "companies",
+        "third",
+        "right",
+        "nvidia"
+      ],
+      "summary": "The Magnificent 7 is a name given to a group of seven stocks and includes alphabet. Amazon Apple Meta Microsoft Nvidia and Tesla. Those seven companies now are more than a third, yes, 500."
+    },
+    {
+      "segment_id": 64,
+      "start_sentence_idx": 155,
+      "end_sentence_idx": 156,
+      "num_sentences": 1,
+      "start_time_sec": 476.85,
+      "end_time_sec": 476.85,
+      "text_preview": "A big outsizing impact of the stock.",
+      "keywords": [],
+      "summary": "A big outsizing impact of the stock. …"
+    },
+    {
+      "segment_id": 65,
+      "start_sentence_idx": 156,
+      "end_sentence_idx": 164,
+      "num_sentences": 8,
+      "start_time_sec": 477.69,
+      "end_time_sec": 497.45,
+      "text_preview": "of just a handful of companies and all of those pretty much as fairly as time with artificial intelligence. And  when you have such driving force as artificial intelligence in the market, this is a potentially transformational technology that could drive profit in the stock marke…",
+      "keywords": [
+        "us",
+        "yeah",
+        "time",
+        "technology",
+        "right",
+        "really"
+      ],
+      "summary": "When you have such driving force as artificial intelligence in the market, this is a potentially transformational technology that could drive profit in the stock market for a long time. So even if you're kind of worried about the attack on the feds and pennies or some of the geopolitical situations that are playing out, you"
+    },
+    {
+      "segment_id": 66,
+      "start_sentence_idx": 164,
+      "end_sentence_idx": 165,
+      "num_sentences": 1,
+      "start_time_sec": 497.45,
+      "end_time_sec": 497.45,
+      "text_preview": "Jane Diamond, chief executive, Jake Morgan, biggest bank union, viewers.",
+      "keywords": [],
+      "summary": "Jane Diamond, chief executive, Jake Morgan, biggest bank union, viewers. …"
+    },
+    {
+      "segment_id": 67,
+      "start_sentence_idx": 165,
+      "end_sentence_idx": 166,
+      "num_sentences": 1,
+      "start_time_sec": 503.25,
+      "end_time_sec": 503.25,
+      "text_preview": "the best, he won't do something similar.",
+      "keywords": [],
+      "summary": "the best, he won't do something similar. …"
+    },
+    {
+      "segment_id": 68,
+      "start_sentence_idx": 166,
+      "end_sentence_idx": 181,
+      "num_sentences": 15,
+      "start_time_sec": 503.25,
+      "end_time_sec": 545.45,
+      "text_preview": "The market does seem  a value, it does seem a little bit sloppy, there is room for a pullback here. And all we have to look at as some of the sort of classical market metrics for assessing valuation. And I'm pretty much all of those, let's take a company  Nvidia, for example, whe…",
+      "keywords": [
+        "trillion",
+        "value",
+        "company",
+        "think",
+        "nvidia",
+        "bit"
+      ],
+      "summary": "The market does seem  a value, it does seem a little bit sloppy, there is room for a pullback here. And all we have to look at as some of the sort of classical market metrics for assessing valuation. And I'm pretty much all of those, let's take a company  Nvidia,"
+    },
+    {
+      "segment_id": 69,
+      "start_sentence_idx": 181,
+      "end_sentence_idx": 182,
+      "num_sentences": 1,
+      "start_time_sec": 546.45,
+      "end_time_sec": 546.45,
+      "text_preview": "I don't know.",
+      "keywords": [],
+      "summary": "I don't know. …"
+    },
+    {
+      "segment_id": 70,
+      "start_sentence_idx": 182,
+      "end_sentence_idx": 192,
+      "num_sentences": 10,
+      "start_time_sec": 550.17,
+      "end_time_sec": 578.69,
+      "text_preview": "I don't think more of investors know for sure, right? We've almost any big funding change, whether it's crypto and Bitcoin, or whether it's artificial intelligence, or whether it's internet. These are technologies to some extent at least when you don't have the full set of number…",
+      "keywords": [
+        "whether",
+        "right",
+        "000",
+        "even",
+        "comes",
+        "company"
+      ],
+      "summary": "The potential windfall that comes from making the right bet on the right company is just huge. Facebook, Google, airlines, Amazon, value a company that comes down to belief. And if things  these all related to ¥100,000,000 data will allow you to put in yourpremises."
+    },
+    {
+      "segment_id": 71,
+      "start_sentence_idx": 192,
+      "end_sentence_idx": 193,
+      "num_sentences": 1,
+      "start_time_sec": 579.89,
+      "end_time_sec": 579.89,
+      "text_preview": "That can be made next month as the end of April CS, strictly bitcoin should be worth to look back to the.com period.",
+      "keywords": [
+        "worth",
+        "strictly",
+        "period",
+        "next",
+        "month",
+        "made"
+      ],
+      "summary": "That can be made next month as the end of April CS, strictly bitcoin should be worth to look back to the.com period. …"
+    },
+    {
+      "segment_id": 72,
+      "start_sentence_idx": 193,
+      "end_sentence_idx": 195,
+      "num_sentences": 2,
+      "start_time_sec": 582.29,
+      "end_time_sec": 583.49,
+      "text_preview": "The internet revolution, the computing revolution that kind of taken whole earlier, those things are still with us. The technologies are still here, artificial intelligence is going to be going away in time soon.",
+      "keywords": [
+        "revolution",
+        "going",
+        "still",
+        "whole",
+        "us",
+        "technologies"
+      ],
+      "summary": "The internet revolution, the computing revolution that kind of taken whole earlier, those things are still with us. The technologies are still here, artificial intelligence is going to be going away in time soon. …"
+    },
+    {
+      "segment_id": 73,
+      "start_sentence_idx": 195,
+      "end_sentence_idx": 197,
+      "num_sentences": 2,
+      "start_time_sec": 585.65,
+      "end_time_sec": 587.01,
+      "text_preview": "The difference is which companies are going to actually still be around five and two news. Is it going to be a case of one of the many companies that went bust in 2001 or is it going to be a case of being Amazon, which was also valid.",
+      "keywords": [
+        "going",
+        "companies",
+        "case",
+        "went",
+        "valid",
+        "two"
+      ],
+      "summary": "The difference is which companies are going to actually still be around five and two news. Is it going to be a case of one of the many companies that went bust in 2001 or is it going to be a case of being Amazon, which w …"
+    },
+    {
+      "segment_id": 74,
+      "start_sentence_idx": 197,
+      "end_sentence_idx": 202,
+      "num_sentences": 5,
+      "start_time_sec": 589.97,
+      "end_time_sec": 601.21,
+      "text_preview": "Yeah. In similar. ways that were also off the charts back in 1999. That company is still here and we're majoring in balls a lot of money to invest in those 20s  years. Right.",
+      "keywords": [
+        "years",
+        "yeah",
+        "ways",
+        "still",
+        "similar",
+        "right"
+      ],
+      "summary": "Yeah. In similar. ways that were also off the charts back in 1999. That company is still here and we're majoring in balls a lot of money to invest in those 20s  years. Right. …"
+    },
+    {
+      "segment_id": 75,
+      "start_sentence_idx": 202,
+      "end_sentence_idx": 203,
+      "num_sentences": 1,
+      "start_time_sec": 601.45,
+      "end_time_sec": 601.45,
+      "text_preview": "One of the concerns comes up with this, however, is that because of the size of these companies and because of how well they're performing more recently, they're also able to then mass a lot of the pain that's sort of such just beneath the surface of the stock market.",
+      "keywords": [
+        "well",
+        "surface",
+        "stock",
+        "sort",
+        "size",
+        "recently"
+      ],
+      "summary": "\"Because of the size of these companies and because of how well they're performing more recently, they're also able to then mass a"
+    },
+    {
+      "segment_id": 76,
+      "start_sentence_idx": 203,
+      "end_sentence_idx": 211,
+      "num_sentences": 8,
+      "start_time_sec": 601.45,
+      "end_time_sec": 625.37,
+      "text_preview": "It's quite possible to have a large chunk of the S&P 500 for example down on the day. Where... some idiosyncratic use about Nvidia or Amazon that lists those stocks one to percent can outweigh the most in the off-siduration once a large chunk of index. So it kind of comes back to…",
+      "keywords": [
+        "500",
+        "large",
+        "maybe",
+        "one",
+        "day",
+        "back"
+      ],
+      "summary": "It's quite possible to have a large chunk of the S&P 500 for example down on the day. Some idiosyncratic use about Nvidia or Amazon that lists those stocks one to percent can outweigh the most."
+    },
+    {
+      "segment_id": 77,
+      "start_sentence_idx": 211,
+      "end_sentence_idx": 212,
+      "num_sentences": 1,
+      "start_time_sec": 625.37,
+      "end_time_sec": 625.37,
+      "text_preview": "So let's talk about some of those underlying concerns, these warning signs in the markets.",
+      "keywords": [],
+      "summary": "So let's talk about some of those underlying concerns, these warning signs in the markets. …"
+    },
+    {
+      "segment_id": 78,
+      "start_sentence_idx": 212,
+      "end_sentence_idx": 213,
+      "num_sentences": 1,
+      "start_time_sec": 629.69,
+      "end_time_sec": 629.69,
+      "text_preview": "What do you see?",
+      "keywords": [],
+      "summary": "What do you see? …"
+    },
+    {
+      "segment_id": 79,
+      "start_sentence_idx": 213,
+      "end_sentence_idx": 250,
+      "num_sentences": 37,
+      "start_time_sec": 631.45,
+      "end_time_sec": 747.05,
+      "text_preview": "So one of the most obvious would be gold. Gold has been rising for a while at this point, but it's really taken off in recent months. We've gone above $4,000 on gold for the first time. And the signal that sounds is... One of worry, why do people by gold? It doesn't offer any ret…",
+      "keywords": [
+        "markets",
+        "gold",
+        "us",
+        "one",
+        "people",
+        "yeah"
+      ],
+      "summary": "Gold has gone above $4,000 for the first time. People tend to invest in gold when they're feeling insecure. Central banks around the world move more into gold. Money moving away from the US stock market."
+    },
+    {
+      "segment_id": 80,
+      "start_sentence_idx": 250,
+      "end_sentence_idx": 251,
+      "num_sentences": 1,
+      "start_time_sec": 751.45,
+      "end_time_sec": 751.45,
+      "text_preview": "How should we be interpreting these warning signs?",
+      "keywords": [],
+      "summary": "How should we be interpreting these warning signs? …"
+    },
+    {
+      "segment_id": 81,
+      "start_sentence_idx": 251,
+      "end_sentence_idx": 252,
+      "num_sentences": 1,
+      "start_time_sec": 758.25,
+      "end_time_sec": 758.25,
+      "text_preview": "Is it a signal that the historic run that we've been on is about?",
+      "keywords": [],
+      "summary": "Is it a signal that the historic run that we've been on is about? …"
+    },
+    {
+      "segment_id": 82,
+      "start_sentence_idx": 252,
+      "end_sentence_idx": 253,
+      "num_sentences": 1,
+      "start_time_sec": 761.29,
+      "end_time_sec": 761.29,
+      "text_preview": "to end?",
+      "keywords": [],
+      "summary": "to end? …"
+    },
+    {
+      "segment_id": 83,
+      "start_sentence_idx": 253,
+      "end_sentence_idx": 256,
+      "num_sentences": 3,
+      "start_time_sec": 764.81,
+      "end_time_sec": 770.97,
+      "text_preview": "I don't know. I'm sorry. I was really hoping you did.",
+      "keywords": [],
+      "summary": "I don't know. I'm sorry. I was really hoping you did. …"
+    },
+    {
+      "segment_id": 84,
+      "start_sentence_idx": 256,
+      "end_sentence_idx": 257,
+      "num_sentences": 1,
+      "start_time_sec": 776.09,
+      "end_time_sec": 776.09,
+      "text_preview": "Yeah, I don't know.",
+      "keywords": [],
+      "summary": "Yeah, I don't know. …"
+    },
+    {
+      "segment_id": 85,
+      "start_sentence_idx": 257,
+      "end_sentence_idx": 258,
+      "num_sentences": 1,
+      "start_time_sec": 777.77,
+      "end_time_sec": 777.77,
+      "text_preview": "It's kind of fascinating in a purely intellectual way, but it's also backflink, and it's all right to see how little effect, maybe some of the things that we think of as being very impactful in our own lives, have not necessarily translated into financial markets.",
+      "keywords": [
+        "way",
+        "translated",
+        "think",
+        "things",
+        "see",
+        "right"
+      ],
+      "summary": "It's kind of fascinating in a purely intellectual way, but it's also backflink, and it's all right to see how little effect, maybe some of the things that we think of as being very impactful in our own lives, have not ne …"
+    },
+    {
+      "segment_id": 86,
+      "start_sentence_idx": 258,
+      "end_sentence_idx": 260,
+      "num_sentences": 2,
+      "start_time_sec": 781.45,
+      "end_time_sec": 783.75,
+      "text_preview": "It also hopefully. the end of this conversation makes a little bit of sense.",
+      "keywords": [],
+      "summary": "It also hopefully. the end of this conversation makes a little bit of sense. …"
+    },
+    {
+      "segment_id": 87,
+      "start_sentence_idx": 260,
+      "end_sentence_idx": 264,
+      "num_sentences": 4,
+      "start_time_sec": 784.99,
+      "end_time_sec": 789.79,
+      "text_preview": "And this is the reality that companies are dealing with, the reality that investors are dealing with is not that bad. , I think a lot of people will feel mad at it by some, especially those who are being affected by Trump's policies. Yeah. Yeah.",
+      "keywords": [
+        "yeah",
+        "reality",
+        "dealing",
+        "think",
+        "policies",
+        "people"
+      ],
+      "summary": "And this is the reality that companies are dealing with, the reality that investors are dealing with is not that bad. , I think a lot of people will feel mad at it by some, especially those who are being affected by Trum …"
+    },
+    {
+      "segment_id": 88,
+      "start_sentence_idx": 264,
+      "end_sentence_idx": 265,
+      "num_sentences": 1,
+      "start_time_sec": 792.43,
+      "end_time_sec": 792.43,
+      "text_preview": "I'm thinking of thousands of federal workers who don't have a job, or the small businesses who are struggling with tariffs.",
+      "keywords": [
+        "workers",
+        "thousands",
+        "thinking",
+        "tariffs",
+        "struggling",
+        "small"
+      ],
+      "summary": "I'm thinking of thousands of federal workers who don't have a job, or the small businesses who are struggling with tariffs. …"
+    },
+    {
+      "segment_id": 89,
+      "start_sentence_idx": 265,
+      "end_sentence_idx": 266,
+      "num_sentences": 1,
+      "start_time_sec": 793.63,
+      "end_time_sec": 793.63,
+      "text_preview": "Because I think people, the least going into this term, they expected.",
+      "keywords": [],
+      "summary": "Because I think people, the least going into this term, they expected. …"
+    },
+    {
+      "segment_id": 90,
+      "start_sentence_idx": 266,
+      "end_sentence_idx": 269,
+      "num_sentences": 3,
+      "start_time_sec": 795.03,
+      "end_time_sec": 801.03,
+      "text_preview": "in the market city of guardrail to be a check on the press. For them to be maybe one of the only effecting checks on the president's most extreme instance. And that just doesn't seem to be a pack.",
+      "keywords": [
+        "seem",
+        "press",
+        "president",
+        "pack",
+        "one",
+        "maybe"
+      ],
+      "summary": "in the market city of guardrail to be a check on the press. For them to be maybe one of the only effecting checks on the president's most extreme instance. And that just doesn't seem to be a pack. …"
+    },
+    {
+      "segment_id": 91,
+      "start_sentence_idx": 269,
+      "end_sentence_idx": 270,
+      "num_sentences": 1,
+      "start_time_sec": 803.19,
+      "end_time_sec": 803.19,
+      "text_preview": "Yeah, you're right.",
+      "keywords": [],
+      "summary": "Yeah, you're right. …"
+    },
+    {
+      "segment_id": 92,
+      "start_sentence_idx": 270,
+      "end_sentence_idx": 271,
+      "num_sentences": 1,
+      "start_time_sec": 805.19,
+      "end_time_sec": 805.19,
+      "text_preview": "People certainly did come into this year expecting markets to be more of guardrail than they have been.",
+      "keywords": [],
+      "summary": "People certainly did come into this year expecting markets to be more of guardrail than they have been. …"
+    },
+    {
+      "segment_id": 93,
+      "start_sentence_idx": 271,
+      "end_sentence_idx": 272,
+      "num_sentences": 1,
+      "start_time_sec": 808.43,
+      "end_time_sec": 808.43,
+      "text_preview": "But , when investors are actually confronted with the landscape in front of them, they have to consider the good arm the bad.",
+      "keywords": [
+        "landscape",
+        "investors",
+        "good",
+        "front",
+        "consider",
+        "confronted"
+      ],
+      "summary": "But , when investors are actually confronted with the landscape in front of them, they have to consider the good arm the bad. …"
+    },
+    {
+      "segment_id": 94,
+      "start_sentence_idx": 272,
+      "end_sentence_idx": 273,
+      "num_sentences": 1,
+      "start_time_sec": 809.59,
+      "end_time_sec": 809.59,
+      "text_preview": "Companies are earning.",
+      "keywords": [],
+      "summary": "Companies are earning. …"
+    },
+    {
+      "segment_id": 95,
+      "start_sentence_idx": 273,
+      "end_sentence_idx": 274,
+      "num_sentences": 1,
+      "start_time_sec": 811.45,
+      "end_time_sec": 811.45,
+      "text_preview": "We had double digit earnings growth.",
+      "keywords": [],
+      "summary": "We had double digit earnings growth. …"
+    },
+    {
+      "segment_id": 96,
+      "start_sentence_idx": 274,
+      "end_sentence_idx": 275,
+      "num_sentences": 1,
+      "start_time_sec": 819.45,
+      "end_time_sec": 819.45,
+      "text_preview": "In the first quarter, an in the second quarter, we're looking  we might get it in third quarter as well as going to run the season now.",
+      "keywords": [
+        "quarter",
+        "third",
+        "well",
+        "second",
+        "season",
+        "run"
+      ],
+      "summary": "In the first quarter, an in the second quarter, we're looking  we might get it in third quarter as well as going to run the season now. …"
+    },
+    {
+      "segment_id": 97,
+      "start_sentence_idx": 275,
+      "end_sentence_idx": 276,
+      "num_sentences": 1,
+      "start_time_sec": 819.45,
+      "end_time_sec": 819.45,
+      "text_preview": "And, , when you consider the attack on Fed impendent, we consider some of the more extreme policies that come out from this administration, we'll be sitting all these things.",
+      "keywords": [
+        "consider",
+        "things",
+        "sitting",
+        "policies",
+        "fed",
+        "impendent"
+      ],
+      "summary": "And, , when you consider the attack on Fed impendent, we consider some of the more extreme policies that come out from this administration, we'll be sitting all these things. …"
+    },
+    {
+      "segment_id": 98,
+      "start_sentence_idx": 276,
+      "end_sentence_idx": 277,
+      "num_sentences": 1,
+      "start_time_sec": 824.45,
+      "end_time_sec": 824.45,
+      "text_preview": "Do you think in video or Google or Apple, these big companies are not going to be making a lot of money in five years.",
+      "keywords": [
+        "years",
+        "video",
+        "think",
+        "money",
+        "making",
+        "lot"
+      ],
+      "summary": "Do you think in video or Google or Apple, these big companies are not going to be making a lot of money in five years. …"
+    },
+    {
+      "segment_id": 99,
+      "start_sentence_idx": 277,
+      "end_sentence_idx": 278,
+      "num_sentences": 1,
+      "start_time_sec": 829.45,
+      "end_time_sec": 829.45,
+      "text_preview": "to you?",
+      "keywords": [],
+      "summary": "to you? …"
+    },
+    {
+      "segment_id": 100,
+      "start_sentence_idx": 278,
+      "end_sentence_idx": 279,
+      "num_sentences": 1,
+      "start_time_sec": 833.45,
+      "end_time_sec": 833.45,
+      "text_preview": "I think I probably can be doing all right.",
+      "keywords": [],
+      "summary": "I think I probably can be doing all right. …"
+    },
+    {
+      "segment_id": 101,
+      "start_sentence_idx": 279,
+      "end_sentence_idx": 281,
+      "num_sentences": 2,
+      "start_time_sec": 840.45,
+      "end_time_sec": 841.45,
+      "text_preview": "I don't often have opinions. I'm pretty much the model, this opinion I think anyone can have.",
+      "keywords": [],
+      "summary": "I don't often have opinions. I'm pretty much the model, this opinion I think anyone can have. …"
+    },
+    {
+      "segment_id": 102,
+      "start_sentence_idx": 281,
+      "end_sentence_idx": 282,
+      "num_sentences": 1,
+      "start_time_sec": 841.45,
+      "end_time_sec": 841.45,
+      "text_preview": "It's so.",
+      "keywords": [],
+      "summary": "It's so. …"
+    },
+    {
+      "segment_id": 103,
+      "start_sentence_idx": 282,
+      "end_sentence_idx": 283,
+      "num_sentences": 1,
+      "start_time_sec": 844.33,
+      "end_time_sec": 844.33,
+      "text_preview": "And so, , sometimes it's just not absolutely different question than the one investors are asking for it.",
+      "keywords": [],
+      "summary": "And so, , sometimes it's just not absolutely different question than the one investors are asking for it. …"
+    },
+    {
+      "segment_id": 104,
+      "start_sentence_idx": 283,
+      "end_sentence_idx": 284,
+      "num_sentences": 1,
+      "start_time_sec": 846.81,
+      "end_time_sec": 846.81,
+      "text_preview": "And that's kind of why you all are here.",
+      "keywords": [],
+      "summary": "And that's kind of why you all are here. …"
+    },
+    {
+      "segment_id": 105,
+      "start_sentence_idx": 284,
+      "end_sentence_idx": 288,
+      "num_sentences": 4,
+      "start_time_sec": 848.29,
+      "end_time_sec": 851.73,
+      "text_preview": "To say, basically that the markets are filtering all the noise of the volatility in this term or maybe investors are just. holding their nose because they can't resist the poll of AR. Yeah, I mean, I speak to a lot of investors who have talked about how they've evolved their inve…",
+      "keywords": [
+        "noise",
+        "term",
+        "investors",
+        "year",
+        "yeah",
+        "trying"
+      ],
+      "summary": "The markets are filtering all the noise of the volatility in this term or maybe investors are just. holding their nose because they can't resist the poll of AR. Yeah, I mean, I speak to a lot of investors who"
+    },
+    {
+      "segment_id": 106,
+      "start_sentence_idx": 288,
+      "end_sentence_idx": 293,
+      "num_sentences": 5,
+      "start_time_sec": 853.89,
+      "end_time_sec": 861.45,
+      "text_preview": "Yeah, if Joe Biden had tweeted something that resembled a policy announcement, one round the afternoon, then marked with a response. and they're reactive, very quick to take it seriously. We don't have that level of reaction function now, because there is a sense that, , and I do…",
+      "keywords": [
+        "sense",
+        "yeah",
+        "tweeted",
+        "value",
+        "take",
+        "stuff"
+      ],
+      "summary": "The White House used to be very quick to respond to tweets. Now there is a sense that there is no value attached to such tweets. That changes the next bit."
+    },
+    {
+      "segment_id": 107,
+      "start_sentence_idx": 293,
+      "end_sentence_idx": 300,
+      "num_sentences": 7,
+      "start_time_sec": 862.73,
+      "end_time_sec": 871.45,
+      "text_preview": "And so I think investors have really started to try not to react to those more superfluous things and instead focus on what's real, what's actually happened, what's actually been said and done rather than what might happen. So to a certain extent, markets kind of become inured to…",
+      "keywords": [
+        "us",
+        "investors",
+        "unprecedented",
+        "things",
+        "might",
+        "way"
+      ],
+      "summary": " markets have become inured to the daily seesaw of drama that affects us regular folks a little more. Investors have really started to try not to react to those more superfluous things and instead focus on what's real."
+    },
+    {
+      "segment_id": 108,
+      "start_sentence_idx": 300,
+      "end_sentence_idx": 303,
+      "num_sentences": 3,
+      "start_time_sec": 874.49,
+      "end_time_sec": 886.09,
+      "text_preview": "Yeah, , if you'd ask an economist in January, what would introducing the highest tariffs in what a century do to the economy? I don't think that have said, well, I'm pretty sure they have some 2,500 will be a bit of a regretful. But we are a transition.",
+      "keywords": [
+        "yeah",
+        "would",
+        "well",
+        "transition",
+        "think",
+        "tariffs"
+      ],
+      "summary": "Yeah, , if you'd ask an economist in January, what would introducing the highest tariffs in what a century do to the economy? I don't think that have said, well, I'm pretty sure they have some 2,500 will be a bit of a re …"
+    },
+    {
+      "segment_id": 109,
+      "start_sentence_idx": 303,
+      "end_sentence_idx": 307,
+      "num_sentences": 4,
+      "start_time_sec": 890.65,
+      "end_time_sec": 906.11,
+      "text_preview": "So we can look at what's happening to companies, we can look at what happens to data, we can look at what companies are doing in response to these increased costs. We can see whether they're trying to absorb those costs for the past month. consumers and certainly since the first …",
+      "keywords": [
+        "look",
+        "costs",
+        "consumers",
+        "companies",
+        "year",
+        "would"
+      ],
+      "summary": "Companies have been trying to absorb those costs for the past month. Now it's looking  they're beginning to start passing those on the consumers that would potentially be another warning sign."
+    },
+    {
+      "segment_id": 110,
+      "start_sentence_idx": 307,
+      "end_sentence_idx": 309,
+      "num_sentences": 2,
+      "start_time_sec": 912.77,
+      "end_time_sec": 913.47,
+      "text_preview": "But you actually end up just having to look at what's really happening. Not the sort of gut check or emotional response to what's happening.",
+      "keywords": [
+        "happening",
+        "sort",
+        "response",
+        "really",
+        "look",
+        "gut"
+      ],
+      "summary": "But you actually end up just having to look at what's really happening. Not the sort of gut check or emotional response to what's happening. …"
+    },
+    {
+      "segment_id": 111,
+      "start_sentence_idx": 309,
+      "end_sentence_idx": 310,
+      "num_sentences": 1,
+      "start_time_sec": 914.49,
+      "end_time_sec": 914.49,
+      "text_preview": "It has to be the reality of it and how is it effect?",
+      "keywords": [],
+      "summary": "It has to be the reality of it and how is it effect? …"
+    },
+    {
+      "segment_id": 112,
+      "start_sentence_idx": 310,
+      "end_sentence_idx": 311,
+      "num_sentences": 1,
+      "start_time_sec": 920.37,
+      "end_time_sec": 920.37,
+      "text_preview": "Company possibility.",
+      "keywords": [],
+      "summary": "Company possibility. …"
+    },
+    {
+      "segment_id": 113,
+      "start_sentence_idx": 311,
+      "end_sentence_idx": 312,
+      "num_sentences": 1,
+      "start_time_sec": 923.05,
+      "end_time_sec": 923.05,
+      "text_preview": "Make it easily see a future in which the sort of positive start will mark it and continue to outward.",
+      "keywords": [
+        "start",
+        "sort",
+        "see",
+        "positive",
+        "outward",
+        "mark"
+      ],
+      "summary": "Make it easily see a future in which the sort of positive start will mark it and continue to outward. …"
+    },
+    {
+      "segment_id": 114,
+      "start_sentence_idx": 312,
+      "end_sentence_idx": 313,
+      "num_sentences": 1,
+      "start_time_sec": 901.45,
+      "end_time_sec": 901.45,
+      "text_preview": "I can see a future where some of those negatives are getting creepy, but also our way.",
+      "keywords": [],
+      "summary": "I can see a future where some of those negatives are getting creepy, but also our way. …"
+    },
+    {
+      "segment_id": 115,
+      "start_sentence_idx": 313,
+      "end_sentence_idx": 314,
+      "num_sentences": 1,
+      "start_time_sec": 901.45,
+      "end_time_sec": 901.45,
+      "text_preview": "But at least for now, a lot of the worst is that we're sort of surrounding this stuff beginning of the year, have not been met yet.",
+      "keywords": [
+        "yet",
+        "year",
+        "worst",
+        "surrounding",
+        "stuff",
+        "sort"
+      ],
+      "summary": "But at least for now, a lot of the worst is that we're sort of surrounding this stuff beginning of the year, have not been met yet. …"
+    },
+    {
+      "segment_id": 116,
+      "start_sentence_idx": 314,
+      "end_sentence_idx": 315,
+      "num_sentences": 1,
+      "start_time_sec": 907.21,
+      "end_time_sec": 907.21,
+      "text_preview": "Oh, and before let you go, I want to actually make use of that print out that you brought.",
+      "keywords": [],
+      "summary": "Oh, and before let you go, I want to actually make use of that print out that you brought. …"
+    },
+    {
+      "segment_id": 117,
+      "start_sentence_idx": 315,
+      "end_sentence_idx": 316,
+      "num_sentences": 1,
+      "start_time_sec": 907.21,
+      "end_time_sec": 907.21,
+      "text_preview": "That was for some help you answer the question about what cup.",
+      "keywords": [],
+      "summary": "That was for some help you answer the question about what cup. …"
+    },
+    {
+      "segment_id": 118,
+      "start_sentence_idx": 316,
+      "end_sentence_idx": 317,
+      "num_sentences": 1,
+      "start_time_sec": 912.41,
+      "end_time_sec": 912.41,
+      "text_preview": "companies have done well since Trump has issued all these tariffs.",
+      "keywords": [],
+      "summary": "companies have done well since Trump has issued all these tariffs. …"
+    },
+    {
+      "segment_id": 119,
+      "start_sentence_idx": 317,
+      "end_sentence_idx": 318,
+      "num_sentences": 1,
+      "start_time_sec": 912.41,
+      "end_time_sec": 912.41,
+      "text_preview": "So let's hear it, he's killing it.",
+      "keywords": [],
+      "summary": "So let's hear it, he's killing it. …"
+    },
+    {
+      "segment_id": 120,
+      "start_sentence_idx": 318,
+      "end_sentence_idx": 319,
+      "num_sentences": 1,
+      "start_time_sec": 916.65,
+      "end_time_sec": 916.65,
+      "text_preview": "Oh my goodness, all right, let's look at the scores in the board.",
+      "keywords": [],
+      "summary": "Oh my goodness, all right, let's look at the scores in the board. …"
+    },
+    {
+      "segment_id": 121,
+      "start_sentence_idx": 319,
+      "end_sentence_idx": 320,
+      "num_sentences": 1,
+      "start_time_sec": 916.65,
+      "end_time_sec": 916.65,
+      "text_preview": "Looking at this piece of paper in front of me, it's very clear why the market has been doing so well.",
+      "keywords": [
+        "well",
+        "piece",
+        "paper",
+        "market",
+        "looking",
+        "front"
+      ],
+      "summary": "Looking at this piece of paper in front of me, it's very clear why the market has been doing so well. …"
+    },
+    {
+      "segment_id": 122,
+      "start_sentence_idx": 320,
+      "end_sentence_idx": 321,
+      "num_sentences": 1,
+      "start_time_sec": 921.61,
+      "end_time_sec": 921.61,
+      "text_preview": "There's seven companies on here that have risen more than 100% since the start of April.",
+      "keywords": [],
+      "summary": "There's seven companies on here that have risen more than 100% since the start of April. …"
+    },
+    {
+      "segment_id": 123,
+      "start_sentence_idx": 321,
+      "end_sentence_idx": 322,
+      "num_sentences": 1,
+      "start_time_sec": 927.93,
+      "end_time_sec": 927.93,
+      "text_preview": "Wow, that's doubling in values as broad calm, talented, Oracle companies that've done big business with this government.",
+      "keywords": [],
+      "summary": "Wow, that's doubling in values as broad calm, talented, Oracle companies that've done big business with this government. …"
+    },
+    {
+      "segment_id": 124,
+      "start_sentence_idx": 322,
+      "end_sentence_idx": 323,
+      "num_sentences": 1,
+      "start_time_sec": 927.93,
+      "end_time_sec": 927.93,
+      "text_preview": "It's pretty staggering.",
+      "keywords": [],
+      "summary": "It's pretty staggering. …"
+    },
+    {
+      "segment_id": 125,
+      "start_sentence_idx": 323,
+      "end_sentence_idx": 324,
+      "num_sentences": 1,
+      "start_time_sec": 927.93,
+      "end_time_sec": 927.93,
+      "text_preview": "I was really hoping you could.",
+      "keywords": [],
+      "summary": "I was really hoping you could. …"
+    },
+    {
+      "segment_id": 126,
+      "start_sentence_idx": 324,
+      "end_sentence_idx": 325,
+      "num_sentences": 1,
+      "start_time_sec": 931.45,
+      "end_time_sec": 931.45,
+      "text_preview": "you're gonna say the New York Times.",
+      "keywords": [],
+      "summary": "you're gonna say the New York Times. …"
+    },
+    {
+      "segment_id": 127,
+      "start_sentence_idx": 325,
+      "end_sentence_idx": 326,
+      "num_sentences": 1,
+      "start_time_sec": 931.45,
+      "end_time_sec": 931.45,
+      "text_preview": "A last, a last.",
+      "keywords": [],
+      "summary": "A last, a last. …"
+    },
+    {
+      "segment_id": 128,
+      "start_sentence_idx": 326,
+      "end_sentence_idx": 327,
+      "num_sentences": 1,
+      "start_time_sec": 931.45,
+      "end_time_sec": 931.45,
+      "text_preview": "But it's easy looking at that list to understand what marketing is doing this day.",
+      "keywords": [],
+      "summary": "But it's easy looking at that list to understand what marketing is doing this day. …"
+    },
+    {
+      "segment_id": 129,
+      "start_sentence_idx": 327,
+      "end_sentence_idx": 328,
+      "num_sentences": 1,
+      "start_time_sec": 936.97,
+      "end_time_sec": 936.97,
+      "text_preview": "Come on, Joe.",
+      "keywords": [],
+      "summary": "Come on, Joe. …"
+    },
+    {
+      "segment_id": 130,
+      "start_sentence_idx": 328,
+      "end_sentence_idx": 329,
+      "num_sentences": 1,
+      "start_time_sec": 936.97,
+      "end_time_sec": 936.97,
+      "text_preview": "Thanks so much.",
+      "keywords": [],
+      "summary": "Thanks so much. …"
+    },
+    {
+      "segment_id": 131,
+      "start_sentence_idx": 329,
+      "end_sentence_idx": 330,
+      "num_sentences": 1,
+      "start_time_sec": 936.97,
+      "end_time_sec": 936.97,
+      "text_preview": "Thank you.",
+      "keywords": [],
+      "summary": "Thank you. …"
+    },
+    {
+      "segment_id": 132,
+      "start_sentence_idx": 330,
+      "end_sentence_idx": 331,
+      "num_sentences": 1,
+      "start_time_sec": 941.57,
+      "end_time_sec": 941.57,
+      "text_preview": "We'll be right back.",
+      "keywords": [],
+      "summary": "We'll be right back. …"
+    },
+    {
+      "segment_id": 133,
+      "start_sentence_idx": 331,
+      "end_sentence_idx": 332,
+      "num_sentences": 1,
+      "start_time_sec": 945.97,
+      "end_time_sec": 945.97,
+      "text_preview": "Separatepared here is what people know making we they bought the country on Saturday wyrouss gathered for day long no kings protest against president shok Fast place in small towns and big cities, and group particularly large turnouts in Washington, B.C., New York and Chicago.",
+      "keywords": [
+        "york",
+        "wyrouss",
+        "washington",
+        "turnouts",
+        "towns",
+        "small"
+      ],
+      "summary": "Separatepared here is what people know making we they bought the country on Saturday wyrouss gathered for day long no kings protest against president shok Fast place in small towns and big cities, and group particularly  …"
+    },
+    {
+      "segment_id": 134,
+      "start_sentence_idx": 332,
+      "end_sentence_idx": 333,
+      "num_sentences": 1,
+      "start_time_sec": 951.21,
+      "end_time_sec": 951.21,
+      "text_preview": "The demonstrations were aimed at calling out what protesters see as the authoritarian actions of the press and were largely peaceful.",
+      "keywords": [
+        "see",
+        "protesters",
+        "press",
+        "peaceful",
+        "largely",
+        "demonstrations"
+      ],
+      "summary": "The demonstrations were aimed at calling out what protesters see as the authoritarian actions of the press and were largely peaceful. …"
+    },
+    {
+      "segment_id": 135,
+      "start_sentence_idx": 333,
+      "end_sentence_idx": 334,
+      "num_sentences": 1,
+      "start_time_sec": 951.21,
+      "end_time_sec": 951.21,
+      "text_preview": "We must get going, all the President's slow-mo off-suss into a authoritarianism.",
+      "keywords": [],
+      "summary": "We must get going, all the President's slow-mo off-suss into a authoritarianism. …"
+    },
+    {
+      "segment_id": 136,
+      "start_sentence_idx": 334,
+      "end_sentence_idx": 335,
+      "num_sentences": 1,
+      "start_time_sec": 955.49,
+      "end_time_sec": 955.49,
+      "text_preview": "Will we bend to me your grace?",
+      "keywords": [],
+      "summary": "Will we bend to me your grace? …"
+    },
+    {
+      "segment_id": 137,
+      "start_sentence_idx": 335,
+      "end_sentence_idx": 336,
+      "num_sentences": 1,
+      "start_time_sec": 961.05,
+      "end_time_sec": 961.05,
+      "text_preview": "And, on Sunday, Israel launched heaviest tax on Gaza since the ceasefire to hold a week ago, and suspended humanitarian aid to the on-play after accusing Hamas of violating the truce by killing two Israeli soldiers.",
+      "keywords": [
+        "week",
+        "violating",
+        "two",
+        "truce",
+        "tax",
+        "suspended"
+      ],
+      "summary": "And, on Sunday, Israel launched heaviest tax on Gaza since the ceasefire to hold a week ago, and suspended humanitarian aid to the on-play after accusing Hamas of violating the truce by killing two Israeli soldiers. …"
+    },
+    {
+      "segment_id": 138,
+      "start_sentence_idx": 336,
+      "end_sentence_idx": 337,
+      "num_sentences": 1,
+      "start_time_sec": 961.45,
+      "end_time_sec": 961.45,
+      "text_preview": "By nightfall, following a series of significant strikes, the Israeli military said it had, quote, begun the renewed enforcement of the ceasefire.",
+      "keywords": [
+        "strikes",
+        "significant",
+        "series",
+        "said",
+        "renewed",
+        "quote"
+      ],
+      "summary": "By nightfall, following a series of significant strikes, the Israeli military said it had, quote, begun the renewed enforcement of the ceasefire. …"
+    },
+    {
+      "segment_id": 139,
+      "start_sentence_idx": 337,
+      "end_sentence_idx": 338,
+      "num_sentences": 1,
+      "start_time_sec": 966.25,
+      "end_time_sec": 966.25,
+      "text_preview": "recorded 44 Palestinian deaths across the territory on Sunday.",
+      "keywords": [],
+      "summary": "recorded 44 Palestinian deaths across the territory on Sunday. …"
+    },
+    {
+      "segment_id": 140,
+      "start_sentence_idx": 338,
+      "end_sentence_idx": 339,
+      "num_sentences": 1,
+      "start_time_sec": 971.21,
+      "end_time_sec": 971.21,
+      "text_preview": "The flare up of violence and the temporary halt in aid were the most serious tests yet of the sea-sweyer, which was negotiated under heavy pressure from the White House and signed by Tom himself.",
+      "keywords": [
+        "yet",
+        "white",
+        "violence",
+        "tom",
+        "tests",
+        "temporary"
+      ],
+      "summary": "The flare up of violence and the temporary halt in aid were the most serious tests yet of the sea-sweyer, which was negotiated under heavy pressure from the White House and signed by Tom himself. …"
+    },
+    {
+      "segment_id": 141,
+      "start_sentence_idx": 339,
+      "end_sentence_idx": 340,
+      "num_sentences": 1,
+      "start_time_sec": 971.21,
+      "end_time_sec": 971.21,
+      "text_preview": "Finally, in a brazen daylight robbery at the Louvre Museum in Paris, thieves made off the jewelry of incalculable vows, according to Francis Interior Minister.",
+      "keywords": [
+        "vows",
+        "thieves",
+        "robbery",
+        "paris",
+        "museum",
+        "minister"
+      ],
+      "summary": "Finally, in a brazen daylight robbery at the Louvre Museum in Paris, thieves made off the jewelry of incalculable vows, according to Francis Interior Minister. …"
+    },
+    {
+      "segment_id": 142,
+      "start_sentence_idx": 340,
+      "end_sentence_idx": 341,
+      "num_sentences": 1,
+      "start_time_sec": 971.21,
+      "end_time_sec": 971.21,
+      "text_preview": "The Heissan folded around 930A.",
+      "keywords": [],
+      "summary": "The Heissan folded around 930A. …"
+    },
+    {
+      "segment_id": 143,
+      "start_sentence_idx": 341,
+      "end_sentence_idx": 342,
+      "num_sentences": 1,
+      "start_time_sec": 976.73,
+      "end_time_sec": 976.73,
+      "text_preview": "When thieves used a lift mechanism on a truck to break into the museum and snatch eight precious objects before fleeing on motor scooters with their looped.",
+      "keywords": [
+        "used",
+        "truck",
+        "thieves",
+        "snatch",
+        "scooters",
+        "precious"
+      ],
+      "summary": "When thieves used a lift mechanism on a truck to break into the museum and snatch eight precious objects before fleeing on motor scooters with their looped. …"
+    },
+    {
+      "segment_id": 144,
+      "start_sentence_idx": 342,
+      "end_sentence_idx": 343,
+      "num_sentences": 1,
+      "start_time_sec": 980.41,
+      "end_time_sec": 980.41,
+      "text_preview": "All within just seven minutes.",
+      "keywords": [],
+      "summary": "All within just seven minutes. …"
+    },
+    {
+      "segment_id": 145,
+      "start_sentence_idx": 343,
+      "end_sentence_idx": 349,
+      "num_sentences": 6,
+      "start_time_sec": 984.57,
+      "end_time_sec": 1035.77,
+      "text_preview": "Today's episode was produced by Anna Foley, Ricky Nevezby and Selatan. It was edited by Lisa Chow with Help from Mark George. contains music by Marian Lassano and Diane Waw, and was engineered by Chris Wood. [\"The End of the Year\"] That's it for the daily. I'm Natalie Ticero. See…",
+      "keywords": [
+        "year",
+        "wood",
+        "waw",
+        "tomorrow",
+        "today",
+        "ticero"
+      ],
+      "summary": "This is the daily transcript. Use this transcript to help students with reading comprehension and vocabulary. Use the weekly Newsquiz to test your knowledge"
+    }
+  ]
+}
