@@ -481,6 +481,96 @@ The focus is on clarity, usability, and functional design.
 
 ---
 
+# Week 6: System Testing and Feedback Collection
+
+## 1. Summary
+The system was tested against **10 podcast episodes** (varying in length, topic, and speaker style) and feedback was collected from **three external users**.
+
+While the core NLP pipeline (segmentation, sentiment analysis, and summarization) is robust, testing revealed specific friction points in the User Interface (navigation). This report details the testing logs, user feedback, and the changes made to address these issues.
+
+---
+
+## 2. Internal System Testing Log
+* **Tester:** Developer (Self-Testing)
+* **Scope:** 10 Episodes (~20 hours of audio data)
+* **Focus:** Transcription accuracy, segmentation logic, and UI stability.
+
+| Podcast Episode | Type/Genre | Transcription & Segmentation Issues | Summary & Keyword Performance | Sentiment & UI Behavior |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Stephen Wolfram** | Physics (3.5h) | **Segmentation:** Generally good, but some segments are too short (filler words). | **Summary:** Critical Bug. Model entered a repetition loop ("et cetera et cetera" x15). | **Sentiment:** Well-handled. |
+| **2. Jed Buchwald** | History (1.5h) | **Transcription:** Entity Error ("Buckwald" vs "Buchwald"). | **Summary:** Recursive phrasing noted in 2 segments. | **Sentiment:** Neutral/Academic tone handled well. |
+| **3. Sergey Nazarov** | Crypto (2.5h) | **Segmentation:** "Micro-segments" detected (e.g., segments containing only "Wait, wait"). | **Keywords:** Excellent tech extraction ("DeFi", "Oracle"). | **Sentiment:** Well-handled. |
+| **4. Philip Goff** | Philosophy (2h) | **Transcription:** Good handling of abstract terms ("Panpsychism"). | **Keywords:** High relevance ("Consciousness", "Qualia"). | **Sentiment:** "Dark" philosophical concepts occasionally mislabeled as Negative. |
+| **5. Oriol Vinyals** | AI/Gaming (1h) | **Segmentation:** Clean boundaries between "StarCraft" and "Language" topics. | **Summary:** Concise and accurate. | **Sentiment:** Well-handled. |
+| **6. Ray Dalio** | Economics (1h) | **Transcription:** Clear. | **Keywords:** Noisy. Included numbers ("10") and "Youtube" as top tags. | **Sentiment:** Correctly identified advice as Positive. |
+| **7. Michael Malice** | Politics (1.5h) | **Transcription:** Struggled slightly with rapid banter/interruptions. | **Summary:** Context error (interpreted "Dasvidanya" as a name). | **Sentiment:** High variance (Red/Green swings) accurately reflected chaotic tone. |
+| **8. Tomaso Poggio** | Neuroscience (1h) | **Segmentation:** Excellent distinct breaks. | **Keywords:** Generic but accurate ("Brains", "Center"). | **Sentiment:** Well-handled. |
+| **9. George Hotz** | Tech (3h) | **Transcription:** Good capture of informal slang. | **Summary:** Occasionally vague ("The purpose is to maximize it" - missing context). | **Sentiment:** Mostly Positive/Energetic, matching speaker vibe. |
+| **10. Tim Dillon** | Comedy (1.5h) | **Segmentation:** Good. | **Keywords:** Ads mixed with content ("Spoon", "Business"). | **Sentiment:** **Edge Case:** System missed sarcasm, labeling cynical rants as "Positive." |
+
+---
+
+## 3. User Feedback Collection
+**Methodology:** Feedback was taken from 3 External Users.
+
+### User 1: Ayush (Friend)
+* **Positive:** "The Visual Timeline is the best part. I immediately understood the 'emotional arc' of the episode."
+* **Critical Feedback:**
+    * **The Disconnect:** Attempted to click the bars on the chart to filter data, but nothing happened. Found it frustrating to match Segment IDs manually.
+    * **Dropdown:** The list is too long to scroll through.
+
+### User 2: Ishita (Classmate)
+* **Positive:** "Cool concept, seeing the shape of a conversation is fascinating."
+* **Critical Feedback:**
+    * **Navigation:** "The dropdown list is very long... scrolling to find a topic feels overwhelming." Suggested "Next/Previous" buttons.
+    * **Context:** Found it difficult to map the "Sentence Index" numbers to the actual audio progress.
+
+### User 3: Tanmay (Friend)
+* **Positive:** Liked the "Green/Red" sentiment coloring and the clean layout.
+* **Critical Feedback:**
+    * **The "Barcode" Effect:** On long episodes (200+ segments), the chart bars become too thin to hover over effectively.
+    * **Repetition Bug:** Noticed summary glitches where words repeated ("comrade, comrade") or summaries cut off mid-sentence.
+    * **Empty Data:** Some segments were just one word (e.g., "Yes", "Sure"), creating clutter.
+
+---
+
+## 4. Synthesis & Patterns Identified
+Based on the combined testing data, the following patterns have emerged that require attention in the iteration phase.
+
+### A. Navigation Friction
+* **Observation:** Users expect the Altair chart to be clickable. When it isn't, they are forced to use the dropdown, which is overwhelming for long episodes (200+ items).
+* **Decision:** Implementing full Altair interactivity is complex, but adding "Next Segment" / "Previous Segment" buttons is a high-value, low-effort fix to improve flow.
+
+### B. Content Noise (Glitches)
+* **Micro-segments:** Segments with <10 words ("Wait, wait", "Yes") clutter the UI.
+* **Summary Loops:** The model occasionally gets stuck repeating phrases ("et cetera").
+* **Keywords:** Stop words like "yeah", "oh", and "thing" are appearing in word clouds.
+
+---
+
+## 5. Implementation of Week 6 Fixes (Completed)
+In accordance with Week 6 guidelines, no new models were trained and no JSON data was regenerated. The following code-level improvements have been successfully implemented in `app.py` to address user feedback.
+
+### 1: UI & Navigation Improvements 
+* **Next / Previous Buttons:** Implemented `st.button("Next")` and `st.button("Previous")` to allow users to navigate segments sequentially without repeatedly opening the dropdown list.
+* **State Management:** Utilized `st.session_state` to ensure safe and smooth transitions between segments.
+
+### s2: Data Cleaning & Post-Processing 
+* **Micro-Segment Filter:** Added logic to hide or merge any segment containing fewer than **15 words**, significantly reducing the "Barcode" effect and removing empty/low-value data points.
+* **Keyword Exclusion:** Updated the `STOP_WORDS` list during display time to explicitly remove common conversational fillers detected during testing:
+    > `['yeah', 'oh', 'okay', 'right', 'know', 'thing', 'et', 'cetera']`
+
+### 3: Content Presentation 
+* **Summary Repetition Detection:** Implemented a validation check for summary loops.
+    * *Logic:* If a 3-word phrase repeats more than 2 times in a summary, the system automatically falls back to displaying the **raw transcript** for that segment instead.
+* **Formatting:** Standardized headings and spacing for a cleaner reading experience.
+
+---
+
+## Conclusion
+The system has passed the **"Validation"** phase. The User Experience friction points identified during testing have been resolved via the Week 6 code updates listed above.
+
+
 ## Notes
 
 Due to the large size of the audio files, they are not stored directly in this GitHub repository.
