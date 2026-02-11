@@ -1,38 +1,127 @@
+import streamlit as st
 import os
 import json
-import streamlit as st
+import glob
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud
 
-st.title("Podcast Transcript Navigation")
+st.set_page_config(page_title="Podcast Transcript Navigation", layout="wide")
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+st.title("🎙️ Podcast Transcript Navigation")
 
-json_path = os.path.join(
-    BASE_DIR,
-    "..",
-    "week _1_3",          
-    "combined_segments.json"
-)
+# -----------------------------
+# LOAD ALL JSON FILES
+# -----------------------------
 
-if not os.path.exists(json_path):
-    st.error(f"File not found: {json_path}")
+# All episode json files
+transcript_files = glob.glob("transcripts/*.json")
+
+# Episode 5 combined file
+combined_file = "week_5/combined_segments.json"
+
+all_files = transcript_files.copy()
+
+if os.path.exists(combined_file):
+    all_files.append(combined_file)
+
+file_options = [os.path.basename(f) for f in all_files]
+
+if not file_options:
+    st.error("No JSON files found!")
     st.stop()
 
-with open(json_path, "r", encoding="utf-8") as f:
-    segments = json.load(f)
+# -----------------------------
+# EPISODE SELECT
+# -----------------------------
 
+selected_file_name = st.selectbox("Select Podcast Episode", file_options)
 
-titles = [seg["title"] for seg in segments]
-selected_title = st.selectbox("Select Transcript Segment", titles)
+selected_file_path = None
+for f in all_files:
+    if os.path.basename(f) == selected_file_name:
+        selected_file_path = f
+        break
 
-selected_segment = next(seg for seg in segments if seg["title"] == selected_title)
+with open(selected_file_path, "r", encoding="utf-8") as f:
+    data = json.load(f)
 
-st.subheader("Transcript")
-st.write(selected_segment["text"])
+# -----------------------------
+# HANDLE DIFFERENT JSON FORMATS
+# -----------------------------
 
-if "keywords" in selected_segment:
-    st.subheader("Keywords")
-    st.write(", ".join(selected_segment["keywords"]))
+if isinstance(data, list):
+    segments = data
+elif isinstance(data, dict) and "segments" in data:
+    segments = data["segments"]
+else:
+    segments = [data]
 
-if "sentiment" in selected_segment:
-    st.subheader("Sentiment")
-    st.write(selected_segment["sentiment"])
+# -----------------------------
+# SEGMENT SELECT
+# -----------------------------
+
+titles = []
+for i, seg in enumerate(segments):
+    if "title" in seg:
+        titles.append(seg["title"])
+    else:
+        titles.append(f"segment_{i}")
+
+selected_title = st.selectbox("Select Segment", titles)
+
+selected_segment = segments[titles.index(selected_title)]
+
+# -----------------------------
+# DISPLAY CONTENT
+# -----------------------------
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.subheader("📜 Transcript")
+    st.write(selected_segment.get("text", "No transcript available"))
+
+    st.subheader("📝 Summary")
+    st.write(selected_segment.get("summary", "No summary available"))
+
+with col2:
+    st.subheader("😊 Sentiment")
+    st.info(selected_segment.get("sentiment", "Not Available"))
+
+    st.subheader("🔑 Keywords")
+    keywords = selected_segment.get("keywords", [])
+    if keywords:
+        st.write(", ".join(keywords))
+    else:
+        st.write("No keywords available")
+
+# -----------------------------
+# WORD CLOUD
+# -----------------------------
+
+st.subheader("☁️ Keyword Word Cloud")
+
+if keywords:
+    wordcloud = WordCloud(width=800, height=400, background_color="white").generate(" ".join(keywords))
+    fig, ax = plt.subplots()
+    ax.imshow(wordcloud, interpolation="bilinear")
+    ax.axis("off")
+    st.pyplot(fig)
+else:
+    st.write("No keywords for word cloud")
+
+# -----------------------------
+# TIMELINE VISUALIZATION
+# -----------------------------
+
+st.subheader("📊 Timeline")
+
+if "start" in selected_segment and "end" in selected_segment:
+    start = selected_segment["start"]
+    end = selected_segment["end"]
+    st.write(f"Start: {start} sec")
+    st.write(f"End: {end} sec")
+else:
+    st.write("Timeline data not available for this segment")
+
+st.success("Dashboard Loaded Successfully 🚀")
