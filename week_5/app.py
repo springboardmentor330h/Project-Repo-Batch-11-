@@ -116,12 +116,13 @@ else:
 
 st.subheader("📊 Timeline")
 
-if "start" in selected_segment and "end" in selected_segment:
-    start = selected_segment["start"]
-    end = selected_segment["end"]
-    st.write(f"Start: {start} sec")
-    st.write(f"End: {end} sec")
-else:
-    st.write("Timeline data not available for this segment")
+segment_index = titles.index(selected_title)
 
-st.success("Dashboard Loaded Successfully 🚀")
+# Assume each chunk is 120 seconds (2 minutes)
+chunk_duration = 120  
+
+start = segment_index * chunk_duration
+end = start + chunk_duration
+
+st.write(f"Start: {start} sec")
+st.write(f"End: {end} sec")
