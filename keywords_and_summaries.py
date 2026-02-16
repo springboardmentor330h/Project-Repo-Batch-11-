@@ -77,6 +77,40 @@ def extract_keywords_tfidf(text, top_k=10):
     top_idxs = tfidf_scores.argsort()[::-1][:top_k]
     return feature_array[top_idxs].tolist()
 
+# ------------------ TITLES ------------------
+
+def build_segment_title(keywords, summary, max_words: int = 3) -> str:
+    """
+    Create a short human-readable title for a segment.
+
+    Priority:
+      1) Use top N keywords if available
+      2) Otherwise, take the first N non-stopword tokens from the summary
+      3) Fallback to generic title if everything is empty
+    """
+    # 1) From keywords
+    if keywords:
+        # Use first max_words keywords, strip spaces in n-grams
+        cleaned = []
+        for kw in keywords:
+            # Replace underscores with spaces if present, keep as-is otherwise
+            cleaned.append(kw.replace("_", " "))
+            if len(cleaned) >= max_words:
+                break
+        title = " ".join(cleaned).strip()
+        if title:
+            return title.title()
+
+    # 2) From summary
+    if isinstance(summary, str) and summary.strip():
+        tokens = [w for w in word_tokenize(summary) if w.isalpha() and w.lower() not in STOPWORDS]
+        if tokens:
+            title = " ".join(tokens[:max_words])
+            return title.title()
+
+    # 3) Fallback
+    return "Topic Segment"
+
 # ------------------ SUMMARY ------------------
 
 def summarize_t5(model, tokenizer, text):
@@ -134,9 +168,14 @@ def process_one_json(path, model, tokenizer, args, out_json_dir, keywords_rows, 
         try:
             summ = summarize_t5(model, tokenizer, seg_text)
         except Exception:
+            # Fallback: truncate raw text if summarizer fails
             summ = seg_text[:200]
 
         seg["summary"] = summ
+
+        # Short title (2–3 words) for UI labels / timeline hovers
+        title = build_segment_title(kws, summ, max_words=3)
+        seg["title"] = title
 
         keywords_rows.append({
             "row_id": row_id,
