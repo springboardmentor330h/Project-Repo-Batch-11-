@@ -75,7 +75,7 @@ from each transcript line.
 
 ###  Overall Architecture Flow
 
-<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/43c765b5-ca39-44e4-b895-cc2d8d796240" />
+<img width="600" height="750" alt="image" src="https://github.com/user-attachments/assets/43c765b5-ca39-44e4-b895-cc2d8d796240" />
 
 
 ##  4. Tools and Libraries Used
@@ -155,6 +155,7 @@ The complete transcript of each podcast episode is generated using Whisper.
 - Contains timestamped speech segments
 - Preserves chronological flow
 - Enables time-based navigation
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/7a2da7c8-fc7d-4d5d-805b-26887bfa0ac0" />
 
 ### Topic Segments
 
@@ -165,6 +166,8 @@ Each segment includes:
 - Title (generated from key nouns)
 - Start and end timestamps
 - Full segment text
+- <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d7a64b46-a287-4d86-9866-760b90619efb" />
+
 
 ### Interactive Timeline
 
@@ -173,14 +176,18 @@ Using extracted timestamps, each segment is mapped to its corresponding time ran
 - Displays start and end time for each topic
 - Enables navigation based on time
 - Helps users jump directly to specific sections
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/0b74d47e-2081-47dd-839d-66609ff188b6" />
 
-### Keyword Cloud
 
-A WordCloud visualization is generated using extracted TF-IDF keywords.
+### Keyword 
+
+A keyword visualization is generated using extracted TF-IDF keywords.
 
 - Highlights frequently occurring important terms
 - Provides quick insight into dominant themes
 - Enhances visual interpretability
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d4a4d2fc-8c22-40d7-87bc-7a2d5aa0abe4" />
+
 
 ###  User Interface
 The system interface displays:
@@ -598,6 +605,7 @@ Based on testing results and user feedback, the following improvements were impl
 **Author**
 
 Shambhavi Bajoria
+
 
 
 
