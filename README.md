@@ -42,13 +42,13 @@ By automating transcription and analysis, the system significantly improves cont
 
 ## 2. Dataset Description
 
-### 🔹 Source of the Dataset
+### Source of the Dataset
 
 The dataset used in this project is based on transcripts from the **"This American Life"** podcast.
 
 "This American Life" is a long-form storytelling podcast featuring real-life narratives, interviews, and thematic discussions. The dataset includes episode-level transcript files that were processed for segmentation and analysis.
 
-### 🔹 Preprocessing Steps Undertaken
+### Preprocessing Steps Undertaken
 
 A total of **10 podcast episodes** from the *This American Life* dataset were used for analysis.
 
@@ -115,29 +115,29 @@ Whisper provides high transcription accuracy and generates start and end timesta
 
 ###  NLP & Analysis
 
-#### 🔹 SentenceTransformer (MiniLM)
+#### SentenceTransformer (MiniLM)
 
 The `all-MiniLM-L6-v2` model was used to generate sentence embeddings.  
 These embeddings capture semantic meaning and were used to compute cosine similarity for topic segmentation.
 
-#### 🔹 TF-IDF (Scikit-learn)
+#### TF-IDF (Scikit-learn)
 
 TF-IDF vectorization was used for:
 - Extractive summarization (selecting the most relevant sentence)
 - Keyword extraction (top 5 important terms per segment)
 
-#### 🔹 VADER Sentiment Analyzer (NLTK)
+#### VADER Sentiment Analyzer (NLTK)
 
 VADER was used to classify sentiment at the segment level.  
 It provides a compound score that was used to label segments as Positive, Negative, or Neutral.
 
 ###  Visualization
 
-#### 🔹 WordCloud
+#### WordCloud
 
 WordCloud was used to visually represent frequently occurring keywords across segments, making topic trends easier to interpret.
 
-#### 🔹 Matplotlib
+#### Matplotlib
 
 Matplotlib was used to generate graphical representations such as keyword distributions and other visual outputs.
 
@@ -631,6 +631,7 @@ Based on testing results and user feedback, the following improvements were impl
 **Author**
 
 Shambhavi Bajoria
+
 
 
 
