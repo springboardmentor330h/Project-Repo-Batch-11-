@@ -153,25 +153,25 @@ are presented in an organized interface for easy navigation and interpretation.
 
 ## 5. Implementation Details
 
-🔹 Transcription
+Transcription
 - Whisper was used to generate timestamped transcripts from podcast audio.
 
-🔹 Topic Segmentation
+Topic Segmentation
 - Sentence embeddings were generated.
 
-🔹 Cosine similarity computed between adjacent sentences.
+Cosine similarity computed between adjacent sentences.
 - Topic boundaries identified where similarity drops below threshold.
 
-🔹 Summary Generation
+Summary Generation
 - TF-IDF scoring selects the most representative sentence.
 
-🔹 Sentiment Analysis
+Sentiment Analysis
 - VADER compound score thresholds:
-≥ 0.05 → Positive
-≤ -0.05 → Negative
-Otherwise → Neutral
+  - ≥ 0.05 → Positive
+  - ≤ -0.05 → Negative
+  - Otherwise → Neutral
 
-🔹 Interactive Timeline & Keyword Cloud
+Interactive Timeline & Keyword Cloud
 - Timestamps were proportionally mapped to segment boundaries.
 - WordCloud was generated using extracted keywords for visualization.
 
@@ -631,6 +631,7 @@ Based on testing results and user feedback, the following improvements were impl
 **Author**
 
 Shambhavi Bajoria
+
 
 
 
