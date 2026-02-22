@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Generated outputs
+*/output/
+data/processed_audio/
+data/raw_audio/
+
+# OS junk
+.DS_Store
+Thumbs.db

@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Podcast Interactive Timeline</title>
+    <style>
+        /* ========== BASE STYLES ========== */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background-color: #f5f7fa;
+            color: #1a1a1a;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        h1 {
+            text-align: center;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+            font-size: 1.8rem;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1rem;
+        }
+
+        /* ========== TIMELINE CONTAINER ========== */
+        .timeline-wrapper {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .timeline-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .timeline-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #1a1a1a;
+        }
+
+        .total-duration {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        /* ========== BAR GRAPH TIMELINE ========== */
+        .timeline-bar {
+            width: 100%;
+            height: 60px;
+            background-color: #e0e0e0;
+            border-radius: 8px;
+            position: relative;
+            overflow: hidden;
+            margin-bottom: 15px;
+        }
+
+        .segment {
+            position: absolute;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            border-right: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .segment:last-child {
+            border-right: none;
+        }
+
+        .segment-label {
+            font-size: 11px;
+            font-weight: 500;
+            color: #ffffff;
+            text-align: center;
+            padding: 2px 4px;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .segment.selected {
+            outline: 3px solid #1a1a1a;
+            outline-offset: -3px;
+            z-index: 10;
+        }
+
+        /* ========== TIME MARKERS ========== */
+        .time-markers {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.8rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        /* ========== LEGEND ========== */
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 25px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.85rem;
+        }
+
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 4px;
+        }
+
+        /* ========== DETAILS PANEL ========== */
+        .details-panel {
+            background: #f8f9fa;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 20px;
+            min-height: 180px;
+        }
+
+        .details-panel.empty {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #888;
+            font-style: italic;
+        }
+
+        .details-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .details-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: #1a1a1a;
+        }
+
+        .details-time {
+            font-size: 0.9rem;
+            color: #666;
+            background: #e0e0e0;
+            padding: 4px 10px;
+            border-radius: 4px;
+        }
+
+        .details-section {
+            margin-bottom: 15px;
+        }
+
+        .details-section-title {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+        }
+
+        .details-summary {
+            font-size: 1rem;
+            line-height: 1.7;
+            color: #333;
+        }
+
+        .keywords-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .keyword-tag {
+            background: #1976d2;
+            color: #ffffff;
+            padding: 4px 10px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .sentiment-display {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .sentiment-label {
+            font-weight: 600;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+
+        .sentiment-label.positive {
+            background: #c8e6c9;
+            color: #2e7d32;
+        }
+
+        .sentiment-label.neutral {
+            background: #fff3e0;
+            color: #ef6c00;
+        }
+
+        .sentiment-label.negative {
+            background: #ffcdd2;
+            color: #c62828;
+        }
+
+        .sentiment-label.unknown {
+            background: #e0e0e0;
+            color: #616161;
+        }
+
+        .sentiment-score {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        /* ========== ERROR STATE ========== */
+        .error-state {
+            text-align: center;
+            padding: 40px;
+            color: #c62828;
+            background: #ffebee;
+            border-radius: 8px;
+        }
+
+        /* ========== RESPONSIVE ========== */
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            .timeline-wrapper {
+                padding: 15px;
+            }
+
+            .timeline-bar {
+                height: 50px;
+            }
+
+            .segment-label {
+                font-size: 9px;
+            }
+
+            .legend {
+                gap: 10px;
+            }
+
+            .legend-item {
+                font-size: 0.8rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .timeline-bar {
+                height: 45px;
+            }
+
+            .segment-label {
+                font-size: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>📊 Podcast Interactive Timeline</h1>
+    <p class="subtitle">Click on any segment to view its details</p>
+
+    <div class="timeline-wrapper">
+        <div class="timeline-header">
+            <span class="timeline-title">Topic Segments</span>
+            <span class="total-duration" id="total-duration">Total: --:--</span>
+        </div>
+
+        <div class="timeline-bar" id="timeline-bar">
+            <!-- Segments will be rendered here by JavaScript -->
+        </div>
+
+        <div class="time-markers">
+            <span>0:00</span>
+            <span id="end-time">--:--</span>
+        </div>
+
+        <div class="legend" id="legend">
+            <!-- Legend items will be rendered here by JavaScript -->
+        </div>
+
+        <div class="details-panel empty" id="details-panel">
+            Click on a segment above to view its details
+        </div>
+    </div>
+
+    <script>
+        // ========== CONFIGURATION ==========
+        const SEGMENT_COLORS = [
+            '#2196F3', // Blue
+            '#4CAF50', // Green
+            '#FF9800', // Orange
+            '#9C27B0', // Purple
+            '#00BCD4', // Cyan
+            '#E91E63', // Pink
+            '#3F51B5', // Indigo
+            '#009688'  // Teal
+        ];
+
+        // ========== SAMPLE DATA ==========
+        // This data matches the structure from indexed_output.json
+        // In production, this would be loaded from an external JSON file
+        const PODCAST_DATA = {
+            "audio_file": "McDonalds_LNG_061019.wav",
+            "topics": [
+                {
+                    "topic_id": 0,
+                    "start": 0.0,
+                    "end": 41.44,
+                    "summary": "This topic is about hey canadians, this is for you guys and for mcdonald's. i can't tell you how many of the little toys we collected, christian.",
+                    "keywords": ["toys", "mcdonald", "christian", "canadians", "appreciate", "appreciate fought"],
+                    "sentiment": "POSITIVE",
+                    "sentiment_score": 0.72
+                },
+                {
+                    "topic_id": 1,
+                    "start": 32.44,
+                    "end": 84.56,
+                    "summary": "This topic is about mcdonald's cares about families, especially in canada. and made with 100%, yes, they are.",
+                    "keywords": ["canada", "canadian", "artificial", "chicken", "happy", "happy meals"],
+                    "sentiment": "NEUTRAL",
+                    "sentiment_score": 0.45
+                }
+            ]
+        };
+
+        // ========== UTILITY FUNCTIONS ==========
+
+        /**
+         * Convert seconds to MM:SS format
+         * @param {number} seconds - Time in seconds
+         * @returns {string} Formatted time string
+         */
+        function formatDuration(seconds) {
+            if (typeof seconds !== 'number' || isNaN(seconds) || seconds < 0) {
+                return '0:00';
+            }
+            const mins = Math.floor(seconds / 60);
+            const secs = Math.floor(seconds % 60);
+            return `${mins}:${secs.toString().padStart(2, '0')}`;
+        }
+
+        /**
+         * Get color for a segment based on its index
+         * @param {number} index - Segment index
+         * @returns {string} Hex color code
+         */
+        function getSegmentColor(index) {
+            return SEGMENT_COLORS[index % SEGMENT_COLORS.length];
+        }
+
+        /**
+         * Get sentiment CSS class
+         * @param {string} sentiment - Sentiment label
+         * @returns {string} CSS class name
+         */
+        function getSentimentClass(sentiment) {
+            if (!sentiment) return 'unknown';
+            const s = sentiment.toUpperCase();
+            if (s === 'POSITIVE') return 'positive';
+            if (s === 'NEGATIVE') return 'negative';
+            if (s === 'NEUTRAL') return 'neutral';
+            return 'unknown';
+        }
+
+        // ========== STATE ==========
+        let selectedSegmentIndex = null;
+
+        // ========== RENDERING FUNCTIONS ==========
+
+        /**
+         * Render the timeline bar with all segments
+         * @param {Object} data - Podcast data object
+         */
+        function renderTimeline(data) {
+            const timelineBar = document.getElementById('timeline-bar');
+            const totalDurationEl = document.getElementById('total-duration');
+            const endTimeEl = document.getElementById('end-time');
+
+            // Validate data
+            if (!data || !data.topics || !Array.isArray(data.topics) || data.topics.length === 0) {
+                timelineBar.innerHTML = '<div class="error-state">ERROR_STATE: No valid topic data available</div>';
+                return;
+            }
+
+            const topics = data.topics;
+
+            // Calculate total duration from the maximum end time
+            const totalDuration = Math.max(...topics.map(t => t.end || 0));
+
+            if (totalDuration <= 0) {
+                timelineBar.innerHTML = '<div class="error-state">ERROR_STATE: Invalid duration data</div>';
+                return;
+            }
+
+            // Update duration displays
+            totalDurationEl.textContent = `Total: ${formatDuration(totalDuration)}`;
+            endTimeEl.textContent = formatDuration(totalDuration);
+
+            // Clear existing segments
+            timelineBar.innerHTML = '';
+
+            // Render each segment
+            topics.forEach((topic, index) => {
+                const start = topic.start || 0;
+                const end = topic.end || 0;
+                const duration = end - start;
+
+                // Calculate position and width as percentages
+                const widthPercent = (duration / totalDuration) * 100;
+                const leftPercent = (start / totalDuration) * 100;
+
+                // Create segment element
+                const segment = document.createElement('div');
+                segment.className = 'segment';
+                segment.style.width = `${widthPercent}%`;
+                segment.style.left = `${leftPercent}%`;
+                segment.style.backgroundColor = getSegmentColor(index);
+                segment.dataset.index = index;
+
+                // Create label
+                const label = document.createElement('span');
+                label.className = 'segment-label';
+                label.textContent = `T${index + 1} (${formatDuration(start)}-${formatDuration(end)})`;
+                segment.appendChild(label);
+
+                // Add click handler
+                segment.onclick = function() {
+                    handleSegmentClick(index, data);
+                };
+
+                timelineBar.appendChild(segment);
+            });
+
+            // Render legend
+            renderLegend(topics);
+        }
+
+        /**
+         * Render the legend showing all topics and their colors
+         * @param {Array} topics - Array of topic objects
+         */
+        function renderLegend(topics) {
+            const legend = document.getElementById('legend');
+            legend.innerHTML = '';
+
+            topics.forEach((topic, index) => {
+                const item = document.createElement('div');
+                item.className = 'legend-item';
+
+                const colorBox = document.createElement('div');
+                colorBox.className = 'legend-color';
+                colorBox.style.backgroundColor = getSegmentColor(index);
+
+                const text = document.createElement('span');
+                text.textContent = `Topic ${index + 1} (${formatDuration(topic.start || 0)} - ${formatDuration(topic.end || 0)})`;
+
+                item.appendChild(colorBox);
+                item.appendChild(text);
+                legend.appendChild(item);
+            });
+        }
+
+        /**
+         * Handle segment click - update selection and show details
+         * @param {number} index - Index of clicked segment
+         * @param {Object} data - Podcast data object
+         */
+        function handleSegmentClick(index, data) {
+            // Remove previous selection
+            const segments = document.querySelectorAll('.segment');
+            segments.forEach(seg => seg.classList.remove('selected'));
+
+            // Add selection to clicked segment
+            const clickedSegment = document.querySelector(`.segment[data-index="${index}"]`);
+            if (clickedSegment) {
+                clickedSegment.classList.add('selected');
+            }
+
+            // Update state
+            selectedSegmentIndex = index;
+
+            // Show details
+            showSegmentDetails(data.topics[index], index);
+        }
+
+        /**
+         * Display details for a selected segment
+         * @param {Object} topic - Topic object
+         * @param {number} index - Topic index
+         */
+        function showSegmentDetails(topic, index) {
+            const panel = document.getElementById('details-panel');
+
+            if (!topic) {
+                panel.className = 'details-panel empty';
+                panel.innerHTML = 'ERROR_STATE: Invalid segment data';
+                return;
+            }
+
+            panel.className = 'details-panel';
+
+            // Extract data with fallbacks for missing values
+            const title = `Topic ${index + 1}`;
+            const timeRange = `${formatDuration(topic.start || 0)} - ${formatDuration(topic.end || 0)}`;
+            const summary = topic.summary || 'UNKNOWN';
+            const keywords = topic.keywords || [];
+            const sentiment = topic.sentiment || 'UNKNOWN';
+            const sentimentScore = typeof topic.sentiment_score === 'number' 
+                ? topic.sentiment_score.toFixed(2) 
+                : 'UNKNOWN';
+
+            // Build HTML
+            let html = `
+                <div class="details-header">
+                    <span class="details-title">${title}</span>
+                    <span class="details-time">${timeRange}</span>
+                </div>
+
+                <div class="details-section">
+                    <div class="details-section-title">Summary</div>
+                    <p class="details-summary">${escapeHtml(summary)}</p>
+                </div>
+
+                <div class="details-section">
+                    <div class="details-section-title">Keywords</div>
+                    <div class="keywords-list">
+            `;
+
+            if (keywords.length > 0) {
+                keywords.forEach(kw => {
+                    html += `<span class="keyword-tag">${escapeHtml(kw)}</span>`;
+                });
+            } else {
+                html += '<span style="color: #888; font-style: italic;">No keywords available</span>';
+            }
+
+            html += `
+                    </div>
+                </div>
+
+                <div class="details-section">
+                    <div class="details-section-title">Sentiment</div>
+                    <div class="sentiment-display">
+                        <span class="sentiment-label ${getSentimentClass(sentiment)}">${sentiment}</span>
+                        <span class="sentiment-score">Score: ${sentimentScore}</span>
+                    </div>
+                </div>
+            `;
+
+            panel.innerHTML = html;
+        }
+
+        /**
+         * Escape HTML to prevent XSS
+         * @param {string} text - Text to escape
+         * @returns {string} Escaped text
+         */
+        function escapeHtml(text) {
+            if (typeof text !== 'string') return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // ========== INITIALIZATION ==========
+
+        /**
+         * Initialize the timeline on page load
+         */
+        function init() {
+            try {
+                renderTimeline(PODCAST_DATA);
+            } catch (error) {
+                console.error('Timeline initialization error:', error);
+                document.getElementById('timeline-bar').innerHTML = 
+                    '<div class="error-state">ERROR_STATE: Failed to initialize timeline</div>';
+            }
+        }
+
+        // Run on DOM ready
+        document.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>

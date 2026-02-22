@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Outputs (regenerated during processing)
+outputs/
+data/
+
+# Whisper model cache
+*.pt
+
+# Logs
+*.log

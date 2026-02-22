@@ -1,0 +1,87 @@
+{
+  "total_topics": 11,
+  "topics": [
+    {
+      "topic_id": 0,
+      "keyword_count": 6,
+      "summary_coverage": 1.0,
+      "flags": []
+    },
+    {
+      "topic_id": 1,
+      "keyword_count": 6,
+      "summary_coverage": 0.667,
+      "flags": []
+    },
+    {
+      "topic_id": 2,
+      "keyword_count": 5,
+      "summary_coverage": 1.0,
+      "flags": []
+    },
+    {
+      "topic_id": 3,
+      "keyword_count": 6,
+      "summary_coverage": 1.0,
+      "flags": []
+    },
+    {
+      "topic_id": 4,
+      "keyword_count": 6,
+      "summary_coverage": 1.0,
+      "flags": []
+    },
+    {
+      "topic_id": 5,
+      "keyword_count": 6,
+      "summary_coverage": 1.0,
+      "flags": []
+    },
+    {
+      "topic_id": 6,
+      "keyword_count": 6,
+      "summary_coverage": 0.833,
+      "flags": []
+    },
+    {
+      "topic_id": 7,
+      "keyword_count": 6,
+      "summary_coverage": 1.0,
+      "flags": []
+    },
+    {
+      "topic_id": 8,
+      "keyword_count": 6,
+      "summary_coverage": 1.0,
+      "flags": []
+    },
+    {
+      "topic_id": 9,
+      "keyword_count": 6,
+      "summary_coverage": 0.667,
+      "flags": []
+    },
+    {
+      "topic_id": 10,
+      "keyword_count": 6,
+      "summary_coverage": 0.5,
+      "flags": []
+    }
+  ],
+  "global": {
+    "keyword_diversity": 0.769,
+    "topic_distinctiveness": {
+      "0": 0.971,
+      "1": 0.934,
+      "2": 0.97,
+      "3": 0.927,
+      "4": 0.955,
+      "5": 0.973,
+      "6": 0.925,
+      "7": 0.962,
+      "8": 0.945,
+      "9": 0.981,
+      "10": 0.955
+    }
+  }
+}
