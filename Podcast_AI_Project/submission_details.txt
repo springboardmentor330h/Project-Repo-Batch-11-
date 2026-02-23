@@ -1,0 +1,23 @@
+# Submission Details: Project-Repo-Batch-11-
+
+## What was done on your behalf:
+1. **Cloned the repository**: Downloaded the mentor's repository to your local machine.
+   `git clone https://github.com/springboardmentor330h/Project-Repo-Batch-11-.git`
+2. **Created your personal branch**: Created the branch as per the naming instructions.
+   `git checkout -b vivek-project`
+3. **Copied project files**: Copied all relevant files from your `Podcast_AI_Project` folder into the cloned repository folder, excluding unnecessary files like `.venv` to keep it clean.
+4. **Staged the files**: Added the files to get ready for commit.
+   `git add .`
+5. **Committed the work**: Committed with a clear message.
+   `git commit -m "Initial project commit - Vivek"`
+6. **Pushed to GitHub**: Uploaded your branch and files to the mentor's repository.
+   `git push origin vivek-project`
+
+## How to check if it was successful:
+1. Open your web browser.
+2. Go to the repository link: [https://github.com/springboardmentor330h/Project-Repo-Batch-11-](https://github.com/springboardmentor330h/Project-Repo-Batch-11-)
+3. On the left side, above the list of files, look for a button that says **"main"** (this is the branch selector).
+4. Click on that button and search for **`vivek-project`** in the list of branches.
+5. Click on **`vivek-project`**. 
+6. You should now see your files (specifically the `Podcast_AI_Project` folder) listed there. 
+7. If you see your files on that branch, your submission is 100% complete and submitted successfully before the 5:00 PM deadline!
