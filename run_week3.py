@@ -3,6 +3,7 @@ import json
 import nltk
 from src.segmentation_service import TopicSegmenter
 from src.summarization_service import Summarizer
+from src.sentiment_service import SentimentAnalyzer
 
 # Ensure all NLTK data is downloaded
 nltk.download('punkt')
@@ -20,6 +21,7 @@ def run_pipeline(transcript_path, output_dir):
     
     segmenter = TopicSegmenter()
     summarizer = Summarizer()
+    sentiment_analyzer = SentimentAnalyzer()
     
     print(f"\n--- Processing Audio ID: {audio_id} ---")
     
@@ -47,13 +49,15 @@ def run_pipeline(transcript_path, output_dir):
         keywords = summarizer.extract_keywords(seg_text)
         summary = summarizer.generate_summary(seg_text)
         title = summarizer.generate_title(seg_text, summary=summary)
+        sentiment = sentiment_analyzer.analyze_segment(seg_text)
         
         results.append({
             "segment_id": i + 1,
             "title": title,
             "text": seg_text,
             "keywords": keywords,
-            "summary": summary
+            "summary": summary,
+            "sentiment": sentiment
         })
         
         # Incremental save

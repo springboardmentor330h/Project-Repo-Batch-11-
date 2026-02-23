@@ -10,7 +10,11 @@
             "favorite cable news network",
             "one prominent trump supporter"
         ],
-        "summary": "if you'll Biden goes on offense, a campaign swing in Wisconsin and Michigan . Kamala Harris becomes the first vice president or president to visit an abortion clinic . EPA administrator Michael Regan stopped by the studio to talk to Tommy about clean energy ."
+        "summary": "if you'll Biden goes on offense, a campaign swing in Wisconsin and Michigan . Kamala Harris becomes the first vice president or president to visit an abortion clinic . EPA administrator Michael Regan stopped by the studio to talk to Tommy about clean energy .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9161
+        }
     },
     {
         "segment_id": 2,
@@ -23,7 +27,11 @@
             "stupid idea unless",
             "read underwear ads"
         ],
-        "summary": "everybody that I know who is elderly who has retired is dead within 5 years . if you talk to people who are elderly and they lose their purpose in life by losing their job and they stop working, things go to hell on a handbasket real quick ."
+        "summary": "everybody that I know who is elderly who has retired is dead within 5 years . if you talk to people who are elderly and they lose their purpose in life by losing their job and they stop working, things go to hell on a handbasket real quick .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9485
+        }
     },
     {
         "segment_id": 3,
@@ -36,7 +44,11 @@
             "budget every single year",
             "put cuts social security"
         ],
-        "summary": "it will be Donald Trump's platform if he has elected president . it's the platform of both white Guys named John who want to replace Mitch McConnell . but it does come down to, if Donald Trump wins, he probably wins with a Republican House ."
+        "summary": "it will be Donald Trump's platform if he has elected president . it's the platform of both white Guys named John who want to replace Mitch McConnell . but it does come down to, if Donald Trump wins, he probably wins with a Republican House .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9413
+        }
     },
     {
         "segment_id": 4,
@@ -49,7 +61,11 @@
             "trump campaign locked",
             "keep hammering"
         ],
-        "summary": "president biden talked about it when he was in his constant mission during his events . now the campaign locked it back and Trump's going to spend the rest of the campaign saying, well, I'll protect Medicare. of security no matter what ."
+        "summary": "president biden talked about it when he was in his constant mission during his events . now the campaign locked it back and Trump's going to spend the rest of the campaign saying, well, I'll protect Medicare. of security no matter what .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9741
+        }
     },
     {
         "segment_id": 5,
@@ -62,7 +78,11 @@
             "horizontal human rights\uc219ischenab circumstantial rights",
             "republican extremists take something away"
         ],
-        "summary": "timothy stanley: why would you believe a politician would cut social security in Medicare? he says it's not just that they think it should work to be dying as he government and they think we have . he asks: if they want a social security medicare, they need to pay for another $2 trillion tax cut that they are planning to pass ."
+        "summary": "timothy stanley: why would you believe a politician would cut social security in Medicare? he says it's not just that they think it should work to be dying as he government and they think we have . he asks: if they want a social security medicare, they need to pay for another $2 trillion tax cut that they are planning to pass .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9793
+        }
     },
     {
         "segment_id": 6,
@@ -75,7 +95,11 @@
             "source security medicare",
             "next eight months"
         ],
-        "summary": "a blueprint poll last week looked at Donald Trump's vulnerabilities among working class voters . almost 50% of them cite him . the biden campaign should keep doing more of it in the next eight months ."
+        "summary": "a blueprint poll last week looked at Donald Trump's vulnerabilities among working class voters . almost 50% of them cite him . he's a populist, a blue collar billionaire and all that .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9173
+        }
     },
     {
         "segment_id": 7,
@@ -88,7 +112,11 @@
             "less politically engaged",
             "sexiest topic especially"
         ],
-        "summary": "it's really hard to get coverage on Medicare and Social Security . it is a bias in the press that's almost economic, which is when you look at these polls, the things that are most concerned to the more politically engaged upper income scale voters are . people who are not lying awake at night thinking, am I going to have to wait and retire at 75 or 80 because I don't know?"
+        "summary": "it's really hard to get coverage on Medicare and Social Security . it is a bias in the press that's almost economic, which is when you look at these polls, the things that are most concerned to the more politically engaged upper income scale voters are . people who are not lying awake at night thinking, am I going to have to wait and retire at 75 or 80 because I don't know?",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9843
+        }
     },
     {
         "segment_id": 8,
@@ -101,7 +129,11 @@
             "... obnoxiously elitist",
             "get even higher"
         ],
-        "summary": "70% of voters think that people convicted of violently assaulting . police officers shouldn't get to skip their prison sentence . at least 140 police officers were wounded ."
+        "summary": "70% of voters think that people convicted of violently assaulting . police officers shouldn't get to skip their prison sentence . if you asked it that, you'd get even higher than 70% .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.5517
+        }
     },
     {
         "segment_id": 9,
@@ -114,7 +146,11 @@
             "committing political violence",
             "committing political violence"
         ],
-        "summary": "a judge he appointed will dismiss his felony charges in the classified documents case . he said he took the documents, but very legally took them . now he says he wants to let these people out of prison and pardon them for committing political violence ."
+        "summary": "a judge he appointed will dismiss his felony charges in the classified documents case . he said he took the documents, but very legally took them . now he says he wants to let these people out of prison and pardon them for committing political violence .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.9901
+        }
     },
     {
         "segment_id": 10,
@@ -127,7 +163,11 @@
             "defense secretary anymore",
             "donald trump suggested"
         ],
-        "summary": "a lot of the democracy arguments are very, very valid and important . but they're about the esoteric notion of a functioning political system in norms . it reminds people what they , least about Trump ."
+        "summary": "a lot of the democracy arguments are very, very valid and important . but they're about the esoteric notion of a functioning political system in norms . it reminds people what they , least about Trump .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.9616
+        }
     },
     {
         "segment_id": 11,
@@ -140,7 +180,11 @@
             "week urging republican candidates",
             "national minimum standard"
         ],
-        "summary": "the national abortion ban passed voters this week . Kelly and Conway was out there this week, given her party advice . she said republicans should ditch their line about abortion ."
+        "summary": "the national abortion ban passed voters this week . Kelly and Conway was out there this week, given her party advice . she said republicans should ditch their line about Democrats supporting abortion .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.3261
+        }
     },
     {
         "segment_id": 12,
@@ -153,7 +197,11 @@
             "couple weeks ago",
             "banned abortion completely"
         ],
-        "summary": "if you were a state that banned abortion at six weeks, that ban stays . blue states or states that haven't put any resurgence on abortion yet, they would all have to be 15 weeks ."
+        "summary": "if you were a state that banned abortion at six weeks, that ban stays . blue states or states that haven't put any resurgence on abortion yet, they would all have to be 15 weeks .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.6694
+        }
     },
     {
         "segment_id": 13,
@@ -166,7 +214,11 @@
             "political problem",
             "problem"
         ],
-        "summary": "do you think it's possible for Republicans to speak about this in a way that actually helps them deal with this political problem? I'm doubtful . the problem is not their language. It's their position."
+        "summary": "do you think it's possible for Republicans to speak about this in a way that actually helps them deal with this political problem? I'm doubtful . the problem is not their language.",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.5482
+        }
     },
     {
         "segment_id": 14,
@@ -179,7 +231,11 @@
             "constitutional right away",
             "republican legislators"
         ],
-        "summary": "a republican appointed Supreme Court took a constitutional right away for more than half the country . a bunch of legislators then pass these onerous bills in many cases with no exceptions for rate, incest or the health or life of the mother . you have adopted an incredibly unpopular position at a time that has caused a massive electoral coalition shifting backlash in this country. very legally and I wasn't hiding ."
+        "summary": "a republican appointed Supreme Court took a constitutional right away for more than half the country . a bunch of legislators then pass these onerous bills in many cases with no exceptions for rate, incest or the health or life of the mother . you have adopted an incredibly unpopular position at a time that has caused a massive electoral coalition shifting backlash in this country.",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.6137
+        }
     },
     {
         "segment_id": 15,
@@ -192,7 +248,11 @@
             "tackle abortion",
             "full staff"
         ],
-        "summary": "a republican tried this in a big campaign, and he lost . they lost, because people didn't focus on the number of weeks or when, or people focused on the idea that politicians were trying to tell women what decisions they should make about their health ."
+        "summary": "a republican tried this in a big campaign, and he lost . they lost, because people didn't focus on the number of weeks or when, or people focused on the idea that politicians were trying to tell women and their doctors what decisions they should make about their health .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.9642
+        }
     },
     {
         "segment_id": 16,
@@ -205,7 +265,11 @@
             "six weeks",
             "20 weeks"
         ],
-        "summary": "conway thinks Republicans should challenge Democrats to lay out the specifics of their own abortion views . she says she's willing to say, okay, what are your exceptions? how do you think Democrats are going to live?"
+        "summary": "conway thinks Republicans should challenge Democrats to lay out the specifics of their own abortion views . she thinks Democrats should turn around to Democrats and say, okay, what are your exceptions? how do you think Democrats are going to live?",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.9163
+        }
     },
     {
         "segment_id": 17,
@@ -218,7 +282,11 @@
             "want 24 weeks",
             "want 15 weeks"
         ],
-        "summary": "the bill, the Senate, the women's health protection act, and the Senate Democrats have played . they get up Democrats to get rid of the filibuster ."
+        "summary": "the bill, the Senate, the women's health protection act, and the Senate Democrats have played . they get up Democrats to get rid of the filibuster . oh, okay, you don't want 15 weeks?",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.5293
+        }
     },
     {
         "segment_id": 18,
@@ -231,7 +299,11 @@
             "keep politicians",
             "one believes"
         ],
-        "summary": "julian zelizer: women should get to make decisions about starting a family . he says the reason the Republicans keep losing on this is because no one believes they're going to stop at 50 . it's the only time politicians should be involved in people's health, he writes ."
+        "summary": "julian zelizer: women should get to make decisions about starting a family . he says the reason the Republicans keep losing on this is because no one believes they're going to stop at 50 . it's the only time politicians should be involved in people's health, he writes .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.2299
+        }
     },
     {
         "segment_id": 19,
@@ -244,7 +316,11 @@
             "harris answering",
             "roe v"
         ],
-        "summary": "Kamala Harris visited an abortion clinic in Minnesota, run by planned Parenthood . he answered the question about whether Democrats can succeed in restoring the protection of Roe v. we'll pass that bill when we move back to the House ."
+        "summary": "Kamala Harris visited an abortion clinic in Minnesota, run by planned Parenthood . he answered the question about whether Democrats can succeed in restoring the protection of Roe v. we'll pass that bill when we move back to the House .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.927
+        }
     },
     {
         "segment_id": 20,
@@ -257,11 +333,15 @@
             "every day republicans",
             "every day"
         ],
-        "summary": "every day is one day for their fundoffs . acid that will destroy everything within 10 miles is bad ."
+        "summary": "every day is one day for their fundoffs, but it's so. acid that will destroy everything within 10 miles . the hundred-biting stuff is bad.",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.7096
+        }
     },
     {
         "segment_id": 21,
-        "title": "National Online Conversation",
+        "title": "What Do You Say, Dan?",
         "text": "And if you believe that you left out from hell, there's a lot of money that's been exchanged. It's a lot of money and seems a lot of proof. But I would just say to him, what do you say? What do you say, Dan? What do you say? Hillary's gone from destroying some email. It's gonna be a coming up on Democrats to keep it in the news. So talking about is good and it is a real sign of The White House and the Biden folks making creatively about how to get attention for the things they're saying Let's say she just did that at a women's roundtable and Wisconsin or somewhere else. We're not talking about it It's not on the news. No, it's in the news locally, which is good, but it's not getting into the national online conversation. And so doing things this, going to places that are controversial, they're going to cause the Republicans to react to it, create controversy and conflict, means people will hear a firm message and remind them that Joe Biden, Obama Harris and the Democrats are going to fight for reproductive freedom and access to abortion, Republicans want to take it on.",
         "keywords": [
             "biden folks making creatively",
@@ -270,7 +350,11 @@
             "white house",
             "somewhere else"
         ],
-        "summary": "if you believe that you left out from hell, there's a lot of money that's been exchanged . what do you say, Dan? . we're not talking about it It's not on the news locally, which is good ."
+        "summary": "if you believe that you left out from hell, there's a lot of money that's been exchanged . what do you say, Dan? .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.7303
+        }
     },
     {
         "segment_id": 22,
@@ -283,7 +367,11 @@
             "actually make abortion legal",
             "would urge everyone"
         ],
-        "summary": "the abortion rights movement won't win in red states by speaking only to people who favor no restrictions on abortion . they won by persuading people who are uncomfortable with abortion or personally opposed that politician shouldn't get to make that choice for people . he's going to need to convince people who feel the same way he does, he says ."
+        "summary": "the abortion rights movement won't win in red states by speaking only to people who favor no restrictions on abortion . they won by persuading people who are uncomfortable with abortion or personally opposed that politician shouldn't get to make that choice for people . he's going to need to convince people who feel the same way he does, he says .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9757
+        }
     },
     {
         "segment_id": 23,
@@ -296,7 +384,11 @@
             "tweet",
             "tweet"
         ],
-        "summary": "there is zero political downside or risk in saying the one abortion . it doesn't make your position more radical . try to sub-tweet him back in the day ."
+        "summary": "there is zero political downside or risk in saying the one abortion . it doesn't make your position more radical . try to sub-tweet him back in the day.",
+        "sentiment": {
+            "label": "Neutral",
+            "score": 0.024
+        }
     },
     {
         "segment_id": 24,
@@ -309,7 +401,11 @@
             "democratic senate sent",
             "democratic house"
         ],
-        "summary": "john avlon: 81-year-old catholic president used the first five minutes of the union to call for passing a law to restore . he says he is our president, he's our nominee, and if a Democratic House and Democratic Senate sent him a bill he won. that is just a gigantic deal."
+        "summary": "john avlon: 81-year-old catholic president used the first five minutes of the union to call for passing a law to restore . he says he is our president, he's our nominee, and if a Democratic House and Democratic Senate sent him a bill he won. that is just a gigantic deal.",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9924
+        }
     },
     {
         "segment_id": 25,
@@ -322,7 +418,11 @@
             "really ...",
             "huge distance"
         ],
-        "summary": "is there more work to do to get more politicians to be more comfortable with? yes. is Joe Biden going to do the right thing here? he absolutely will. And again, it's really... to packing a chemical weapon. That's it."
+        "summary": "is there more work to do to get more politicians to be more comfortable with? yes. is Joe Biden going to do the right thing here?",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.7233
+        }
     },
     {
         "segment_id": 26,
@@ -335,7 +435,11 @@
             "defending joe biden",
             "needed another reminder"
         ],
-        "summary": "a reminder that Donald Trump may not be the highly disciplined political genius that he betrayed as in the press . the f- not about defending Joe Biden or not. what I mean?"
+        "summary": "a reminder that Donald Trump may not be the highly disciplined political genius that he betrayed as in the press . the f- not about defending Joe Biden or not. what I mean?",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.9649
+        }
     },
     {
         "segment_id": 27,
@@ -348,7 +452,11 @@
             "joe biden",
             "lower housing costs"
         ],
-        "summary": "vice president's running mate, Jack Dup Joe Biden, is on offense since the state of the union . he visited two must win midwestern states with Concent where he opened campaign headquarters . the president hit Trump as a loser who wants to cut your retirement ."
+        "summary": "vice president's running mate, Jack Dup Joe Biden, is on offense since the state of the union . he visited two must win midwestern states with Concent where he opened campaign headquarters . the president hit Trump as a loser who wants to cut your retirement .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.6979
+        }
     },
     {
         "segment_id": 28,
@@ -361,7 +469,11 @@
             "swing state",
             "polling averages"
         ],
-        "summary": "the swing state averages show Trump up everywhere, ranging from almost, , 8 points in Georgia to less than a point in Pennsylvania . the polls still haven't moved all that much since the state of the union ."
+        "summary": "the swing state averages show Trump up everywhere, ranging from almost, , 8 points in Georgia to less than a point in Pennsylvania . the polls still haven't moved all that much since the state of the union .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.8248
+        }
     },
     {
         "segment_id": 29,
@@ -374,7 +486,11 @@
             "polar coaster",
             "promised us"
         ],
-        "summary": "you do this show polar coaster that everyone can sign up, Kirkie.com slash friends . you've promised us a bounce, Dan . I was at the night of the city of the Union ."
+        "summary": "you do this show polar coaster that everyone can sign up, Kirkie.com slash friends . you've promised us a bounce, Dan . I said it.",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.6822
+        }
     },
     {
         "segment_id": 30,
@@ -387,7 +503,11 @@
             "one speech seen",
             "name id"
         ],
-        "summary": "the point I'm gonna make is rockabomb it and not consider any nonsense . it's too early to pay attention to the pulpit I know . he's been president for almost four years ."
+        "summary": "the point I'm gonna make is rockabomb it and not consider any nonsense . it's too early to pay attention to the pulpit I know . people should be suspended from talking, writing, tweeting, threading, or skeeting about politics .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.1687
+        }
     },
     {
         "segment_id": 31,
@@ -400,7 +520,11 @@
             "speech anyway",
             "people"
         ],
-        "summary": "30 million people are a lot of people who watch that speech it's still a fraction of the lecture . most of those who watch it have already made up their minds, right? that's just who, who tunes into a speech."
+        "summary": "30 million people are a lot of people who watch that speech it's still a fraction of the lecture . most of those who watch it have already made up their minds, right? that's just who, who tunes into a speech .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.743
+        }
     },
     {
         "segment_id": 32,
@@ -413,7 +537,11 @@
             "horse race moves last",
             "joe biden hunter left"
         ],
-        "summary": "the horse race moves last, and the approval rating moves second to the rest . there's evidence in a morning consult poll that voters thought that Joe Biden Hunter left up he it really is he just knows that there are buzzwords he's supposed to hit the laptop the laptop Bad what I'm hearing that it's bad ."
+        "summary": "the horse race moves last, and the approval rating moves second to the rest . there's evidence in a morning consult poll that voters thought that Joe Biden Hunter left up he it really is he just knows that there are buzzwords he's supposed to hit the laptop the laptop Bad what I'm hearing that it's bad .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.3154
+        }
     },
     {
         "segment_id": 33,
@@ -426,7 +554,11 @@
             "climate change",
             "people may"
         ],
-        "summary": "you move them first by showing that this big, giant concern has been hovering over the race for months is not as big a concern as people may have . the polling suggests that a big concern in the race isn't as big as people might have."
+        "summary": "you move them first by showing that this big, giant concern has been hovering over the race for months is not as big a concern as people may have . the polling suggests that a big concern in the race isn't as big as people might have.",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.2732
+        }
     },
     {
         "segment_id": 34,
@@ -439,6 +571,10 @@
             "knows say laptop",
             "turn average person"
         ],
-        "summary": "he just knows he knows the buzzwords, but he couldn't explain them to you Right, he doesn't even understand the bullshit part of it . the other is why he's a bad candidate is he uses language that is required such ."
+        "summary": "he just knows he knows the buzzwords, but he couldn't explain them to you Right, he doesn't even understand the bullshit part of it . the other is why he's a bad candidate is he uses language that is required such .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.8912
+        }
     }
 ]

@@ -20,9 +20,9 @@ def preprocess_audio(input_path, output_dir, audio_id):
     print(f"Preprocessing audio: {input_path}")
     
     try:
-        # Load audio at 16kHz mono, limited to 30 minutes (1800 seconds)
-        print(f"Loading first 30 minutes of {input_path}...")
-        y, sr = librosa.load(input_path, sr=16000, mono=True, duration=1800)
+        # Load audio at 16kHz mono, limited to 45 minutes (2700 seconds)
+        print(f"Loading first 45 minutes of {input_path}...")
+        y, sr = librosa.load(input_path, sr=16000, mono=True, duration=2700)
         
         # Noise reduction
         print("Applying noise reduction...")

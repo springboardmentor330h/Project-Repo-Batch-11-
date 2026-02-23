@@ -22,17 +22,24 @@ class Summarizer:
         keywords = self.rake.get_ranked_phrases()
         return keywords[:top_n]
 
-    def generate_summary(self, text, max_length=60, min_length=20):
+    def generate_summary(self, text, max_length=150, min_length=40):
         """
-        Generates a 1-2 sentence summary using a Transformer model.
+        Generates a polished 2-3 sentence summary using a Transformer model.
         """
         if len(text.split()) < 20:
             return text  # Too short to summarize meaningfully
         
         try:
             # T5 handles the 'summarize: ' prefix internally with the summarization pipeline
-            summary = self.summarizer(text, max_length=max_length, min_length=min_length, do_sample=False)
-            return summary[0]['summary_text']
+            summary_res = self.summarizer(text, max_length=max_length, min_length=min_length, do_sample=False)
+            summary = summary_res[0]['summary_text']
+            
+            # Post-processing for conciseness: ensure it doesn't end abruptly and is around 2-3 sentences.
+            sentences = nltk.sent_tokenize(summary)
+            if len(sentences) > 3:
+                summary = " ".join(sentences[:3])
+            
+            return summary.strip()
         except Exception as e:
             print(f"Summarization error: {e}")
             return "Summary generation failed for this segment."

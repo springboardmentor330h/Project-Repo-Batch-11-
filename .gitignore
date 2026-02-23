@@ -210,6 +210,7 @@ __marimo__/
 data/raw/
 data/processed/
 data/transcripts/
+models/
 
 # Ensure output results are NOT ignored
 !data/segmented/

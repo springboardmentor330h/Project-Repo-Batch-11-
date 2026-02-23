@@ -10,8 +10,16 @@ import {
   Menu,
   X,
   AudioLines,
-  PlayCircle
+  PlayCircle,
+  TrendingUp,
+  TrendingDown,
+  Minus,
+  Plus,
+  MoreVertical,
+  Trash2,
+  Upload
 } from 'lucide-react';
+import Timeline from './components/Timeline';
 
 const API_BASE = 'http://localhost:5000/api';
 
@@ -24,12 +32,31 @@ const App = () => {
   const [currentSegmentId, setCurrentSegmentId] = useState(null);
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
   const [loading, setLoading] = useState(false);
+  const [uploading, setUploading] = useState(false);
+  const [isUploadModalOpen, setIsUploadModalOpen] = useState(false);
+  const [activeMenuId, setActiveMenuId] = useState(null);
+  const [uploadData, setUploadData] = useState({ title: '', domain: '', file: null });
 
   const transcriptRef = useRef(null);
 
   useEffect(() => {
     fetchPodcasts();
   }, []);
+
+  // Polling logic for background processing
+  useEffect(() => {
+    const isProcessing = podcasts.some(p => p.status === 'processing');
+    let interval;
+
+    if (isProcessing) {
+      interval = setInterval(() => {
+        console.log("Polling for updates...");
+        fetchPodcasts();
+      }, 10000); // Poll every 10 seconds
+    }
+
+    return () => clearInterval(interval);
+  }, [podcasts]);
 
   const fetchPodcasts = async () => {
     try {
@@ -68,6 +95,45 @@ const App = () => {
     }
   };
 
+  const handleUpload = async (e) => {
+    e.preventDefault();
+    if (!uploadData.file) return;
+
+    setUploading(true);
+    const formData = new FormData();
+    formData.append('file', uploadData.file);
+    formData.append('title', uploadData.title);
+    formData.append('domain', uploadData.domain);
+
+    try {
+      await axios.post(`${API_BASE}/upload`, formData);
+      setIsUploadModalOpen(false);
+      setUploadData({ title: '', domain: '', file: null });
+      fetchPodcasts();
+    } catch (err) {
+      console.error('Error uploading:', err);
+      alert('Upload failed. Only MP3 files are supported.');
+    } finally {
+      setUploading(false);
+    }
+  };
+
+  const handleDelete = async (e, id) => {
+    e.stopPropagation();
+    if (!window.confirm('Are you sure you want to permanently delete this podcast and all its analysis?')) return;
+
+    try {
+      await axios.delete(`${API_BASE}/podcast/${id}`);
+      if (selectedPodcastId === id) {
+        setSelectedPodcastId(null);
+        setSegments([]);
+      }
+      fetchPodcasts();
+    } catch (err) {
+      console.error('Error deleting:', err);
+    }
+  };
+
   const scrollToSegment = (id) => {
     setCurrentSegmentId(id);
     const element = document.getElementById(`segment-${id}`);
@@ -100,20 +166,79 @@ const App = () => {
 
             <div className="space-y-6">
               <div>
-                <h3 className="text-xs font-semibold text-accent uppercase tracking-widest mb-4 px-2">Library</h3>
+                <div className="flex items-center justify-between mb-4 px-2">
+                  <h3 className="text-xs font-semibold text-accent uppercase tracking-widest">Library</h3>
+                  <button
+                    onClick={() => setIsUploadModalOpen(true)}
+                    className="p-1.5 bg-primary/10 hover:bg-primary/20 rounded-lg text-primary transition-all border border-primary/20"
+                    title="Upload Episode"
+                  >
+                    <Plus size={14} />
+                  </button>
+                </div>
                 <div className="space-y-2">
                   {podcasts.map((pod) => (
-                    <button
-                      key={pod.id}
-                      onClick={() => fetchPodcastDetails(pod.id)}
-                      className={`w-full text-left p-3 rounded-xl transition-all flex items-center gap-3 group ${selectedPodcastId === pod.id
-                        ? 'bg-primary text-white shadow-lg shadow-primary/20'
-                        : 'hover:bg-secondary text-accent hover:text-foreground'
-                        }`}
-                    >
-                      <Mic2 size={18} className={selectedPodcastId === pod.id ? 'text-white' : 'text-primary group-hover:scale-110 transition-transform'} />
-                      <span className="text-sm font-medium truncate">{pod.title}</span>
-                    </button>
+                    <div key={pod.id} className="relative group">
+                      <button
+                        onClick={() => pod.status === 'completed' && fetchPodcastDetails(pod.id)}
+                        disabled={pod.status === 'processing'}
+                        className={`w-full text-left p-3 rounded-xl transition-all flex items-center justify-between group ${selectedPodcastId === pod.id
+                          ? 'bg-primary text-white shadow-lg shadow-primary/20'
+                          : pod.status === 'processing'
+                            ? 'bg-secondary/30 text-accent/50 cursor-not-allowed border border-white/5'
+                            : 'hover:bg-secondary text-accent hover:text-foreground'
+                          }`}
+                      >
+                        <div className="flex flex-col min-w-0">
+                          <span className="text-sm font-bold truncate">{pod.title}</span>
+                          <div className="flex items-center gap-2">
+                            {pod.domain && (
+                              <span className={`text-[9px] font-black uppercase tracking-tighter opacity-60 ${selectedPodcastId === pod.id ? 'text-white/80' : 'text-primary'}`}>
+                                {pod.domain}
+                              </span>
+                            )}
+                            {pod.status === 'processing' && (
+                              <span className="text-[8px] font-bold text-amber-500 animate-pulse uppercase">Processing...</span>
+                            )}
+                          </div>
+                        </div>
+
+                        <div className="flex items-center relative">
+                          <button
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              setActiveMenuId(activeMenuId === pod.id ? null : pod.id);
+                            }}
+                            className={`p-1.5 rounded-lg opacity-0 group-hover:opacity-100 transition-all hover:bg-white/10 ${selectedPodcastId === pod.id ? 'text-white' : 'text-accent'
+                              }`}
+                          >
+                            <MoreVertical size={14} />
+                          </button>
+
+                          <AnimatePresence>
+                            {activeMenuId === pod.id && (
+                              <motion.div
+                                initial={{ opacity: 0, scale: 0.9 }}
+                                animate={{ opacity: 1, scale: 1 }}
+                                exit={{ opacity: 0, scale: 0.9 }}
+                                className="absolute right-full mr-2 top-0 glass-card p-1 shadow-xl z-[60] min-w-[100px]"
+                              >
+                                <button
+                                  onClick={(e) => {
+                                    handleDelete(e, pod.id);
+                                    setActiveMenuId(null);
+                                  }}
+                                  className="w-full flex items-center gap-2 px-3 py-2 hover:bg-rose-500/10 text-rose-500 rounded-lg text-xs font-bold transition-colors"
+                                >
+                                  <Trash2 size={12} />
+                                  Delete
+                                </button>
+                              </motion.div>
+                            )}
+                          </AnimatePresence>
+                        </div>
+                      </button>
+                    </div>
                   ))}
                 </div>
               </div>
@@ -240,6 +365,14 @@ const App = () => {
                     </span>
                   ))}
                 </div>
+
+                <div className="mt-8">
+                  <Timeline
+                    segments={segments}
+                    currentSegmentId={currentSegmentId}
+                    onSegmentClick={scrollToSegment}
+                  />
+                </div>
               </motion.div>
 
               {segments.map((seg) => (
@@ -264,9 +397,22 @@ const App = () => {
                         <div className="h-4 w-px bg-white/10" />
                         <h3 className="text-xl font-bold tracking-tight text-primary/90">{seg.title}</h3>
                       </div>
-                      <div className="flex items-center gap-2 text-accent">
-                        <Clock size={14} />
-                        <span className="text-xs font-mono">Chapter ID: {seg.segment_id}</span>
+                      <div className="flex items-center gap-3">
+                        {seg.sentiment && (
+                          <div className={`flex items-center gap-1.5 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider border ${seg.sentiment.label === 'Positive' ? 'bg-emerald-500/10 text-emerald-500 border-emerald-500/20' :
+                            seg.sentiment.label === 'Negative' ? 'bg-rose-500/10 text-rose-500 border-rose-500/20' :
+                              'bg-accent/10 text-accent border-accent/20'
+                            }`}>
+                            {seg.sentiment.label === 'Positive' ? <TrendingUp size={12} /> :
+                              seg.sentiment.label === 'Negative' ? <TrendingDown size={12} /> :
+                                <Minus size={12} />}
+                            {seg.sentiment.label}
+                          </div>
+                        )}
+                        <div className="flex items-center gap-2 text-accent/50">
+                          <Clock size={14} />
+                          <span className="text-xs font-mono">ID: {seg.segment_id}</span>
+                        </div>
                       </div>
                     </div>
 
@@ -276,9 +422,9 @@ const App = () => {
 
                     <div className="space-y-4">
                       <div className="h-px w-full bg-white/5" />
-                      <div className="flex items-center gap-2">
+                      <div className="flex flex-wrap items-center gap-2">
                         {seg.keywords.map((kw, idx) => (
-                          <span key={idx} className="text-[10px] font-bold text-primary/80 bg-primary/5 px-2 py-0.5 rounded border border-primary/10">
+                          <span key={idx} className="text-[10px] font-bold text-accent bg-secondary px-3 py-1 rounded-full border border-white/5 hover:border-primary/30 transition-colors">
                             {kw}
                           </span>
                         ))}
@@ -307,6 +453,85 @@ const App = () => {
             </div>
           )}
         </div>
+
+        {/* Upload Modal */}
+        <AnimatePresence>
+          {isUploadModalOpen && (
+            <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm">
+              <motion.div
+                initial={{ opacity: 0, scale: 0.95 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.95 }}
+                className="glass-card p-8 w-full max-w-md shadow-2xl relative"
+              >
+                <button
+                  onClick={() => setIsUploadModalOpen(false)}
+                  className="absolute top-4 right-4 text-accent hover:text-foreground transition-colors"
+                >
+                  <X size={20} />
+                </button>
+
+                <h2 className="text-2xl font-bold mb-6 tracking-tight flex items-center gap-3">
+                  <Upload className="text-primary" />
+                  Upload Episode
+                </h2>
+
+                <form onSubmit={handleUpload} className="space-y-6">
+                  <div className="pt-2">
+                    <label className="text-xs font-bold text-accent uppercase mb-3 block">Audio File (MP3)</label>
+                    <div className="relative">
+                      <input
+                        type="file"
+                        accept=".mp3"
+                        required
+                        className="hidden"
+                        id="audio-upload"
+                        onChange={(e) => {
+                          const file = e.target.files[0];
+                          if (file && !file.name.toLowerCase().endsWith('.mp3')) {
+                            alert('Please select a valid MP3 file.');
+                            e.target.value = null;
+                            return;
+                          }
+                          setUploadData({ ...uploadData, file: file });
+                        }}
+                      />
+                      <label
+                        htmlFor="audio-upload"
+                        className={`flex flex-col items-center justify-center p-12 border-2 border-dashed rounded-2xl cursor-pointer transition-all ${uploadData.file ? 'border-primary bg-primary/5' : 'border-white/10 hover:border-primary/50 hover:bg-secondary/50'
+                          }`}
+                      >
+                        <AudioLines size={48} className={uploadData.file ? 'text-primary' : 'text-accent shadow-sm'} />
+                        <span className="mt-4 text-sm font-bold text-center">
+                          {uploadData.file ? uploadData.file.name : 'Click to select Podcast MP3'}
+                        </span>
+                        {!uploadData.file && <span className="text-[10px] text-accent/60 mt-1">Automatic AI title generation</span>}
+                      </label>
+                    </div>
+                  </div>
+
+                  <button
+                    type="submit"
+                    disabled={uploading || !uploadData.file}
+                    className="w-full bg-primary hover:bg-primary/90 text-white font-bold py-5 rounded-xl shadow-lg shadow-primary/30 transition-all disabled:opacity-50 disabled:cursor-not-allowed mt-4 flex items-center justify-center gap-3 text-base"
+                  >
+                    {uploading ? (
+                      <>
+                        <div className="w-5 h-5 border-2 border-white/20 border-t-white rounded-full animate-spin" />
+                        Initializing AI Pipeline...
+                      </>
+                    ) : (
+                      <>
+                        <Upload size={18} />
+                        Analyze Podcast Now
+                      </>
+                    )}
+                  </button>
+                </form>
+              </motion.div>
+            </div>
+          )}
+        </AnimatePresence>
       </main>
     </div>
   );

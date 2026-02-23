@@ -10,7 +10,11 @@
             "lot younger",
             "joining us"
         ],
-        "summary": "we just watched the State of the Union from Denver . Dan, it's late. it is 8.45 Pacific time ."
+        "summary": "we just watched the State of the Union from Denver . Dan, it's late. it is 8.45 Pacific time .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.4497
+        }
     },
     {
         "segment_id": 2,
@@ -23,7 +27,11 @@
             "would directly mention",
             "private equity executive"
         ],
-        "summary": "president obama's speech was written with the idea that we were facing Mitt Romney . he said that he paid a higher tax rate than he did . but he didn't expect that they would directly mention him ."
+        "summary": "president obama's speech was written with the idea that we were facing Mitt Romney . he said that he paid a higher tax rate than he did . but he didn't expect that they would directly mention him .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.976
+        }
     },
     {
         "segment_id": 3,
@@ -36,7 +44,11 @@
             "president could say",
             "donald trump"
         ],
-        "summary": "13 times in the speech was a smart move . he feels this he genuinely believes that Donald Trump is a threat to this country . but he has heard the worries and the criticisms that all that stuff ."
+        "summary": "13 times in the speech was a smart move . he feels this he genuinely believes that Donald Trump is a threat to this country . but he has heard the worries and criticisms that all that stuff and he was up there tonight .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.1064
+        }
     },
     {
         "segment_id": 4,
@@ -49,11 +61,15 @@
             "close political observers",
             "speech delivery moments"
         ],
-        "summary": "if you flood some lines here and there and you mumble, some words, people don't penalize you for that because they know that what you're saying is authentic to who you are and what you believe . he says voters have a much more human approach to the way people talk . it's just the way he delivered the speech was strong ."
+        "summary": "if you flood some lines here and there and you mumble, some words, people don't penalize you for that because they know that what you're saying is authentic to who you are and what you believe . he says voters have a much more human approach to the way people talk . it's just the way he delivered the speech was strong .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.6082
+        }
     },
     {
         "segment_id": 5,
-        "title": "Biden Skeptical Friend",
+        "title": "Watch The Speech",
         "text": "himself. I think he likes doing this. He likes giving the state of the union. That was my first impression. He was energetic. He was forceful. He picked a lot of fights. Dan, if a Biden skeptical friend who didn't watch the speech asked you about the speech. What would you say? Watch the speech. That's the point, right?",
         "keywords": [
             "biden skeptical friend",
@@ -62,7 +78,11 @@
             "speech asked",
             "likes"
         ],
-        "summary": "if a friend who didn't watch the speech asked you about the speech, what would you say? Watch the speech ."
+        "summary": "if a friend who didn't watch the speech asked you about the speech, what would you say? Watch the speech . if you're a Biden skeptical, don't listen to it .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.885
+        }
     },
     {
         "segment_id": 6,
@@ -75,11 +95,15 @@
             "strong leader",
             "seeming energetic"
         ],
-        "summary": "jacked up Joe, not his normal self tonight . he was out there fighting and seeming energetic just goes a long way ."
+        "summary": "jacked up Joe, not his normal self tonight . he was out there fighting and seeming energetic just goes a long way to make you a much more comfortable that he can be the strong leader they want .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9709
+        }
     },
     {
         "segment_id": 7,
-        "title": "Literal Sense History",
+        "title": "We Will Not Walk Away",
         "text": "All right, so there was another thing that I had not seen in a state of the Union before. He started with Ukraine. At the beginning of the speech, he had a message for Putin. Let's listen. We will not walk away. We will not fall down. I will not fall down. In a literal sense history is watching. You did say it was... watching quite a few times.",
         "keywords": [
             "literal sense history",
@@ -88,7 +112,11 @@
             "another thing",
             "watching"
         ],
-        "summary": "in a literal sense history is watching . you did say it was... watching quite a few times ."
+        "summary": "in a literal sense history is watching. You did say it was... watching quite a few times . we will not walk away.",
+        "sentiment": {
+            "label": "Neutral",
+            "score": 0.0
+        }
     },
     {
         "segment_id": 8,
@@ -101,11 +129,15 @@
             "ukraine even though",
             "americans support ukraine"
         ],
-        "summary": "if you ask most Americans to have a top concern, they're not going to say the war in Ukraine even though they are a majority of americans support Ukraine and support sending additional aid to Ukraine to stop Putin . if Putin is allowed to take Ukraine then he'll roll for NATO next ."
+        "summary": "if you ask most Americans to have a top concern, they're not going to say the war in Ukraine even though they are a majority of americans support Ukraine and support sending additional aid to Ukraine to stop Putin . if Putin is allowed to take Ukraine then he'll roll for NATO next .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.8978
+        }
     },
     {
         "segment_id": 9,
-        "title": "Political Narratives Are Set",
+        "title": "Pretty Savvy Understanding",
         "text": "Yeah, the mild panic attack when he started with that. But I think there was he's it wasn't he had a bunch of really big things really fast. And I think it's actually a pretty savvy understanding of both how people consume right now and how political narratives are set. We remember this from debates. Right? What happens in the first 15 minutes of debate is if you start out in the Bates super strong, almost nothing happens in the last five minutes of debate purchase. Right? But if you start out weak and then you get better than the narrative doesn't matter. Doesn't matter.",
         "keywords": [
             "really big things really fast",
@@ -114,7 +146,11 @@
             "last five minutes",
             "first 15 minutes"
         ],
-        "summary": "if you start out weak, almost nothing happens in the last five minutes of debate purchase . it doesn't matter how people consume right now and political narratives are set ."
+        "summary": "if you start out weak, almost nothing happens in the last five minutes of debate purchase . it doesn't matter how people consume right now and how political narratives are set . we remember this from debates .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9304
+        }
     },
     {
         "segment_id": 10,
@@ -127,7 +163,11 @@
             "driven democratic victories",
             "american people send"
         ],
-        "summary": "the campaign has been saying that the election's gonna be dobs and democracy . it's also an acknowledgement that while abortion has driven Democratic victories, ever since the Dobs decision that... there is work to do, you guys are for the skittest ."
+        "summary": "the campaign has been saying that the election's gonna be dobs and democracy . it's also an acknowledgement that while abortion has driven Democratic victories, ever since the Dobs decision that... there is work to do, you guys are for the skittest .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9818
+        }
     },
     {
         "segment_id": 11,
@@ -140,7 +180,11 @@
             "raising tax appropriations",
             "largely unflattering tiktoks"
         ],
-        "summary": "the president is fighting for middle and working class people . he has fallen behind the president in the polling on in 2020 . but he is going to draw a counter-stripping the progress ."
+        "summary": "the president is fighting for middle and working class people . he has fallen behind the president in the polling on in 2020 . but he is going to draw a counter-stripping the progress he made .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.4173
+        }
     },
     {
         "segment_id": 12,
@@ -153,7 +197,11 @@
             "anybody really think",
             "tax code"
         ],
-        "summary": "he went into a section after that opening that we talked about where the country was when he took office . the section on taxes was probably the longest section in the economic section ."
+        "summary": "he went into a section after that opening that we talked about where the country was when he took office . the section on taxes was probably probably the longest section in the economic section .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.8483
+        }
     },
     {
         "segment_id": 13,
@@ -166,7 +214,11 @@
             "trump corporate tax cuts",
             "next presidents first year"
         ],
-        "summary": "if we elect Donald Trump, he's going to renew taxes back up to a normal more fair level for operations . he already passed a one of Trump's few domestic policy achievements in his first term with a giant tax cut . for the wealthy, which Skyrocketed the deficits, and Biden's gonna say, I wanna raise tax ."
+        "summary": "if we elect Donald Trump, he's going to renew taxes back up to a normal more fair level for operations . he already passed a one of Trump's few domestic policy achievements in his first term with a giant tax cut . for the wealthy, which Skyrocketed the deficits, and Biden's gonna say, I wanna raise tax .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9634
+        }
     },
     {
         "segment_id": 14,
@@ -179,7 +231,11 @@
             "cut social security",
             "tax agenda"
         ],
-        "summary": "if anyone here tries to cut Social Security and Medicare or raise every time in age, I will stop here. you guys don't want another $2 trillion tax cut . a lot of working class voters are persuadable ."
+        "summary": "if anyone here tries to cut Social Security and Medicare or raise every time in age, I will stop here. you guys don't want another $2 trillion tax cut . a lot of working class voters are persuadable who haven't made up their mind yet .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.6886
+        }
     },
     {
         "segment_id": 15,
@@ -192,7 +248,11 @@
             "rich tax cheats",
             "gonna cut security"
         ],
-        "summary": "we're not going to cut another $2 trillion of the super-up . that's good to hear they are That's their plan they're gonna cut security and Medicare so they can pay for a giant tax cut for rich people . they also want to defund the IRS so that rich tax cheats can continue being rich . he widely surpassed the expectations a lot of people very concerned about his ability to do the job ."
+        "summary": "we're not going to cut another $2 trillion of the super-up . that's good to hear they are That's their plan they're gonna cut security and Medicare so they can pay for a giant tax cut for rich people . they also want to defund the IRS so that rich tax cheats can continue being rich .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.972
+        }
     },
     {
         "segment_id": 16,
@@ -205,11 +265,15 @@
             "economic message breakthrough",
             "bipartisan border deal"
         ],
-        "summary": "it was hard for Biden 20 because of COVID to have an economic message breakthrough . john avlon: it was good to see Biden zero in and that's a matter of mine. he did not announce any new executive actions on the border ."
+        "summary": "it was hard for Biden 20 because of COVID to have an economic message breakthrough . john avlon: it was good to see Biden zero in and that's a matter of mine. he did not announce any new executive actions on the border .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.4537
+        }
     },
     {
         "segment_id": 17,
-        "title": "Marjorie Taylor Green",
+        "title": "Biden A Button",
         "text": "Then it was an interesting moment where Marjorie Taylor Green, who's, who's, she was wearing her mask. a hat, she got a t-shirt on and she gave Biden a button when he walked into the state of the union and it was a button about Lakin Riley who's the young woman from Georgia who's murdered by an undocumented immigrant from Venezuela and it has been this gigantic story. You probably have not heard about it but it's been a gigantic story on the right, all over Fox, all over the server media. even this button. And as he's going back and forth with Republicans about the border, he picks up the button and he says, what? He's , I'm, it's horrible that this young woman died and he says something to her parents. I don't think they were there. Maybe they were there, but he mentions something about her parents.",
         "keywords": [
             "marjorie taylor green",
@@ -218,7 +282,11 @@
             "undocumented immigrant",
             "server media"
         ],
-        "summary": "marjorie Taylor Green, who's, gave biden a button when he walked into the state of the union . it's been a gigantic story on the right, all over Fox and all over the server media . he picks up the button and he says, what? he's , I'm, it is horrible that this young woman died ."
+        "summary": "marjorie Taylor Green, who's, gave biden a button when he walked into the state of the union . it's been a gigantic story on the right, all over Fox and all over the server media . he picks up the button and he says, what?",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.91
+        }
     },
     {
         "segment_id": 18,
@@ -231,7 +299,11 @@
             "term undocumented",
             "term legal"
         ],
-        "summary": "the use of the term legal was unfortunate not how he would normally use the term undocumented . but in the whole of the speech, I don't think it's a huge, huge moment . we are now hitting a transition period where every state of the union is going to be this now."
+        "summary": "the use of the term legal was unfortunate not how he would normally use the term undocumented . but in the whole of the speech, I don't think it's a huge, huge moment . we are now hitting a transition period where every state of the union is going to be this now.",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.8654
+        }
     },
     {
         "segment_id": 19,
@@ -244,7 +316,11 @@
             "best behavior",
             "though biden"
         ],
-        "summary": "there was such backlash when congressman Joe Wilson, , UI, the Obama and then it was everyone's on their best behavior for a decade . now I think every one of these members is going to try to get some attention doing it ."
+        "summary": "there was such backlash when congressman Joe Wilson, , UI, the Obama and then it was everyone's on their best behavior for a decade . now I think every one of these members is going to try to get some attention doing it .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.8779
+        }
     },
     {
         "segment_id": 20,
@@ -257,11 +333,15 @@
             "marjorie taylor green hands",
             "young man murdered"
         ],
-        "summary": "a lot of people know so many sides this clip are. of these Democrats probably do the same thing to Trump . I think this is part of the course of my board ."
+        "summary": "a lot of people know so many sides this clip are. of these Democrats probably do the same thing to Trump . I think this is part of the course of my board .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.9206
+        }
     },
     {
         "segment_id": 21,
-        "title": "Liked The Back And Forth",
+        "title": "Mentioned Bob Casey",
         "text": "And he also, you can tell he, he enjoyed the, you're right that the back and forth is going to be a- going to be the norm from Stephen's from now on. But he really enjoys it. He's , you can see the guy would be very comfortable in the Buddhist parliament. That's so much. Right? he liked the back and forth. He wanted to talk to them. He's , , he's , he mentioned Bob Casey and his bill about shrink inflation at one point. He's , past Bobby's bill. Just Bobby is in the prepared remarks. Bobby isn't in the prepared remarks.",
         "keywords": [
             "mentioned bob casey",
@@ -270,11 +350,15 @@
             "prepared remarks",
             "prepared remarks"
         ],
-        "summary": "he liked the back and forth. he wanted to talk to them . just Bobby is in the prepared remarks ."
+        "summary": "he liked the back and forth. he wanted to talk to them . just Bobby isn't in the prepared remarks, he's not in the .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9515
+        }
     },
     {
         "segment_id": 22,
-        "title": "Lindsey Graham",
+        "title": "Called Out Lindsey Graham Later",
         "text": "We have all of our money. He said Passpot KC strength racing bill, but he, , he called out Lindsey Graham later and it's just very, it's very goodbye. He loves legislating, he loves governing, he loves Congress, that's what he wants to be . I'm sure the staff was not super excited when they saw him going into the pocket to get the thing that Margaret Taylor Green gave him, but he never, he had other than that one revolution of peace over time to be sure that the nighttime. Just whether the president's gonna fight for them. So I've this is one of those things you would do Where you would take clips from this speech you would show that they watched the whole speech? God bless them. They must be a really good friend But if in the hot there is a lot of really important was we're gonna talk about them that we should show people and I think they that was the thing They would begin to shape those impressions of the person.",
         "keywords": [
             "said passpot kc strength racing bill",
@@ -283,7 +367,11 @@
             "really good friend",
             "would take clips"
         ],
-        "summary": "he called out Lindsey Graham later and it's very goodbye . he loves governing, he wants to fight for them ."
+        "summary": "he called out Lindsey Graham later and it's very goodbye . he loves governing, he wants to be a president . but he never had other than that revolution of peace over time .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9901
+        }
     },
     {
         "segment_id": 23,
@@ -296,7 +384,11 @@
             "different political wall",
             "gaza without changing"
         ],
-        "summary": "the president announced the opening of a peer in Gaza to get more aid in humanitarian aid . ruben navarrette: he's trying to speak to the people in his 2020 voters who are very unhappy with what's happening there . he says he seems more concerned about being considered insufficiently supportive ."
+        "summary": "the president announced the opening of a peer in Gaza to get more aid in humanitarian aid . ruben navarrette: he's trying to speak to the people in his 2020 voters who are very unhappy with what's happening there . he says he seems more concerned about being considered insufficiently supportive .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.1697
+        }
     },
     {
         "segment_id": 24,
@@ -309,7 +401,11 @@
             "things november 7th",
             "secondary state blinken"
         ],
-        "summary": "no one has been a stronger supporter of Israel . he is a president from an era where security was so threatened all the time . but he used the speech to take on the... age issue directly ."
+        "summary": "no one has been a stronger supporter of Israel . he is a president from an era where security was so threatened all the time . but he used the end of the speech to take on the age issue directly .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.7374
+        }
     },
     {
         "segment_id": 25,
@@ -322,7 +418,11 @@
             "issue facing",
             "competing forces"
         ],
-        "summary": "the issue facing our nation isn't how old we are . it's how old are our ideas . you need America, the land of possibilities ."
+        "summary": "the issue facing our nation isn't how old we are . it's how old are our ideas . you need America, the land of possibilities, you need a vision for the future .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.3291
+        }
     },
     {
         "segment_id": 26,
@@ -335,7 +435,11 @@
             "congressman jerry nadler",
             "slight joke"
         ],
-        "summary": "the best sound of him taking on the age issue was not in the prepared remarks . we have two former presidents who served in two consecutive terms ."
+        "summary": "the best sound of him taking on the age issue was not in the prepared remarks . he directly went after the guy he's running against . it was caught on a hot mic when he was talking to congressman .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.8888
+        }
     },
     {
         "segment_id": 27,
@@ -348,7 +452,11 @@
             "weeks ago",
             "seth meyers"
         ],
-        "summary": "john avlon: he was very, dismissive of people's concerns for a while . he says he's always been the youngest person, and now all of a sudden, he is the oldest person . but he thinks he has taken a transition on this ."
+        "summary": "john avlon: he was very, dismissive of people's concerns for a while . he says he's always been the youngest person, and now all of a sudden, he is the oldest person . but he thinks he has taken a transition on this .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.6124
+        }
     },
     {
         "segment_id": 28,
@@ -361,7 +469,11 @@
             "ravencious naga agenda",
             "next eight months"
         ],
-        "summary": "it's supposed to just be probably defensive about it, which he was in that Robert Herreport press conference in Cubic . he talked about the three options for this race ."
+        "summary": "it's supposed to just be probably defensive about it, which he was in that Robert Herreport press conference in Cubic . he talked about the three options for this race .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.7012
+        }
     },
     {
         "segment_id": 29,
@@ -374,7 +486,11 @@
             "last four years",
             "last four years"
         ],
-        "summary": "it could be a referendum on Biden, right? if he's saying it is clear that the Trump people want that choice . because right now they are benefiting from short memories and people forgetting . the other choice is to make it about the future and about what Donald Trump is going to do and what Joe Biden will do in the next four years ."
+        "summary": "it could be a referendum on Biden, right? if he's saying it is clear that the Trump people want that choice . because right now they are benefiting from short memories and people forgetting .",
+        "sentiment": {
+            "label": "Negative",
+            "score": -0.8354
+        }
     },
     {
         "segment_id": 30,
@@ -387,7 +503,11 @@
             "take us back",
             "entire night particularly"
         ],
-        "summary": "there's polling that shows that it's actually pretty influential with the double haters . poll shows that upwards of 80% of voters love it . people are optimistic about the economy ."
+        "summary": "there's polling that shows that it's actually pretty influential with the double haters . poll shows that upwards of 80% of voters love it . people are a little more optimistic about the economy .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.9459
+        }
     },
     {
         "segment_id": 31,
@@ -400,6 +520,10 @@
             "freedom else would",
             "take away"
         ],
-        "summary": "over 100 million of you can no longer be denied health insurance because of freezes and conditions . my predecessor said he's proud he did nothing on guns when he was present ."
+        "summary": "over 100 million of you can no longer be denied health insurance because of freezes and conditions . my predecessor said he's proud he did nothing on guns when he was present .",
+        "sentiment": {
+            "label": "Positive",
+            "score": 0.7184
+        }
     }
 ]
