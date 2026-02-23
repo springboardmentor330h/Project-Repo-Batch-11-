@@ -1,383 +1,273 @@
-# 🎙️ AudioInsight
-### AI-Powered Podcast Transcription & Analysis Pipeline
-
-> An end-to-end system that takes raw audio and produces fully searchable transcripts, auto-detected topics, keyword summaries, sentiment analysis, and analytics — built with Whisper, TextTiling NLP, and Streamlit.
-
----
-
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [How to Run](#how-to-run)
-- [Pipeline Explained](#pipeline-explained)
-- [Configuration & Settings](#configuration--settings)
-- [Output & Downloads](#output--downloads)
-- [Module Reference](#module-reference)
-- [Requirements](#requirements)
-- [Known Issues & Tips](#known-issues--tips)
-
----
-
-## Project Overview
-
-AudioInsight is an 8-week AI capstone project that automates the full lifecycle of podcast analysis:
-
-1. Upload or download an audio file
-2. Preprocess the audio (noise reduction, chunking)
-3. Transcribe using OpenAI Whisper
-4. Clean the transcript (remove fillers, merge sentences)
-5. Segment into topics using TextTiling NLP
-6. Extract keywords using TF-IDF
-7. Generate summaries per topic
-8. Compute analytics (WPM, readability, sentiment, vocabulary)
-9. Visualise everything in an interactive Streamlit dashboard
-
-The system supports multiple segmentation algorithms and includes an evaluation framework to compare their performance.
-
----
-
-## Features
-
-| Feature | Description |
-|---|---|
-| 🎤 Whisper Transcription | Multi-model support: tiny, base, small, medium, large |
-| 🗂️ Topic Segmentation | TextTiling NLP with configurable block size |
-| 🔑 Keyword Extraction | TF-IDF with bigram support, filler word filtering |
-| 📝 Auto Summaries | TextRank-lite extractive summarisation per topic |
-| 💭 Sentiment Analysis | Timeline chart using TextBlob |
-| ☁️ Word Cloud | Visual frequency map of most-used terms |
-| 📊 Analytics | WPM, readability scores, vocabulary diversity |
-| 🔍 Transcript Search | Keyword search with timestamp and topic labels |
-| 📥 Export | Plain text, timestamped, topics report, full JSON |
-| 🔗 URL Download | Fetch audio directly from a URL |
-
----
-
-## Project Structure
-
-```
-Audio_Transcription_Project/
-│
-├── src/                          # All source code
-│   ├── app.py                    # Streamlit web application (main entry point)
-│   │
-│   ├── audio_preprocessing.py    # Audio cleaning, noise reduction, chunking
-│   ├── transcribe.py             # Whisper ASR transcription engine
-│   ├── trancript_cleaner.py      # Sentence merging & filler word removal
-│   │
-│   ├── algorithim.py             # Algorithm 1: Cosine similarity segmentation
-│   ├── algorithim2.py            # Algorithm 2: TextTiling segmentation (used in app)
-│   ├── algorithim3.py            # Algorithm 3: Embedding-based segmentation
-│   │
-│   ├── evaluate.py               # SegmentationEvaluator, KeywordExtractor, SummaryGenerator
-│   ├── analytics.py              # TranscriptAnalytics: WPM, readability, sentiment
-│   ├── compare.py                # Side-by-side algorithm comparison
-│   │
-│   ├── url_downloader.py         # Download audio from URL with retry logic
-│   ├── download_audio.py         # Bulk CSV-based audio downloader
-│   ├── data_storage.py           # Local transcript storage and indexing
-│   └── setup.py                  # Environment setup and dependency check
-│
-├── output/                       # Generated transcripts and analysis results
-│   ├── topics/
-│   ├── transcripts/
-│   └── transcripts_cleaned/
-│
-├── dataset/                      # Raw audio files
-├── venv/                         # Python virtual environment
-├── requirements.txt              # Python dependencies
-└── README.md                     # This file
-```
-
----
-
-## Installation
-
-### 1. Clone / Download the project
-
-```bash
-cd Audio_Transcription_Project
-```
-
-### 2. Create and activate a virtual environment
-
-```bash
-python -m venv venv
-
-# Windows
-venv\Scripts\activate
-
-# macOS / Linux
-source venv/bin/activate
-```
-
-### 3. Install Python dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Install system dependency (FFmpeg)
-
-FFmpeg is required by Whisper to decode audio files.
-
-**Windows:**
-```bash
-winget install ffmpeg
-# or download from https://ffmpeg.org/download.html and add to PATH
-```
-
-**macOS:**
-```bash
-brew install ffmpeg
-```
-
-**Linux:**
-```bash
-sudo apt install ffmpeg
-```
-
-### 5. (Optional) Install extras
-
-```bash
-# For word cloud in Analytics tab
-pip install wordcloud matplotlib
-
-# For readability scores
-pip install textstat
-
-# For sentiment analysis
-pip install textblob
-python -m textblob.download_corpora
-```
-
----
-
-## How to Run
-
-```bash
-# Make sure your virtual environment is active
-cd src
-streamlit run app.py
-```
-
-The app will open at `http://localhost:8501` in your browser.
-
----
-
-## Pipeline Explained
-
-```
-Audio File
-    │
-    ▼
-┌─────────────────────┐
-│  1. Preprocess      │  Noise reduction, normalisation, chunking into segments
-└─────────────────────┘
-    │
-    ▼
-┌─────────────────────┐
-│  2. Transcribe      │  Whisper ASR converts speech to text with timestamps
-└─────────────────────┘
-    │
-    ▼
-┌─────────────────────┐
-│  3. Clean           │  Merge Whisper segments into sentences, remove filler words
-└─────────────────────┘
-    │
-    ▼
-┌─────────────────────┐
-│  4. Segment         │  TextTiling detects topic boundaries by lexical cohesion
-└─────────────────────┘
-    │
-    ▼
-┌─────────────────────┐
-│  5. Keywords        │  TF-IDF extracts meaningful keywords per topic segment
-│     & Summaries     │  TextRank-lite generates a 2-sentence summary per topic
-└─────────────────────┘
-    │
-    ▼
-┌─────────────────────┐
-│  6. Analytics       │  WPM, vocabulary diversity, readability, sentiment timeline
-└─────────────────────┘
-    │
-    ▼
-  Dashboard (Streamlit)
-```
-
-### How TextTiling Works
+﻿# Automated Podcast Transcription Project
 
-TextTiling segments text by measuring **lexical cohesion** between blocks of sentences. When vocabulary shifts significantly between adjacent blocks, it signals a topic boundary. The **block size** slider in the sidebar controls how many sentences per block — smaller = more sensitive, more topics detected.
+## 1. Project Overview
 
-- **Block size 3–5** → High sensitivity, many topics (best for varied podcasts)
-- **Block size 6–12** → Balanced (good default)
-- **Block size 13–20** → Low sensitivity, fewer broad topics (best for focused talks)
-
----
-
-## Configuration & Settings
-
-All settings are available in the **sidebar** of the app before running the pipeline.
-
-| Setting | Options | Description |
-|---|---|---|
-| **Whisper Model** | tiny, base, small, medium, large | Larger = better accuracy, slower |
-| **Audio Language** | en, es, fr, de, ... auto | Language of the audio. `auto` = Whisper detects it |
-| **Topic Sensitivity** | Slider 3–20 | Block size for TextTiling. Smaller = more topics |
-
-### Model Speed vs. Accuracy
-
-| Model | Speed | Accuracy | Best For |
-|---|---|---|---|
-| tiny | ⚡ Fastest | Basic | Quick testing |
-| base | ✅ Fast | Good | General use (recommended) |
-| small | 🔍 Medium | Better | Higher accuracy |
-| medium | 🎯 Slow | High | Professional use |
-| large | 💎 Very slow | Best | Maximum quality |
-
----
-
-## Output & Downloads
-
-After analysis, five tabs are available:
-
-| Tab | Contents |
-|---|---|
-| 📄 Transcript | Full colour-coded transcript with topic sections and timestamps |
-| 📚 Topics & Summaries | Topic cards with summaries, keywords, duration, sentiment |
-| 📈 Analytics | Word cloud, top words bar chart, WPM, readability, sentiment timeline, topic split pie chart |
-| 🔍 Search | Keyword search across the full transcript with highlighted results |
-| 📥 Download | Export in 4 formats (see below) |
-
-### Export Formats
+###  Problem Statement
 
-| File | Contents |
-|---|---|
-| `_transcript.txt` | Plain text transcript, no timestamps |
-| `_timestamped.txt` | Every sentence with `[MM:SS]` timecode |
-| `_topics.txt` | Topics, keywords and summaries in readable format |
-| `_report.json` | Full structured data — all topics, analytics, evaluation scores |
-
----
-
-## Module Reference
-
-### `audio_preprocessing.py` — `AudioPreprocessor`
-Handles noise reduction, audio normalisation and chunking of long files into manageable segments. Outputs processed `.wav` files and chunk metadata with start times.
+Podcasts contain valuable information across domains such as education, business, technology, and media. However, they are typically long-form audio content, making it difficult for users to:
 
-### `transcribe.py` — `AudioTranscriber`
-Wraps OpenAI Whisper. Loads the model once, transcribes each chunk, and returns segments with corrected timestamps using chunk offset metadata.
+- Quickly locate specific topics within an episode  
+- Extract key insights without listening to the entire recording  
+- Analyze emotional tone or discussion flow  
+- Navigate transcripts efficiently  
 
-### `trancript_cleaner.py` — `TranscriptCleaner`
-Merges short Whisper segments into full sentences. Removes filler words (`um`, `uh`, `like`, `you know`, etc.) in conservative or aggressive mode.
-
-### `algorithim2.py` — `TextTilingSegmenter`
-Main segmentation algorithm used in the app. Implements TextTiling:
-- Builds vocabulary blocks from sentences
-- Computes lexical cohesion scores between adjacent blocks
-- Smooths scores and detects valleys as topic boundaries
-- Provides `get_topic_label()` and `analyze_sentiment()` helpers
-
-### `evaluate.py` — `SegmentationEvaluator`, `KeywordExtractor`, `SummaryGenerator`
-
-**SegmentationEvaluator**: Scores segmentation quality (0–10) based on topic count, duration balance, and sentence distribution. Provides human-readable feedback.
-
-**KeywordExtractor**: TF-IDF with bigrams (`ngram_range=(1,2)`), filler word blocklist of 60+ terms, `sublinear_tf=True`. Falls back to frequency-based extraction for single-segment audio.
-
-**SummaryGenerator**: TextRank-lite extractive summariser. Scores sentences by keyword density, position bonus, and length. Filters out sign-off lines (`"thanks for listening"`, `"see you next week"`, etc.).
-
-### `analytics.py` — `TranscriptAnalytics`
-Computes:
-- **Basic**: word count, sentence count, duration
-- **Speaking**: WPM, average sentence duration, pause time
-- **Vocabulary**: unique words, diversity ratio, hapax legomena, top 10 words
-- **Readability**: Flesch-Kincaid Grade, Flesch Reading Ease, Gunning Fog (requires `textstat`)
-- **Sentiment**: polarity timeline using TextBlob
-
-### `url_downloader.py` — `URLDownloader`
-Downloads audio from direct URLs with retry logic, MIME type validation, and progress callbacks. Supports MP3, WAV, M4A, FLAC, OGG, WEBM.
-
-### `compare.py`
-Runs all three segmentation algorithms on the same transcript and compares results side by side — useful for evaluating which algorithm performs best on different audio types.
-
-### `data_storage.py`
-Lightweight local database for storing and indexing transcription results. Supports search, export, and cleanup. Uses metadata/data separation for fast listing.
-
----
-
-## Requirements
-
-```
-streamlit
-openai-whisper
-torch
-librosa
-soundfile
-noisereduce
-pyloudnorm
-sentence-transformers
-scikit-learn
-nltk
-textblob
-textstat
-plotly
-pandas
-requests
-wordcloud
-matplotlib
-```
-
-Full list in `requirements.txt`.
-
-**System:** FFmpeg must be installed and available on `PATH`.
-
----
-
-## Known Issues & Tips
-
-**Only 1 topic detected?**
-Reduce the Topic Sensitivity slider in the sidebar to 3–5 and re-run. This is the most common issue with short audio files.
-
-**Pipeline is slow?**
-Use the `tiny` or `base` Whisper model for testing. Larger models can take 5–10× longer.
-
-**Word cloud not showing?**
-Install: `pip install wordcloud matplotlib`
-
-**Readability scores missing?**
-Install: `pip install textstat`
-
-**Sentiment timeline empty?**
-Install: `pip install textblob` then run `python -m textblob.download_corpora`
-
-**File upload limit?**
-Streamlit's default upload limit is 200 MB. For larger files, use the URL downloader or increase the limit in `.streamlit/config.toml`:
-```toml
-[server]
-maxUploadSize = 500
-```
-
-**Typo in filename `trancript_cleaner.py`?**
-Yes — this is intentional. The filename is preserved as-is to avoid breaking imports across the project.
-
----
-
-## Tech Stack
-
-| Component | Technology |
-|---|---|
-| UI Framework | Streamlit |
-| Speech-to-Text | OpenAI Whisper |
-| Topic Segmentation | TextTiling (custom implementation) |
-| Keyword Extraction | scikit-learn TF-IDF |
-| Sentiment Analysis | TextBlob |
-| Visualisation | Plotly, Matplotlib, WordCloud |
-| Audio Processing | librosa, noisereduce, soundfile |
-| Embeddings (Algo 3) | sentence-transformers (MiniLM) |
-
----
-
-*AudioInsight — AI Automated Podcast Transcription · Capstone Project*
+Manual listening is time-consuming and inefficient, especially for researchers, students, and media professionals. Therefore, an automated system is required to convert podcast audio into structured, searchable, and analyzable text.
+
+
+### Objectives of the Project
+
+The primary objectives of this project are:
+
+- To automatically transcribe podcast audio into timestamped text  
+- To segment transcripts into meaningful topic-based sections  
+- To generate concise summaries for each segment  
+- To extract relevant keywords using TF-IDF  
+- To perform sentiment analysis using VADER  
+- To generate structured metadata for improved navigation and visualization  
+
+The goal is to create an intelligent system that transforms unstructured audio into structured insights.
+
+
+### Significance and Real-World Applications
+
+This system has multiple real-world applications:
+
+- **Education** – Enables students to quickly review lecture-based podcasts and identify important concepts.  
+- **Accessibility** – Assists hearing-impaired users by providing structured transcripts and summaries.  
+- **Media & Journalism** – Helps journalists analyze topic transitions and sentiment trends.  
+- **Research & Data Analysis** – Facilitates thematic analysis of long-form discussions.  
+- **Content Navigation** – Allows users to jump directly to relevant sections within podcast episodes.  
+
+By automating transcription and analysis, the system significantly improves content accessibility, usability, and analytical capability.
+
+## 2. Dataset Description
+
+### Source of the Dataset
+
+The dataset used in this project is based on transcripts from the **"This American Life"** podcast.
+
+"This American Life" is a long-form storytelling podcast featuring real-life narratives, interviews, and thematic discussions. The dataset includes episode-level transcript files that were processed for segmentation and analysis.
+
+### Preprocessing Steps Undertaken
+
+A total of **10 podcast episodes** from the *This American Life* dataset were used for analysis.
+
+The following preprocessing steps were applied before segmentation and analysis:
+
+#### Transcript Cleaning
+
+- Removal of timestamp brackets (e.g., `[12.45 - 18.90]`)
+- Removal of unnecessary speaker labels
+- Whitespace normalization and formatting standardization
+
+This ensured that the transcript text was clean and suitable for NLP processing.
+
+#### Timestamp Extraction
+
+Regular expressions were used to extract:
+
+- Start time  
+- End time  
+
+from each transcript line.
+
+## 3. System Architecture
+
+###  Overall Architecture Flow
+
+<img width="600" height="750" alt="image" src="https://github.com/user-attachments/assets/43c765b5-ca39-44e4-b895-cc2d8d796240" />
+
+
+##  4. Tools and Libraries Used
+
+###  Audio Processing
+
+Although the primary focus of the project was transcript-based analysis, podcast audio files in MP3 format were used as input.  
+Audio files were transcribed using Whisper, and transcript files were structured for downstream NLP processing.
+
+### Speech-to-Text – Whisper
+
+OpenAI's Whisper model was used to convert podcast audio into timestamped transcripts.  
+Whisper provides high transcription accuracy and generates start and end timestamps, which were essential for timeline-based segmentation.
+
+###  NLP & Analysis
+
+#### SentenceTransformer (MiniLM)
+
+The `all-MiniLM-L6-v2` model was used to generate sentence embeddings.  
+These embeddings capture semantic meaning and were used to compute cosine similarity for topic segmentation.
+
+#### TF-IDF (Scikit-learn)
+
+TF-IDF vectorization was used for:
+- Extractive summarization (selecting the most relevant sentence)
+- Keyword extraction (top 5 important terms per segment)
+
+#### VADER Sentiment Analyzer (NLTK)
+
+VADER was used to classify sentiment at the segment level.  
+It provides a compound score that was used to label segments as Positive, Negative, or Neutral.
+
+###  User Interface
+
+The project includes a structured output system where:
+- Full transcripts  
+- Topic segments  
+- Segment summaries  
+- Keywords  
+- Sentiment labels  
+are presented in an organized interface for easy navigation and interpretation.
+
+## 5. Implementation Details
+
+Transcription
+- Whisper was used to generate timestamped transcripts from podcast audio.
+
+Topic Segmentation
+- Sentence embeddings were generated.
+
+Cosine similarity computed between adjacent sentences.
+- Topic boundaries identified where similarity drops below threshold.
+
+Summary Generation
+- TF-IDF scoring selects the most representative sentence.
+
+Sentiment Analysis
+- VADER compound score thresholds:
+  - ≥ 0.05 → Positive
+  - ≤ -0.05 → Negative
+  - Otherwise → Neutral
+
+Interactive Timeline & Keyword Cloud
+- Timestamps were proportionally mapped to segment boundaries.
+- WordCloud was generated using extracted keywords for visualization.
+
+## 6. Results and Outputs
+
+The system successfully converts long-form podcast audio into structured, segmented, and analyzable textual insights.
+
+Below are the major outputs generated by the system:
+
+### Full Transcript
+
+The complete transcript of each podcast episode is generated using Whisper.
+
+- Contains timestamped speech segments
+- Preserves chronological flow
+- Enables time-based navigation
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/7a2da7c8-fc7d-4d5d-805b-26887bfa0ac0" />
+
+### Topic Segments
+
+The transcript is divided into coherent topic-based segments using semantic similarity analysis.
+
+Each segment includes:
+- Segment ID
+- Title (generated from key nouns)
+- Start and end timestamps
+- Full segment text
+- <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d7a64b46-a287-4d86-9866-760b90619efb" />
+
+
+### Interactive Timeline
+
+Using extracted timestamps, each segment is mapped to its corresponding time range within the episode.
+
+- Displays start and end time for each topic
+- Enables navigation based on time
+- Helps users jump directly to specific sections
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/0b74d47e-2081-47dd-839d-66609ff188b6" />
+
+
+### Keyword 
+
+A keyword visualization is generated using extracted TF-IDF keywords.
+
+- Highlights frequently occurring important terms
+- Provides quick insight into dominant themes
+- Enhances visual interpretability
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d4a4d2fc-8c22-40d7-87bc-7a2d5aa0abe4" />
+
+
+###  User Interface
+The system interface displays:
+- Full transcript
+- Topic segments
+- Segment summaries
+- Extracted keywords
+- Sentiment labels
+- Timeline information
+
+## 7. Testing and Feedback
+
+### Testing Log
+
+| Podcast    | Issue Identified        | Corrective Action Taken |
+|------------|------------------------|--------------------------|
+| Episode 1  | Over-segmentation       | Adjusted similarity threshold |
+| Episode 2  | Irrelevant keywords     | Improved stopword filtering |
+| Episode 3  | Short summaries         | Increased MIN_WORDS value |
+
+
+### User Feedback Summary
+
+- Summaries were helpful but sometimes too brief.  
+- Topic titles needed refinement.  
+- UI navigation was intuitive.  
+- Sentiment classification was generally accurate.  
+
+### Improvements Implemented
+
+Based on testing and user feedback, the following improvements were made:
+
+- Fine-tuned similarity threshold for better segmentation  
+- Enhanced keyword filtering logic  
+- Increased minimum word count for stronger summaries  
+- Minor UI formatting improvements  
+The system performance improved after these refinements.
+
+
+## 8. Limitations
+
+Despite achieving the core objectives, the system has certain limitations:
+
+- **Transcription Accuracy Dependency**  
+  The accuracy of generated transcripts depends heavily on the clarity and quality of the input audio.
+
+- **Sensitivity to Background Noise**  
+  Background noise, overlapping speech, or unclear pronunciation may reduce speech recognition performance.
+
+- **Segmentation Threshold Generalization**  
+  The cosine similarity threshold used for topic segmentation may not generalize equally well across all podcast styles or genres.
+
+- **Lexicon-Based Sentiment Analysis**  
+  VADER sentiment analysis is rule-based and may not fully capture contextual or sarcastic expressions.
+
+- **Extractive Summarization Limitation**  
+  Since summaries are generated using an extractive TF-IDF approach, they may not always capture deeper semantic meaning or contextual nuances.
+
+
+## 9. Future Work
+
+The system can be further enhanced in the following ways:
+
+- **Advanced Speech Recognition Models**  
+  Integrate more advanced or domain-specific speech recognition models to improve transcription accuracy.
+
+- **Real-Time Transcription**  
+  Extend the system to support real-time or streaming transcription for live podcasts.
+
+- **Speaker Identification**  
+  Implement speaker diarization to differentiate between multiple speakers within an episode.
+
+- **Improved Topic Segmentation**  
+  Use advanced topic modeling techniques such as LDA or transformer-based models for more accurate segmentation.
+
+- **Enhanced User Interface**  
+  Improve UI design with advanced navigation features, search functionality, and better visualization components.
+
+- **Cloud Deployment**  
+  Deploy the system on cloud infrastructure to support scalability and multi-user access.
+
+
+
