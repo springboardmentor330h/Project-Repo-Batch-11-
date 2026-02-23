@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Podcast Topic Navigator</title>
+
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #0a0a0a;
+    color: #e0e0e0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.container { display: flex; height: 100vh; }
+
+/* Sidebar */
+.sidebar {
+    width: 320px;
+    background: #151515;
+    border-right: 1px solid #2a2a2a;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-header {
+    padding: 24px;
+    border-bottom: 1px solid #2a2a2a;
+}
+
+.sidebar-header h1 { color: #fff; font-size: 22px; margin-bottom: 8px; }
+.sidebar-header p { font-size: 13px; color: #888; margin-bottom: 12px; }
+
+input[type="file"] {
+    width: 100%;
+    background: #1a1a1a;
+    color: #ccc;
+    border: 1px solid #2a2a2a;
+    padding: 8px;
+    border-radius: 6px;
+}
+
+/* Main */
+.main-content { flex: 1; display: flex; flex-direction: column; }
+
+.content-header {
+    padding: 24px 32px;
+    background: #151515;
+    border-bottom: 1px solid #2a2a2a;
+}
+
+.content-header h2 { font-size: 26px; color: #fff; margin-bottom: 6px; }
+.content-header .meta { font-size: 14px; color: #888; }
+
+.tabs {
+    display: flex;
+    background: #151515;
+    border-bottom: 1px solid #2a2a2a;
+}
+
+.tab {
+    padding: 14px 24px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: #888;
+    font-size: 14px;
+}
+
+.tab.active {
+    color: #6366f1;
+    border-bottom: 2px solid #6366f1;
+}
+
+.content-body {
+    flex: 1;
+    padding: 32px;
+    overflow-y: auto;
+}
+
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
+/* Cards */
+.segment-card, .summary-box, .transcript-box, .keyword-card {
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 16px;
+}
+
+.segment-title { color: #fff; font-size: 16px; font-weight: 600; }
+.segment-time { color: #6366f1; font-size: 13px; margin-top: 4px; }
+.segment-description { color: #aaa; margin-top: 10px; }
+
+.transcript-entry { margin-bottom: 18px; }
+.transcript-time { color: #6366f1; font-size: 12px; margin-bottom: 4px; }
+.transcript-text { color: #ccc; font-size: 14px; line-height: 1.6; }
+
+.keywords-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 12px;
+}
+
+.keyword-card { text-align: center; color: #fff; }
+
+/* Scroll */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-thumb { background: #2a2a2a; border-radius: 4px; }
+</style>
+</head>
+
+<body>
+<div class="container">
+
+<!-- SIDEBAR -->
+<div class="sidebar">
+    <div class="sidebar-header">
+        <h1>Podcast Loader</h1>
+        <p>Upload processed JSON file</p>
+        <input type="file" id="fileInput" accept=".json">
+    </div>
+</div>
+
+<!-- MAIN -->
+<div class="main-content">
+
+<div class="content-header">
+    <h2 id="podcastTitle">No podcast loaded</h2>
+    <div class="meta" id="podcastMeta">Upload final_&lt;id&gt;_data.json</div>
+</div>
+
+<div class="tabs">
+    <button class="tab active" onclick="switchTab('segments')">Segments</button>
+    <button class="tab" onclick="switchTab('summary')">Summary</button>
+    <button class="tab" onclick="switchTab('transcript')">Transcript</button>
+    <button class="tab" onclick="switchTab('keywords')">Keywords</button>
+</div>
+
+<div class="content-body">
+
+<div id="segments" class="tab-content active">
+    <div id="segmentsList"></div>
+</div>
+
+<div id="summary" class="tab-content">
+    <div id="summaryContent" class="summary-box"></div>
+</div>
+
+<div id="transcript" class="tab-content">
+    <div id="transcriptContent" class="transcript-box"></div>
+</div>
+
+<div id="keywords" class="tab-content">
+    <div id="keywordsContent" class="keywords-grid"></div>
+</div>
+
+</div>
+</div>
+</div>
+
+<script>
+let segmentsData = [];
+
+document.getElementById("fileInput").addEventListener("change", e => {
+    const file = e.target.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = evt => {
+        segmentsData = JSON.parse(evt.target.result);
+        loadPodcast(file.name);
+    };
+    reader.readAsText(file);
+});
+
+function generateTitle(keywords) {
+    return keywords.slice(0, 2).join(" & ").replace(/\b\w/g, c => c.toUpperCase());
+}
+
+function loadPodcast(filename) {
+    document.getElementById("podcastTitle").textContent = filename.replace(".json", "");
+    document.getElementById("podcastMeta").textContent = `${segmentsData.length} segments loaded`;
+
+    renderSegments();
+    renderSummary();
+    renderTranscript();
+    renderKeywords();
+}
+
+function renderSegments() {
+    document.getElementById("segmentsList").innerHTML =
+        segmentsData.map(seg => `
+        <div class="segment-card">
+            <div class="segment-title">${generateTitle(seg.keywords)}</div>
+            <div class="segment-time">${formatTime(seg.start)} – ${formatTime(seg.end)}</div>
+            <div class="segment-description">${seg.summary}</div>
+        </div>`).join("");
+}
+
+function renderSummary() {
+    document.getElementById("summaryContent").innerHTML =
+        `<p>${segmentsData[0]?.summary || "Segment-wise summaries available."}</p>`;
+}
+
+function renderTranscript() {
+    document.getElementById("transcriptContent").innerHTML =
+        segmentsData.map(seg => `
+        <div class="transcript-entry">
+            <div class="transcript-time">${formatTime(seg.start)}</div>
+            <div class="transcript-text">${seg.transcript}</div>
+        </div>`).join("");
+}
+
+function renderKeywords() {
+    const keywords = [...new Set(segmentsData.flatMap(s => s.keywords))];
+    document.getElementById("keywordsContent").innerHTML =
+        keywords.map(k => `<div class="keyword-card">${k}</div>`).join("");
+}
+
+function formatTime(sec) {
+    const m = Math.floor(sec / 60);
+    const s = Math.floor(sec % 60);
+    return `${m}:${s.toString().padStart(2,'0')}`;
+}
+
+function switchTab(tab) {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    event.target.classList.add('active');
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    document.getElementById(tab).classList.add('active');
+}
+</script>
+</body>
+</html>

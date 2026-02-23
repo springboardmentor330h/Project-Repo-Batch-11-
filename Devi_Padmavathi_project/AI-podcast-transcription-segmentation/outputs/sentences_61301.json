@@ -1,0 +1,2822 @@
+[
+  {
+    "sentence_id": 0,
+    "text": "Hi TED Talks, Daily Listeners.",
+    "start": 0.0,
+    "end": 6.64
+  },
+  {
+    "sentence_id": 1,
+    "text": "This week we're sharing a series called TED Connects, Community and Hope, some very timely conversations with TED speakers around the coronavirus pandemic.",
+    "start": 6.64,
+    "end": 18.32
+  },
+  {
+    "sentence_id": 2,
+    "text": "This one features philanthropist Bill Gates in a virtual conversation with head of TED Chris Anderson and current affairs curator Whitney Pennington Rogers.",
+    "start": 18.32,
+    "end": 24.16
+  },
+  {
+    "sentence_id": 3,
+    "text": "Let us know what you think by leaving a review or emailing us at podcasts at TED.com.",
+    "start": 24.16,
+    "end": 35.68
+  },
+  {
+    "sentence_id": 4,
+    "text": "This episode is brought to you by Briars America's favorite ice cream brand.",
+    "start": 35.68,
+    "end": 35.68
+  },
+  {
+    "sentence_id": 5,
+    "text": "If you're on a diet or living a low carb lifestyle, Briars has the perfect treat for you.",
+    "start": 35.68,
+    "end": 41.12
+  },
+  {
+    "sentence_id": 6,
+    "text": "It's Briars Carbsmart.",
+    "start": 41.12,
+    "end": 46.4
+  },
+  {
+    "sentence_id": 7,
+    "text": "With yummy flavors like caramel swirl, chocolate covered almond, vanilla and peanut butter, Briars Carbsmart is available in tubs and bars, each with between three to five grams net carbs and 150 calories or less per serving.",
+    "start": 46.4,
+    "end": 57.68
+  },
+  {
+    "sentence_id": 8,
+    "text": "Try Briars Carbsmart for your next sweet tooth craving.",
+    "start": 57.68,
+    "end": 61.44
+  },
+  {
+    "sentence_id": 9,
+    "text": "Get a coupon at briars.com slash health talks.",
+    "start": 61.44,
+    "end": 68.48
+  },
+  {
+    "sentence_id": 10,
+    "text": "Hello and welcome to everyone joining us from Around the Globe.",
+    "start": 68.48,
+    "end": 68.48
+  },
+  {
+    "sentence_id": 11,
+    "text": "Thank you for being part of day two of our special series TED Connects.",
+    "start": 68.48,
+    "end": 72.96
+  },
+  {
+    "sentence_id": 12,
+    "text": "This week we're bringing you interviews from some of the world's greatest minds to offer tools for us to navigate through and thrive in these really uncertain times.",
+    "start": 72.96,
+    "end": 83.6
+  },
+  {
+    "sentence_id": 13,
+    "text": "I'm Whitney Pennington Rogers, TED's current affairs curator and I'll be one of your hosts for today's event.",
+    "start": 83.6,
+    "end": 88.48
+  },
+  {
+    "sentence_id": 14,
+    "text": "Yesterday we kicked off this series with an interview from a claimed psychologist Susan David who offered us some tips on how to really be our best selves in these trying times.",
+    "start": 88.48,
+    "end": 100.16
+  },
+  {
+    "sentence_id": 15,
+    "text": "And we're going to switch gears a little bit today from thinking about our own personal mental health to the state of our global public health systems.",
+    "start": 100.16,
+    "end": 106.24
+  },
+  {
+    "sentence_id": 16,
+    "text": "Thank you.",
+    "start": 106.24,
+    "end": 106.24
+  },
+  {
+    "sentence_id": 17,
+    "text": "I guess we have a pretty exciting guest to introduce.",
+    "start": 106.24,
+    "end": 112.88
+  },
+  {
+    "sentence_id": 18,
+    "text": "On the other side of the country, let's bring in Bill Gates.",
+    "start": 112.88,
+    "end": 120.24
+  },
+  {
+    "sentence_id": 19,
+    "text": "Bill, they say the the best-in-one people are the less you have to intro them.",
+    "start": 120.24,
+    "end": 120.24
+  },
+  {
+    "sentence_id": 20,
+    "text": "So it's great to have you here.",
+    "start": 120.24,
+    "end": 129.76
+  },
+  {
+    "sentence_id": 21,
+    "text": "How are you doing?",
+    "start": 129.76,
+    "end": 129.76
+  },
+  {
+    "sentence_id": 22,
+    "text": "Well, I think this is an unprecedented really disconcerting time for everyone.",
+    "start": 129.76,
+    "end": 136.08
+  },
+  {
+    "sentence_id": 23,
+    "text": "With things being shut down, not knowing exactly how long it's going to last, worrying about the health of all the people we care about.",
+    "start": 136.08,
+    "end": 143.2
+  },
+  {
+    "sentence_id": 24,
+    "text": "You know, I'm lucky that I get to connect up with video conferencing using Teams a lot.",
+    "start": 143.2,
+    "end": 150.48
+  },
+  {
+    "sentence_id": 25,
+    "text": "So the foundation is stepping up and there's a lot of great people trying to help with this crisis.",
+    "start": 150.48,
+    "end": 157.04
+  },
+  {
+    "sentence_id": 26,
+    "text": "But it's it's scary for everyone.",
+    "start": 157.04,
+    "end": 163.92
+  },
+  {
+    "sentence_id": 27,
+    "text": "Are you basically stuck at home like like many of us watching?",
+    "start": 163.92,
+    "end": 163.92
+  },
+  {
+    "sentence_id": 28,
+    "text": "Yeah, almost all my meetings are using Teams now.",
+    "start": 163.92,
+    "end": 174.8
+  },
+  {
+    "sentence_id": 29,
+    "text": "I'm getting used to that.",
+    "start": 174.8,
+    "end": 174.8
+  },
+  {
+    "sentence_id": 30,
+    "text": "You know, I've gone days without seem seem any work co-workers.",
+    "start": 174.8,
+    "end": 183.76
+  },
+  {
+    "sentence_id": 31,
+    "text": "Let's start here, Bill.",
+    "start": 183.76,
+    "end": 183.76
+  },
+  {
+    "sentence_id": 32,
+    "text": "Five years ago, you stood on the TED stage and you gave this this chilling warning that the world was in danger at some point of a major pandemic.",
+    "start": 183.76,
+    "end": 190.72
+  },
+  {
+    "sentence_id": 33,
+    "text": "People watching that talk now, you know, the hair stands up in the back of their neck.",
+    "start": 190.72,
+    "end": 195.04
+  },
+  {
+    "sentence_id": 34,
+    "text": "It is exactly what we're living through.",
+    "start": 195.04,
+    "end": 198.72
+  },
+  {
+    "sentence_id": 35,
+    "text": "What happened?",
+    "start": 198.72,
+    "end": 198.72
+  },
+  {
+    "sentence_id": 36,
+    "text": "Did people listen to that warning at all?",
+    "start": 198.72,
+    "end": 211.28
+  },
+  {
+    "sentence_id": 37,
+    "text": "Basically, no.",
+    "start": 211.28,
+    "end": 211.28
+  },
+  {
+    "sentence_id": 38,
+    "text": "You know, I was hopeful that with the Zika and Ebola and SARS and MERS, they all reminded us that particularly in a world where people who move around so much, you can get huge devastation.",
+    "start": 211.28,
+    "end": 227.12
+  },
+  {
+    "sentence_id": 39,
+    "text": "And so the talk was to say, hey, we're not ready for the next pandemic, but in fact, there's advances in science that if we put resources against them, we can be ready.",
+    "start": 227.12,
+    "end": 241.68
+  },
+  {
+    "sentence_id": 40,
+    "text": "Sadly, very little was done.",
+    "start": 241.68,
+    "end": 241.68
+  },
+  {
+    "sentence_id": 41,
+    "text": "There were some things.",
+    "start": 241.68,
+    "end": 241.68
+  },
+  {
+    "sentence_id": 42,
+    "text": "The Coalition for Epidemic Preparedness Innovation, CEPI was funded by our foundation, welcome trust in a number of governments to do some of the platform vaccine work.",
+    "start": 241.68,
+    "end": 259.44
+  },
+  {
+    "sentence_id": 43,
+    "text": "But the, in the area of diagnostics, antibody anti-birals, basically doing the disease games that I talked about where we'd simulate what needed to be done.",
+    "start": 259.44,
+    "end": 273.2
+  },
+  {
+    "sentence_id": 44,
+    "text": "We hardly did anything.",
+    "start": 273.2,
+    "end": 273.2
+  },
+  {
+    "sentence_id": 45,
+    "text": "And so now here we have a respiratory virus that is sadly fulfilling some of the more negative predictions I made.",
+    "start": 273.2,
+    "end": 286.96
+  },
+  {
+    "sentence_id": 46,
+    "text": "I mean, last month, you said that this might be the big one.",
+    "start": 286.96,
+    "end": 286.96
+  },
+  {
+    "sentence_id": 47,
+    "text": "You wrote that this could be the sort of once in a century pandemic that people had been fearing.",
+    "start": 286.96,
+    "end": 294.56
+  },
+  {
+    "sentence_id": 48,
+    "text": "Is that how you think of it?",
+    "start": 294.56,
+    "end": 294.56
+  },
+  {
+    "sentence_id": 49,
+    "text": "Still.",
+    "start": 294.56,
+    "end": 304.08
+  },
+  {
+    "sentence_id": 50,
+    "text": "Well, it's awful to say this, but we could have a respiratory virus whose case fatality rate was even higher.",
+    "start": 304.08,
+    "end": 310.32
+  },
+  {
+    "sentence_id": 51,
+    "text": "If this was something like smallpox, that kills 30% of people.",
+    "start": 310.32,
+    "end": 310.32
+  },
+  {
+    "sentence_id": 52,
+    "text": "So this is horrific.",
+    "start": 310.32,
+    "end": 321.76
+  },
+  {
+    "sentence_id": 53,
+    "text": "But in fact, most people, even who get the COVID disease, are able to survive.",
+    "start": 321.76,
+    "end": 321.76
+  },
+  {
+    "sentence_id": 54,
+    "text": "So in that, it's quite infectious, way more infectious than murs or SARS were.",
+    "start": 321.76,
+    "end": 330.4
+  },
+  {
+    "sentence_id": 55,
+    "text": "It's not as fatal as they were.",
+    "start": 330.4,
+    "end": 339.92
+  },
+  {
+    "sentence_id": 56,
+    "text": "And yet, the disruption we're seeing in order to knock it down is, in a really completely unprecedented.",
+    "start": 339.92,
+    "end": 349.6
+  },
+  {
+    "sentence_id": 57,
+    "text": "So this is a, you know, it's going global.",
+    "start": 349.6,
+    "end": 349.6
+  },
+  {
+    "sentence_id": 58,
+    "text": "That was, it's respiratory.",
+    "start": 349.6,
+    "end": 349.6
+  },
+  {
+    "sentence_id": 59,
+    "text": "That was the great fear.",
+    "start": 349.6,
+    "end": 357.2
+  },
+  {
+    "sentence_id": 60,
+    "text": "How many people end up dying?",
+    "start": 357.2,
+    "end": 357.2
+  },
+  {
+    "sentence_id": 61,
+    "text": "Hopefully, you know, if we do the right things, it won't be a gigantic number.",
+    "start": 357.2,
+    "end": 366.64
+  },
+  {
+    "sentence_id": 62,
+    "text": "So it's, you know, we should end up not having a 1918 flu situation.",
+    "start": 366.64,
+    "end": 366.64
+  },
+  {
+    "sentence_id": 63,
+    "text": "We should be able to do a lot better than that.",
+    "start": 366.64,
+    "end": 373.6
+  },
+  {
+    "sentence_id": 64,
+    "text": "And that's because of actions that we would take.",
+    "start": 373.6,
+    "end": 373.6
+  },
+  {
+    "sentence_id": 65,
+    "text": "I mean, left without the right actions, the prospects are pretty, pretty deadly.",
+    "start": 373.6,
+    "end": 380.32
+  },
+  {
+    "sentence_id": 66,
+    "text": "And if we knew what we knew in 1919, this thing could take out many tens of millions of people around the world.",
+    "start": 380.32,
+    "end": 386.0
+  },
+  {
+    "sentence_id": 67,
+    "text": "Because, like you said, it's the key thing here that it's got this sort of strange combination of being certainly more dangerous than flu.",
+    "start": 386.0,
+    "end": 398.4
+  },
+  {
+    "sentence_id": 68,
+    "text": "Not as dangerous as something like Ebola or SARS, but more dangerous than flu by a factor.",
+    "start": 398.4,
+    "end": 404.88
+  },
+  {
+    "sentence_id": 69,
+    "text": "But, but, but infectious.",
+    "start": 404.88,
+    "end": 404.88
+  },
+  {
+    "sentence_id": 70,
+    "text": "And, and also infectious before symptoms have started, is that part of why it's, it's been really hard to respond to?",
+    "start": 404.88,
+    "end": 420.72
+  },
+  {
+    "sentence_id": 71,
+    "text": "Right.",
+    "start": 420.72,
+    "end": 420.72
+  },
+  {
+    "sentence_id": 72,
+    "text": "So Ebola, you're actually flat on your back before you're very infectious.",
+    "start": 420.72,
+    "end": 420.72
+  },
+  {
+    "sentence_id": 73,
+    "text": "So you're not at church or in a bus or at a store.",
+    "start": 420.72,
+    "end": 431.76
+  },
+  {
+    "sentence_id": 74,
+    "text": "With most respiratory viruses like the flu and COVID, at first, you only feel a little bit of a fever and a little bit sick.",
+    "start": 431.76,
+    "end": 438.96
+  },
+  {
+    "sentence_id": 75,
+    "text": "And so there's the possibility you're going about your normal activities and infecting other people.",
+    "start": 438.96,
+    "end": 447.44
+  },
+  {
+    "sentence_id": 76,
+    "text": "And so, you know, human transness, small respiratory viruses that in the early stage aren't stopping you from doing things.",
+    "start": 447.44,
+    "end": 463.6
+  },
+  {
+    "sentence_id": 77,
+    "text": "That's kind of a worst case.",
+    "start": 463.6,
+    "end": 463.6
+  },
+  {
+    "sentence_id": 78,
+    "text": "And that's where, you know, I did a flu simulation in the 2015 talk and showed how quickly it spread.",
+    "start": 463.6,
+    "end": 471.84
+  },
+  {
+    "sentence_id": 79,
+    "text": "You know, versus 1918, people move around a lot more now than they used to.",
+    "start": 471.84,
+    "end": 477.36
+  },
+  {
+    "sentence_id": 80,
+    "text": "And so that works against us.",
+    "start": 477.36,
+    "end": 477.36
+  },
+  {
+    "sentence_id": 81,
+    "text": "Now, the medical system that steps up to treat people is also far, far better.",
+    "start": 477.36,
+    "end": 484.48
+  },
+  {
+    "sentence_id": 82,
+    "text": "But it was, when was it clear to you that, unless we acted, this, this could be a really deadly pandemic?",
+    "start": 484.48,
+    "end": 493.68
+  },
+  {
+    "sentence_id": 83,
+    "text": "Well, in January, it was discussed that there was human human transmission taking place.",
+    "start": 493.68,
+    "end": 506.48
+  },
+  {
+    "sentence_id": 84,
+    "text": "And so, you know, the alarm bells were ringing that this fits the very scary pattern that it will be very difficult to contain.",
+    "start": 506.48,
+    "end": 517.12
+  },
+  {
+    "sentence_id": 85,
+    "text": "And in January 23, China did their equivalent of the shutdown, did it in a fairly extreme form.",
+    "start": 517.12,
+    "end": 524.96
+  },
+  {
+    "sentence_id": 86,
+    "text": "The very good news is that they were able to reduce the infection rates dramatically because of those actions.",
+    "start": 524.96,
+    "end": 534.48
+  },
+  {
+    "sentence_id": 87,
+    "text": "But it's January where everybody should have been on notice.",
+    "start": 534.48,
+    "end": 541.68
+  },
+  {
+    "sentence_id": 88,
+    "text": "Let's get our act together with testing.",
+    "start": 541.68,
+    "end": 541.68
+  },
+  {
+    "sentence_id": 89,
+    "text": "Let's get going on.",
+    "start": 541.68,
+    "end": 549.12
+  },
+  {
+    "sentence_id": 90,
+    "text": "There are putics and vaccines.",
+    "start": 549.12,
+    "end": 549.12
+  },
+  {
+    "sentence_id": 91,
+    "text": "We've got to get organized because we have this novel respiratory virus who's infectiousness and fatality put it in that super scary range.",
+    "start": 549.12,
+    "end": 562.4
+  },
+  {
+    "sentence_id": 92,
+    "text": "And so, what, what did happen?",
+    "start": 562.4,
+    "end": 562.4
+  },
+  {
+    "sentence_id": 93,
+    "text": "Because it's such a mystery to me about the, the, the sort of, the lost month of, of preparations.",
+    "start": 562.4,
+    "end": 567.76
+  },
+  {
+    "sentence_id": 94,
+    "text": "Certainly, I mean, in many countries, it's certainly in the US where, where we are.",
+    "start": 567.76,
+    "end": 574.64
+  },
+  {
+    "sentence_id": 95,
+    "text": "Were you on the phone to people during early February, late January, early February saying, you know, guys, you know, what's going on?",
+    "start": 574.64,
+    "end": 580.96
+  },
+  {
+    "sentence_id": 96,
+    "text": "This is a really big deal.",
+    "start": 580.96,
+    "end": 580.96
+  },
+  {
+    "sentence_id": 97,
+    "text": "What are we doing?",
+    "start": 580.96,
+    "end": 586.56
+  },
+  {
+    "sentence_id": 98,
+    "text": "What, what was happening behind the scenes during that period?",
+    "start": 586.56,
+    "end": 586.56
+  },
+  {
+    "sentence_id": 99,
+    "text": "Well, you'd like to have government money show up for the key activities.",
+    "start": 586.56,
+    "end": 594.24
+  },
+  {
+    "sentence_id": 100,
+    "text": "We put out a hundred million.",
+    "start": 594.24,
+    "end": 594.24
+  },
+  {
+    "sentence_id": 101,
+    "text": "We created the therapeutics accelerator.",
+    "start": 594.24,
+    "end": 601.36
+  },
+  {
+    "sentence_id": 102,
+    "text": "There's the period between when we realized it was transmitting and now where we should have done more.",
+    "start": 601.36,
+    "end": 607.12
+  },
+  {
+    "sentence_id": 103,
+    "text": "I think the most important thing to discuss today is that in the area of testing, we're still not creating that capacity and applying it to the people most in need.",
+    "start": 607.12,
+    "end": 624.8
+  },
+  {
+    "sentence_id": 104,
+    "text": "And so we have health workers who are symptomatic who can't get a test.",
+    "start": 624.8,
+    "end": 624.8
+  },
+  {
+    "sentence_id": 105,
+    "text": "And so they don't know should they go in and not go in.",
+    "start": 624.8,
+    "end": 630.0
+  },
+  {
+    "sentence_id": 106,
+    "text": "And yet we have lots of tests being given to people aren't symptomatic.",
+    "start": 630.0,
+    "end": 637.52
+  },
+  {
+    "sentence_id": 107,
+    "text": "And so the testing thing to me, it, it's got to be organized.",
+    "start": 637.52,
+    "end": 637.52
+  },
+  {
+    "sentence_id": 108,
+    "text": "It's got to be prioritized.",
+    "start": 637.52,
+    "end": 645.76
+  },
+  {
+    "sentence_id": 109,
+    "text": "That is super, super urgent.",
+    "start": 645.76,
+    "end": 645.76
+  },
+  {
+    "sentence_id": 110,
+    "text": "The second thing is the isolation that, you know, various parts just focusing on the US.",
+    "start": 645.76,
+    "end": 652.56
+  },
+  {
+    "sentence_id": 111,
+    "text": "Some parts are doing that in a fairly strong way and other parts not yet.",
+    "start": 652.56,
+    "end": 659.2
+  },
+  {
+    "sentence_id": 112,
+    "text": "And you know, it's very hard to do.",
+    "start": 659.2,
+    "end": 659.2
+  },
+  {
+    "sentence_id": 113,
+    "text": "It's tough on people.",
+    "start": 659.2,
+    "end": 659.2
+  },
+  {
+    "sentence_id": 114,
+    "text": "It's disastrous for the economy.",
+    "start": 659.2,
+    "end": 669.92
+  },
+  {
+    "sentence_id": 115,
+    "text": "But they sooner you do it in a, in a top way, they sooner you can undo it and go back to normal.",
+    "start": 669.92,
+    "end": 676.48
+  },
+  {
+    "sentence_id": 116,
+    "text": "So we'll come to the isolation part in a minute.",
+    "start": 676.48,
+    "end": 676.48
+  },
+  {
+    "sentence_id": 117,
+    "text": "But it's just sticking with the testing thing.",
+    "start": 676.48,
+    "end": 683.68
+  },
+  {
+    "sentence_id": 118,
+    "text": "I'm just so confused as to why with more than a month's notice.",
+    "start": 683.68,
+    "end": 683.68
+  },
+  {
+    "sentence_id": 119,
+    "text": "I mean, there are so many smart epidemiologists in the, in the US, for example, you plug numbers about infectious nurse and fatality into any simulation and you see that if you don't do anything, millions of people will die.",
+    "start": 683.68,
+    "end": 694.8
+  },
+  {
+    "sentence_id": 120,
+    "text": "And there's a month.",
+    "start": 694.8,
+    "end": 701.92
+  },
+  {
+    "sentence_id": 121,
+    "text": "So what's your explanation for what, what do you think happened here as to why just no, there was almost no test a month later, there was no viable test in the US.",
+    "start": 701.92,
+    "end": 707.76
+  },
+  {
+    "sentence_id": 122,
+    "text": "Was this just government complexity too many chefs in the kitchen?",
+    "start": 707.76,
+    "end": 714.16
+  },
+  {
+    "sentence_id": 123,
+    "text": "What an earth happened here?",
+    "start": 714.16,
+    "end": 723.12
+  },
+  {
+    "sentence_id": 124,
+    "text": "Well, we certainly didn't take advantage of the month of February.",
+    "start": 723.12,
+    "end": 723.12
+  },
+  {
+    "sentence_id": 125,
+    "text": "The good news is that the actual process, the PCR machines, we have a lot in the United States.",
+    "start": 723.12,
+    "end": 732.96
+  },
+  {
+    "sentence_id": 126,
+    "text": "And so there's models like South Korea who took advantage of February, built up the testing capacity and they were able to contact race and their infections have gone down, even without the type of shutdown that because we're late, we're having to do.",
+    "start": 732.96,
+    "end": 756.08
+  },
+  {
+    "sentence_id": 127,
+    "text": "One thing that is good news just this week is that people had thought to do this test that you had to have a nurse or doctor shove a swab way up all the way to the back of your throat, which hurts a lot, but also you're going to cough and potentially spread the disease to that healthcare worker.",
+    "start": 756.08,
+    "end": 775.76
+  },
+  {
+    "sentence_id": 128,
+    "text": "So they have to have protective equipment and change that.",
+    "start": 775.76,
+    "end": 775.76
+  },
+  {
+    "sentence_id": 129,
+    "text": "What we sent data to the FDA this weekend showing that just a individual by themselves swabbing up to the tip of their nose, they're able to accuracy of that test is essentially the same as having a healthcare worker do it.",
+    "start": 775.76,
+    "end": 800.96
+  },
+  {
+    "sentence_id": 130,
+    "text": "That helps a lot.",
+    "start": 800.96,
+    "end": 800.96
+  },
+  {
+    "sentence_id": 131,
+    "text": "We still have to do other things, but that means that you don't have to change protective equipment.",
+    "start": 800.96,
+    "end": 807.04
+  },
+  {
+    "sentence_id": 132,
+    "text": "You just hand the patient that swab, they do it, put it in the test tube and if the capacity's right within 24 hours, you should get that result back.",
+    "start": 807.04,
+    "end": 814.0
+  },
+  {
+    "sentence_id": 133,
+    "text": "So how do you see that playing out?",
+    "start": 814.0,
+    "end": 822.48
+  },
+  {
+    "sentence_id": 134,
+    "text": "Are there other people going to massively scale those tests and how will ordinary citizens be able to get hold of them?",
+    "start": 822.48,
+    "end": 827.68
+  },
+  {
+    "sentence_id": 135,
+    "text": "Does it still have to be actually kind of prescribed by a doctor at some point or at some point will you be able to just order them off Amazon or something?",
+    "start": 827.68,
+    "end": 838.16
+  },
+  {
+    "sentence_id": 136,
+    "text": "Well, it's pretty chaotic today because the government hasn't stepped in to make sure that the testing capacity is both increased and it's used for the right cases.",
+    "start": 838.16,
+    "end": 844.64
+  },
+  {
+    "sentence_id": 137,
+    "text": "There'll be a website and if the federal government doesn't do it a lot of local governments, I'll have to do it, that you go to, you give your situation, including your symptoms, you're told, based on your work and your symptoms, are you a priority?",
+    "start": 844.64,
+    "end": 862.48
+  },
+  {
+    "sentence_id": 138,
+    "text": "If so, you're told where there are kiosks you can go to and you'll do the self swab and just hand it over or eventually will send the kits to you at home and then you'll send it back and hear that result.",
+    "start": 862.48,
+    "end": 879.36
+  },
+  {
+    "sentence_id": 139,
+    "text": "Maybe six months from now, you'll actually be able to perform a strip where you perform the tests in the home, but for now, sending it back for the PCR processing, we can have massive capacity there.",
+    "start": 879.36,
+    "end": 891.68
+  },
+  {
+    "sentence_id": 140,
+    "text": "That's how you know the testing is everything because that's how you know whether you need to do more shutdown or you're starting to get to the point where you can relieve it.",
+    "start": 891.68,
+    "end": 906.96
+  },
+  {
+    "sentence_id": 141,
+    "text": "Some people are trying to argue now that almost the testing should be dialed back because the cat is out of the bag, testing is bringing people together and risking infection.",
+    "start": 906.96,
+    "end": 912.64
+  },
+  {
+    "sentence_id": 142,
+    "text": "Forget that, let's just focus on treatment and on isolation strategies.",
+    "start": 912.64,
+    "end": 919.12
+  },
+  {
+    "sentence_id": 143,
+    "text": "You disagree with that, testing is still absolutely essential and needs to be settled.",
+    "start": 919.12,
+    "end": 924.08
+  },
+  {
+    "sentence_id": 144,
+    "text": "Well, the two that go together are testing at very high volume and the isolation piece.",
+    "start": 924.08,
+    "end": 931.92
+  },
+  {
+    "sentence_id": 145,
+    "text": "If you're a medical worker, you want to stay and do your job.",
+    "start": 931.92,
+    "end": 940.4
+  },
+  {
+    "sentence_id": 146,
+    "text": "If you're making sure the electricity, water, food is still available, you want to do your job.",
+    "start": 940.4,
+    "end": 948.24
+  },
+  {
+    "sentence_id": 147,
+    "text": "And so testing is what indicates to you, do you need to go into isolation and make sure you're not the source of spread?",
+    "start": 948.24,
+    "end": 958.24
+  },
+  {
+    "sentence_id": 148,
+    "text": "And so, you know, testing is the key thing, South Korea did that in this massive way that everybody should learn from.",
+    "start": 958.24,
+    "end": 969.44
+  },
+  {
+    "sentence_id": 149,
+    "text": "And so that is paired with the isolation piece.",
+    "start": 969.44,
+    "end": 976.72
+  },
+  {
+    "sentence_id": 150,
+    "text": "Our goal here is to get to the point where a very small percentage of the populations infected, you know, China only 0.01 percent of the population was infected.",
+    "start": 976.72,
+    "end": 983.76
+  },
+  {
+    "sentence_id": 151,
+    "text": "If you let it, if you don't do these things, you're going to get to the majority of people infected and that huge overload of the medical system.",
+    "start": 983.76,
+    "end": 997.12
+  },
+  {
+    "sentence_id": 152,
+    "text": "Whitney has some questions from our online audience.",
+    "start": 997.12,
+    "end": 997.12
+  },
+  {
+    "sentence_id": 153,
+    "text": "Whitney.",
+    "start": 997.12,
+    "end": 1003.52
+  },
+  {
+    "sentence_id": 154,
+    "text": "Some of the questions that we're seeing are about how our tech giants and leaders can play a role in isolating this and containing this virus.",
+    "start": 1003.52,
+    "end": 1010.08
+  },
+  {
+    "sentence_id": 155,
+    "text": "You know, the tech companies are very involved in making sure that some work can go on.",
+    "start": 1010.08,
+    "end": 1016.4
+  },
+  {
+    "sentence_id": 156,
+    "text": "You know, people can stay in touch.",
+    "start": 1016.4,
+    "end": 1016.4
+  },
+  {
+    "sentence_id": 157,
+    "text": "You know, they can help with some of the disease modeling.",
+    "start": 1016.4,
+    "end": 1021.28
+  },
+  {
+    "sentence_id": 158,
+    "text": "They can help with the visibility of the numbers.",
+    "start": 1021.28,
+    "end": 1021.28
+  },
+  {
+    "sentence_id": 159,
+    "text": "It's actually very impressive.",
+    "start": 1021.28,
+    "end": 1025.44
+  },
+  {
+    "sentence_id": 160,
+    "text": "You know, you get up there and you can see, you know, those numbers, actually, they're sad numbers.",
+    "start": 1025.44,
+    "end": 1032.24
+  },
+  {
+    "sentence_id": 161,
+    "text": "But, you know, everybody's able to monitor this thing.",
+    "start": 1032.24,
+    "end": 1032.24
+  },
+  {
+    "sentence_id": 162,
+    "text": "Back in 1918, they didn't have this type of visibility and ability to share best practices.",
+    "start": 1032.24,
+    "end": 1041.6
+  },
+  {
+    "sentence_id": 163,
+    "text": "But for a lot of people, the isolation is the key thing.",
+    "start": 1041.6,
+    "end": 1048.64
+  },
+  {
+    "sentence_id": 164,
+    "text": "I mean, Bill, one of the riddles about this isolation strategy is how long it has to last, right?",
+    "start": 1048.64,
+    "end": 1059.76
+  },
+  {
+    "sentence_id": 165,
+    "text": "Like a lot of people are concerned that the price of victory by isolating everyone is that you crash the economy and that, you know, we have to be basically at home not doing our regular jobs for three, six months, maybe, maybe, or year.",
+    "start": 1059.76,
+    "end": 1076.24
+  },
+  {
+    "sentence_id": 166,
+    "text": "And so much so that there's now this big debate in the US and other countries about this may just be the wrong strategy that we can't crash the economy that badly.",
+    "start": 1076.24,
+    "end": 1081.84
+  },
+  {
+    "sentence_id": 167,
+    "text": "We should only isolate for another couple of weeks and then let people back.",
+    "start": 1081.84,
+    "end": 1086.64
+  },
+  {
+    "sentence_id": 168,
+    "text": "And if that means, you know, a lot of other people get sick and we eventually build up herd humidity, that may be the right way to go.",
+    "start": 1086.64,
+    "end": 1091.52
+  },
+  {
+    "sentence_id": 169,
+    "text": "What's your thought on this?",
+    "start": 1091.52,
+    "end": 1098.08
+  },
+  {
+    "sentence_id": 170,
+    "text": "What is the isolation strategy that eventually leads to us getting back to normal?",
+    "start": 1098.08,
+    "end": 1108.32
+  },
+  {
+    "sentence_id": 171,
+    "text": "And it's very tough to say to people, hey, keep going to restaurants, you know, go buy new houses, ignore that pile of bodies over in the corner.",
+    "start": 1108.32,
+    "end": 1114.16
+  },
+  {
+    "sentence_id": 172,
+    "text": "Just, you know, we want you to keep spending because there's some, maybe, a politician who thinks GDP growth is what really counts.",
+    "start": 1114.16,
+    "end": 1122.0
+  },
+  {
+    "sentence_id": 173,
+    "text": "It's very hard to tell people when there's an epidemic spreading that, you know, threatens particularly their parents or elderly people that they know that they should go about things knowing that their activity is spreading this disease.",
+    "start": 1122.0,
+    "end": 1142.56
+  },
+  {
+    "sentence_id": 174,
+    "text": "I don't know of any rich countries that have chose to use that approach.",
+    "start": 1142.56,
+    "end": 1149.6
+  },
+  {
+    "sentence_id": 175,
+    "text": "It is true if you did that approach over a period of several years and not people would be infected, you'd have what's called herd immunity.",
+    "start": 1149.6,
+    "end": 1154.08
+  },
+  {
+    "sentence_id": 176,
+    "text": "They herd immunity's meaningless until you, in fact, over half the population.",
+    "start": 1154.08,
+    "end": 1160.0
+  },
+  {
+    "sentence_id": 177,
+    "text": "And so you can take, you'll overload your medical systems, your case fatality rate instead of being 1%, will be like 3%, 4%.",
+    "start": 1160.0,
+    "end": 1170.32
+  },
+  {
+    "sentence_id": 178,
+    "text": "And so, you know, the idea, it's very irresponsible for somebody to suggest we can have the best of both worlds.",
+    "start": 1170.32,
+    "end": 1176.96
+  },
+  {
+    "sentence_id": 179,
+    "text": "What we need is the extreme shutdown so that in six to 10 weeks, if things go well, then you can start opening back up.",
+    "start": 1176.96,
+    "end": 1190.0
+  },
+  {
+    "sentence_id": 180,
+    "text": "So, so just putting the math together from what you just said, Bill, to get to herd immunity, you need more than half the people in the country to basically get the bug.",
+    "start": 1190.0,
+    "end": 1194.8
+  },
+  {
+    "sentence_id": 181,
+    "text": "So, in the case of the US, for example, there'll be 150 million people there about.",
+    "start": 1194.8,
+    "end": 1198.88
+  },
+  {
+    "sentence_id": 182,
+    "text": "You said that there could be, that the fatality rate in that scenario, you're talking about 4 to 5 million people in that, potential fatalities.",
+    "start": 1198.88,
+    "end": 1211.52
+  },
+  {
+    "sentence_id": 183,
+    "text": "I mean, it's like, like, that's just a horrifying scenario that no one should be contemplating.",
+    "start": 1211.52,
+    "end": 1217.76
+  },
+  {
+    "sentence_id": 184,
+    "text": "Even 1% of their population getting sick, they will treat whoever goes for this ignore the disease strategy.",
+    "start": 1217.76,
+    "end": 1225.28
+  },
+  {
+    "sentence_id": 185,
+    "text": "They will treat them as a prior state.",
+    "start": 1225.28,
+    "end": 1225.28
+  },
+  {
+    "sentence_id": 186,
+    "text": "So, none of their people will go in and none of your people will go into that.",
+    "start": 1225.28,
+    "end": 1232.08
+  },
+  {
+    "sentence_id": 187,
+    "text": "And so, briefly, a few countries in Europe that hadn't really looked at this hard, considered, okay, should be, we'd be the ones who kind of go about business as usual.",
+    "start": 1232.08,
+    "end": 1243.12
+  },
+  {
+    "sentence_id": 188,
+    "text": "It is tempting because if you got there early, South Korea did not have to do the extreme shutdown because they did such a good job on testing.",
+    "start": 1243.12,
+    "end": 1249.2
+  },
+  {
+    "sentence_id": 189,
+    "text": "And, you know, that's why it's so intimidating.",
+    "start": 1249.2,
+    "end": 1253.76
+  },
+  {
+    "sentence_id": 190,
+    "text": "That's so intimidating.",
+    "start": 1253.76,
+    "end": 1253.76
+  },
+  {
+    "sentence_id": 191,
+    "text": "That's so intimidating.",
+    "start": 1253.76,
+    "end": 1253.76
+  },
+  {
+    "sentence_id": 192,
+    "text": "That the government's not allocating the testing to where it's needed.",
+    "start": 1253.76,
+    "end": 1262.8
+  },
+  {
+    "sentence_id": 193,
+    "text": "And maybe that'll have to happen at the state level, because it's not having at the federal level.",
+    "start": 1262.8,
+    "end": 1268.64
+  },
+  {
+    "sentence_id": 194,
+    "text": "But there is no middle course on this thing.",
+    "start": 1268.64,
+    "end": 1276.0
+  },
+  {
+    "sentence_id": 195,
+    "text": "It is sad that the shutdown will be harder for poor countries than it is for richer countries.",
+    "start": 1276.0,
+    "end": 1281.28
+  },
+  {
+    "sentence_id": 196,
+    "text": "So, let's come into that in a minute.",
+    "start": 1281.28,
+    "end": 1281.28
+  },
+  {
+    "sentence_id": 197,
+    "text": "But just, the one exception I've heard the case made for is Japan.",
+    "start": 1281.28,
+    "end": 1288.72
+  },
+  {
+    "sentence_id": 198,
+    "text": "Japan has not contained it quite in the same way that South Korea did.",
+    "start": 1288.72,
+    "end": 1288.72
+  },
+  {
+    "sentence_id": 199,
+    "text": "But has allowed people to work.",
+    "start": 1288.72,
+    "end": 1294.24
+  },
+  {
+    "sentence_id": 200,
+    "text": "It's tried to make extreme measures for protecting the most elderly population.",
+    "start": 1294.24,
+    "end": 1299.92
+  },
+  {
+    "sentence_id": 201,
+    "text": "But they've tried to sort of, they've tried to find a middle scenario, haven't they?",
+    "start": 1299.92,
+    "end": 1311.6
+  },
+  {
+    "sentence_id": 202,
+    "text": "Well, if you act when you have, you know, hundreds of cases, you may be able to contain it by doing great testing and great contact tracing and restricting foreigners coming in without as much damage to economy.",
+    "start": 1311.6,
+    "end": 1327.28
+  },
+  {
+    "sentence_id": 203,
+    "text": "The US has passed this opportunity to control without shutdown so that the worst case of what was happening in Wuhan in the beginning or in northern Italy in the last few weeks, that we avoid that.",
+    "start": 1327.28,
+    "end": 1345.84
+  },
+  {
+    "sentence_id": 204,
+    "text": "But we did not have fast enough to have an ability to avoid the shutdown.",
+    "start": 1345.84,
+    "end": 1351.12
+  },
+  {
+    "sentence_id": 205,
+    "text": "But then what I don't understand, in the case of the US, for example, is that if, even if we're successful in bending the curve and reducing the number of new cases from a period of extreme shutdown, as it were, no immunity has been built up.",
+    "start": 1351.12,
+    "end": 1365.04
+  },
+  {
+    "sentence_id": 206,
+    "text": "Let's say that there's still no vaccine.",
+    "start": 1365.04,
+    "end": 1370.32
+  },
+  {
+    "sentence_id": 207,
+    "text": "Surely when you lift restrictions and people start going back to the whole thing just blows up again.",
+    "start": 1370.32,
+    "end": 1382.56
+  },
+  {
+    "sentence_id": 208,
+    "text": "The experience that we're seeing in China and in South Korea is that there are not these people who are asymptomatic that are causing lots of infections.",
+    "start": 1382.56,
+    "end": 1388.24
+  },
+  {
+    "sentence_id": 209,
+    "text": "And that's a parameter that, as you build the model, you have to put in.",
+    "start": 1388.24,
+    "end": 1394.72
+  },
+  {
+    "sentence_id": 210,
+    "text": "If there's an imperial model that people talk about a lot, which shows that reopening is very hard to do.",
+    "start": 1394.72,
+    "end": 1402.8
+  },
+  {
+    "sentence_id": 211,
+    "text": "But the results of that model are not matching what we see in China.",
+    "start": 1402.8,
+    "end": 1410.0
+  },
+  {
+    "sentence_id": 212,
+    "text": "And so very likely there aren't as many of these infecting asymptomatics.",
+    "start": 1410.0,
+    "end": 1416.0
+  },
+  {
+    "sentence_id": 213,
+    "text": "And that's why you have to be pragmatic.",
+    "start": 1416.0,
+    "end": 1416.0
+  },
+  {
+    "sentence_id": 214,
+    "text": "There's a lot we don't know.",
+    "start": 1416.0,
+    "end": 1416.0
+  },
+  {
+    "sentence_id": 215,
+    "text": "For example, seasonality may help us in the northern hemisphere.",
+    "start": 1416.0,
+    "end": 1422.88
+  },
+  {
+    "sentence_id": 216,
+    "text": "The force of infection will respiratory viruses to some degree they all are seasonal.",
+    "start": 1422.88,
+    "end": 1433.28
+  },
+  {
+    "sentence_id": 217,
+    "text": "We don't know how seasonal this one is.",
+    "start": 1433.28,
+    "end": 1433.28
+  },
+  {
+    "sentence_id": 218,
+    "text": "But there's a reasonable chance that the force of infection will be going down.",
+    "start": 1433.28,
+    "end": 1440.08
+  },
+  {
+    "sentence_id": 219,
+    "text": "And it's your testing that always is telling you, oh my gosh, do I have to shut down more?",
+    "start": 1440.08,
+    "end": 1445.92
+  },
+  {
+    "sentence_id": 220,
+    "text": "Or can I start to open up?",
+    "start": 1445.92,
+    "end": 1445.92
+  },
+  {
+    "sentence_id": 221,
+    "text": "So particularly, right as you open up, that testing and contact tracing is saying to you.",
+    "start": 1445.92,
+    "end": 1454.56
+  },
+  {
+    "sentence_id": 222,
+    "text": "And you can say I'm on the more optimistic side that it will be possible to do what China is doing where they are starting to go back to normal.",
+    "start": 1454.56,
+    "end": 1467.44
+  },
+  {
+    "sentence_id": 223,
+    "text": "And help me understand what happened there.",
+    "start": 1467.44,
+    "end": 1467.44
+  },
+  {
+    "sentence_id": 224,
+    "text": "It seems kind of miraculous to me because this virus was exploding, yes, in Wuhan.",
+    "start": 1467.44,
+    "end": 1475.12
+  },
+  {
+    "sentence_id": 225,
+    "text": "But people moved from that.",
+    "start": 1475.12,
+    "end": 1475.12
+  },
+  {
+    "sentence_id": 226,
+    "text": "Many other parts of China.",
+    "start": 1475.12,
+    "end": 1482.48
+  },
+  {
+    "sentence_id": 227,
+    "text": "How is it possible that the combination of the shutdown in Wuhan and measures elsewhere seem to have got to the point where there are literally no new cases happening?",
+    "start": 1482.48,
+    "end": 1495.68
+  },
+  {
+    "sentence_id": 228,
+    "text": "I mean, to me that implies that literally the virus is not circulating at all between humans in China.",
+    "start": 1495.68,
+    "end": 1500.64
+  },
+  {
+    "sentence_id": 229,
+    "text": "How on, you know, there's a few tourists coming in who they deal with.",
+    "start": 1500.64,
+    "end": 1500.64
+  },
+  {
+    "sentence_id": 230,
+    "text": "But I mean, how on earth, like is that literally your interpretation of what happened that it's no longer circulating in China?",
+    "start": 1500.64,
+    "end": 1510.4
+  },
+  {
+    "sentence_id": 231,
+    "text": "What you should do is take a spreadsheet and take a number like four, one person affects four people and say the cycle, you know, it's every 10 days, go through, you know, eight of those cycles and you're getting a big number, you know, start with 10,000.",
+    "start": 1510.4,
+    "end": 1525.68
+  },
+  {
+    "sentence_id": 232,
+    "text": "And then you know, that increase, if you take the number point four, instead, that is the average case infects point four people, which then look at what happens to that number as you go out, it drops to zero.",
+    "start": 1525.68,
+    "end": 1547.68
+  },
+  {
+    "sentence_id": 233,
+    "text": "And so things that are exponential are very, very dramatic when they're above one, they are growing rapidly when they're below one, they're shrinking rapidly.",
+    "start": 1547.68,
+    "end": 1555.6
+  },
+  {
+    "sentence_id": 234,
+    "text": "And so the isolation in China drove that reproductive number to well below zero.",
+    "start": 1555.6,
+    "end": 1563.84
+  },
+  {
+    "sentence_id": 235,
+    "text": "And so local infection rates, below one, sorry.",
+    "start": 1563.84,
+    "end": 1572.48
+  },
+  {
+    "sentence_id": 236,
+    "text": "And it's a, you know, that's that quarantine, that's, you know, quarantine comes from 40 days, which is what they thought would help for black, black plague.",
+    "start": 1572.48,
+    "end": 1584.24
+  },
+  {
+    "sentence_id": 237,
+    "text": "That is our primary technique.",
+    "start": 1584.24,
+    "end": 1584.24
+  },
+  {
+    "sentence_id": 238,
+    "text": "Thank God we have testing.",
+    "start": 1584.24,
+    "end": 1584.24
+  },
+  {
+    "sentence_id": 239,
+    "text": "If we use it properly, we are, you know, doing therapeutics, which will help with the death rate, but in terms of the keeping infections below one percent of the population, it's really all depends just on the two things, isolation and testing.",
+    "start": 1584.24,
+    "end": 1602.48
+  },
+  {
+    "sentence_id": 240,
+    "text": "So to question from my Twitter feed this morning for you, Bill, like if you were president for a month in the US, what would be the top two or three things you would do?",
+    "start": 1602.48,
+    "end": 1618.64
+  },
+  {
+    "sentence_id": 241,
+    "text": "Well, the clear message that we have no choice to maintain this isolation.",
+    "start": 1618.64,
+    "end": 1618.64
+  },
+  {
+    "sentence_id": 242,
+    "text": "And that's going to keep going for a period of time, you know, probably in the Chinese case, it was like six weeks.",
+    "start": 1618.64,
+    "end": 1631.92
+  },
+  {
+    "sentence_id": 243,
+    "text": "So we have to prepare ourselves for that and do it very well.",
+    "start": 1631.92,
+    "end": 1631.92
+  },
+  {
+    "sentence_id": 244,
+    "text": "And then use the testing and every week talk about what's going on with that.",
+    "start": 1631.92,
+    "end": 1639.04
+  },
+  {
+    "sentence_id": 245,
+    "text": "If you're doing isolation well, within about 20 days, you'll see those numbers really change, you know, instead of this, you'll see this.",
+    "start": 1639.04,
+    "end": 1652.96
+  },
+  {
+    "sentence_id": 246,
+    "text": "And that is a sign that you're on your way.",
+    "start": 1652.96,
+    "end": 1652.96
+  },
+  {
+    "sentence_id": 247,
+    "text": "Now you have to stay to get those more generations that are, you know, point four infections per previous infection.",
+    "start": 1652.96,
+    "end": 1664.96
+  },
+  {
+    "sentence_id": 248,
+    "text": "You have to maintain it for a number of weeks there.",
+    "start": 1664.96,
+    "end": 1664.96
+  },
+  {
+    "sentence_id": 249,
+    "text": "And, you know, so this is not going to be easy.",
+    "start": 1664.96,
+    "end": 1672.0
+  },
+  {
+    "sentence_id": 250,
+    "text": "We need a clear message about that.",
+    "start": 1672.0,
+    "end": 1672.0
+  },
+  {
+    "sentence_id": 251,
+    "text": "It is really tragic that the economic effects of this are very dramatic.",
+    "start": 1672.0,
+    "end": 1679.84
+  },
+  {
+    "sentence_id": 252,
+    "text": "I mean, nothing like this has ever happened to the economy in our lifetimes.",
+    "start": 1679.84,
+    "end": 1686.48
+  },
+  {
+    "sentence_id": 253,
+    "text": "But money, you know, bringing the economy back and doing money, that's more of a reversible thing than bringing people back to life.",
+    "start": 1686.48,
+    "end": 1694.32
+  },
+  {
+    "sentence_id": 254,
+    "text": "And so we're going to take the pain in the economic dimension, huge pain, in order to minimize the pain in the disease and death dimension.",
+    "start": 1694.32,
+    "end": 1701.76
+  },
+  {
+    "sentence_id": 255,
+    "text": "Whitney.",
+    "start": 1701.76,
+    "end": 1707.12
+  },
+  {
+    "sentence_id": 256,
+    "text": "We have a lot of other questions coming in.",
+    "start": 1707.12,
+    "end": 1707.12
+  },
+  {
+    "sentence_id": 257,
+    "text": "One of the ones that we've been seeing, is this a question about what tools are available for countries that maybe don't have the luxury of being able to social distance, don't have great health systems in place.",
+    "start": 1707.12,
+    "end": 1720.96
+  },
+  {
+    "sentence_id": 258,
+    "text": "How should they be handling this virus?",
+    "start": 1720.96,
+    "end": 1720.96
+  },
+  {
+    "sentence_id": 259,
+    "text": "Yeah, I would say that if the rich countries really do their job well, by the summer, they'll be like China is, are some of the other countries that responded early.",
+    "start": 1720.96,
+    "end": 1736.24
+  },
+  {
+    "sentence_id": 260,
+    "text": "But in the developing countries, particularly in the southern hemisphere, the seasonality is large.",
+    "start": 1736.24,
+    "end": 1748.08
+  },
+  {
+    "sentence_id": 261,
+    "text": "As you say, the ability to isolate, you know, when you go out to get your food every day, you know, you have to earn your wage when you live in a Islam where you're very, nearby each other.",
+    "start": 1748.08,
+    "end": 1758.32
+  },
+  {
+    "sentence_id": 262,
+    "text": "It's very hard to do as you move down the income ladder, then it is for a country like the United States.",
+    "start": 1758.32,
+    "end": 1766.8
+  },
+  {
+    "sentence_id": 263,
+    "text": "And so we should all, you know, accelerate the vaccine, which eventually will come and, you know, people are being responsible to say that, you know, that's going to take 18 months.",
+    "start": 1766.8,
+    "end": 1778.64
+  },
+  {
+    "sentence_id": 264,
+    "text": "And there's a lot of those being pursued.",
+    "start": 1778.64,
+    "end": 1784.96
+  },
+  {
+    "sentence_id": 265,
+    "text": "You know, I'm talking a lot with Seth Berkeley, who you're going to have later this week, who can talk a lot about the vaccine front, because he's definitely at the center of that, at being the head of Gavi.",
+    "start": 1784.96,
+    "end": 1799.04
+  },
+  {
+    "sentence_id": 266,
+    "text": "We do need to get really cheap testing out to these countries.",
+    "start": 1799.04,
+    "end": 1804.72
+  },
+  {
+    "sentence_id": 267,
+    "text": "And we need to get therapeutics so you don't need to put 5% of people on respirators, because even if they had the equipment, they don't have the personnel.",
+    "start": 1804.72,
+    "end": 1809.28
+  },
+  {
+    "sentence_id": 268,
+    "text": "They just don't have the beds, the capacity.",
+    "start": 1809.28,
+    "end": 1817.36
+  },
+  {
+    "sentence_id": 269,
+    "text": "And so the only good news is that the rich countries have this.",
+    "start": 1817.36,
+    "end": 1817.36
+  },
+  {
+    "sentence_id": 270,
+    "text": "And so they will be learning about testing therapeutics and funding the vaccines for the entire world to try and minimize the damage in developing countries.",
+    "start": 1817.36,
+    "end": 1832.88
+  },
+  {
+    "sentence_id": 271,
+    "text": "Great.",
+    "start": 1832.88,
+    "end": 1832.88
+  },
+  {
+    "sentence_id": 272,
+    "text": "I'll be back later with more questions.",
+    "start": 1832.88,
+    "end": 1840.48
+  },
+  {
+    "sentence_id": 273,
+    "text": "Bill, you mentioned therapeutics that what is looking promising?",
+    "start": 1840.48,
+    "end": 1840.48
+  },
+  {
+    "sentence_id": 274,
+    "text": "Is anything looking promising?",
+    "start": 1840.48,
+    "end": 1848.32
+  },
+  {
+    "sentence_id": 275,
+    "text": "Yeah, so there's quite a range of things going on.",
+    "start": 1848.32,
+    "end": 1848.32
+  },
+  {
+    "sentence_id": 276,
+    "text": "There's a few that get mentioned a lot, REM-Severdeer, hydrochloric corn is a thromycin.",
+    "start": 1848.32,
+    "end": 1855.92
+  },
+  {
+    "sentence_id": 277,
+    "text": "And the data is still a bit confusing, but there's some positive data on those.",
+    "start": 1855.92,
+    "end": 1864.16
+  },
+  {
+    "sentence_id": 278,
+    "text": "REM-Severdeer is a 5-day IV infusion and actually kind of hard to manufacture, so people are looking at how that can be improved.",
+    "start": 1864.16,
+    "end": 1871.28
+  },
+  {
+    "sentence_id": 279,
+    "text": "The hydrochloric corn looks like it works somewhat if you get an early.",
+    "start": 1871.28,
+    "end": 1877.84
+  },
+  {
+    "sentence_id": 280,
+    "text": "There are huge lists of compounds, including antibodies antiviral drugs.",
+    "start": 1877.84,
+    "end": 1886.24
+  },
+  {
+    "sentence_id": 281,
+    "text": "And so the Gates Foundation and Welcome Trust, with support from MasterCard and others, created this therapeutics accelerator to really triage out.",
+    "start": 1886.24,
+    "end": 1893.36
+  },
+  {
+    "sentence_id": 282,
+    "text": "You have hundreds of people showing up and saying, trying this, try that.",
+    "start": 1893.36,
+    "end": 1898.88
+  },
+  {
+    "sentence_id": 283,
+    "text": "So we look at lab assays, animal models, and so we understand which things should be prioritized for these very quick human trials that need to be done all over the world.",
+    "start": 1898.88,
+    "end": 1911.76
+  },
+  {
+    "sentence_id": 284,
+    "text": "And so the coordination on that is very complex globally, but I think out of the top 20 or so candidates, probably three or four of them will work out, at different stages of the disease to reduce the respiratory distress.",
+    "start": 1911.76,
+    "end": 1932.56
+  },
+  {
+    "sentence_id": 285,
+    "text": "I had to mention that one possibility might be treatments from the serum, the blood serum, of people who had had the disease and recovered.",
+    "start": 1932.56,
+    "end": 1938.32
+  },
+  {
+    "sentence_id": 286,
+    "text": "So I guess they're carrying antibodies.",
+    "start": 1938.32,
+    "end": 1938.32
+  },
+  {
+    "sentence_id": 287,
+    "text": "Talk a bit about that, about how that could work and what it would take to accelerate that.",
+    "start": 1938.32,
+    "end": 1950.72
+  },
+  {
+    "sentence_id": 288,
+    "text": "Yeah, this has always been discussed as how could you pull that off?",
+    "start": 1950.72,
+    "end": 1950.72
+  },
+  {
+    "sentence_id": 289,
+    "text": "So people who are recovered, it appears, have really effective antibodies in their blood.",
+    "start": 1950.72,
+    "end": 1958.48
+  },
+  {
+    "sentence_id": 290,
+    "text": "So you could go, transfuse them and only take out the white cells, the immune cells.",
+    "start": 1958.48,
+    "end": 1970.64
+  },
+  {
+    "sentence_id": 291,
+    "text": "And then the question is, okay, how many patients worth of material could you get?",
+    "start": 1970.64,
+    "end": 1976.0
+  },
+  {
+    "sentence_id": 292,
+    "text": "You know, if you have that recovered person come in say once a week, do you get enough for two people or five people?",
+    "start": 1976.0,
+    "end": 1983.6
+  },
+  {
+    "sentence_id": 293,
+    "text": "Then logistically, you have to take that and get it to where that need is.",
+    "start": 1983.6,
+    "end": 1989.52
+  },
+  {
+    "sentence_id": 294,
+    "text": "And so it's fairly complicated.",
+    "start": 1989.52,
+    "end": 1989.52
+  },
+  {
+    "sentence_id": 295,
+    "text": "You know, compared to a drug that we can make in high volume, you know, the cost of taking it out and putting it back in, probably doesn't scale as well.",
+    "start": 1989.52,
+    "end": 2003.12
+  },
+  {
+    "sentence_id": 296,
+    "text": "But there's what there is work being done on this.",
+    "start": 2003.12,
+    "end": 2003.12
+  },
+  {
+    "sentence_id": 297,
+    "text": "You know, we actually started with the bull.",
+    "start": 2003.12,
+    "end": 2013.28
+  },
+  {
+    "sentence_id": 298,
+    "text": "Unfortunately, it got done before it was needed.",
+    "start": 2013.28,
+    "end": 2013.28
+  },
+  {
+    "sentence_id": 299,
+    "text": "So that is being pursued and it'll work to some degree, but it'll be hard to scale the numbers.",
+    "start": 2013.28,
+    "end": 2021.6
+  },
+  {
+    "sentence_id": 300,
+    "text": "So it's almost like when you talk about the need to accelerate testing, the immediate need is for testing for the virus.",
+    "start": 2021.6,
+    "end": 2026.96
+  },
+  {
+    "sentence_id": 301,
+    "text": "But is it possible that in a few months' time that there's going to be this growing need to test for these antibodies and people to see if someone had the disease and recovered, maybe they didn't even know they had it.",
+    "start": 2026.96,
+    "end": 2042.72
+  },
+  {
+    "sentence_id": 302,
+    "text": "Because you could picture this growing worldwide force of heroes, let's call them heroes, who've been through this experience and have a lot to offer the world.",
+    "start": 2042.72,
+    "end": 2047.28
+  },
+  {
+    "sentence_id": 303,
+    "text": "Maybe they can offer, you know, blood donation, serum donation.",
+    "start": 2047.28,
+    "end": 2053.44
+  },
+  {
+    "sentence_id": 304,
+    "text": "But also other tasks, like if you've got overwhelmed healthcare systems, presumably there are kind of community health worker tasks that people could be trained to do to relieve the pressure that if we knew that they were effectively immune.",
+    "start": 2053.44,
+    "end": 2071.76
+  },
+  {
+    "sentence_id": 305,
+    "text": "Yes.",
+    "start": 2071.76,
+    "end": 2071.76
+  },
+  {
+    "sentence_id": 306,
+    "text": "And until we came up with the South Swab and showed FDA that that's equivalent, we were thinking the people who might be able to man those kiosks would be the recovered patients.",
+    "start": 2071.76,
+    "end": 2081.36
+  },
+  {
+    "sentence_id": 307,
+    "text": "Now, we don't want to have a lot of recovered people, you know, to be clear, we're trying through the shutdown in the United States to not get to 1% of the population infected.",
+    "start": 2081.36,
+    "end": 2090.24
+  },
+  {
+    "sentence_id": 308,
+    "text": "We're well below that today, but with expensation, you know, you could get past that three million.",
+    "start": 2090.24,
+    "end": 2098.48
+  },
+  {
+    "sentence_id": 309,
+    "text": "I believe we will be able to avoid that with the having this economic pain.",
+    "start": 2098.48,
+    "end": 2106.4
+  },
+  {
+    "sentence_id": 310,
+    "text": "Eventually, what we'll have to have is certificates of who's a recovered person, who's a vaccinated person, because you don't want people moving around the world where you'll have some countries that won't have it under control.",
+    "start": 2106.4,
+    "end": 2125.12
+  },
+  {
+    "sentence_id": 311,
+    "text": "Sadly, you don't want to completely block off the ability for those, you know, people to go there and come back and move around.",
+    "start": 2125.12,
+    "end": 2130.16
+  },
+  {
+    "sentence_id": 312,
+    "text": "Bill, is your foundation helping to accelerate the manufacture of these self-test?",
+    "start": 2130.16,
+    "end": 2135.2
+  },
+  {
+    "sentence_id": 313,
+    "text": "What are the prospects for really seeing scale in some of this testing soon?",
+    "start": 2135.2,
+    "end": 2135.2
+  },
+  {
+    "sentence_id": 314,
+    "text": "Not just in the US, but globally.",
+    "start": 2135.2,
+    "end": 2141.04
+  },
+  {
+    "sentence_id": 315,
+    "text": "Yeah, our foundation, we had been funding a thing called the flu study to really understand how respiratory viruses spread.",
+    "start": 2141.04,
+    "end": 2146.0
+  },
+  {
+    "sentence_id": 316,
+    "text": "It's amazing how little was understood about how important schools are, different age groups, different types of interaction.",
+    "start": 2146.0,
+    "end": 2157.92
+  },
+  {
+    "sentence_id": 317,
+    "text": "And that gave us an experience.",
+    "start": 2157.92,
+    "end": 2157.92
+  },
+  {
+    "sentence_id": 318,
+    "text": "In fact, that flu study actually was the first time coronavirus was found in the community, because the government was still saying you only test people to come from China, but we ran into people who had coronavirus who hadn't been travelers.",
+    "start": 2157.92,
+    "end": 2170.96
+  },
+  {
+    "sentence_id": 319,
+    "text": "So, you know, that was like an early warning sign even though the regulation said you weren't supposed to even look at that.",
+    "start": 2170.96,
+    "end": 2184.56
+  },
+  {
+    "sentence_id": 320,
+    "text": "So, yeah, the foundation is working with all the private sector people, the diagnostics people on this testing piece.",
+    "start": 2184.56,
+    "end": 2192.88
+  },
+  {
+    "sentence_id": 321,
+    "text": "Now that we can do the self-swab, those swabs are very easy to manufacture.",
+    "start": 2192.88,
+    "end": 2198.56
+  },
+  {
+    "sentence_id": 322,
+    "text": "The one where you had to jam it into the throat, deep-terminate, that was getting into short supply.",
+    "start": 2198.56,
+    "end": 2206.24
+  },
+  {
+    "sentence_id": 323,
+    "text": "So, the swab, you know, should not be limiting, neither should the various chemicals that help run the PCR machines.",
+    "start": 2206.24,
+    "end": 2214.56
+  },
+  {
+    "sentence_id": 324,
+    "text": "So, we should be able to get to a South Korea type prioritized testing thing within a few weeks.",
+    "start": 2214.56,
+    "end": 2226.16
+  },
+  {
+    "sentence_id": 325,
+    "text": "Co-important is it that the world's nations collaborate right now.",
+    "start": 2226.16,
+    "end": 2226.16
+  },
+  {
+    "sentence_id": 326,
+    "text": "I mean, it seems like, you know, here's this common enemy facing humanity.",
+    "start": 2226.16,
+    "end": 2231.12
+  },
+  {
+    "sentence_id": 327,
+    "text": "It does not know that it just crossed a border.",
+    "start": 2231.12,
+    "end": 2235.92
+  },
+  {
+    "sentence_id": 328,
+    "text": "It does not know what race people are, what religion they are.",
+    "start": 2235.92,
+    "end": 2235.92
+  },
+  {
+    "sentence_id": 329,
+    "text": "It just knows, here's a human.",
+    "start": 2235.92,
+    "end": 2243.2
+  },
+  {
+    "sentence_id": 330,
+    "text": "I've got a manufacturing machine here that can make me famous.",
+    "start": 2243.2,
+    "end": 2243.2
+  },
+  {
+    "sentence_id": 331,
+    "text": "And it goes to work.",
+    "start": 2243.2,
+    "end": 2250.56
+  },
+  {
+    "sentence_id": 332,
+    "text": "It's so terrifying to me to see signs of countries starting to blame each other or, you know, that the xenophobia just seems so toxic.",
+    "start": 2250.56,
+    "end": 2255.68
+  },
+  {
+    "sentence_id": 333,
+    "text": "How do you, how, what's your take on this bill?",
+    "start": 2255.68,
+    "end": 2255.68
+  },
+  {
+    "sentence_id": 334,
+    "text": "Is there anything do you see signs of cooperation happening or are you also worried about the sort of US versus China kind of thing that seems to be going on if we're not careful?",
+    "start": 2255.68,
+    "end": 2276.96
+  },
+  {
+    "sentence_id": 335,
+    "text": "Well, I see both.",
+    "start": 2276.96,
+    "end": 2276.96
+  },
+  {
+    "sentence_id": 336,
+    "text": "I see that countries that are recovered can help other countries.",
+    "start": 2276.96,
+    "end": 2285.36
+  },
+  {
+    "sentence_id": 337,
+    "text": "And that, you know, that's fantastic.",
+    "start": 2285.36,
+    "end": 2285.36
+  },
+  {
+    "sentence_id": 338,
+    "text": "If by the summer we've knocked this thing down, then great, we can help other countries.",
+    "start": 2285.36,
+    "end": 2290.64
+  },
+  {
+    "sentence_id": 339,
+    "text": "There are vaccine projects all over the world, and those should be evaluated on a very neutral basis to which one is the best to help humanity and make sure the manufacturing capacity isn't just for rich countries that it scaled up very low cost stuff for the entire world.",
+    "start": 2290.64,
+    "end": 2309.68
+  },
+  {
+    "sentence_id": 340,
+    "text": "And that's the spirit of govies getting vaccines out to every person.",
+    "start": 2309.68,
+    "end": 2317.52
+  },
+  {
+    "sentence_id": 341,
+    "text": "So you see really good in the science side and data sharing side, you see this great cooperation going on.",
+    "start": 2317.52,
+    "end": 2323.6
+  },
+  {
+    "sentence_id": 342,
+    "text": "Unfortunately, whenever you have disease, this sense of other and foreign and no stay away from me, that sort of pulling inward is reinforced.",
+    "start": 2323.6,
+    "end": 2332.24
+  },
+  {
+    "sentence_id": 343,
+    "text": "And we have to avoid that.",
+    "start": 2332.24,
+    "end": 2340.4
+  },
+  {
+    "sentence_id": 344,
+    "text": "You know, ironically, we have to isolate physically while in terms of looking at community groups that are pooling resources to help make sure food gets to everyone and helps your medical care and that, you know, older people need to be moved out of common facilities.",
+    "start": 2340.4,
+    "end": 2358.32
+  },
+  {
+    "sentence_id": 345,
+    "text": "You help out with that and that, you know, people aren't suffering too much from the psychology of isolation.",
+    "start": 2358.32,
+    "end": 2364.48
+  },
+  {
+    "sentence_id": 346,
+    "text": "So our generosity has to go up towards others at the same time where we're less actually physically interacting with other people.",
+    "start": 2364.48,
+    "end": 2372.0
+  },
+  {
+    "sentence_id": 347,
+    "text": "I mean, thinking about the situation in many developing countries, I'm curious how you think of this.",
+    "start": 2372.0,
+    "end": 2376.72
+  },
+  {
+    "sentence_id": 348,
+    "text": "I mean, you mentioned festival that seasonality may help.",
+    "start": 2376.72,
+    "end": 2382.72
+  },
+  {
+    "sentence_id": 349,
+    "text": "IE, high temperatures.",
+    "start": 2382.72,
+    "end": 2382.72
+  },
+  {
+    "sentence_id": 350,
+    "text": "Is it possible that that is so far protecting place to some extent, places like India or sub-Saharan Africa and so forth?",
+    "start": 2382.72,
+    "end": 2394.32
+  },
+  {
+    "sentence_id": 351,
+    "text": "Well, India is Northern Hemisphere.",
+    "start": 2394.32,
+    "end": 2394.32
+  },
+  {
+    "sentence_id": 352,
+    "text": "So Southern Hemisphere is lots of Africa, South America, Australia, New Zealand, Indonesia.",
+    "start": 2394.32,
+    "end": 2401.68
+  },
+  {
+    "sentence_id": 353,
+    "text": "And it is true either they're not, either the force of infection is lower there.",
+    "start": 2401.68,
+    "end": 2406.16
+  },
+  {
+    "sentence_id": 354,
+    "text": "We're just not seeing it with testing.",
+    "start": 2406.16,
+    "end": 2406.16
+  },
+  {
+    "sentence_id": 355,
+    "text": "You know, a few months from now, we'll understand the seasonality question, which would be good news for the Northern Hemisphere and somewhat bad news for the Southern Hemisphere.",
+    "start": 2406.16,
+    "end": 2417.12
+  },
+  {
+    "sentence_id": 356,
+    "text": "Now more people live in the Northern Hemisphere, including India, Pakistan.",
+    "start": 2417.12,
+    "end": 2423.52
+  },
+  {
+    "sentence_id": 357,
+    "text": "And that would buy us some time.",
+    "start": 2423.52,
+    "end": 2423.52
+  },
+  {
+    "sentence_id": 358,
+    "text": "The time is a big deal because all these tools get so much better if you had to go into a second season with them.",
+    "start": 2423.52,
+    "end": 2431.84
+  },
+  {
+    "sentence_id": 359,
+    "text": "But, yes, sadly, we could see in the next few months as the Southern Hemisphere is moving into its a fall and then winter, we could see a big increase there.",
+    "start": 2431.84,
+    "end": 2445.2
+  },
+  {
+    "sentence_id": 360,
+    "text": "And that is going to be very difficult.",
+    "start": 2445.2,
+    "end": 2449.52
+  },
+  {
+    "sentence_id": 361,
+    "text": "Now, they don't have as many older people, but they have lots of people who have who are HIV positive or have malnutrition or various long challenges because of indoor smoke.",
+    "start": 2449.52,
+    "end": 2462.96
+  },
+  {
+    "sentence_id": 362,
+    "text": "And so the wild card is how well can the developing countries deal with this?",
+    "start": 2462.96,
+    "end": 2467.68
+  },
+  {
+    "sentence_id": 363,
+    "text": "I mean, if you're in a country where you have the majority of your populations making less than two or three dollars a day, can you even afford a strategy that looks, looks like basically shutting down the economy?",
+    "start": 2467.68,
+    "end": 2480.48
+  },
+  {
+    "sentence_id": 364,
+    "text": "I'm very worried that there will be a massive number of deaths in those poor countries because the health systems just aren't the number of respirators, hospitals.",
+    "start": 2480.48,
+    "end": 2494.16
+  },
+  {
+    "sentence_id": 365,
+    "text": "And of course, when you overload that system, your deaths are not just COVID deaths, but the everyone else who's trying to access a system that will be somewhat in chaos, including with health workers who are getting sick.",
+    "start": 2494.16,
+    "end": 2505.76
+  },
+  {
+    "sentence_id": 366,
+    "text": "Okay, we're getting near to running out of time in this.",
+    "start": 2505.76,
+    "end": 2510.8
+  },
+  {
+    "sentence_id": 367,
+    "text": "Wouldn't it be a last question or two from online?",
+    "start": 2510.8,
+    "end": 2510.8
+  },
+  {
+    "sentence_id": 368,
+    "text": "Sure.",
+    "start": 2510.8,
+    "end": 2510.8
+  },
+  {
+    "sentence_id": 369,
+    "text": "So we have two from online, we're seeing thousands of questions around these same lines.",
+    "start": 2510.8,
+    "end": 2514.64
+  },
+  {
+    "sentence_id": 370,
+    "text": "One, there's lots of people who are really interested to hear about the kind of work that you're doing with your foundation as far as distributing tests, but also producing safety gear or masks and that sort of thing to help with this effort for health workers.",
+    "start": 2514.64,
+    "end": 2533.68
+  },
+  {
+    "sentence_id": 371,
+    "text": "Yeah, so the Gates Foundation, we vary only on gay about 100 million to help out with all the pieces, the testing piece, the therapeutics and the vaccines.",
+    "start": 2533.68,
+    "end": 2548.32
+  },
+  {
+    "sentence_id": 372,
+    "text": "We are not experts in making masks and ventilators and gowns, and it's great that other people, including some 3D printing and open source things, that is great.",
+    "start": 2548.32,
+    "end": 2556.4
+  },
+  {
+    "sentence_id": 373,
+    "text": "Our focus, like the self-swab thing, nobody had done that before, people thought it wouldn't work, we were quite sure it would work.",
+    "start": 2556.4,
+    "end": 2568.4
+  },
+  {
+    "sentence_id": 374,
+    "text": "And so that for the globe is a huge thing.",
+    "start": 2568.4,
+    "end": 2568.4
+  },
+  {
+    "sentence_id": 375,
+    "text": "We work a lot with both governments and private sectors, so in some ways we're kind of a bridge.",
+    "start": 2568.4,
+    "end": 2574.48
+  },
+  {
+    "sentence_id": 376,
+    "text": "And so we've been talking to the head of the pharmaceutical companies and the testing companies, and specifically with the ones doing vaccines, including some of which are these new type of vaccines, RNA vaccines that we've been backing for quite some time, and CEPI has been backing.",
+    "start": 2574.48,
+    "end": 2594.24
+  },
+  {
+    "sentence_id": 377,
+    "text": "And so our expertise is in those medical tools and really getting the best of the private sector engaged there.",
+    "start": 2594.24,
+    "end": 2600.16
+  },
+  {
+    "sentence_id": 378,
+    "text": "It's been a little slow.",
+    "start": 2600.16,
+    "end": 2600.16
+  },
+  {
+    "sentence_id": 379,
+    "text": "We can write checks right away, whereas the government processes, even in this situation, there's still this notion of bidding and not really knowing who has the unique capabilities of doing things.",
+    "start": 2600.16,
+    "end": 2613.44
+  },
+  {
+    "sentence_id": 380,
+    "text": "And so an organization that's working on this all the time, lots of new vaccines can step in and be helpful.",
+    "start": 2613.44,
+    "end": 2620.08
+  },
+  {
+    "sentence_id": 381,
+    "text": "And it's really amazing when we talk to private sector partners, their interest in helping out has been absolutely fantastic.",
+    "start": 2620.08,
+    "end": 2633.04
+  },
+  {
+    "sentence_id": 382,
+    "text": "And so that's where we have a unique role.",
+    "start": 2633.04,
+    "end": 2637.68
+  },
+  {
+    "sentence_id": 383,
+    "text": "That's great.",
+    "start": 2637.68,
+    "end": 2637.68
+  },
+  {
+    "sentence_id": 384,
+    "text": "And the other question that we're just seeing a ton of before we wrap up here is, it's just people are really interested in your insight bill on whether you think we're heading in the right direction.",
+    "start": 2637.68,
+    "end": 2646.72
+  },
+  {
+    "sentence_id": 385,
+    "text": "Do you feel like our economy is heading in the right place that humanity is heading in the right place?",
+    "start": 2646.72,
+    "end": 2651.6
+  },
+  {
+    "sentence_id": 386,
+    "text": "Are we in a better position now than you thought we were in five years ago?",
+    "start": 2651.6,
+    "end": 2664.0
+  },
+  {
+    "sentence_id": 387,
+    "text": "Well, the five years ago I said that the pandemic is this unaddressed, very, very scary thing.",
+    "start": 2664.0,
+    "end": 2669.84
+  },
+  {
+    "sentence_id": 388,
+    "text": "And that, you know, if we did the right things, we could be more prepared.",
+    "start": 2669.84,
+    "end": 2679.36
+  },
+  {
+    "sentence_id": 389,
+    "text": "Sciences on our side, the fact we can be ready for the next epidemic, it's very clear how to do that.",
+    "start": 2679.36,
+    "end": 2686.8
+  },
+  {
+    "sentence_id": 390,
+    "text": "And yes, it will take tens of billions, but not hundreds or trillions of dollars.",
+    "start": 2686.8,
+    "end": 2686.8
+  },
+  {
+    "sentence_id": 391,
+    "text": "It'll be tiny compared to the economic cost.",
+    "start": 2686.8,
+    "end": 2693.2
+  },
+  {
+    "sentence_id": 392,
+    "text": "I remember when I did that presentation in 2015, I put up a big clue epidemic that cost four trillion.",
+    "start": 2693.2,
+    "end": 2698.16
+  },
+  {
+    "sentence_id": 393,
+    "text": "And I thought, wow, that's a big number.",
+    "start": 2698.16,
+    "end": 2698.16
+  },
+  {
+    "sentence_id": 394,
+    "text": "Do I really think it's that big?",
+    "start": 2698.16,
+    "end": 2705.28
+  },
+  {
+    "sentence_id": 395,
+    "text": "And I went and looked at them and I said, yeah, well, that's big.",
+    "start": 2705.28,
+    "end": 2705.28
+  },
+  {
+    "sentence_id": 396,
+    "text": "This epidemic will cost that much to the economy.",
+    "start": 2705.28,
+    "end": 2714.72
+  },
+  {
+    "sentence_id": 397,
+    "text": "So in the short run, we are going to have more pain and more difficulty and people are going to have to step up to help each other.",
+    "start": 2714.72,
+    "end": 2720.16
+  },
+  {
+    "sentence_id": 398,
+    "text": "I'm still very much an optimist, you know, whether it's climate change, countries working together, biology taking the diseases, malaria, TB, you know, even advances for what are more ritual diseases like cancer, the amount of innovation, the way we can connect up and work together.",
+    "start": 2720.16,
+    "end": 2741.52
+  },
+  {
+    "sentence_id": 399,
+    "text": "Yes, I'm super positive about that.",
+    "start": 2741.52,
+    "end": 2747.36
+  },
+  {
+    "sentence_id": 400,
+    "text": "You know, I love my work because I see progress on all these diseases all the time.",
+    "start": 2747.36,
+    "end": 2754.4
+  },
+  {
+    "sentence_id": 401,
+    "text": "Now we have to, you know, turn and focus on this.",
+    "start": 2754.4,
+    "end": 2754.4
+  },
+  {
+    "sentence_id": 402,
+    "text": "You know, sadly, it may interrupt in the polio situation might get worse a little bit because of the distraction here.",
+    "start": 2754.4,
+    "end": 2760.32
+  },
+  {
+    "sentence_id": 403,
+    "text": "You know, we're using a lot of the great capacity that was built up for those polio activities to try and help the developing countries respond to this very well.",
+    "start": 2760.32,
+    "end": 2771.84
+  },
+  {
+    "sentence_id": 404,
+    "text": "And that that is appropriate.",
+    "start": 2771.84,
+    "end": 2771.84
+  },
+  {
+    "sentence_id": 405,
+    "text": "But, you know, the message for me, although it's very sober when we're dealing with this epidemic, you know, I'm very positive that this should draw us together.",
+    "start": 2771.84,
+    "end": 2790.48
+  },
+  {
+    "sentence_id": 406,
+    "text": "We will get out of this and then we will get ready for the next epidemic.",
+    "start": 2790.48,
+    "end": 2797.04
+  },
+  {
+    "sentence_id": 407,
+    "text": "That's exactly what I was going to ask you, Bella, which is how, where's your head?",
+    "start": 2797.04,
+    "end": 2797.04
+  },
+  {
+    "sentence_id": 408,
+    "text": "Do you think we will get through this?",
+    "start": 2797.04,
+    "end": 2803.76
+  },
+  {
+    "sentence_id": 409,
+    "text": "Will the leaders that matter listen to the scientists?",
+    "start": 2803.76,
+    "end": 2803.76
+  },
+  {
+    "sentence_id": 410,
+    "text": "Will they?",
+    "start": 2803.76,
+    "end": 2803.76
+  },
+  {
+    "sentence_id": 411,
+    "text": "Will we make it through?",
+    "start": 2803.76,
+    "end": 2808.64
+  },
+  {
+    "sentence_id": 412,
+    "text": "Do you believe that within a few months' time we're going to be already looking back and saying, we dodged a pretty bad one there?",
+    "start": 2808.64,
+    "end": 2816.88
+  },
+  {
+    "sentence_id": 413,
+    "text": "We can't say for sure that even the rich countries will be out of this in six to ten weeks.",
+    "start": 2816.88,
+    "end": 2824.4
+  },
+  {
+    "sentence_id": 414,
+    "text": "I think that's likely, but as we get the testing data, we'll get more of a sense of that and people will continuously be able to see that.",
+    "start": 2824.4,
+    "end": 2830.72
+  },
+  {
+    "sentence_id": 415,
+    "text": "But, you know, the rich countries will get out of this.",
+    "start": 2830.72,
+    "end": 2836.64
+  },
+  {
+    "sentence_id": 416,
+    "text": "The developing countries will bear a significant price, but even they, we will get a vaccine and, you know, Gavi will get that out to everyone.",
+    "start": 2836.64,
+    "end": 2844.4
+  },
+  {
+    "sentence_id": 417,
+    "text": "So, you know, two to three years from now, this thing, even on a global basis, will essentially be over with a gigantic price take.",
+    "start": 2844.4,
+    "end": 2860.88
+  },
+  {
+    "sentence_id": 418,
+    "text": "But, now we're going to know, okay, next time we see a pathogen, we can make billions of tests within two or three weeks.",
+    "start": 2860.88,
+    "end": 2866.88
+  },
+  {
+    "sentence_id": 419,
+    "text": "We can figure out which antiviral drugs work within two or three weeks and get those killed up.",
+    "start": 2866.88,
+    "end": 2872.72
+  },
+  {
+    "sentence_id": 420,
+    "text": "And we can make a vaccine if we're really ready, probably in six months, using these new platforms, probably the RNA vaccine.",
+    "start": 2872.72,
+    "end": 2881.44
+  },
+  {
+    "sentence_id": 421,
+    "text": "So, specifically, there are innovations that are there that will get financed, you know, I hope quite generously coming out of this thing.",
+    "start": 2881.44,
+    "end": 2897.6
+  },
+  {
+    "sentence_id": 422,
+    "text": "And so, three years from now, we'll look back and say, you know, that was awful.",
+    "start": 2897.6,
+    "end": 2897.6
+  },
+  {
+    "sentence_id": 423,
+    "text": "There's a lot of heroes, but we've learned the lesson and the world as a whole with its great science and desire to help each other was able to try and minimize what happened there and avoid it happening again.",
+    "start": 2897.6,
+    "end": 2920.4
+  },
+  {
+    "sentence_id": 424,
+    "text": "That's certainly the optimistic scenario that I'm craving for myself, that the world kind of realizes one that there are certain things that you just have to unite on.",
+    "start": 2920.4,
+    "end": 2925.84
+  },
+  {
+    "sentence_id": 425,
+    "text": "Two, that science really matters and that science, it's a miracle that science can understand this bug, you know, make a vaccine, sequence it, make therapeutics, understand how to model it.",
+    "start": 2925.84,
+    "end": 2937.52
+  },
+  {
+    "sentence_id": 426,
+    "text": "It's kind of miraculous to me.",
+    "start": 2937.52,
+    "end": 2944.16
+  },
+  {
+    "sentence_id": 427,
+    "text": "So, so, will we learn now to pay attention to scientists?",
+    "start": 2944.16,
+    "end": 2944.16
+  },
+  {
+    "sentence_id": 428,
+    "text": "Because if we do, I'm sure that you feel this as well.",
+    "start": 2944.16,
+    "end": 2948.24
+  },
+  {
+    "sentence_id": 429,
+    "text": "There's an amazing analog right with climate.",
+    "start": 2948.24,
+    "end": 2948.24
+  },
+  {
+    "sentence_id": 430,
+    "text": "It's just a different time scale that the scientists are out there saying, there's this huge enemy coming.",
+    "start": 2948.24,
+    "end": 2952.24
+  },
+  {
+    "sentence_id": 431,
+    "text": "If we do nothing, it's going to take millions of lives.",
+    "start": 2952.24,
+    "end": 2956.24
+  },
+  {
+    "sentence_id": 432,
+    "text": "It's going to wreck our planet.",
+    "start": 2956.24,
+    "end": 2956.24
+  },
+  {
+    "sentence_id": 433,
+    "text": "So, God's sake, at politicians do something and the politicians are going, no, no, need a little more GDP, we need to win an action and they're not acting.",
+    "start": 2956.24,
+    "end": 2966.88
+  },
+  {
+    "sentence_id": 434,
+    "text": "I mean, is that do you see a scenario where this shocks politicians to actually change their thinking and their prioritization of science, have all of us had that asking too much?",
+    "start": 2966.88,
+    "end": 2978.96
+  },
+  {
+    "sentence_id": 435,
+    "text": "Yeah, it's interesting how much of this distraction will delay the urgent innovation agenda that exists over in climate?",
+    "start": 2978.96,
+    "end": 2987.76
+  },
+  {
+    "sentence_id": 436,
+    "text": "You know, I have freed up a lot of time to work on climate.",
+    "start": 2987.76,
+    "end": 2992.8
+  },
+  {
+    "sentence_id": 437,
+    "text": "I have to say, you know, for the last few months, that's now shifted and until we get out of this crisis, COVID will dominate.",
+    "start": 2992.8,
+    "end": 3000.8
+  },
+  {
+    "sentence_id": 438,
+    "text": "And so, some of the climate stuff, although it'll still go on, it won't get that same focus.",
+    "start": 3000.8,
+    "end": 3011.36
+  },
+  {
+    "sentence_id": 439,
+    "text": "Is we get past this, yes, that idea of innovation and science and the world working together that is totally common between these two problems.",
+    "start": 3011.36,
+    "end": 3024.56
+  },
+  {
+    "sentence_id": 440,
+    "text": "And so, I don't think this has to be a huge setback for climate.",
+    "start": 3024.56,
+    "end": 3024.56
+  },
+  {
+    "sentence_id": 441,
+    "text": "So, last question, there are thousands of people watching, many of them living alone, some scare, there may be these people there who have this virus and suffering symptoms or recovering.",
+    "start": 3024.56,
+    "end": 3039.36
+  },
+  {
+    "sentence_id": 442,
+    "text": "By the way, if that's you, we'd love to hear from you.",
+    "start": 3039.36,
+    "end": 3045.04
+  },
+  {
+    "sentence_id": 443,
+    "text": "We really would.",
+    "start": 3045.04,
+    "end": 3045.04
+  },
+  {
+    "sentence_id": 444,
+    "text": "Maybe have a conversation with some of you have just, you know, in a future one of these, just understanding the experience.",
+    "start": 3045.04,
+    "end": 3050.24
+  },
+  {
+    "sentence_id": 445,
+    "text": "But Bill, what can people do as individuals from their own homes right now to try and help?",
+    "start": 3050.24,
+    "end": 3064.72
+  },
+  {
+    "sentence_id": 446,
+    "text": "Well, there's a lot of creativity.",
+    "start": 3064.72,
+    "end": 3064.72
+  },
+  {
+    "sentence_id": 447,
+    "text": "You know, can you mentor kids who are being forced into an online format where the school systems really weren't ready for that?",
+    "start": 3064.72,
+    "end": 3070.88
+  },
+  {
+    "sentence_id": 448,
+    "text": "Can you organize some giving activity that gets the, you know, the food banks to step up where there's problems there?",
+    "start": 3070.88,
+    "end": 3076.72
+  },
+  {
+    "sentence_id": 449,
+    "text": "These are such unprecedented times and it really should draw out that sense of, you know, creativity while complying with the isolation mandates.",
+    "start": 3076.72,
+    "end": 3091.2
+  },
+  {
+    "sentence_id": 450,
+    "text": "Well, Bill, I really want to thank you for spending this time with us and for the financial investment, the time investment.",
+    "start": 3091.2,
+    "end": 3097.04
+  },
+  {
+    "sentence_id": 451,
+    "text": "You've really invested your life into trying to solve these big problems and this is as big as they get.",
+    "start": 3097.04,
+    "end": 3103.68
+  },
+  {
+    "sentence_id": 452,
+    "text": "I have a hunch that your voice is really going to be needed in the next few weeks.",
+    "start": 3103.68,
+    "end": 3108.72
+  },
+  {
+    "sentence_id": 453,
+    "text": "Thank you so much for your for your time today.",
+    "start": 3108.72,
+    "end": 3113.2
+  },
+  {
+    "sentence_id": 454,
+    "text": "This was this was really wonderful hearing from you.",
+    "start": 3113.2,
+    "end": 3113.2
+  },
+  {
+    "sentence_id": 455,
+    "text": "Thank you.",
+    "start": 3113.2,
+    "end": 3113.2
+  },
+  {
+    "sentence_id": 456,
+    "text": "Now, thanks Chris.",
+    "start": 3113.2,
+    "end": 3119.76
+  },
+  {
+    "sentence_id": 457,
+    "text": "Okay.",
+    "start": 3119.76,
+    "end": 3119.76
+  },
+  {
+    "sentence_id": 458,
+    "text": "Well, thanks everyone.",
+    "start": 3119.76,
+    "end": 3119.76
+  },
+  {
+    "sentence_id": 459,
+    "text": "Thanks for being part of the tech community.",
+    "start": 3119.76,
+    "end": 3119.76
+  },
+  {
+    "sentence_id": 460,
+    "text": "Look after yourselves.",
+    "start": 3119.76,
+    "end": 3124.16
+  },
+  {
+    "sentence_id": 461,
+    "text": "It's to be smart about this, you know, it's like get ahead of it.",
+    "start": 3124.16,
+    "end": 3124.16
+  },
+  {
+    "sentence_id": 462,
+    "text": "If you're in a part of the world where this thing hasn't really hit, listen to Bill Gates.",
+    "start": 3124.16,
+    "end": 3130.72
+  },
+  {
+    "sentence_id": 463,
+    "text": "Get ahead of it to keep, you know, it just, if you possibly can socially distance, not not physically distance and socially connect, that's what the internet is for.",
+    "start": 3130.72,
+    "end": 3143.2
+  },
+  {
+    "sentence_id": 464,
+    "text": "These days are what the internet was built for.",
+    "start": 3143.2,
+    "end": 3143.2
+  },
+  {
+    "sentence_id": 465,
+    "text": "We can spread love, we can spread ideas, we can spread relationship, we can spread thought without spreading a dangerous bug.",
+    "start": 3143.2,
+    "end": 3155.04
+  },
+  {
+    "sentence_id": 466,
+    "text": "So get ahead of it and let's figure this out together.",
+    "start": 3155.04,
+    "end": 3155.04
+  },
+  {
+    "sentence_id": 467,
+    "text": "It's been wonderful spending time with you from Whitney and for me and for the whole TED team.",
+    "start": 3155.04,
+    "end": 3159.92
+  },
+  {
+    "sentence_id": 468,
+    "text": "Thank you and over and out.",
+    "start": 3159.92,
+    "end": 3163.76
+  },
+  {
+    "sentence_id": 469,
+    "text": "PRX",
+    "start": 3163.76,
+    "end": 3163.76
+  }
+]

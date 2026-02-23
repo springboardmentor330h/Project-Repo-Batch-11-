@@ -1,0 +1,17 @@
+# Ignore raw and processed audio data (large files not needed in repo)
+data/raw/
+data/wav/
+data/clean/
+data/chunks/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IDE/editor settings
+.vscode/
+
+# Ignore virtual environments
+.env/
+venv/
+
