@@ -153,31 +153,31 @@ Audio Project/
 
 ## 6. Setup Instructions
 
-1. **📥 Clone Repository** (if applicable) or ensure you have the project files
+1. **Clone Repository** (if applicable) or ensure you have the project files
 
-2. **🐍 Create Python Environment**:
+2. **Create Python Environment**:
    ```bash
    python -m venv audio_project_env
    # Activate: audio_project_env\Scripts\activate (Windows) or source audio_project_env/bin/activate (Linux/Mac)
    ```
 
-3. **📦 Install Dependencies**:
+3. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **⚡ GPU Setup** (optional, recommended for faster Whisper processing):
+4. **GPU Setup** (optional, recommended for faster Whisper processing):
    - Install CUDA 11.8+ if you have an NVIDIA GPU
    - PyTorch will automatically detect and use GPU acceleration
 
-5. **✅ Verify Installation**:
+5. **Verify Installation**:
    ```python
    import whisper
    import librosa
    print("Setup complete!")
    ```
 
-6. **📁 File Organization**:
+6. **File Organization**:
    - Raw audio: `data/audio_raw/`
    - Processed audio: `data/audio_processed/`
    - Transcripts: `data/transcripts_processed/`
