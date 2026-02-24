@@ -1,0 +1,5 @@
+Each models are no positional embedding, so they have in the dataset out to 512k context.
+Represented in the samples, they're validated out to 128k.
+The IBM team says, theoretically, you should be able to push it past that.
+So some really great long context performance.
+I think one of the key measurement points in the release notes are if you take 8...

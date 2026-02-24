@@ -1,0 +1,3 @@
+sessions at 128k context on a micro, so a 3 billion parameter model, you get about a 15 gigabyte of memory usage versus about 80 on a pure transformer architecture.
+Right.
+So some really great context reduction, which means that on more constrained devices on the edge, you can make use of more useful context.

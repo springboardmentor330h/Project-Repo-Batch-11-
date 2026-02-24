@@ -1,0 +1,32 @@
+.timeline {
+  display: flex;
+  height: 45px;
+  width: 100%;
+  background: #e5e7eb;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px 0;
+}
+
+.timeline-segment {
+  background: #9ca3af;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.timeline-segment:hover {
+  background: #6b7280;
+}
+
+.timeline-segment.active {
+  background: #2563eb;
+}
+
+.segment-id {
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+}
