@@ -1,0 +1,5393 @@
+{
+  "episode_id": "episode_209",
+  "source_file": "episode_209_whisper.json",
+  "total_sentences": 674,
+  "algorithm_used": "embedding-based (Sentence Transformers)",
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_sentence_idx": 0,
+      "end_sentence_idx": 5,
+      "num_sentences": 5,
+      "start_time_sec": 0.0,
+      "end_time_sec": 12.0,
+      "text_preview": "Welcome to Stuff You Should Know. A production of I Heart Radio. Hey and welcome to the podcast. I'm Josh. There's a Chuck and Jerry's hanging with this too.",
+      "keywords": [
+        "welcome",
+        "stuff",
+        "radio",
+        "production",
+        "podcast",
+        "know"
+      ],
+      "summary": "Welcome to Stuff You Should Know. A production of I Heart Radio. Hey and welcome to the podcast. I'm Josh. There's a Chuck and Jerry's hanging with this too. …"
+    },
+    {
+      "segment_id": 2,
+      "start_sentence_idx": 5,
+      "end_sentence_idx": 6,
+      "num_sentences": 1,
+      "start_time_sec": 13.0,
+      "end_time_sec": 13.0,
+      "text_preview": "And it's stuff you should know.",
+      "keywords": [],
+      "summary": "And it's stuff you should know. …"
+    },
+    {
+      "segment_id": 3,
+      "start_sentence_idx": 6,
+      "end_sentence_idx": 7,
+      "num_sentences": 1,
+      "start_time_sec": 15.0,
+      "end_time_sec": 15.0,
+      "text_preview": "And we are head west.",
+      "keywords": [],
+      "summary": "And we are head west. …"
+    },
+    {
+      "segment_id": 4,
+      "start_sentence_idx": 7,
+      "end_sentence_idx": 8,
+      "num_sentences": 1,
+      "start_time_sec": 17.0,
+      "end_time_sec": 17.0,
+      "text_preview": "And, , yeah, I mean we're recording on the Golden Gate Bridge.",
+      "keywords": [],
+      "summary": "And, , yeah, I mean we're recording on the Golden Gate Bridge. …"
+    },
+    {
+      "segment_id": 5,
+      "start_sentence_idx": 8,
+      "end_sentence_idx": 12,
+      "num_sentences": 4,
+      "start_time_sec": 20.0,
+      "end_time_sec": 30.0,
+      "text_preview": "Which I guess this is, , , two weeks. Wow, two weeks to the day, I think. Well, from our live show in the City of San Francisco. That's true, because it's the 15th and our show's on the 29th.",
+      "keywords": [
+        "weeks",
+        "show",
+        "two",
+        "well",
+        "wow",
+        "true"
+      ],
+      "summary": "Which I guess this is, , , two weeks. Wow, two weeks to the day, I think. Well, from our live show in the City of San Francisco. That's true, because it's the 15th and our show's on the 29th. …"
+    },
+    {
+      "segment_id": 6,
+      "start_sentence_idx": 12,
+      "end_sentence_idx": 13,
+      "num_sentences": 1,
+      "start_time_sec": 33.28,
+      "end_time_sec": 33.28,
+      "text_preview": "That's right, on a rare Thursday.",
+      "keywords": [],
+      "summary": "That's right, on a rare Thursday. …"
+    },
+    {
+      "segment_id": 7,
+      "start_sentence_idx": 13,
+      "end_sentence_idx": 14,
+      "num_sentences": 1,
+      "start_time_sec": 37.52,
+      "end_time_sec": 37.52,
+      "text_preview": "Oh, show?",
+      "keywords": [],
+      "summary": "Oh, show? …"
+    },
+    {
+      "segment_id": 8,
+      "start_sentence_idx": 14,
+      "end_sentence_idx": 19,
+      "num_sentences": 5,
+      "start_time_sec": 40.72,
+      "end_time_sec": 47.04,
+      "text_preview": "Yeah, yeah. Oh, by the way, too, I'm into mention. And I hope this is okay with you. I got booked to do a show on Friday. And I have a mention that to people, but on Friday, I will be performing in the hanging with Dr. Z.",
+      "keywords": [
+        "yeah",
+        "mention",
+        "friday",
+        "performing",
+        "show",
+        "way"
+      ],
+      "summary": "Yeah, yeah. Oh, by the way, too, I'm into mention. And I hope this is okay with you. I got booked to do a show on Friday. And I have a mention that to people, but on Friday, I will be performing in the hanging with Dr. Z …"
+    },
+    {
+      "segment_id": 9,
+      "start_sentence_idx": 19,
+      "end_sentence_idx": 20,
+      "num_sentences": 1,
+      "start_time_sec": 48.24,
+      "end_time_sec": 48.24,
+      "text_preview": "Show.",
+      "keywords": [],
+      "summary": "Show. …"
+    },
+    {
+      "segment_id": 10,
+      "start_sentence_idx": 20,
+      "end_sentence_idx": 21,
+      "num_sentences": 1,
+      "start_time_sec": 51.48,
+      "end_time_sec": 51.48,
+      "text_preview": "Do  about the actors?",
+      "keywords": [],
+      "summary": "Do  about the actors? …"
+    },
+    {
+      "segment_id": 11,
+      "start_sentence_idx": 21,
+      "end_sentence_idx": 22,
+      "num_sentences": 1,
+      "start_time_sec": 58.32,
+      "end_time_sec": 58.32,
+      "text_preview": "Yes, do  about this?",
+      "keywords": [],
+      "summary": "Yes, do  about this? …"
+    },
+    {
+      "segment_id": 12,
+      "start_sentence_idx": 22,
+      "end_sentence_idx": 23,
+      "num_sentences": 1,
+      "start_time_sec": 59.8,
+      "end_time_sec": 59.8,
+      "text_preview": "No, no, no, no, no.",
+      "keywords": [],
+      "summary": "No, no, no, no, no. …"
+    },
+    {
+      "segment_id": 13,
+      "start_sentence_idx": 23,
+      "end_sentence_idx": 29,
+      "num_sentences": 6,
+      "start_time_sec": 60.0,
+      "end_time_sec": 74.0,
+      "text_preview": "This is the one in which comedian Dana Gold is he owns a professional  full-blown Dr. Zayas costume. And he's been doing this for years and it's  a talk show. With him is the host of Dr. Zayas. So I'm very excited because not only is Janet Barney and it co-founder of Stitchfest H…",
+      "keywords": [
+        "zayas",
+        "dr",
+        "years",
+        "talk",
+        "stitchfest",
+        "stage"
+      ],
+      "summary": "Dana Gold owns a professional  full-blown Dr. Zayas costume. Janet Barney and it co-founder of Stitchfest."
+    },
+    {
+      "segment_id": 14,
+      "start_sentence_idx": 29,
+      "end_sentence_idx": 30,
+      "num_sentences": 1,
+      "start_time_sec": 74.0,
+      "end_time_sec": 74.0,
+      "text_preview": "Yeah, and the great Andy Daily.",
+      "keywords": [],
+      "summary": "Yeah, and the great Andy Daily. …"
+    },
+    {
+      "segment_id": 15,
+      "start_sentence_idx": 30,
+      "end_sentence_idx": 31,
+      "num_sentences": 1,
+      "start_time_sec": 78.0,
+      "end_time_sec": 78.0,
+      "text_preview": "So if anyone wants to see that on Friday night, I just go to the sketch vest website and check it out.",
+      "keywords": [
+        "website",
+        "wants",
+        "vest",
+        "sketch",
+        "see",
+        "night"
+      ],
+      "summary": "So if anyone wants to see that on Friday night, I just go to the sketch vest website and check it out. …"
+    },
+    {
+      "segment_id": 16,
+      "start_sentence_idx": 31,
+      "end_sentence_idx": 33,
+      "num_sentences": 2,
+      "start_time_sec": 80.0,
+      "end_time_sec": 87.0,
+      "text_preview": "I think it's kind of one of the small comic books. Do you, oh, okay.",
+      "keywords": [],
+      "summary": "I think it's kind of one of the small comic books. Do you, oh, okay. …"
+    },
+    {
+      "segment_id": 17,
+      "start_sentence_idx": 33,
+      "end_sentence_idx": 34,
+      "num_sentences": 1,
+      "start_time_sec": 90.0,
+      "end_time_sec": 90.0,
+      "text_preview": "So it said a comedy club?",
+      "keywords": [],
+      "summary": "So it said a comedy club? …"
+    },
+    {
+      "segment_id": 18,
+      "start_sentence_idx": 34,
+      "end_sentence_idx": 35,
+      "num_sentences": 1,
+      "start_time_sec": 92.8,
+      "end_time_sec": 92.8,
+      "text_preview": "Yeah, it's one where I did movie crush when you're a kid.",
+      "keywords": [],
+      "summary": "Yeah, it's one where I did movie crush when you're a kid. …"
+    },
+    {
+      "segment_id": 19,
+      "start_sentence_idx": 35,
+      "end_sentence_idx": 36,
+      "num_sentences": 1,
+      "start_time_sec": 94.74,
+      "end_time_sec": 94.74,
+      "text_preview": "Remember?",
+      "keywords": [],
+      "summary": "Remember? …"
+    },
+    {
+      "segment_id": 20,
+      "start_sentence_idx": 36,
+      "end_sentence_idx": 37,
+      "num_sentences": 1,
+      "start_time_sec": 96.0,
+      "end_time_sec": 96.0,
+      "text_preview": "Will do you remember how to find your way back there though?",
+      "keywords": [],
+      "summary": "Will do you remember how to find your way back there though? …"
+    },
+    {
+      "segment_id": 21,
+      "start_sentence_idx": 37,
+      "end_sentence_idx": 38,
+      "num_sentences": 1,
+      "start_time_sec": 98.52,
+      "end_time_sec": 98.52,
+      "text_preview": "Play a hook sub.",
+      "keywords": [],
+      "summary": "Play a hook sub. …"
+    },
+    {
+      "segment_id": 22,
+      "start_sentence_idx": 38,
+      "end_sentence_idx": 40,
+      "num_sentences": 2,
+      "start_time_sec": 100.48,
+      "end_time_sec": 101.64,
+      "text_preview": "That's awesome. That's awesome, man congrats.",
+      "keywords": [],
+      "summary": "That's awesome. That's awesome, man congrats. …"
+    },
+    {
+      "segment_id": 23,
+      "start_sentence_idx": 40,
+      "end_sentence_idx": 41,
+      "num_sentences": 1,
+      "start_time_sec": 103.96,
+      "end_time_sec": 103.96,
+      "text_preview": "And yes, I seconded that everybody should go see.",
+      "keywords": [],
+      "summary": "And yes, I seconded that everybody should go see. …"
+    },
+    {
+      "segment_id": 24,
+      "start_sentence_idx": 41,
+      "end_sentence_idx": 42,
+      "num_sentences": 1,
+      "start_time_sec": 104.8,
+      "end_time_sec": 104.8,
+      "text_preview": "What the f... whether you're in San Francisco or not, because that's your risk.",
+      "keywords": [],
+      "summary": "What the f... whether you're in San Francisco or not, because that's your risk. …"
+    },
+    {
+      "segment_id": 25,
+      "start_sentence_idx": 42,
+      "end_sentence_idx": 46,
+      "num_sentences": 4,
+      "start_time_sec": 106.44,
+      "end_time_sec": 113.44,
+      "text_preview": "Yeah. Can you come and imagine you being with me now? Yeah. Right.",
+      "keywords": [],
+      "summary": "Yeah. Can you come and imagine you being with me now? Yeah. Right. …"
+    },
+    {
+      "segment_id": 26,
+      "start_sentence_idx": 46,
+      "end_sentence_idx": 51,
+      "num_sentences": 5,
+      "start_time_sec": 114.6,
+      "end_time_sec": 120.0,
+      "text_preview": "But thank you. I appreciate that. I'll be there in spirit support. You can take me immediately after and be , if it's a triumph or no, maybe I'll be meditating. I'm a golden gate bridge.",
+      "keywords": [
+        "triumph",
+        "thank",
+        "take",
+        "support",
+        "spirit",
+        "meditating"
+      ],
+      "summary": "But thank you. I appreciate that. I'll be there in spirit support. You can take me immediately after and be , if it's a triumph or no, maybe I'll be meditating. I'm a golden gate bridge. …"
+    },
+    {
+      "segment_id": 27,
+      "start_sentence_idx": 51,
+      "end_sentence_idx": 52,
+      "num_sentences": 1,
+      "start_time_sec": 122.6,
+      "end_time_sec": 122.6,
+      "text_preview": "Yeah.",
+      "keywords": [],
+      "summary": "Yeah. …"
+    },
+    {
+      "segment_id": 28,
+      "start_sentence_idx": 52,
+      "end_sentence_idx": 53,
+      "num_sentences": 1,
+      "start_time_sec": 123.44,
+      "end_time_sec": 123.44,
+      "text_preview": "That's why we started talking about California San Francisco in the first place.",
+      "keywords": [],
+      "summary": "That's why we started talking about California San Francisco in the first place. …"
+    },
+    {
+      "segment_id": 29,
+      "start_sentence_idx": 53,
+      "end_sentence_idx": 56,
+      "num_sentences": 3,
+      "start_time_sec": 125.64,
+      "end_time_sec": 127.64,
+      "text_preview": "Because if you don't bother to look at the titles of epicent, you just let it roll one into the other. That's. what we're talking about, except so the Golden Gate Bridge.",
+      "keywords": [
+        "titles",
+        "talking",
+        "roll",
+        "one",
+        "look",
+        "let"
+      ],
+      "summary": "Because if you don't bother to look at the titles of epicent, you just let it roll one into the other. That's. what we're talking about, except so the Golden Gate Bridge. …"
+    },
+    {
+      "segment_id": 30,
+      "start_sentence_idx": 56,
+      "end_sentence_idx": 57,
+      "num_sentences": 1,
+      "start_time_sec": 128.64,
+      "end_time_sec": 128.64,
+      "text_preview": "Who's a pretty good chance  what we're talking about?",
+      "keywords": [],
+      "summary": "Who's a pretty good chance  what we're talking about? …"
+    },
+    {
+      "segment_id": 31,
+      "start_sentence_idx": 57,
+      "end_sentence_idx": 58,
+      "num_sentences": 1,
+      "start_time_sec": 129.64,
+      "end_time_sec": 129.64,
+      "text_preview": "It's often named as the most photographed bridge in the world.",
+      "keywords": [],
+      "summary": "It's often named as the most photographed bridge in the world. …"
+    },
+    {
+      "segment_id": 32,
+      "start_sentence_idx": 58,
+      "end_sentence_idx": 59,
+      "num_sentences": 1,
+      "start_time_sec": 131.04,
+      "end_time_sec": 131.04,
+      "text_preview": "Is that it?",
+      "keywords": [],
+      "summary": "Is that it? …"
+    },
+    {
+      "segment_id": 33,
+      "start_sentence_idx": 59,
+      "end_sentence_idx": 62,
+      "num_sentences": 3,
+      "start_time_sec": 137.6,
+      "end_time_sec": 140.52,
+      "text_preview": "Yeah, it's my second favorite. What's your first? Hmm?",
+      "keywords": [],
+      "summary": "Yeah, it's my second favorite. What's your first? Hmm? …"
+    },
+    {
+      "segment_id": 34,
+      "start_sentence_idx": 62,
+      "end_sentence_idx": 63,
+      "num_sentences": 1,
+      "start_time_sec": 141.52,
+      "end_time_sec": 141.52,
+      "text_preview": "Okay, gotta be the BB.",
+      "keywords": [],
+      "summary": "Okay, gotta be the BB. …"
+    },
+    {
+      "segment_id": 35,
+      "start_sentence_idx": 63,
+      "end_sentence_idx": 64,
+      "num_sentences": 1,
+      "start_time_sec": 144.32,
+      "end_time_sec": 144.32,
+      "text_preview": "Okay, all right, what about you?",
+      "keywords": [],
+      "summary": "Okay, all right, what about you? …"
+    },
+    {
+      "segment_id": 36,
+      "start_sentence_idx": 64,
+      "end_sentence_idx": 65,
+      "num_sentences": 1,
+      "start_time_sec": 148.44,
+      "end_time_sec": 148.44,
+      "text_preview": "I don't know, I don't know that I have a favorite bridge.",
+      "keywords": [],
+      "summary": "I don't know, I don't know that I have a favorite bridge. …"
+    },
+    {
+      "segment_id": 37,
+      "start_sentence_idx": 65,
+      "end_sentence_idx": 69,
+      "num_sentences": 4,
+      "start_time_sec": 149.44,
+      "end_time_sec": 156.64,
+      "text_preview": "I think  the ones that look  sailboats. I just see with those. Yeah, those are nice a tower bridge in one it's also quite pretty sure and then I'm gonna sound so of noxious but in Budapest not it not just No, just be  which favorite bridge oh minds and Budapest oh now But they ha…",
+      "keywords": [
+        "bridges",
+        "really",
+        "oh",
+        "seven",
+        "think",
+        "budapest"
+      ],
+      "summary": "Budapest has seven different bridges and they went they did seven different designs for all the bridges. They go through the city and connect Buddha to pests Right and if it really is  a city of a amazing bridges."
+    },
+    {
+      "segment_id": 38,
+      "start_sentence_idx": 69,
+      "end_sentence_idx": 70,
+      "num_sentences": 1,
+      "start_time_sec": 161.2,
+      "end_time_sec": 161.2,
+      "text_preview": "I agree.",
+      "keywords": [],
+      "summary": "I agree. …"
+    },
+    {
+      "segment_id": 39,
+      "start_sentence_idx": 70,
+      "end_sentence_idx": 71,
+      "num_sentences": 1,
+      "start_time_sec": 162.4,
+      "end_time_sec": 162.4,
+      "text_preview": "I forgot about that.",
+      "keywords": [],
+      "summary": "I forgot about that. …"
+    },
+    {
+      "segment_id": 40,
+      "start_sentence_idx": 71,
+      "end_sentence_idx": 73,
+      "num_sentences": 2,
+      "start_time_sec": 164.96,
+      "end_time_sec": 166.08,
+      "text_preview": "We'll also, I mean since we're shouting out bridges, we can't not talk about Pittsburgh because I don't do a baseball game there. And that beautiful stadium, and you get the beautiful bridges there, it's love.",
+      "keywords": [
+        "beautiful",
+        "bridges",
+        "since",
+        "stadium",
+        "talk",
+        "pittsburgh"
+      ],
+      "summary": "We'll also, I mean since we're shouting out bridges, we can't not talk about Pittsburgh because I don't do a baseball game there. And that beautiful stadium, and you get the beautiful bridges there, it's love. …"
+    },
+    {
+      "segment_id": 41,
+      "start_sentence_idx": 73,
+      "end_sentence_idx": 74,
+      "num_sentences": 1,
+      "start_time_sec": 167.04,
+      "end_time_sec": 167.04,
+      "text_preview": "Yeah, it's  eight bridges stadium?",
+      "keywords": [],
+      "summary": "Yeah, it's  eight bridges stadium? …"
+    },
+    {
+      "segment_id": 42,
+      "start_sentence_idx": 74,
+      "end_sentence_idx": 79,
+      "num_sentences": 5,
+      "start_time_sec": 169.84,
+      "end_time_sec": 180.0,
+      "text_preview": "No. Yeah, is it? Is that right? Yeah. Okay.",
+      "keywords": [],
+      "summary": "No. Yeah, is it? Is that right? Yeah. Okay. …"
+    },
+    {
+      "segment_id": 43,
+      "start_sentence_idx": 79,
+      "end_sentence_idx": 86,
+      "num_sentences": 7,
+      "start_time_sec": 180.0,
+      "end_time_sec": 205.64,
+      "text_preview": "8 or 12, I think they call it 8 or 12 bridges stadium. The does. That's right. So back to the Golden Gate. It's also one of the seven wonders of the modern world. Right in there. Yeah.",
+      "keywords": [
+        "right",
+        "12",
+        "wonders",
+        "yeah",
+        "think",
+        "stadium"
+      ],
+      "summary": "8 or 12, I think they call it 8 or 12 bridges stadium. The does. That's right. So back to the Golden Gate. It's also one of the seven wonders of the modern world. Right in there. Yeah. …"
+    },
+    {
+      "segment_id": 44,
+      "start_sentence_idx": 86,
+      "end_sentence_idx": 88,
+      "num_sentences": 2,
+      "start_time_sec": 205.64,
+      "end_time_sec": 210.0,
+      "text_preview": "And the American Society of Civil Engineers named it one of the bridges of the millennium in 2000. So it's a well-regarded bridge.",
+      "keywords": [
+        "well",
+        "society",
+        "regarded",
+        "one",
+        "named",
+        "millennium"
+      ],
+      "summary": "And the American Society of Civil Engineers named it one of the bridges of the millennium in 2000. So it's a well-regarded bridge. …"
+    },
+    {
+      "segment_id": 45,
+      "start_sentence_idx": 88,
+      "end_sentence_idx": 89,
+      "num_sentences": 1,
+      "start_time_sec": 210.0,
+      "end_time_sec": 210.0,
+      "text_preview": "And if you've always wondered or always thought, hey, I guess the Golden Gate bridge is called that because the weird orange colors.",
+      "keywords": [
+        "always",
+        "wondered",
+        "thought",
+        "weird",
+        "orange",
+        "hey"
+      ],
+      "summary": "And if you've always wondered or always thought, hey, I guess the Golden Gate bridge is called that because the weird orange colors. …"
+    },
+    {
+      "segment_id": 46,
+      "start_sentence_idx": 89,
+      "end_sentence_idx": 90,
+      "num_sentences": 1,
+      "start_time_sec": 210.0,
+      "end_time_sec": 210.0,
+      "text_preview": "Roughly golden?",
+      "keywords": [],
+      "summary": "Roughly golden? …"
+    },
+    {
+      "segment_id": 47,
+      "start_sentence_idx": 90,
+      "end_sentence_idx": 91,
+      "num_sentences": 1,
+      "start_time_sec": 214.72,
+      "end_time_sec": 214.72,
+      "text_preview": "I don't know.",
+      "keywords": [],
+      "summary": "I don't know. …"
+    },
+    {
+      "segment_id": 48,
+      "start_sentence_idx": 91,
+      "end_sentence_idx": 92,
+      "num_sentences": 1,
+      "start_time_sec": 214.72,
+      "end_time_sec": 214.72,
+      "text_preview": "Would they  me?",
+      "keywords": [],
+      "summary": "Would they  me? …"
+    },
+    {
+      "segment_id": 49,
+      "start_sentence_idx": 92,
+      "end_sentence_idx": 93,
+      "num_sentences": 1,
+      "start_time_sec": 219.2,
+      "end_time_sec": 219.2,
+      "text_preview": "Probably  you Chuck.",
+      "keywords": [],
+      "summary": "Probably  you Chuck. …"
+    },
+    {
+      "segment_id": 50,
+      "start_sentence_idx": 93,
+      "end_sentence_idx": 94,
+      "num_sentences": 1,
+      "start_time_sec": 219.2,
+      "end_time_sec": 219.2,
+      "text_preview": "And... that would be your wrong.",
+      "keywords": [],
+      "summary": "And... that would be your wrong. …"
+    },
+    {
+      "segment_id": 51,
+      "start_sentence_idx": 94,
+      "end_sentence_idx": 95,
+      "num_sentences": 1,
+      "start_time_sec": 223.2,
+      "end_time_sec": 223.2,
+      "text_preview": "That's right because Golden Gate very much predates the construction of that bridge and with that we can't understand.",
+      "keywords": [],
+      "summary": "That's right because Golden Gate very much predates the construction of that bridge and with that we can't understand. …"
+    },
+    {
+      "segment_id": 52,
+      "start_sentence_idx": 95,
+      "end_sentence_idx": 96,
+      "num_sentences": 1,
+      "start_time_sec": 223.2,
+      "end_time_sec": 223.2,
+      "text_preview": "Okay I'm gonna make click a horse sound while you tell the story so this guy will be writing a horse okay.",
+      "keywords": [
+        "horse",
+        "okay",
+        "tell",
+        "writing",
+        "sound",
+        "story"
+      ],
+      "summary": "Okay I'm gonna make click a horse sound while you tell the story so this guy will be writing a horse okay. …"
+    },
+    {
+      "segment_id": 53,
+      "start_sentence_idx": 96,
+      "end_sentence_idx": 97,
+      "num_sentences": 1,
+      "start_time_sec": 229.44,
+      "end_time_sec": 229.44,
+      "text_preview": "You got two ads of coconut and you banging them together.",
+      "keywords": [],
+      "summary": "You got two ads of coconut and you banging them together. …"
+    },
+    {
+      "segment_id": 54,
+      "start_sentence_idx": 97,
+      "end_sentence_idx": 98,
+      "num_sentences": 1,
+      "start_time_sec": 229.44,
+      "end_time_sec": 229.44,
+      "text_preview": "1846 this is the Mexican-American wartime that's going on and there's a army officer in the United States named John for a month.",
+      "keywords": [
+        "wartime",
+        "united",
+        "states",
+        "officer",
+        "named",
+        "month"
+      ],
+      "summary": "1846 this is the Mexican-American wartime that's going on and there's a army officer in the United States named John for a month. …"
+    },
+    {
+      "segment_id": 55,
+      "start_sentence_idx": 98,
+      "end_sentence_idx": 99,
+      "num_sentences": 1,
+      "start_time_sec": 229.44,
+      "end_time_sec": 229.44,
+      "text_preview": "who basically said without sounds  without even asking anyone.",
+      "keywords": [],
+      "summary": "who basically said without sounds  without even asking anyone. …"
+    },
+    {
+      "segment_id": 56,
+      "start_sentence_idx": 99,
+      "end_sentence_idx": 100,
+      "num_sentences": 1,
+      "start_time_sec": 229.44,
+      "end_time_sec": 229.44,
+      "text_preview": "Hey, California's independent from Mexico.",
+      "keywords": [],
+      "summary": "Hey, California's independent from Mexico. …"
+    },
+    {
+      "segment_id": 57,
+      "start_sentence_idx": 100,
+      "end_sentence_idx": 102,
+      "num_sentences": 2,
+      "start_time_sec": 229.44,
+      "end_time_sec": 229.44,
+      "text_preview": "At one point he was crossing the San Francisco Bay there from Sanoma. Two San Francisco to fight the Mexican Army there and he named that mut... Really?",
+      "keywords": [
+        "san",
+        "francisco",
+        "sanoma",
+        "really",
+        "point",
+        "two"
+      ],
+      "summary": "At one point he was crossing the San Francisco Bay there from Sanoma. Two San Francisco to fight the Mexican Army there and he named that mut... Really? …"
+    },
+    {
+      "segment_id": 58,
+      "start_sentence_idx": 102,
+      "end_sentence_idx": 103,
+      "num_sentences": 1,
+      "start_time_sec": 236.0,
+      "end_time_sec": 236.0,
+      "text_preview": "And he named that mile-wide straight that connects the Bay to the ocean.",
+      "keywords": [],
+      "summary": "And he named that mile-wide straight that connects the Bay to the ocean. …"
+    },
+    {
+      "segment_id": 59,
+      "start_sentence_idx": 103,
+      "end_sentence_idx": 104,
+      "num_sentences": 1,
+      "start_time_sec": 236.0,
+      "end_time_sec": 236.0,
+      "text_preview": "What would that be?",
+      "keywords": [],
+      "summary": "What would that be? …"
+    },
+    {
+      "segment_id": 60,
+      "start_sentence_idx": 104,
+      "end_sentence_idx": 105,
+      "num_sentences": 1,
+      "start_time_sec": 240.0,
+      "end_time_sec": 240.0,
+      "text_preview": "So, filet?",
+      "keywords": [],
+      "summary": "So, filet? …"
+    },
+    {
+      "segment_id": 61,
+      "start_sentence_idx": 105,
+      "end_sentence_idx": 106,
+      "num_sentences": 1,
+      "start_time_sec": 241.0,
+      "end_time_sec": 241.0,
+      "text_preview": "Can't stop.",
+      "keywords": [],
+      "summary": "Can't stop. …"
+    },
+    {
+      "segment_id": 62,
+      "start_sentence_idx": 106,
+      "end_sentence_idx": 107,
+      "num_sentences": 1,
+      "start_time_sec": 244.24,
+      "end_time_sec": 244.24,
+      "text_preview": "Oh no.",
+      "keywords": [],
+      "summary": "Oh no. …"
+    },
+    {
+      "segment_id": 63,
+      "start_sentence_idx": 107,
+      "end_sentence_idx": 108,
+      "num_sentences": 1,
+      "start_time_sec": 245.24,
+      "end_time_sec": 245.24,
+      "text_preview": "Here we go.",
+      "keywords": [],
+      "summary": "Here we go. …"
+    },
+    {
+      "segment_id": 64,
+      "start_sentence_idx": 108,
+      "end_sentence_idx": 109,
+      "num_sentences": 1,
+      "start_time_sec": 246.24,
+      "end_time_sec": 246.24,
+      "text_preview": "I guess Chris Ophale, which means Golden Gate, and later on, rather than the Greek version, he went with the English, and that passage was called the Golden Gate.",
+      "keywords": [
+        "gate",
+        "golden",
+        "rather",
+        "passage",
+        "went",
+        "version"
+      ],
+      "summary": "I guess Chris Ophale, which means Golden Gate, and later on, rather than the Greek version, he went with the English, and that passage was called the Golden Gate. …"
+    },
+    {
+      "segment_id": 65,
+      "start_sentence_idx": 109,
+      "end_sentence_idx": 110,
+      "num_sentences": 1,
+      "start_time_sec": 252.08,
+      "end_time_sec": 252.08,
+      "text_preview": "That's right.",
+      "keywords": [],
+      "summary": "That's right. …"
+    },
+    {
+      "segment_id": 66,
+      "start_sentence_idx": 110,
+      "end_sentence_idx": 111,
+      "num_sentences": 1,
+      "start_time_sec": 253.08,
+      "end_time_sec": 253.08,
+      "text_preview": "So this is the bridge over the Golden Gate, right?",
+      "keywords": [],
+      "summary": "So this is the bridge over the Golden Gate, right? …"
+    },
+    {
+      "segment_id": 67,
+      "start_sentence_idx": 111,
+      "end_sentence_idx": 112,
+      "num_sentences": 1,
+      "start_time_sec": 256.16,
+      "end_time_sec": 256.16,
+      "text_preview": "Did  that?",
+      "keywords": [],
+      "summary": "Did  that? …"
+    },
+    {
+      "segment_id": 68,
+      "start_sentence_idx": 112,
+      "end_sentence_idx": 113,
+      "num_sentences": 1,
+      "start_time_sec": 262.36,
+      "end_time_sec": 262.36,
+      "text_preview": "No, not, I was yesterday, or is old as I say.",
+      "keywords": [],
+      "summary": "No, not, I was yesterday, or is old as I say. …"
+    },
+    {
+      "segment_id": 69,
+      "start_sentence_idx": 113,
+      "end_sentence_idx": 114,
+      "num_sentences": 1,
+      "start_time_sec": 265.44,
+      "end_time_sec": 265.44,
+      "text_preview": "Yep, so yeah, and the Golden Gate in particular is pretty neat, not just because it's the connection seems to go big to the Pacific Ocean.",
+      "keywords": [
+        "yep",
+        "yeah",
+        "seems",
+        "pretty",
+        "particular",
+        "pacific"
+      ],
+      "summary": "Yep, so yeah, and the Golden Gate in particular is pretty neat, not just because it's the connection seems to go big to the Pacific Ocean. …"
+    },
+    {
+      "segment_id": 70,
+      "start_sentence_idx": 114,
+      "end_sentence_idx": 121,
+      "num_sentences": 7,
+      "start_time_sec": 266.44,
+      "end_time_sec": 275.54,
+      "text_preview": "But geographically, it's  300 feet deep right there. But on the shelf in the Pacific side, it's much shallower. And then in the bay, so the bay's  an average of 14 feet deep or something crazy  that. So it just suddenly goes  this huge suppression. And this is what they need to c…",
+      "keywords": [
+        "ever",
+        "feet",
+        "bridge",
+        "300",
+        "bay",
+        "deep"
+      ],
+      "summary": "San Francisco is 300 feet deep on the Pacific side, much shallower on the California side. The bay is an average of 14 feet deep or something crazy like that. And this is what they need to cross. a 300 foot depression through the Golden Gate with a bridge."
+    },
+    {
+      "segment_id": 71,
+      "start_sentence_idx": 121,
+      "end_sentence_idx": 122,
+      "num_sentences": 1,
+      "start_time_sec": 275.54,
+      "end_time_sec": 275.54,
+      "text_preview": "It's connected to the south to the rest of California but there's a lot of stuff to the north of that.",
+      "keywords": [
+        "stuff",
+        "south",
+        "rest",
+        "north",
+        "lot",
+        "connected"
+      ],
+      "summary": "It's connected to the south to the rest of California but there's a lot of stuff to the north of that. …"
+    },
+    {
+      "segment_id": 72,
+      "start_sentence_idx": 122,
+      "end_sentence_idx": 123,
+      "num_sentences": 1,
+      "start_time_sec": 282.72,
+      "end_time_sec": 282.72,
+      "text_preview": "It's of the north you have to cross the golden gate so people were  we've got to get here to there  we marine county we  a head of luma we  to say head of luma at least it's also lead us another submarine say.",
+      "keywords": [
+        "luma",
+        "say",
+        "head",
+        "us",
+        "submarine",
+        "people"
+      ],
+      "summary": "It's of the north you have to cross the golden gate so people were  we've got to get here to there  we marine county we  a head of luma we  to say head of luma at least it's also lead us another submarine say. …"
+    },
+    {
+      "segment_id": 73,
+      "start_sentence_idx": 123,
+      "end_sentence_idx": 124,
+      "num_sentences": 1,
+      "start_time_sec": 287.28,
+      "end_time_sec": 287.28,
+      "text_preview": "you So they started with fairies and that worked just fine, but it's more and more people showed up.",
+      "keywords": [],
+      "summary": "you So they started with fairies and that worked just fine, but it's more and more people showed up. …"
+    },
+    {
+      "segment_id": 74,
+      "start_sentence_idx": 124,
+      "end_sentence_idx": 125,
+      "num_sentences": 1,
+      "start_time_sec": 287.28,
+      "end_time_sec": 287.28,
+      "text_preview": "Tim's just goes a magnet for immigrants, especially after the Gold Rush of 1849.",
+      "keywords": [],
+      "summary": "Tim's just goes a magnet for immigrants, especially after the Gold Rush of 1849. …"
+    },
+    {
+      "segment_id": 75,
+      "start_sentence_idx": 125,
+      "end_sentence_idx": 126,
+      "num_sentences": 1,
+      "start_time_sec": 287.28,
+      "end_time_sec": 287.28,
+      "text_preview": "They were , we might need something better than just fairies, especially if we want to run real-world cars.",
+      "keywords": [],
+      "summary": "They were , we might need something better than just fairies, especially if we want to run real-world cars. …"
+    },
+    {
+      "segment_id": 76,
+      "start_sentence_idx": 126,
+      "end_sentence_idx": 127,
+      "num_sentences": 1,
+      "start_time_sec": 287.28,
+      "end_time_sec": 287.28,
+      "text_preview": "Yeah, and Jack that fairie was expensive, man.",
+      "keywords": [],
+      "summary": "Yeah, and Jack that fairie was expensive, man. …"
+    },
+    {
+      "segment_id": 77,
+      "start_sentence_idx": 127,
+      "end_sentence_idx": 128,
+      "num_sentences": 1,
+      "start_time_sec": 293.44,
+      "end_time_sec": 293.44,
+      "text_preview": "Yeah.",
+      "keywords": [],
+      "summary": "Yeah. …"
+    },
+    {
+      "segment_id": 78,
+      "start_sentence_idx": 128,
+      "end_sentence_idx": 129,
+      "num_sentences": 1,
+      "start_time_sec": 297.88,
+      "end_time_sec": 297.88,
+      "text_preview": "They were actually just  tanker boats, but they would double his fairies and say, yeah, sure we'll take it across.",
+      "keywords": [
+        "yeah",
+        "would",
+        "tanker",
+        "take",
+        "sure",
+        "say"
+      ],
+      "summary": "They were actually just  tanker boats, but they would double his fairies and say, yeah, sure we'll take it across. …"
+    },
+    {
+      "segment_id": 79,
+      "start_sentence_idx": 129,
+      "end_sentence_idx": 130,
+      "num_sentences": 1,
+      "start_time_sec": 300.0,
+      "end_time_sec": 300.0,
+      "text_preview": "It was $2 a head, which is almost... 70 dollars today.",
+      "keywords": [],
+      "summary": "It was $2 a head, which is almost... 70 dollars today. …"
+    },
+    {
+      "segment_id": 80,
+      "start_sentence_idx": 130,
+      "end_sentence_idx": 132,
+      "num_sentences": 2,
+      "start_time_sec": 304.0,
+      "end_time_sec": 307.0,
+      "text_preview": "Yeah, and you got a 70. Yeah, I saw 77 dollars.",
+      "keywords": [],
+      "summary": "Yeah, and you got a 70. Yeah, I saw 77 dollars. …"
+    },
+    {
+      "segment_id": 81,
+      "start_sentence_idx": 132,
+      "end_sentence_idx": 133,
+      "num_sentences": 1,
+      "start_time_sec": 311.0,
+      "end_time_sec": 311.0,
+      "text_preview": "You That's even more outreach.",
+      "keywords": [],
+      "summary": "You That's even more outreach. …"
+    },
+    {
+      "segment_id": 82,
+      "start_sentence_idx": 133,
+      "end_sentence_idx": 134,
+      "num_sentences": 1,
+      "start_time_sec": 316.0,
+      "end_time_sec": 316.0,
+      "text_preview": "That's and they gave you saltines and grape coolate.",
+      "keywords": [],
+      "summary": "That's and they gave you saltines and grape coolate. …"
+    },
+    {
+      "segment_id": 83,
+      "start_sentence_idx": 134,
+      "end_sentence_idx": 135,
+      "num_sentences": 1,
+      "start_time_sec": 317.0,
+      "end_time_sec": 317.0,
+      "text_preview": "That was the only food you had on board Just  that so then Baptist food That's what I had in their shoes.",
+      "keywords": [
+        "food",
+        "shoes",
+        "board",
+        "baptist"
+      ],
+      "summary": "That was the only food you had on board Just  that so then Baptist food That's what I had in their shoes. …"
+    },
+    {
+      "segment_id": 84,
+      "start_sentence_idx": 135,
+      "end_sentence_idx": 136,
+      "num_sentences": 1,
+      "start_time_sec": 323.0,
+      "end_time_sec": 323.0,
+      "text_preview": "Actually it really comes from That was pretty good especially to your church and your part of her So Oh, there was finally one call up the princess.",
+      "keywords": [
+        "really",
+        "princess",
+        "pretty",
+        "part",
+        "one",
+        "oh"
+      ],
+      "summary": "Actually it really comes from That was pretty good especially to your church and your part of her So Oh, there was finally one call up the princess. …"
+    },
+    {
+      "segment_id": 85,
+      "start_sentence_idx": 136,
+      "end_sentence_idx": 137,
+      "num_sentences": 1,
+      "start_time_sec": 325.0,
+      "end_time_sec": 325.0,
+      "text_preview": "There was a side wheel pad oil steamer egg guess that was the first official fair.",
+      "keywords": [],
+      "summary": "There was a side wheel pad oil steamer egg guess that was the first official fair. …"
+    },
+    {
+      "segment_id": 86,
+      "start_sentence_idx": 137,
+      "end_sentence_idx": 138,
+      "num_sentences": 1,
+      "start_time_sec": 326.0,
+      "end_time_sec": 326.0,
+      "text_preview": "That happened in 1868.",
+      "keywords": [],
+      "summary": "That happened in 1868. …"
+    },
+    {
+      "segment_id": 87,
+      "start_sentence_idx": 138,
+      "end_sentence_idx": 139,
+      "num_sentences": 1,
+      "start_time_sec": 327.0,
+      "end_time_sec": 327.0,
+      "text_preview": "That guy Charles Crocker, although he back in 1872, so we need a bridge and there's why he said we need a bridge, because he was a railroad guy and he said we need to get railroad stuff for people, we need to move lumber, we need to do all sorts of stuff.",
+      "keywords": [
+        "need",
+        "stuff",
+        "railroad",
+        "said",
+        "bridge",
+        "guy"
+      ],
+      "summary": "Charles Crocker said in 1872, \"We need a bridge, because he was a railroad guy\""
+    },
+    {
+      "segment_id": 88,
+      "start_sentence_idx": 139,
+      "end_sentence_idx": 150,
+      "num_sentences": 11,
+      "start_time_sec": 329.0,
+      "end_time_sec": 360.0,
+      "text_preview": "So let's get a bridge. Yeah, and people are , there's no way. That's two miles and everyone's ever built a suspension bridge that long. And 1960. It was a San Francisco sunjournless who used to study engineering named James Wilkins. He said, now I think we can build a suspension …",
+      "keywords": [
+        "bridge",
+        "named",
+        "said",
+        "suspension",
+        "everyone",
+        "say"
+      ],
+      "summary": "In 1960, a San Francisco sunjournless who used to study engineering named James Wilkins. He said, now I think we can build a suspension bridge. It'll be 3000 feet and it'll cost in those days dollars. A hundred million dollars first, which is almost, I'm sorry, it"
+    },
+    {
+      "segment_id": 89,
+      "start_sentence_idx": 150,
+      "end_sentence_idx": 154,
+      "num_sentences": 4,
+      "start_time_sec": 365.0,
+      "end_time_sec": 375.36,
+      "text_preview": "But it can't be a straight suspension bridge all the way over. And it can't be just a cantilevered bridge. The suspension will be too flexible and flexible and flexible. Those winds and the cantilever will be way too heavy.",
+      "keywords": [
+        "flexible",
+        "bridge",
+        "way",
+        "suspension",
+        "winds",
+        "heavy"
+      ],
+      "summary": "But it can't be a straight suspension bridge all the way over. And it can't be just a cantilevered bridge. The suspension will be too flexible and flexible and flexible. Those winds and the cantilever will be way too hea …"
+    },
+    {
+      "segment_id": 90,
+      "start_sentence_idx": 154,
+      "end_sentence_idx": 155,
+      "num_sentences": 1,
+      "start_time_sec": 379.32,
+      "end_time_sec": 379.32,
+      "text_preview": "So if you do a combination of the two, I think that's the winning idea and it'll cost you take the seat of all.",
+      "keywords": [
+        "winning",
+        "two",
+        "think",
+        "take",
+        "seat",
+        "idea"
+      ],
+      "summary": "So if you do a combination of the two, I think that's the winning idea and it'll cost you take the seat of all. …"
+    },
+    {
+      "segment_id": 91,
+      "start_sentence_idx": 155,
+      "end_sentence_idx": 156,
+      "num_sentences": 1,
+      "start_time_sec": 381.08,
+      "end_time_sec": 381.08,
+      "text_preview": "the 17-year-old.",
+      "keywords": [],
+      "summary": "the 17-year-old. …"
+    },
+    {
+      "segment_id": 92,
+      "start_sentence_idx": 156,
+      "end_sentence_idx": 157,
+      "num_sentences": 1,
+      "start_time_sec": 385.36,
+      "end_time_sec": 385.36,
+      "text_preview": "Yeah, that was much more in line with what the city and the near-new that the city of San Francisco were willing to pay for the rest, right?",
+      "keywords": [
+        "city",
+        "yeah",
+        "san",
+        "willing",
+        "right",
+        "rest"
+      ],
+      "summary": "Yeah, that was much more in line with what the city and the near-new that the city of San Francisco were willing to pay for the rest, right? …"
+    },
+    {
+      "segment_id": 93,
+      "start_sentence_idx": 157,
+      "end_sentence_idx": 158,
+      "num_sentences": 1,
+      "start_time_sec": 390.0,
+      "end_time_sec": 390.0,
+      "text_preview": "Joseph Strauss, he became the central figure of the Golden Gate Bridge.",
+      "keywords": [],
+      "summary": "Joseph Strauss, he became the central figure of the Golden Gate Bridge. …"
+    },
+    {
+      "segment_id": 94,
+      "start_sentence_idx": 158,
+      "end_sentence_idx": 159,
+      "num_sentences": 1,
+      "start_time_sec": 395.6,
+      "end_time_sec": 395.6,
+      "text_preview": "He's often petted as the man who built the Golden Gate Bridge.",
+      "keywords": [],
+      "summary": "He's often petted as the man who built the Golden Gate Bridge. …"
+    },
+    {
+      "segment_id": 95,
+      "start_sentence_idx": 159,
+      "end_sentence_idx": 160,
+      "num_sentences": 1,
+      "start_time_sec": 395.6,
+      "end_time_sec": 395.6,
+      "text_preview": "Genuinely unfair thing to say because so many people contributed so much to it.",
+      "keywords": [],
+      "summary": "Genuinely unfair thing to say because so many people contributed so much to it. …"
+    },
+    {
+      "segment_id": 96,
+      "start_sentence_idx": 160,
+      "end_sentence_idx": 161,
+      "num_sentences": 1,
+      "start_time_sec": 400.96,
+      "end_time_sec": 400.96,
+      "text_preview": "But he was not a shy person, he could work with.",
+      "keywords": [],
+      "summary": "But he was not a shy person, he could work with. …"
+    },
+    {
+      "segment_id": 97,
+      "start_sentence_idx": 161,
+      "end_sentence_idx": 162,
+      "num_sentences": 1,
+      "start_time_sec": 400.96,
+      "end_time_sec": 400.96,
+      "text_preview": "just about anybody.",
+      "keywords": [],
+      "summary": "just about anybody. …"
+    },
+    {
+      "segment_id": 98,
+      "start_sentence_idx": 162,
+      "end_sentence_idx": 163,
+      "num_sentences": 1,
+      "start_time_sec": 400.96,
+      "end_time_sec": 400.96,
+      "text_preview": "He knew how to work the system and he was on the self-promoter, but he definitely was after the acclaim of being the man who built the goal.",
+      "keywords": [
+        "work",
+        "system",
+        "self",
+        "promoter",
+        "man",
+        "knew"
+      ],
+      "summary": "He knew how to work the system and he was on the self-promoter, but he definitely was after the acclaim of being the man who built the goal. …"
+    },
+    {
+      "segment_id": 99,
+      "start_sentence_idx": 163,
+      "end_sentence_idx": 164,
+      "num_sentences": 1,
+      "start_time_sec": 406.4,
+      "end_time_sec": 406.4,
+      "text_preview": "So just kind of put that in your pipe for later.",
+      "keywords": [],
+      "summary": "So just kind of put that in your pipe for later. …"
+    },
+    {
+      "segment_id": 100,
+      "start_sentence_idx": 164,
+      "end_sentence_idx": 166,
+      "num_sentences": 2,
+      "start_time_sec": 411.6,
+      "end_time_sec": 418.4,
+      "text_preview": "Right. Don't smokey.",
+      "keywords": [],
+      "summary": "Right. Don't smokey. …"
+    },
+    {
+      "segment_id": 101,
+      "start_sentence_idx": 166,
+      "end_sentence_idx": 167,
+      "num_sentences": 1,
+      "start_time_sec": 424.0,
+      "end_time_sec": 424.0,
+      "text_preview": "No, no, don't, don't spark.",
+      "keywords": [],
+      "summary": "No, no, don't, don't spark. …"
+    },
+    {
+      "segment_id": 102,
+      "start_sentence_idx": 167,
+      "end_sentence_idx": 168,
+      "num_sentences": 1,
+      "start_time_sec": 420.0,
+      "end_time_sec": 420.0,
+      "text_preview": "But he, in the city guy named Proul's Ellis, who is  the, I don't know how you would describe.",
+      "keywords": [],
+      "summary": "But he, in the city guy named Proul's Ellis, who is  the, I don't know how you would describe. …"
+    },
+    {
+      "segment_id": 103,
+      "start_sentence_idx": 168,
+      "end_sentence_idx": 169,
+      "num_sentences": 1,
+      "start_time_sec": 425.04,
+      "end_time_sec": 425.04,
+      "text_preview": "I can't think of an analogous movie character, but I feel  we can get him a crop.",
+      "keywords": [],
+      "summary": "I can't think of an analogous movie character, but I feel  we can get him a crop. …"
+    },
+    {
+      "segment_id": 104,
+      "start_sentence_idx": 169,
+      "end_sentence_idx": 170,
+      "num_sentences": 1,
+      "start_time_sec": 431.04,
+      "end_time_sec": 431.04,
+      "text_preview": "but he was obsessed with making sure that this bridge was not going to collapse.",
+      "keywords": [],
+      "summary": "but he was obsessed with making sure that this bridge was not going to collapse. …"
+    },
+    {
+      "segment_id": 105,
+      "start_sentence_idx": 170,
+      "end_sentence_idx": 173,
+      "num_sentences": 3,
+      "start_time_sec": 436.32,
+      "end_time_sec": 439.76,
+      "text_preview": "Yeah, I would describe him as a math was he was the guy I think we did when we did the New York Subways episode. We talked about the tunnels that went under the Hudson River. He was a guy that came up with that ran and so that's a pretty good dude to get if you're trying to build…",
+      "keywords": [
+        "guy",
+        "yeah",
+        "would",
+        "went",
+        "york",
+        "trying"
+      ],
+      "summary": "\"He was a guy that came up with that ran and so that's a pretty good dude to get if you're trying to build a bridge that no one thought could be built at the time,\""
+    },
+    {
+      "segment_id": 106,
+      "start_sentence_idx": 173,
+      "end_sentence_idx": 177,
+      "num_sentences": 4,
+      "start_time_sec": 446.32,
+      "end_time_sec": 450.0,
+      "text_preview": "Right,  super super math guy. Just keep math in your- head because it was a C math would end up being his undo. Yeah, but he was not after it claimed he did not, I get the impression necessarily know how to work with everybody or work with the system. He just wanted to do his mat…",
+      "keywords": [
+        "math",
+        "work",
+        "super",
+        "right",
+        "wanted",
+        "would"
+      ],
+      "summary": "\"He was not after it claimed he did not, I get the impression necessarily know how to work with everybody or work with the system,\" he says. \""
+    },
+    {
+      "segment_id": 107,
+      "start_sentence_idx": 177,
+      "end_sentence_idx": 186,
+      "num_sentences": 9,
+      "start_time_sec": 450.0,
+      "end_time_sec": 465.36,
+      "text_preview": "Yeah. So he was a good guy to have in that sense. And one of the reasons why it was so because the design process was so long, at one point as we'll see, this is completely scrapped, straws as I de-instarted over. Yeah. Fine, it's things also, if thing, I mean, Strauss had gotten…",
+      "keywords": [
+        "yeah",
+        "one",
+        "unparalleled",
+        "things",
+        "thing",
+        "straws"
+      ],
+      "summary": "The design process was so long, at one point as we'll see, this is completely scrapped, straws as I de-instarted over. Strauss had gotten it. down to an estimate of 70 million. And I'm sure anybody who was"
+    },
+    {
+      "segment_id": 108,
+      "start_sentence_idx": 186,
+      "end_sentence_idx": 193,
+      "num_sentences": 7,
+      "start_time_sec": 468.8,
+      "end_time_sec": 480.0,
+      "text_preview": "But the state was interested in us that in 1923, they passed the Golden Gate Bridge in Highway District, California, which basically said to the people in the surrounding 21 counties. Hey, you guys want to get in on this and basically vote for a tax district that can create debt …",
+      "keywords": [
+        "said",
+        "basically",
+        "well",
+        "district",
+        "yeah",
+        "vote"
+      ],
+      "summary": "In 1923, California passed the Golden Gate Bridge in Highway District, California, which basically said to the people in the surrounding 21 counties. All of the businesses and all your homes in your county are going to put a fiscal lateral jointly against that loan."
+    },
+    {
+      "segment_id": 109,
+      "start_sentence_idx": 193,
+      "end_sentence_idx": 194,
+      "num_sentences": 1,
+      "start_time_sec": 485.84,
+      "end_time_sec": 485.84,
+      "text_preview": "And surprisingly, maybe six out of the 21 counties said, we're in.",
+      "keywords": [],
+      "summary": "And surprisingly, maybe six out of the 21 counties said, we're in. …"
+    },
+    {
+      "segment_id": 110,
+      "start_sentence_idx": 194,
+      "end_sentence_idx": 195,
+      "num_sentences": 1,
+      "start_time_sec": 490.08,
+      "end_time_sec": 490.08,
+      "text_preview": "We see this progress or something that we need as far as the remaining counties that weren't into it.",
+      "keywords": [],
+      "summary": "We see this progress or something that we need as far as the remaining counties that weren't into it. …"
+    },
+    {
+      "segment_id": 111,
+      "start_sentence_idx": 195,
+      "end_sentence_idx": 196,
+      "num_sentences": 1,
+      "start_time_sec": 497.68,
+      "end_time_sec": 497.68,
+      "text_preview": "Some of the obvious reasons they just did want to do that.",
+      "keywords": [],
+      "summary": "Some of the obvious reasons they just did want to do that. …"
+    },
+    {
+      "segment_id": 112,
+      "start_sentence_idx": 196,
+      "end_sentence_idx": 197,
+      "num_sentences": 1,
+      "start_time_sec": 497.68,
+      "end_time_sec": 497.68,
+      "text_preview": "A somewhere about.",
+      "keywords": [],
+      "summary": "A somewhere about. …"
+    },
+    {
+      "segment_id": 113,
+      "start_sentence_idx": 197,
+      "end_sentence_idx": 198,
+      "num_sentences": 1,
+      "start_time_sec": 497.68,
+      "end_time_sec": 497.68,
+      "text_preview": "also barons and  hey this isn't even going to be enough other people didn't this was the early 1920s so it's still  kind of I mean it was a bustling city for 1920s but there were areas of rural  ruralness sir across the other side and  they were  we don't want it this bridge  we …",
+      "keywords": [
+        "want",
+        "people",
+        "1920s",
+        "even",
+        "erkweik",
+        "enough"
+      ],
+      "summary": "There were areas of rural  ruralness sir across the other side and  they were  we don't want it this bridge. also barons and  hey this isn't even going to be enough other people didn't this was the early 1920s so it's still kind of kind."
+    },
+    {
+      "segment_id": 114,
+      "start_sentence_idx": 198,
+      "end_sentence_idx": 200,
+      "num_sentences": 2,
+      "start_time_sec": 503.76,
+      "end_time_sec": 503.76,
+      "text_preview": "Yeah the first big one. Yeah.",
+      "keywords": [],
+      "summary": "Yeah the first big one. Yeah. …"
+    },
+    {
+      "segment_id": 115,
+      "start_sentence_idx": 200,
+      "end_sentence_idx": 207,
+      "num_sentences": 7,
+      "start_time_sec": 507.68,
+      "end_time_sec": 530.24,
+      "text_preview": "Shippers were  well  we can make it through the Golden Gate to the Pacific pretty easy right now where we're going to be. little worry that just building this grid is going to hamper our ability to make mad cash. The Department of War, which had a heavy presence in that area, is …",
+      "keywords": [
+        "going",
+        "bridge",
+        "pacific",
+        "people",
+        "worried",
+        "harbor"
+      ],
+      "summary": "The Department of War, which had a heavy presence in that area, is worried that this grid is going to block our progress. Shippers were  well  we can make it through the Golden Gate to the Pacific pretty easy right now. And then the southern Pacific Railroads stepped up and said, we run"
+    },
+    {
+      "segment_id": 116,
+      "start_sentence_idx": 207,
+      "end_sentence_idx": 208,
+      "num_sentences": 1,
+      "start_time_sec": 533.2,
+      "end_time_sec": 533.2,
+      "text_preview": "Yeah, and before we break, I do want to mention before we get some email.",
+      "keywords": [],
+      "summary": "Yeah, and before we break, I do want to mention before we get some email. …"
+    },
+    {
+      "segment_id": 117,
+      "start_sentence_idx": 208,
+      "end_sentence_idx": 209,
+      "num_sentences": 1,
+      "start_time_sec": 539.12,
+      "end_time_sec": 539.12,
+      "text_preview": "We mentioned the Department of War not in, , been to the beach pit, hexaf.",
+      "keywords": [],
+      "summary": "We mentioned the Department of War not in, , been to the beach pit, hexaf. …"
+    },
+    {
+      "segment_id": 118,
+      "start_sentence_idx": 209,
+      "end_sentence_idx": 210,
+      "num_sentences": 1,
+      "start_time_sec": 540.0,
+      "end_time_sec": 540.0,
+      "text_preview": "That was the original name that later became the department of defense I got the which of then oh again now.",
+      "keywords": [
+        "original",
+        "oh",
+        "name",
+        "later",
+        "got",
+        "department"
+      ],
+      "summary": "That was the original name that later became the department of defense I got the which of then oh again now. …"
+    },
+    {
+      "segment_id": 119,
+      "start_sentence_idx": 210,
+      "end_sentence_idx": 211,
+      "num_sentences": 1,
+      "start_time_sec": 543.24,
+      "end_time_sec": 543.24,
+      "text_preview": "Yeah, is now To the tune of what I just read was gonna cost a hundred we've had million dollars Change the name back to So another hundred you 25 to change it back to the fence apartment Probably so so I just want to point that out.",
+      "keywords": [
+        "change",
+        "hundred",
+        "back",
+        "yeah",
+        "want",
+        "tune"
+      ],
+      "summary": "Yeah, is now To the tune of what I just read was gonna cost a hundred we've had million dollars Change the name back to So another hundred you 25 to change it back to the fence apartment Probably so so I just want to poi …"
+    },
+    {
+      "segment_id": 120,
+      "start_sentence_idx": 211,
+      "end_sentence_idx": 212,
+      "num_sentences": 1,
+      "start_time_sec": 548.4,
+      "end_time_sec": 548.4,
+      "text_preview": "Let's take a break and we'll be right back So the first design this hybrid design was pretty ugly.",
+      "keywords": [],
+      "summary": "Let's take a break and we'll be right back So the first design this hybrid design was pretty ugly. …"
+    },
+    {
+      "segment_id": 121,
+      "start_sentence_idx": 212,
+      "end_sentence_idx": 213,
+      "num_sentences": 1,
+      "start_time_sec": 551.04,
+      "end_time_sec": 551.04,
+      "text_preview": "Those are critic that said it look  an upside down rat trap.",
+      "keywords": [],
+      "summary": "Those are critic that said it look  an upside down rat trap. …"
+    },
+    {
+      "segment_id": 122,
+      "start_sentence_idx": 213,
+      "end_sentence_idx": 214,
+      "num_sentences": 1,
+      "start_time_sec": 554.68,
+      "end_time_sec": 554.68,
+      "text_preview": "So they said, all right, we got a redesign this thing.",
+      "keywords": [],
+      "summary": "So they said, all right, we got a redesign this thing. …"
+    },
+    {
+      "segment_id": 123,
+      "start_sentence_idx": 214,
+      "end_sentence_idx": 215,
+      "num_sentences": 1,
+      "start_time_sec": 558.28,
+      "end_time_sec": 558.28,
+      "text_preview": "This kind of look good.",
+      "keywords": [],
+      "summary": "This kind of look good. …"
+    },
+    {
+      "segment_id": 124,
+      "start_sentence_idx": 215,
+      "end_sentence_idx": 216,
+      "num_sentences": 1,
+      "start_time_sec": 561.16,
+      "end_time_sec": 561.16,
+      "text_preview": "Ellis gets together with consulting engineers.",
+      "keywords": [],
+      "summary": "Ellis gets together with consulting engineers. …"
+    },
+    {
+      "segment_id": 125,
+      "start_sentence_idx": 216,
+      "end_sentence_idx": 217,
+      "num_sentences": 1,
+      "start_time_sec": 564.12,
+      "end_time_sec": 564.12,
+      "text_preview": "beyond.",
+      "keywords": [],
+      "summary": "beyond. …"
+    },
+    {
+      "segment_id": 126,
+      "start_sentence_idx": 217,
+      "end_sentence_idx": 218,
+      "num_sentences": 1,
+      "start_time_sec": 569.36,
+      "end_time_sec": 569.36,
+      "text_preview": "I guess it would be Moisef and O.H.",
+      "keywords": [],
+      "summary": "I guess it would be Moisef and O.H. …"
+    },
+    {
+      "segment_id": 127,
+      "start_sentence_idx": 218,
+      "end_sentence_idx": 219,
+      "num_sentences": 1,
+      "start_time_sec": 570.0,
+      "end_time_sec": 570.0,
+      "text_preview": "Aman and they got together with Strauss and they said, alright, let's go back to this old idea but a new design of a false suspension bridge.",
+      "keywords": [
+        "together",
+        "suspension",
+        "strauss",
+        "said",
+        "old",
+        "new"
+      ],
+      "summary": "Aman and they got together with Strauss and they said, alright, let's go back to this old idea but a new design of a false suspension bridge. …"
+    },
+    {
+      "segment_id": 128,
+      "start_sentence_idx": 219,
+      "end_sentence_idx": 222,
+      "num_sentences": 3,
+      "start_time_sec": 572.6,
+      "end_time_sec": 581.44,
+      "text_preview": "Yeah, the longest one ever and it will end up being the tallest one ever at the time, at least because , all the winds in the water and the boats and everything, this thing need to be tall and super long. Yeah, and it also need to be tall because the angle of the cables to hold. …",
+      "keywords": [
+        "tall",
+        "one",
+        "yeah",
+        "angle",
+        "ever",
+        "long"
+      ],
+      "summary": "The longest one ever and it will end up being the tallest one ever at the time. The angle of the cables to hold. up such a long deck had to come down at a crazy angle, which meant that those towers"
+    },
+    {
+      "segment_id": 129,
+      "start_sentence_idx": 222,
+      "end_sentence_idx": 223,
+      "num_sentences": 1,
+      "start_time_sec": 585.4,
+      "end_time_sec": 585.4,
+      "text_preview": "So this is going to be the tallest bridge in the world, the longest suspension bridge in the world, and they're , let's do that.",
+      "keywords": [
+        "world",
+        "bridge",
+        "tallest",
+        "suspension",
+        "longest",
+        "let"
+      ],
+      "summary": "So this is going to be the tallest bridge in the world, the longest suspension bridge in the world, and they're , let's do that. …"
+    },
+    {
+      "segment_id": 130,
+      "start_sentence_idx": 223,
+      "end_sentence_idx": 224,
+      "num_sentences": 1,
+      "start_time_sec": 589.12,
+      "end_time_sec": 589.12,
+      "text_preview": "Let's make the impossible happen.",
+      "keywords": [],
+      "summary": "Let's make the impossible happen. …"
+    },
+    {
+      "segment_id": 131,
+      "start_sentence_idx": 224,
+      "end_sentence_idx": 225,
+      "num_sentences": 1,
+      "start_time_sec": 595.12,
+      "end_time_sec": 595.12,
+      "text_preview": "And it's both pointing out, Chuck,  these guys aren't using CAD.",
+      "keywords": [],
+      "summary": "And it's both pointing out, Chuck,  these guys aren't using CAD. …"
+    },
+    {
+      "segment_id": 132,
+      "start_sentence_idx": 225,
+      "end_sentence_idx": 226,
+      "num_sentences": 1,
+      "start_time_sec": 600.0,
+      "end_time_sec": 600.0,
+      "text_preview": "They're not using any sort of computer.",
+      "keywords": [],
+      "summary": "They're not using any sort of computer. …"
+    },
+    {
+      "segment_id": 133,
+      "start_sentence_idx": 226,
+      "end_sentence_idx": 227,
+      "num_sentences": 1,
+      "start_time_sec": 600.0,
+      "end_time_sec": 600.0,
+      "text_preview": "They do not exist yet.",
+      "keywords": [],
+      "summary": "They do not exist yet. …"
+    },
+    {
+      "segment_id": 134,
+      "start_sentence_idx": 227,
+      "end_sentence_idx": 228,
+      "num_sentences": 1,
+      "start_time_sec": 600.0,
+      "end_time_sec": 600.0,
+      "text_preview": "They're not using calculators.",
+      "keywords": [],
+      "summary": "They're not using calculators. …"
+    },
+    {
+      "segment_id": 135,
+      "start_sentence_idx": 228,
+      "end_sentence_idx": 229,
+      "num_sentences": 1,
+      "start_time_sec": 605.52,
+      "end_time_sec": 605.52,
+      "text_preview": "They're doing all these calculations by hand, using their noodles.",
+      "keywords": [],
+      "summary": "They're doing all these calculations by hand, using their noodles. …"
+    },
+    {
+      "segment_id": 136,
+      "start_sentence_idx": 229,
+      "end_sentence_idx": 230,
+      "num_sentences": 1,
+      "start_time_sec": 605.52,
+      "end_time_sec": 605.52,
+      "text_preview": "Keep it rules.",
+      "keywords": [],
+      "summary": "Keep it rules. …"
+    },
+    {
+      "segment_id": 137,
+      "start_sentence_idx": 230,
+      "end_sentence_idx": 231,
+      "num_sentences": 1,
+      "start_time_sec": 611.68,
+      "end_time_sec": 611.68,
+      "text_preview": "Slide rules pencils  that's how this bridge was designed that's how they calculated the stresses on it That's how they figured out how to engineer it all by hand and using their heads.",
+      "keywords": [
+        "using",
+        "stresses",
+        "slide",
+        "rules",
+        "pencils",
+        "heads"
+      ],
+      "summary": "Slide rules pencils  that's how this bridge was designed that's how they calculated the stresses on it That's how they figured out how to engineer it all by hand and using their heads. …"
+    },
+    {
+      "segment_id": 138,
+      "start_sentence_idx": 231,
+      "end_sentence_idx": 232,
+      "num_sentences": 1,
+      "start_time_sec": 611.68,
+      "end_time_sec": 611.68,
+      "text_preview": "Yeah, with amazing They did all kinds of testing obviously some some pretty impressive stuff as you see I they created a model that was 156 scale took it to Princeton University there in New Jersey and Did a scale down a equivalent of 120 million pounds of vertical load to test t…",
+      "keywords": [
+        "scale",
+        "yeah",
+        "university",
+        "towers",
+        "took",
+        "vertical"
+      ],
+      "summary": "They did all kinds of testing obviously some some pretty impressive stuff as you see I they created a model that was 156 scale took it to Princeton University there in New Jersey"
+    },
+    {
+      "segment_id": 139,
+      "start_sentence_idx": 232,
+      "end_sentence_idx": 233,
+      "num_sentences": 1,
+      "start_time_sec": 611.68,
+      "end_time_sec": 611.68,
+      "text_preview": "Pass that test.",
+      "keywords": [],
+      "summary": "Pass that test. …"
+    },
+    {
+      "segment_id": 140,
+      "start_sentence_idx": 233,
+      "end_sentence_idx": 234,
+      "num_sentences": 1,
+      "start_time_sec": 611.68,
+      "end_time_sec": 611.68,
+      "text_preview": "And  I said, there was so much math going on eventually Strauss got irritated.",
+      "keywords": [],
+      "summary": "And  I said, there was so much math going on eventually Strauss got irritated. …"
+    },
+    {
+      "segment_id": 141,
+      "start_sentence_idx": 234,
+      "end_sentence_idx": 243,
+      "num_sentences": 9,
+      "start_time_sec": 611.68,
+      "end_time_sec": 642.72,
+      "text_preview": "So the guy Ellis that they hired because he was great at math got fired because the math was so irritating to Strauss. Yeah, Ellis later recorded that Strauss said that the structure was nothing unusual and didn't require the time that Ellis got necessary for it. I also saw Elf. …",
+      "keywords": [
+        "ellis",
+        "strauss",
+        "got",
+        "yeah",
+        "time",
+        "also"
+      ],
+      "summary": "Ellis later recorded that Strauss said that the structure was nothing unusual and didn't require the time that Ellis got necessary for it. I also saw Elf. where somebody's safe that Strauss was envious of a resentful of the respect Ellis got on the board."
+    },
+    {
+      "segment_id": 142,
+      "start_sentence_idx": 243,
+      "end_sentence_idx": 244,
+      "num_sentences": 1,
+      "start_time_sec": 647.12,
+      "end_time_sec": 647.12,
+      "text_preview": "He forces him to take and then before his vacation is over, he's, sends him a telegram seeing your fire.",
+      "keywords": [
+        "vacation",
+        "telegram",
+        "take",
+        "sends",
+        "seeing",
+        "forces"
+      ],
+      "summary": "He forces him to take and then before his vacation is over, he's, sends him a telegram seeing your fire. …"
+    },
+    {
+      "segment_id": 143,
+      "start_sentence_idx": 244,
+      "end_sentence_idx": 245,
+      "num_sentences": 1,
+      "start_time_sec": 647.12,
+      "end_time_sec": 647.12,
+      "text_preview": "Yeah, that's pretty bad.",
+      "keywords": [],
+      "summary": "Yeah, that's pretty bad. …"
+    },
+    {
+      "segment_id": 144,
+      "start_sentence_idx": 245,
+      "end_sentence_idx": 246,
+      "num_sentences": 1,
+      "start_time_sec": 655.2,
+      "end_time_sec": 655.2,
+      "text_preview": "Ellison received a lot of credit at the time, and in fact, he didn't get a lot of credit until after he passed away in 1949.",
+      "keywords": [
+        "credit",
+        "lot",
+        "received",
+        "time",
+        "get",
+        "passed"
+      ],
+      "summary": "Ellison received a lot of credit at the time, and in fact, he didn't get a lot of credit until after he passed away in 1949. …"
+    },
+    {
+      "segment_id": 145,
+      "start_sentence_idx": 246,
+      "end_sentence_idx": 247,
+      "num_sentences": 1,
+      "start_time_sec": 655.2,
+      "end_time_sec": 655.2,
+      "text_preview": "So we're taking our head off to you.",
+      "keywords": [],
+      "summary": "So we're taking our head off to you. …"
+    },
+    {
+      "segment_id": 146,
+      "start_sentence_idx": 247,
+      "end_sentence_idx": 250,
+      "num_sentences": 3,
+      "start_time_sec": 655.2,
+      "end_time_sec": 663.0,
+      "text_preview": "Mr. Ellison, for your great work, for your great math, because we are both math. This is ourselves. And we have a lot of respect for math.",
+      "keywords": [
+        "math",
+        "great",
+        "work",
+        "mr",
+        "respect",
+        "lot"
+      ],
+      "summary": "Mr. Ellison, for your great work, for your great math, because we are both math. This is ourselves. And we have a lot of respect for math. …"
+    },
+    {
+      "segment_id": 147,
+      "start_sentence_idx": 250,
+      "end_sentence_idx": 251,
+      "num_sentences": 1,
+      "start_time_sec": 663.0,
+      "end_time_sec": 663.0,
+      "text_preview": "That's right.",
+      "keywords": [],
+      "summary": "That's right. …"
+    },
+    {
+      "segment_id": 148,
+      "start_sentence_idx": 251,
+      "end_sentence_idx": 252,
+      "num_sentences": 1,
+      "start_time_sec": 668.84,
+      "end_time_sec": 668.84,
+      "text_preview": "He also, he didn't have anything to do.",
+      "keywords": [],
+      "summary": "He also, he didn't have anything to do. …"
+    },
+    {
+      "segment_id": 149,
+      "start_sentence_idx": 252,
+      "end_sentence_idx": 254,
+      "num_sentences": 2,
+      "start_time_sec": 671.08,
+      "end_time_sec": 673.64,
+      "text_preview": "He couldn't really find much work, because this was during the depression when he was fired. He went.",
+      "keywords": [],
+      "summary": "He couldn't really find much work, because this was during the depression when he was fired. He went. …"
+    },
+    {
+      "segment_id": 150,
+      "start_sentence_idx": 254,
+      "end_sentence_idx": 255,
+      "num_sentences": 1,
+      "start_time_sec": 674.64,
+      "end_time_sec": 674.64,
+      "text_preview": "back and he went over all the figures he get all of the calculations to make sure they were right he was spending  70 hours a week and he did and he was , it's been more even though no one was listening to him he wasn't being paid for it.",
+      "keywords": [
+        "went",
+        "week",
+        "though",
+        "sure",
+        "spending",
+        "right"
+      ],
+      "summary": "\"He was spending  70 hours a week and he did and he was , it's been more even though no one was listening to"
+    },
+    {
+      "segment_id": 151,
+      "start_sentence_idx": 255,
+      "end_sentence_idx": 256,
+      "num_sentences": 1,
+      "start_time_sec": 676.84,
+      "end_time_sec": 676.84,
+      "text_preview": "He just wanted to make sure that this thing was what that's great So in 1928 they kind of mired their way through or got their way through the mire of the legal activity and all the protests and everything the state government California said the Golden Gate Bridge and Highway Di…",
+      "keywords": [
+        "way",
+        "thing",
+        "wanted",
+        "sure",
+        "state",
+        "said"
+      ],
+      "summary": "The Golden Gate Bridge and Highway District is now a thing. \"He just wanted to make sure that this thing was what that's great\""
+    },
+    {
+      "segment_id": 152,
+      "start_sentence_idx": 256,
+      "end_sentence_idx": 259,
+      "num_sentences": 3,
+      "start_time_sec": 681.76,
+      "end_time_sec": 687.12,
+      "text_preview": "They're going to pull off every facet of this bill. And in November 1930, the district issued $35 million in bonds to finance this thing, which was a problem at the time though, because it was during the Great Depression, obviously. And they couldn't find any buyers for these bon…",
+      "keywords": [
+        "bonds",
+        "time",
+        "thing",
+        "pull",
+        "problem",
+        "though"
+      ],
+      "summary": "In November 1930, the district issued $35 million in bonds to finance this thing. And they couldn't find any buyers for these bonds"
+    },
+    {
+      "segment_id": 153,
+      "start_sentence_idx": 259,
+      "end_sentence_idx": 260,
+      "num_sentences": 1,
+      "start_time_sec": 690.0,
+      "end_time_sec": 690.0,
+      "text_preview": "And all these legal matters were scaring people away.",
+      "keywords": [],
+      "summary": "And all these legal matters were scaring people away. …"
+    },
+    {
+      "segment_id": 154,
+      "start_sentence_idx": 260,
+      "end_sentence_idx": 261,
+      "num_sentences": 1,
+      "start_time_sec": 692.96,
+      "end_time_sec": 692.96,
+      "text_preview": "And so they turned to kind of one of the heroes of this whole thing.",
+      "keywords": [],
+      "summary": "And so they turned to kind of one of the heroes of this whole thing. …"
+    },
+    {
+      "segment_id": 155,
+      "start_sentence_idx": 261,
+      "end_sentence_idx": 262,
+      "num_sentences": 1,
+      "start_time_sec": 695.16,
+      "end_time_sec": 695.16,
+      "text_preview": "1932. guy named Amadiyo Gianini president of Bank of America.",
+      "keywords": [],
+      "summary": "1932. guy named Amadiyo Gianini president of Bank of America. …"
+    },
+    {
+      "segment_id": 156,
+      "start_sentence_idx": 262,
+      "end_sentence_idx": 263,
+      "num_sentences": 1,
+      "start_time_sec": 697.84,
+      "end_time_sec": 697.84,
+      "text_preview": "Yeah one of the most revered and respected banks in the world, everyone loves Bank of America.",
+      "keywords": [],
+      "summary": "Yeah one of the most revered and respected banks in the world, everyone loves Bank of America. …"
+    },
+    {
+      "segment_id": 157,
+      "start_sentence_idx": 263,
+      "end_sentence_idx": 266,
+      "num_sentences": 3,
+      "start_time_sec": 698.84,
+      "end_time_sec": 703.04,
+      "text_preview": "They're basically a mascot here in West. That's right. And he was also just a California hero.",
+      "keywords": [],
+      "summary": "They're basically a mascot here in West. That's right. And he was also just a California hero. …"
+    },
+    {
+      "segment_id": 158,
+      "start_sentence_idx": 266,
+      "end_sentence_idx": 267,
+      "num_sentences": 1,
+      "start_time_sec": 704.64,
+      "end_time_sec": 704.64,
+      "text_preview": "He kind of kick started the Hollywood movie industry and the California wine industry.",
+      "keywords": [],
+      "summary": "He kind of kick started the Hollywood movie industry and the California wine industry. …"
+    },
+    {
+      "segment_id": 159,
+      "start_sentence_idx": 267,
+      "end_sentence_idx": 268,
+      "num_sentences": 1,
+      "start_time_sec": 706.84,
+      "end_time_sec": 706.84,
+      "text_preview": "So he was a guy to go to and he was , I got you.",
+      "keywords": [],
+      "summary": "So he was a guy to go to and he was , I got you. …"
+    },
+    {
+      "segment_id": 160,
+      "start_sentence_idx": 268,
+      "end_sentence_idx": 269,
+      "num_sentences": 1,
+      "start_time_sec": 711.24,
+      "end_time_sec": 711.24,
+      "text_preview": "I got a big room with six million dollars over here.",
+      "keywords": [],
+      "summary": "I got a big room with six million dollars over here. …"
+    },
+    {
+      "segment_id": 161,
+      "start_sentence_idx": 269,
+      "end_sentence_idx": 270,
+      "num_sentences": 1,
+      "start_time_sec": 713.36,
+      "end_time_sec": 713.36,
+      "text_preview": "And now buy those parts.",
+      "keywords": [],
+      "summary": "And now buy those parts. …"
+    },
+    {
+      "segment_id": 162,
+      "start_sentence_idx": 270,
+      "end_sentence_idx": 272,
+      "num_sentences": 2,
+      "start_time_sec": 715.68,
+      "end_time_sec": 719.32,
+      "text_preview": "and you can get started on your project. Yeah, which is pretty cool.",
+      "keywords": [],
+      "summary": "and you can get started on your project. Yeah, which is pretty cool. …"
+    },
+    {
+      "segment_id": 163,
+      "start_sentence_idx": 272,
+      "end_sentence_idx": 273,
+      "num_sentences": 1,
+      "start_time_sec": 720.0,
+      "end_time_sec": 720.0,
+      "text_preview": "And he is one of the heroes for sure.",
+      "keywords": [],
+      "summary": "And he is one of the heroes for sure. …"
+    },
+    {
+      "segment_id": 164,
+      "start_sentence_idx": 273,
+      "end_sentence_idx": 274,
+      "num_sentences": 1,
+      "start_time_sec": 720.0,
+      "end_time_sec": 720.0,
+      "text_preview": "So they got started.",
+      "keywords": [],
+      "summary": "So they got started. …"
+    },
+    {
+      "segment_id": 165,
+      "start_sentence_idx": 274,
+      "end_sentence_idx": 280,
+      "num_sentences": 6,
+      "start_time_sec": 720.0,
+      "end_time_sec": 728.84,
+      "text_preview": "They started during the depression as we saw. And on the one hand that meant financing it was difficult. On the other hand it meant that they had a huge pool of laborers to tag. Because there are a lot of out-of-work people. So they got everyone they needed, basically immediately…",
+      "keywords": [
+        "started",
+        "meant",
+        "hand",
+        "work",
+        "pool",
+        "people"
+      ],
+      "summary": "They started during the depression as we saw. And on the one hand that meant financing it was difficult. On the other hand it meant that they had a huge"
+    },
+    {
+      "segment_id": 166,
+      "start_sentence_idx": 280,
+      "end_sentence_idx": 281,
+      "num_sentences": 1,
+      "start_time_sec": 735.92,
+      "end_time_sec": 735.92,
+      "text_preview": "And there were a lot of... issues that construction faced that made this a unique construction job.",
+      "keywords": [],
+      "summary": "And there were a lot of... issues that construction faced that made this a unique construction job. …"
+    },
+    {
+      "segment_id": 167,
+      "start_sentence_idx": 281,
+      "end_sentence_idx": 282,
+      "num_sentences": 1,
+      "start_time_sec": 735.92,
+      "end_time_sec": 735.92,
+      "text_preview": "Every day, four times a day.",
+      "keywords": [],
+      "summary": "Every day, four times a day. …"
+    },
+    {
+      "segment_id": 168,
+      "start_sentence_idx": 282,
+      "end_sentence_idx": 283,
+      "num_sentences": 1,
+      "start_time_sec": 740.28,
+      "end_time_sec": 740.28,
+      "text_preview": "So two times in and two times out, the tide brings in and takes out 390 billion gallons of water through the Golden Gate while these guys are trying to build their bridge.",
+      "keywords": [
+        "two",
+        "times",
+        "water",
+        "trying",
+        "tide",
+        "takes"
+      ],
+      "summary": "So two times in and two times out, the tide brings in and takes out 390 billion gallons of water through the Golden Gate while these guys are trying to build their bridge. …"
+    },
+    {
+      "segment_id": 169,
+      "start_sentence_idx": 283,
+      "end_sentence_idx": 284,
+      "num_sentences": 1,
+      "start_time_sec": 740.28,
+      "end_time_sec": 740.28,
+      "text_preview": "It's tons of fog, there's a lot of storms, there's high winds.",
+      "keywords": [],
+      "summary": "It's tons of fog, there's a lot of storms, there's high winds. …"
+    },
+    {
+      "segment_id": 170,
+      "start_sentence_idx": 284,
+      "end_sentence_idx": 286,
+      "num_sentences": 2,
+      "start_time_sec": 746.08,
+      "end_time_sec": 746.08,
+      "text_preview": "It was not just  a walk in the park  apparently the bay bridge was to build. Yeah, apparently the bay bridge.",
+      "keywords": [
+        "apparently",
+        "bay",
+        "bridge",
+        "park",
+        "walk",
+        "yeah"
+      ],
+      "summary": "It was not just  a walk in the park  apparently the bay bridge was to build. Yeah, apparently the bay bridge. …"
+    },
+    {
+      "segment_id": 171,
+      "start_sentence_idx": 286,
+      "end_sentence_idx": 287,
+      "num_sentences": 1,
+      "start_time_sec": 750.0,
+      "end_time_sec": 750.0,
+      "text_preview": "which is more impressive in some ways and was built in finished before but it didn't get nearly the press because it was just an easier job overall.",
+      "keywords": [
+        "ways",
+        "press",
+        "overall",
+        "nearly",
+        "job",
+        "impressive"
+      ],
+      "summary": "which is more impressive in some ways and was built in finished before but it didn't get nearly the press because it was just an easier job overall. …"
+    },
+    {
+      "segment_id": 172,
+      "start_sentence_idx": 287,
+      "end_sentence_idx": 288,
+      "num_sentences": 1,
+      "start_time_sec": 754.4,
+      "end_time_sec": 754.4,
+      "text_preview": "Right, it's  eight miles long, just the exact distance from downtown Detroit to Eminem's house.",
+      "keywords": [],
+      "summary": "Right, it's  eight miles long, just the exact distance from downtown Detroit to Eminem's house. …"
+    },
+    {
+      "segment_id": 173,
+      "start_sentence_idx": 288,
+      "end_sentence_idx": 291,
+      "num_sentences": 3,
+      "start_time_sec": 754.4,
+      "end_time_sec": 761.12,
+      "text_preview": "Yeah. And that didn't see that coming. And he said Detroit, that didn't mean to you.",
+      "keywords": [],
+      "summary": "Yeah. And that didn't see that coming. And he said Detroit, that didn't mean to you. …"
+    },
+    {
+      "segment_id": 174,
+      "start_sentence_idx": 291,
+      "end_sentence_idx": 292,
+      "num_sentences": 1,
+      "start_time_sec": 772.08,
+      "end_time_sec": 772.08,
+      "text_preview": "Nice work.",
+      "keywords": [],
+      "summary": "Nice work. …"
+    },
+    {
+      "segment_id": 175,
+      "start_sentence_idx": 292,
+      "end_sentence_idx": 293,
+      "num_sentences": 1,
+      "start_time_sec": 776.72,
+      "end_time_sec": 776.72,
+      "text_preview": "Alright so it's a difficult job.",
+      "keywords": [],
+      "summary": "Alright so it's a difficult job. …"
+    },
+    {
+      "segment_id": 176,
+      "start_sentence_idx": 293,
+      "end_sentence_idx": 294,
+      "num_sentences": 1,
+      "start_time_sec": 780.0,
+      "end_time_sec": 780.0,
+      "text_preview": "Super, super hard because the terrain and the water and the wind and the fog and everything going.",
+      "keywords": [],
+      "summary": "Super, super hard because the terrain and the water and the wind and the fog and everything going. …"
+    },
+    {
+      "segment_id": 177,
+      "start_sentence_idx": 294,
+      "end_sentence_idx": 295,
+      "num_sentences": 1,
+      "start_time_sec": 785.76,
+      "end_time_sec": 785.76,
+      "text_preview": "on the North Tower was built on the Marin County side.",
+      "keywords": [],
+      "summary": "on the North Tower was built on the Marin County side. …"
+    },
+    {
+      "segment_id": 178,
+      "start_sentence_idx": 295,
+      "end_sentence_idx": 296,
+      "num_sentences": 1,
+      "start_time_sec": 791.2,
+      "end_time_sec": 791.2,
+      "text_preview": "I'm coastline near into a very strong layer of basalt and sandstone.",
+      "keywords": [],
+      "summary": "I'm coastline near into a very strong layer of basalt and sandstone. …"
+    },
+    {
+      "segment_id": 179,
+      "start_sentence_idx": 296,
+      "end_sentence_idx": 297,
+      "num_sentences": 1,
+      "start_time_sec": 791.2,
+      "end_time_sec": 791.2,
+      "text_preview": "And that's great.",
+      "keywords": [],
+      "summary": "And that's great. …"
+    },
+    {
+      "segment_id": 180,
+      "start_sentence_idx": 297,
+      "end_sentence_idx": 298,
+      "num_sentences": 1,
+      "start_time_sec": 798.48,
+      "end_time_sec": 798.48,
+      "text_preview": "So they were  the North side is fine because the stuff is very very sturdy to build into.",
+      "keywords": [],
+      "summary": "So they were  the North side is fine because the stuff is very very sturdy to build into. …"
+    },
+    {
+      "segment_id": 181,
+      "start_sentence_idx": 298,
+      "end_sentence_idx": 299,
+      "num_sentences": 1,
+      "start_time_sec": 802.0,
+      "end_time_sec": 802.0,
+      "text_preview": "The South Tower was about a thousand feet offshore and a bit of serpentine rock.",
+      "keywords": [],
+      "summary": "The South Tower was about a thousand feet offshore and a bit of serpentine rock. …"
+    },
+    {
+      "segment_id": 182,
+      "start_sentence_idx": 299,
+      "end_sentence_idx": 300,
+      "num_sentences": 1,
+      "start_time_sec": 804.0,
+      "end_time_sec": 804.0,
+      "text_preview": "And they went, this side is a little trickier.",
+      "keywords": [],
+      "summary": "And they went, this side is a little trickier. …"
+    },
+    {
+      "segment_id": 183,
+      "start_sentence_idx": 300,
+      "end_sentence_idx": 301,
+      "num_sentences": 1,
+      "start_time_sec": 805.0,
+      "end_time_sec": 805.0,
+      "text_preview": "So we're going to have to take our time with more.",
+      "keywords": [],
+      "summary": "So we're going to have to take our time with more. …"
+    },
+    {
+      "segment_id": 184,
+      "start_sentence_idx": 301,
+      "end_sentence_idx": 302,
+      "num_sentences": 1,
+      "start_time_sec": 808.88,
+      "end_time_sec": 808.88,
+      "text_preview": "Yeah.",
+      "keywords": [],
+      "summary": "Yeah. …"
+    },
+    {
+      "segment_id": 185,
+      "start_sentence_idx": 302,
+      "end_sentence_idx": 303,
+      "num_sentences": 1,
+      "start_time_sec": 810.0,
+      "end_time_sec": 810.0,
+      "text_preview": "So they got this guy named Andrew C. Lawson.",
+      "keywords": [],
+      "summary": "So they got this guy named Andrew C. Lawson. …"
+    },
+    {
+      "segment_id": 186,
+      "start_sentence_idx": 303,
+      "end_sentence_idx": 304,
+      "num_sentences": 1,
+      "start_time_sec": 814.88,
+      "end_time_sec": 814.88,
+      "text_preview": "These are great examples of how many people work.",
+      "keywords": [],
+      "summary": "These are great examples of how many people work. …"
+    },
+    {
+      "segment_id": 187,
+      "start_sentence_idx": 304,
+      "end_sentence_idx": 305,
+      "num_sentences": 1,
+      "start_time_sec": 815.88,
+      "end_time_sec": 815.88,
+      "text_preview": "thoroughly involved in this because every person you mentioned in the story just imagine there's dozens or maybe hundreds of people working beneath them in coordination with that person.",
+      "keywords": [
+        "person",
+        "working",
+        "thoroughly",
+        "story",
+        "people",
+        "mentioned"
+      ],
+      "summary": "thoroughly involved in this because every person you mentioned in the story just imagine there's dozens or maybe hundreds of people working beneath them in coordination with that person. …"
+    },
+    {
+      "segment_id": 188,
+      "start_sentence_idx": 305,
+      "end_sentence_idx": 306,
+      "num_sentences": 1,
+      "start_time_sec": 821.78,
+      "end_time_sec": 821.78,
+      "text_preview": "He was a geologist and he basically took to test the bedrock.",
+      "keywords": [],
+      "summary": "He was a geologist and he basically took to test the bedrock. …"
+    },
+    {
+      "segment_id": 189,
+      "start_sentence_idx": 306,
+      "end_sentence_idx": 307,
+      "num_sentences": 1,
+      "start_time_sec": 827.4,
+      "end_time_sec": 827.4,
+      "text_preview": "I'm not exactly sure how he did it, but he put the equivalent of a railroad box cart fully loaded that amount of weight and forced onto a 20 square inch air.",
+      "keywords": [
+        "weight",
+        "sure",
+        "square",
+        "railroad",
+        "put",
+        "onto"
+      ],
+      "summary": "I'm not exactly sure how he did it, but he put the equivalent of a railroad box cart fully loaded that amount of weight and forced onto a 20 square inch air. …"
+    },
+    {
+      "segment_id": 190,
+      "start_sentence_idx": 307,
+      "end_sentence_idx": 308,
+      "num_sentences": 1,
+      "start_time_sec": 832.6,
+      "end_time_sec": 832.6,
+      "text_preview": "And it held up fine.",
+      "keywords": [],
+      "summary": "And it held up fine. …"
+    },
+    {
+      "segment_id": 191,
+      "start_sentence_idx": 308,
+      "end_sentence_idx": 310,
+      "num_sentences": 2,
+      "start_time_sec": 838.44,
+      "end_time_sec": 840.0,
+      "text_preview": "It's a thing. It is.",
+      "keywords": [],
+      "summary": "It's a thing. It is. …"
+    },
+    {
+      "segment_id": 192,
+      "start_sentence_idx": 310,
+      "end_sentence_idx": 311,
+      "num_sentences": 1,
+      "start_time_sec": 843.5,
+      "end_time_sec": 843.5,
+      "text_preview": "I could not find out how we did that exactly.",
+      "keywords": [],
+      "summary": "I could not find out how we did that exactly. …"
+    },
+    {
+      "segment_id": 193,
+      "start_sentence_idx": 311,
+      "end_sentence_idx": 312,
+      "num_sentences": 1,
+      "start_time_sec": 843.5,
+      "end_time_sec": 843.5,
+      "text_preview": "It's just such a spectacular way to put it that I guess everyone's , Oh, and care, that actually happened.",
+      "keywords": [
+        "way",
+        "spectacular",
+        "put",
+        "oh",
+        "happened",
+        "guess"
+      ],
+      "summary": "It's just such a spectacular way to put it that I guess everyone's , Oh, and care, that actually happened. …"
+    },
+    {
+      "segment_id": 194,
+      "start_sentence_idx": 312,
+      "end_sentence_idx": 313,
+      "num_sentences": 1,
+      "start_time_sec": 848.46,
+      "end_time_sec": 848.46,
+      "text_preview": "Yeah, just don't you did it.",
+      "keywords": [],
+      "summary": "Yeah, just don't you did it. …"
+    },
+    {
+      "segment_id": 195,
+      "start_sentence_idx": 313,
+      "end_sentence_idx": 314,
+      "num_sentences": 1,
+      "start_time_sec": 848.46,
+      "end_time_sec": 848.46,
+      "text_preview": "And then he put on the old timing diving suit and diving bell and went down to the bedrock and hit it with a hammer.",
+      "keywords": [
+        "diving",
+        "went",
+        "timing",
+        "suit",
+        "old",
+        "put"
+      ],
+      "summary": "And then he put on the old timing diving suit and diving bell and went down to the bedrock and hit it with a hammer. …"
+    },
+    {
+      "segment_id": 196,
+      "start_sentence_idx": 314,
+      "end_sentence_idx": 315,
+      "num_sentences": 1,
+      "start_time_sec": 855.26,
+      "end_time_sec": 855.26,
+      "text_preview": "And apparently if it makes this sound  a ding-ing sound, that's what you're looking for because not only is it strong, but it's also flexible, which... going to come in handy whenever the sand on dress gives California the big one the 8.6 magnitude perfect that everyone says inev…",
+      "keywords": [
+        "sound",
+        "whenever",
+        "strong",
+        "says",
+        "sand",
+        "perfect"
+      ],
+      "summary": "The sand on dress gives California the big one the 8.6 magnitude perfect that everyone says inevitably comes. Not only is it strong,"
+    },
+    {
+      "segment_id": 197,
+      "start_sentence_idx": 315,
+      "end_sentence_idx": 319,
+      "num_sentences": 4,
+      "start_time_sec": 859.74,
+      "end_time_sec": 870.0,
+      "text_preview": "Yeah, for sure, in order to ensure that the stability they have workers dive 90 feet down but explosives down to blast out even more rock so they could go even deeper, had to get rid of the fragments, to even get out to that tower and they have all these materials so a lot of big…",
+      "keywords": [
+        "even",
+        "get",
+        "yeah",
+        "construction",
+        "tower",
+        "workers"
+      ],
+      "summary": "In order to ensure that the stability they have workers dive 90 feet down but explosives down to blast out even more rock so they could go even deeper. They had to build a road basically on a trestle just to get out to that tower."
+    },
+    {
+      "segment_id": 198,
+      "start_sentence_idx": 319,
+      "end_sentence_idx": 320,
+      "num_sentences": 1,
+      "start_time_sec": 874.08,
+      "end_time_sec": 874.08,
+      "text_preview": "And those were designed to basically act as fenders kind of.",
+      "keywords": [],
+      "summary": "And those were designed to basically act as fenders kind of. …"
+    },
+    {
+      "segment_id": 199,
+      "start_sentence_idx": 320,
+      "end_sentence_idx": 326,
+      "num_sentences": 6,
+      "start_time_sec": 874.08,
+      "end_time_sec": 890.4,
+      "text_preview": "if you play bumper bowling, okay? It's basically  that. And imagine the bowling ball is a ship that being captain by somebody's not paying attention, probably on his phone. Yeah, yeah. And they will hit that fender, the bumper, and it will keep them from running into the actual t…",
+      "keywords": [
+        "yeah",
+        "ship",
+        "bowling",
+        "fender",
+        "captain",
+        "bumper"
+      ],
+      "summary": "Bumper bowling is like a game of captain by somebody who's not paying attention, probably on his phone. The bowling ball is a ship that being captain by someone who is not paying Attention. And they will"
+    },
+    {
+      "segment_id": 200,
+      "start_sentence_idx": 326,
+      "end_sentence_idx": 327,
+      "num_sentences": 1,
+      "start_time_sec": 890.4,
+      "end_time_sec": 890.4,
+      "text_preview": "This is such a beautiful way ever in here.",
+      "keywords": [],
+      "summary": "This is such a beautiful way ever in here. …"
+    },
+    {
+      "segment_id": 201,
+      "start_sentence_idx": 327,
+      "end_sentence_idx": 328,
+      "num_sentences": 1,
+      "start_time_sec": 890.4,
+      "end_time_sec": 890.4,
+      "text_preview": "Yeah, they weren't that think they said they it looked  a giant bathtub So what they referred to it But , they filled that thing once it was peeking about the surface partially with concrete pumped out the water Reinforce it was steel more concrete and all of a sudden you've got …",
+      "keywords": [
+        "bowl",
+        "bumper",
+        "concrete",
+        "tower",
+        "thing",
+        "surface"
+      ],
+      "summary": "\"It looked  a giant bathtub So what they referred to it But , they filled that thing once it was peeking about the surface partially with concrete pumped out the water,\" he says."
+    },
+    {
+      "segment_id": 202,
+      "start_sentence_idx": 328,
+      "end_sentence_idx": 329,
+      "num_sentences": 1,
+      "start_time_sec": 900.0,
+      "end_time_sec": 900.0,
+      "text_preview": "Okay, I thought you were talking about  bumper And then a bumper bowling where they put those guardrails down and then got her.",
+      "keywords": [
+        "bumper",
+        "thought",
+        "put",
+        "talking",
+        "okay",
+        "guardrails"
+      ],
+      "summary": "Okay, I thought you were talking about  bumper And then a bumper bowling where they put those guardrails down and then got her. …"
+    },
+    {
+      "segment_id": 203,
+      "start_sentence_idx": 329,
+      "end_sentence_idx": 336,
+      "num_sentences": 7,
+      "start_time_sec": 919.96,
+      "end_time_sec": 931.0,
+      "text_preview": "Yeah, we were bowling that last week in Ruby's to- I did. I can still manage to miss pants. Bumper bowling, but- Oh, I thought you meant to swallow gutter balls  that. You can't. No, I didn't even even bumper bowling. I couldn't miss the chance. I did the usual.",
+      "keywords": [
+        "bowling",
+        "miss",
+        "even",
+        "bumper",
+        "usual",
+        "yeah"
+      ],
+      "summary": "\"I couldn't miss the chance. I did the usual. I can still manage to miss pants,\" he says."
+    },
+    {
+      "segment_id": 204,
+      "start_sentence_idx": 336,
+      "end_sentence_idx": 337,
+      "num_sentences": 1,
+      "start_time_sec": 931.0,
+      "end_time_sec": 931.0,
+      "text_preview": "I know I mentioned this before, but with bowling, usually for- And I think the other day I hit  a 140.",
+      "keywords": [
+        "usually",
+        "think",
+        "mentioned",
+        "know",
+        "hit",
+        "day"
+      ],
+      "summary": "I know I mentioned this before, but with bowling, usually for- And I think the other day I hit  a 140. …"
+    },
+    {
+      "segment_id": 205,
+      "start_sentence_idx": 337,
+      "end_sentence_idx": 339,
+      "num_sentences": 2,
+      "start_time_sec": 937.2,
+      "end_time_sec": 943.2,
+      "text_preview": "And then  a 7. I don't remember those good?",
+      "keywords": [],
+      "summary": "And then  a 7. I don't remember those good? …"
+    },
+    {
+      "segment_id": 206,
+      "start_sentence_idx": 339,
+      "end_sentence_idx": 343,
+      "num_sentences": 4,
+      "start_time_sec": 948.84,
+      "end_time_sec": 955.84,
+      "text_preview": "I mean 140 for someone who doesn't bowl much, I feel  it's a pretty strong number. Is that due to a hay-sus level game? Oh no, no, no,  300 is a perfect game. But I mean 140 means you put plenty of strikes and spares and probably had a good last frame out.",
+      "keywords": [
+        "game",
+        "mean",
+        "140",
+        "strikes",
+        "someone",
+        "put"
+      ],
+      "summary": "140 for someone who doesn't bowl much, I feel  it's a pretty strong number. Is that due to a hay-sus"
+    },
+    {
+      "segment_id": 207,
+      "start_sentence_idx": 343,
+      "end_sentence_idx": 344,
+      "num_sentences": 1,
+      "start_time_sec": 960.0,
+      "end_time_sec": 960.0,
+      "text_preview": "That's what they call it.",
+      "keywords": [],
+      "summary": "That's what they call it. …"
+    },
+    {
+      "segment_id": 208,
+      "start_sentence_idx": 344,
+      "end_sentence_idx": 345,
+      "num_sentences": 1,
+      "start_time_sec": 965.84,
+      "end_time_sec": 965.84,
+      "text_preview": "But 70's bad.",
+      "keywords": [],
+      "summary": "But 70's bad. …"
+    },
+    {
+      "segment_id": 209,
+      "start_sentence_idx": 345,
+      "end_sentence_idx": 346,
+      "num_sentences": 1,
+      "start_time_sec": 965.84,
+      "end_time_sec": 965.84,
+      "text_preview": "My whole point is though.",
+      "keywords": [],
+      "summary": "My whole point is though. …"
+    },
+    {
+      "segment_id": 210,
+      "start_sentence_idx": 346,
+      "end_sentence_idx": 347,
+      "num_sentences": 1,
+      "start_time_sec": 968.84,
+      "end_time_sec": 968.84,
+      "text_preview": "Is I'm good for one game and then might my game really drops off?",
+      "keywords": [],
+      "summary": "Is I'm good for one game and then might my game really drops off? …"
+    },
+    {
+      "segment_id": 211,
+      "start_sentence_idx": 347,
+      "end_sentence_idx": 348,
+      "num_sentences": 1,
+      "start_time_sec": 968.84,
+      "end_time_sec": 968.84,
+      "text_preview": "No, okay, where you jump at?",
+      "keywords": [],
+      "summary": "No, okay, where you jump at? …"
+    },
+    {
+      "segment_id": 212,
+      "start_sentence_idx": 348,
+      "end_sentence_idx": 349,
+      "num_sentences": 1,
+      "start_time_sec": 973.8,
+      "end_time_sec": 973.8,
+      "text_preview": "the second game, none of them had one beer, a PBR draft, Stylicious.",
+      "keywords": [],
+      "summary": "the second game, none of them had one beer, a PBR draft, Stylicious. …"
+    },
+    {
+      "segment_id": 213,
+      "start_sentence_idx": 349,
+      "end_sentence_idx": 351,
+      "num_sentences": 2,
+      "start_time_sec": 973.8,
+      "end_time_sec": 973.8,
+      "text_preview": "Yes, sometimes it was very once. Yeah, I don't do that much anymore, but it was super refreshing in delicious.",
+      "keywords": [
+        "yes",
+        "yeah",
+        "super",
+        "sometimes",
+        "refreshing",
+        "much"
+      ],
+      "summary": "Yes, sometimes it was very once. Yeah, I don't do that much anymore, but it was super refreshing in delicious. …"
+    },
+    {
+      "segment_id": 214,
+      "start_sentence_idx": 351,
+      "end_sentence_idx": 352,
+      "num_sentences": 1,
+      "start_time_sec": 979.32,
+      "end_time_sec": 979.32,
+      "text_preview": "Great.",
+      "keywords": [],
+      "summary": "Great. …"
+    },
+    {
+      "segment_id": 215,
+      "start_sentence_idx": 352,
+      "end_sentence_idx": 353,
+      "num_sentences": 1,
+      "start_time_sec": 979.32,
+      "end_time_sec": 979.32,
+      "text_preview": "Yeah, oh, let's check this one.",
+      "keywords": [],
+      "summary": "Yeah, oh, let's check this one. …"
+    },
+    {
+      "segment_id": 216,
+      "start_sentence_idx": 353,
+      "end_sentence_idx": 354,
+      "num_sentences": 1,
+      "start_time_sec": 979.32,
+      "end_time_sec": 979.32,
+      "text_preview": "Yeah, and PBR.",
+      "keywords": [],
+      "summary": "Yeah, and PBR. …"
+    },
+    {
+      "segment_id": 217,
+      "start_sentence_idx": 354,
+      "end_sentence_idx": 355,
+      "num_sentences": 1,
+      "start_time_sec": 979.32,
+      "end_time_sec": 979.32,
+      "text_preview": "So you want to take a break?",
+      "keywords": [],
+      "summary": "So you want to take a break? …"
+    },
+    {
+      "segment_id": 218,
+      "start_sentence_idx": 355,
+      "end_sentence_idx": 357,
+      "num_sentences": 2,
+      "start_time_sec": 984.04,
+      "end_time_sec": 984.04,
+      "text_preview": "Oh yeah, we're there already. We'll do it.",
+      "keywords": [],
+      "summary": "Oh yeah, we're there already. We'll do it. …"
+    },
+    {
+      "segment_id": 219,
+      "start_sentence_idx": 357,
+      "end_sentence_idx": 358,
+      "num_sentences": 1,
+      "start_time_sec": 990.0,
+      "end_time_sec": 990.0,
+      "text_preview": "Okay.",
+      "keywords": [],
+      "summary": "Okay. …"
+    },
+    {
+      "segment_id": 220,
+      "start_sentence_idx": 358,
+      "end_sentence_idx": 359,
+      "num_sentences": 1,
+      "start_time_sec": 996.14,
+      "end_time_sec": 996.14,
+      "text_preview": "So, Chuck, they got the foundation cord.",
+      "keywords": [],
+      "summary": "So, Chuck, they got the foundation cord. …"
+    },
+    {
+      "segment_id": 221,
+      "start_sentence_idx": 359,
+      "end_sentence_idx": 360,
+      "num_sentences": 1,
+      "start_time_sec": 996.14,
+      "end_time_sec": 996.14,
+      "text_preview": "It's a nice fender, a bumper around the towers.",
+      "keywords": [],
+      "summary": "It's a nice fender, a bumper around the towers. …"
+    },
+    {
+      "segment_id": 222,
+      "start_sentence_idx": 360,
+      "end_sentence_idx": 361,
+      "num_sentences": 1,
+      "start_time_sec": 1003.08,
+      "end_time_sec": 1003.08,
+      "text_preview": "Apparently, once they got that foundation done, they erected the south tower, which was the more difficult, which in towers, the one closest to San Francisco.",
+      "keywords": [
+        "towers",
+        "tower",
+        "south",
+        "san",
+        "one",
+        "got"
+      ],
+      "summary": "Apparently, once they got that foundation done, they erected the south tower, which was the more difficult, which in towers, the one closest to San Francisco. …"
+    },
+    {
+      "segment_id": 223,
+      "start_sentence_idx": 361,
+      "end_sentence_idx": 362,
+      "num_sentences": 1,
+      "start_time_sec": 1007.36,
+      "end_time_sec": 1007.36,
+      "text_preview": "They erected in  six months, which is really amazing, especially if you find  that added up that was not an anomaly for this project.",
+      "keywords": [
+        "six",
+        "really",
+        "project",
+        "months",
+        "find",
+        "especially"
+      ],
+      "summary": "They erected in  six months, which is really amazing, especially if you find  that added up that was not an anomaly for this project. …"
+    },
+    {
+      "segment_id": 224,
+      "start_sentence_idx": 362,
+      "end_sentence_idx": 363,
+      "num_sentences": 1,
+      "start_time_sec": 1011.16,
+      "end_time_sec": 1011.16,
+      "text_preview": "It kept  hitting milestones ahead of high.",
+      "keywords": [],
+      "summary": "It kept  hitting milestones ahead of high. …"
+    },
+    {
+      "segment_id": 225,
+      "start_sentence_idx": 363,
+      "end_sentence_idx": 364,
+      "num_sentences": 1,
+      "start_time_sec": 1015.08,
+      "end_time_sec": 1015.08,
+      "text_preview": "And that used quite a bit of steel thanks to Bethlehem Steel Corporation, Pennsylvania.",
+      "keywords": [],
+      "summary": "And that used quite a bit of steel thanks to Bethlehem Steel Corporation, Pennsylvania. …"
+    },
+    {
+      "segment_id": 226,
+      "start_sentence_idx": 364,
+      "end_sentence_idx": 368,
+      "num_sentences": 4,
+      "start_time_sec": 1020.0,
+      "end_time_sec": 1027.16,
+      "text_preview": "As we know from our Christmas episode the reason it is Bethlehem Pennsylvania's thanks to our Moravian fans. We do it since our New Jersey chip chip chip got it. For sure, I don't believe... the more evils headbushed through a naming church. No, no, no, but as far as the steal.",
+      "keywords": [
+        "chip",
+        "thanks",
+        "steal",
+        "since",
+        "reason",
+        "sure"
+      ],
+      "summary": "The reason it is Bethlehem Pennsylvania's thanks to our Moravian fans. We do it since our New Jersey chip chip chip got it."
+    },
+    {
+      "segment_id": 227,
+      "start_sentence_idx": 368,
+      "end_sentence_idx": 369,
+      "num_sentences": 1,
+      "start_time_sec": 1027.16,
+      "end_time_sec": 1027.16,
+      "text_preview": "Okay, yes, and so Bethlehem Steel provided 44,000 puns of steel for each tower.",
+      "keywords": [],
+      "summary": "Okay, yes, and so Bethlehem Steel provided 44,000 puns of steel for each tower. …"
+    },
+    {
+      "segment_id": 228,
+      "start_sentence_idx": 369,
+      "end_sentence_idx": 371,
+      "num_sentences": 2,
+      "start_time_sec": 1033.16,
+      "end_time_sec": 1039.16,
+      "text_preview": "That was each tower. And this is not  a fixed thing.",
+      "keywords": [],
+      "summary": "That was each tower. And this is not  a fixed thing. …"
+    },
+    {
+      "segment_id": 229,
+      "start_sentence_idx": 371,
+      "end_sentence_idx": 376,
+      "num_sentences": 5,
+      "start_time_sec": 1044.16,
+      "end_time_sec": 1056.24,
+      "text_preview": "They prefabricated them, put them on a bar, and then sent them to San Francisco, down the East Coast, past Florida, through the Panama Canal, and then up to San Francisco. That's how every single piece of steel they fall. fabricated steel made its way to the goal. Yeah, that's ri…",
+      "keywords": [
+        "steel",
+        "san",
+        "francisco",
+        "panama",
+        "canal",
+        "single"
+      ],
+      "summary": "Every piece of steel made its way to the goal. They prefabricated them, put them on a bar, and then sent them to San Francisco"
+    },
+    {
+      "segment_id": 230,
+      "start_sentence_idx": 376,
+      "end_sentence_idx": 377,
+      "num_sentences": 1,
+      "start_time_sec": 1056.24,
+      "end_time_sec": 1056.24,
+      "text_preview": "They obviously use giant cranes to lift these steel sections in place and start kind of just putting this thing together  a kit at this point.",
+      "keywords": [
+        "use",
+        "together",
+        "thing",
+        "steel",
+        "start",
+        "sections"
+      ],
+      "summary": "They obviously use giant cranes to lift these steel sections in place and start kind of just putting this thing together  a kit at this point. …"
+    },
+    {
+      "segment_id": 231,
+      "start_sentence_idx": 377,
+      "end_sentence_idx": 378,
+      "num_sentences": 1,
+      "start_time_sec": 1061.44,
+      "end_time_sec": 1061.44,
+      "text_preview": "And at this point, they haven't even, , eventually they had temporary elevators built so people could get up and down quicker.",
+      "keywords": [
+        "temporary",
+        "quicker",
+        "point",
+        "people",
+        "get",
+        "eventually"
+      ],
+      "summary": "And at this point, they haven't even, , eventually they had temporary elevators built so people could get up and down quicker. …"
+    },
+    {
+      "segment_id": 232,
+      "start_sentence_idx": 378,
+      "end_sentence_idx": 379,
+      "num_sentences": 1,
+      "start_time_sec": 1061.44,
+      "end_time_sec": 1061.44,
+      "text_preview": "But before that, when we take a worker 20 minutes just to climb a ladder, we can't imagine how terrifying that would be.",
+      "keywords": [
+        "would",
+        "worker",
+        "terrifying",
+        "take",
+        "minutes",
+        "ladder"
+      ],
+      "summary": "But before that, when we take a worker 20 minutes just to climb a ladder, we can't imagine how terrifying that would be. …"
+    },
+    {
+      "segment_id": 233,
+      "start_sentence_idx": 379,
+      "end_sentence_idx": 380,
+      "num_sentences": 1,
+      "start_time_sec": 1065.28,
+      "end_time_sec": 1065.28,
+      "text_preview": "Just be... time a ladder that high that takes 20 minutes to find.",
+      "keywords": [],
+      "summary": "Just be... time a ladder that high that takes 20 minutes to find. …"
+    },
+    {
+      "segment_id": 234,
+      "start_sentence_idx": 380,
+      "end_sentence_idx": 381,
+      "num_sentences": 1,
+      "start_time_sec": 1065.28,
+      "end_time_sec": 1065.28,
+      "text_preview": "But that's how my god is in the top.",
+      "keywords": [],
+      "summary": "But that's how my god is in the top. …"
+    },
+    {
+      "segment_id": 235,
+      "start_sentence_idx": 381,
+      "end_sentence_idx": 382,
+      "num_sentences": 1,
+      "start_time_sec": 1070.08,
+      "end_time_sec": 1070.08,
+      "text_preview": "And then we get to the color.",
+      "keywords": [],
+      "summary": "And then we get to the color. …"
+    },
+    {
+      "segment_id": 236,
+      "start_sentence_idx": 382,
+      "end_sentence_idx": 383,
+      "num_sentences": 1,
+      "start_time_sec": 1070.08,
+      "end_time_sec": 1070.08,
+      "text_preview": "we mentioned before, it's not named Golden Gate Bridge because the color because it's really not golden in color.",
+      "keywords": [],
+      "summary": "we mentioned before, it's not named Golden Gate Bridge because the color because it's really not golden in color. …"
+    },
+    {
+      "segment_id": 237,
+      "start_sentence_idx": 383,
+      "end_sentence_idx": 384,
+      "num_sentences": 1,
+      "start_time_sec": 1077.04,
+      "end_time_sec": 1077.04,
+      "text_preview": "It got there.",
+      "keywords": [],
+      "summary": "It got there. …"
+    },
+    {
+      "segment_id": 238,
+      "start_sentence_idx": 384,
+      "end_sentence_idx": 390,
+      "num_sentences": 6,
+      "start_time_sec": 1080.0,
+      "end_time_sec": 1092.64,
+      "text_preview": "we said, prefab then it was painted with an orange red, red, red primer. Just to kind of make sure it made the journey there okay without getting rusted out. And once it got there, consulting r Stephen R. evil holding r detect. Irving Maro said, man, that looks pretty darn good, …",
+      "keywords": [
+        "red",
+        "said",
+        "woolly",
+        "orange",
+        "without",
+        "sure"
+      ],
+      "summary": "The Golden Gate Bridge International Orange was built in San Francisco. The bridge was originally built as a prefabricated structure. It was painted with an orange red, red,red primer."
+    },
+    {
+      "segment_id": 239,
+      "start_sentence_idx": 390,
+      "end_sentence_idx": 391,
+      "num_sentences": 1,
+      "start_time_sec": 1094.84,
+      "end_time_sec": 1094.84,
+      "text_preview": "I would have kept my mouth shut, but I would have been looking around  this thing.",
+      "keywords": [],
+      "summary": "I would have kept my mouth shut, but I would have been looking around  this thing. …"
+    },
+    {
+      "segment_id": 240,
+      "start_sentence_idx": 391,
+      "end_sentence_idx": 392,
+      "num_sentences": 1,
+      "start_time_sec": 1097.88,
+      "end_time_sec": 1097.88,
+      "text_preview": "Right.",
+      "keywords": [],
+      "summary": "Right. …"
+    },
+    {
+      "segment_id": 241,
+      "start_sentence_idx": 392,
+      "end_sentence_idx": 396,
+      "num_sentences": 4,
+      "start_time_sec": 1099.0,
+      "end_time_sec": 1102.8,
+      "text_preview": "That's... I don't know. I mean, to clean the person. But...",
+      "keywords": [],
+      "summary": "That's... I don't know. I mean, to clean the person. But... …"
+    },
+    {
+      "segment_id": 242,
+      "start_sentence_idx": 396,
+      "end_sentence_idx": 397,
+      "num_sentences": 1,
+      "start_time_sec": 1105.4,
+      "end_time_sec": 1105.4,
+      "text_preview": "Okay, so one of the things that is great about that.",
+      "keywords": [],
+      "summary": "Okay, so one of the things that is great about that. …"
+    },
+    {
+      "segment_id": 243,
+      "start_sentence_idx": 397,
+      "end_sentence_idx": 400,
+      "num_sentences": 3,
+      "start_time_sec": 1107.36,
+      "end_time_sec": 1110.0,
+      "text_preview": "color orange and I think one of the reason people said boli for it was because it didn't it didn't well harmonize with the surrounding area. It's nice, hilly, shrubby. It was a good choice for sure for that and I think it also kind of plated a lot of people too there  it actually…",
+      "keywords": [
+        "think",
+        "people",
+        "kind",
+        "well",
+        "shrubby",
+        "said"
+      ],
+      "summary": "\"It's nice, hilly, shrubby. color orange and I think one of the reason people said boli for it was because it didn't it didn"
+    },
+    {
+      "segment_id": 244,
+      "start_sentence_idx": 400,
+      "end_sentence_idx": 401,
+      "num_sentences": 1,
+      "start_time_sec": 1110.0,
+      "end_time_sec": 1110.0,
+      "text_preview": "Doesn't stick out  a soil from.",
+      "keywords": [],
+      "summary": "Doesn't stick out  a soil from. …"
+    },
+    {
+      "segment_id": 245,
+      "start_sentence_idx": 401,
+      "end_sentence_idx": 406,
+      "num_sentences": 5,
+      "start_time_sec": 1115.76,
+      "end_time_sec": 1130.56,
+      "text_preview": "So it was a good idea in that international orange is still used today. You can thank international orange for the color of your life's best. If it's orange, that's right. That is regular international orange. The Golden Gate Bridge International Orange is a little different.",
+      "keywords": [
+        "orange",
+        "international",
+        "today",
+        "used",
+        "thank",
+        "still"
+      ],
+      "summary": "So it was a good idea in that international orange is still used today. You can thank international orange for the color of your life's best. If it's orange, that's right. That is regular international orange. The Golden …"
+    },
+    {
+      "segment_id": 246,
+      "start_sentence_idx": 406,
+      "end_sentence_idx": 407,
+      "num_sentences": 1,
+      "start_time_sec": 1138.08,
+      "end_time_sec": 1138.08,
+      "text_preview": "It's  a variation on that.",
+      "keywords": [],
+      "summary": "It's  a variation on that. …"
+    },
+    {
+      "segment_id": 247,
+      "start_sentence_idx": 407,
+      "end_sentence_idx": 414,
+      "num_sentences": 7,
+      "start_time_sec": 1140.0,
+      "end_time_sec": 1156.64,
+      "text_preview": "But  you said, it blended in well and it also did the job that was really supposed to do was stand out for ships and boats there in the fog. Rejected colors included silver, black, and then black and yellow, which was suggested by the US Navy,  , stripe, black and yellow because …",
+      "keywords": [
+        "black",
+        "yellow",
+        "stripe",
+        "color",
+        "best",
+        "looks"
+      ],
+      "summary": "Rejected colors included silver, black, and then black and yellow, which was suggested by the US Navy. It's the best color for Christian metal too. But  you said, it blended in well and it also did the job."
+    },
+    {
+      "segment_id": 248,
+      "start_sentence_idx": 414,
+      "end_sentence_idx": 415,
+      "num_sentences": 1,
+      "start_time_sec": 1161.8,
+      "end_time_sec": 1161.8,
+      "text_preview": "Yeah, yeah true.",
+      "keywords": [],
+      "summary": "Yeah, yeah true. …"
+    },
+    {
+      "segment_id": 249,
+      "start_sentence_idx": 415,
+      "end_sentence_idx": 417,
+      "num_sentences": 2,
+      "start_time_sec": 1161.8,
+      "end_time_sec": 1167.36,
+      "text_preview": "Did the dude the drummer from stripper have black and yellow striped drumsticks even? I think he had it black and yellow striped everything.",
+      "keywords": [
+        "yellow",
+        "striped",
+        "black",
+        "think",
+        "everything",
+        "stripper"
+      ],
+      "summary": "Did the dude the drummer from stripper have black and yellow striped drumsticks even? I think he had it black and yellow striped everything. …"
+    },
+    {
+      "segment_id": 250,
+      "start_sentence_idx": 417,
+      "end_sentence_idx": 420,
+      "num_sentences": 3,
+      "start_time_sec": 1167.36,
+      "end_time_sec": 1176.0,
+      "text_preview": "I don't know if he... See, he had a black in yellow strike no one. I don't know if he's a black in yellow strike no one. I don't know if he's a black in yellow strike no one.",
+      "keywords": [
+        "yellow",
+        "strike",
+        "one",
+        "know",
+        "black",
+        "see"
+      ],
+      "summary": "I don't know if he... See, he had a black in yellow strike no one. I don't know if he's a black in yellow strike no one. I don't know if he's a black in yellow strike no one. …"
+    },
+    {
+      "segment_id": 251,
+      "start_sentence_idx": 420,
+      "end_sentence_idx": 421,
+      "num_sentences": 1,
+      "start_time_sec": 1181.5,
+      "end_time_sec": 1181.5,
+      "text_preview": "Let's keep going boy.",
+      "keywords": [],
+      "summary": "Let's keep going boy. …"
+    },
+    {
+      "segment_id": 252,
+      "start_sentence_idx": 421,
+      "end_sentence_idx": 422,
+      "num_sentences": 1,
+      "start_time_sec": 1185.0,
+      "end_time_sec": 1185.0,
+      "text_preview": "That's good.",
+      "keywords": [],
+      "summary": "That's good. …"
+    },
+    {
+      "segment_id": 253,
+      "start_sentence_idx": 422,
+      "end_sentence_idx": 423,
+      "num_sentences": 1,
+      "start_time_sec": 1186.0,
+      "end_time_sec": 1186.0,
+      "text_preview": "Alright, so Mario, we mentioned Irving Mario, he's the consulting architect, too, said, , I  this color.",
+      "keywords": [],
+      "summary": "Alright, so Mario, we mentioned Irving Mario, he's the consulting architect, too, said, , I  this color. …"
+    },
+    {
+      "segment_id": 254,
+      "start_sentence_idx": 423,
+      "end_sentence_idx": 424,
+      "num_sentences": 1,
+      "start_time_sec": 1188.0,
+      "end_time_sec": 1188.0,
+      "text_preview": "He also obviously played a part in a lot of the aesthetic.",
+      "keywords": [],
+      "summary": "He also obviously played a part in a lot of the aesthetic. …"
+    },
+    {
+      "segment_id": 255,
+      "start_sentence_idx": 424,
+      "end_sentence_idx": 426,
+      "num_sentences": 2,
+      "start_time_sec": 1193.0,
+      "end_time_sec": 1196.0,
+      "text_preview": "A aesthetic, a aesthetic, a decisions, a good ending, but also bad. No, get ever say it.",
+      "keywords": [],
+      "summary": "A aesthetic, a aesthetic, a decisions, a good ending, but also bad. No, get ever say it. …"
+    },
+    {
+      "segment_id": 256,
+      "start_sentence_idx": 426,
+      "end_sentence_idx": 427,
+      "num_sentences": 1,
+      "start_time_sec": 1199.0,
+      "end_time_sec": 1199.0,
+      "text_preview": "If you're gonna see tonight, let it be decisions.",
+      "keywords": [],
+      "summary": "If you're gonna see tonight, let it be decisions. …"
+    },
+    {
+      "segment_id": 257,
+      "start_sentence_idx": 427,
+      "end_sentence_idx": 428,
+      "num_sentences": 1,
+      "start_time_sec": 1200.0,
+      "end_time_sec": 1200.0,
+      "text_preview": "One of the things that he designed, aesthetically, was to make it look a little taller, was those tower panels, priests, and size from bottom to top.",
+      "keywords": [
+        "tower",
+        "top",
+        "things",
+        "taller",
+        "size",
+        "priests"
+      ],
+      "summary": "One of the things that he designed, aesthetically, was to make it look a little taller, was those tower panels, priests, and size from bottom to top. …"
+    },
+    {
+      "segment_id": 258,
+      "start_sentence_idx": 428,
+      "end_sentence_idx": 429,
+      "num_sentences": 1,
+      "start_time_sec": 1202.0,
+      "end_time_sec": 1202.0,
+      "text_preview": "Pretty good idea.",
+      "keywords": [],
+      "summary": "Pretty good idea. …"
+    },
+    {
+      "segment_id": 259,
+      "start_sentence_idx": 429,
+      "end_sentence_idx": 430,
+      "num_sentences": 1,
+      "start_time_sec": 1204.0,
+      "end_time_sec": 1204.0,
+      "text_preview": "Yep.",
+      "keywords": [],
+      "summary": "Yep. …"
+    },
+    {
+      "segment_id": 260,
+      "start_sentence_idx": 430,
+      "end_sentence_idx": 436,
+      "num_sentences": 6,
+      "start_time_sec": 1206.0,
+      "end_time_sec": 1221.0,
+      "text_preview": "And that, well, I guess Lawson was , let's do this and let's add a little bit of this, maybe put those on top, kind of thing. Strauss, who again is the man at the center of all of this, he was way ahead of his time as far as safety goes. Apparently, the song... They approached an…",
+      "keywords": [
+        "yeah",
+        "let",
+        "well",
+        "way",
+        "ubiquitous",
+        "time"
+      ],
+      "summary": "CNN's Jarrett Bellini says the singer was \"way ahead of his time\" as far as safety goes. He says he kissed the first one that required hard hats on site."
+    },
+    {
+      "segment_id": 261,
+      "start_sentence_idx": 436,
+      "end_sentence_idx": 437,
+      "num_sentences": 1,
+      "start_time_sec": 1226.0,
+      "end_time_sec": 1226.0,
+      "text_preview": "And then he also created a safety net that was movable.",
+      "keywords": [],
+      "summary": "And then he also created a safety net that was movable. …"
+    },
+    {
+      "segment_id": 262,
+      "start_sentence_idx": 437,
+      "end_sentence_idx": 440,
+      "num_sentences": 3,
+      "start_time_sec": 1229.0,
+      "end_time_sec": 1230.0,
+      "text_preview": "So I think the people who were in the highest risk of falling to their deaths got to use the safety net while they were up there work. Yeah, and use it they did because that thing ended up saving the lives of 19, instruction workers. They became known that those... in the end.",
+      "keywords": [
+        "use",
+        "yeah",
+        "workers",
+        "work",
+        "think",
+        "thing"
+      ],
+      "summary": "The safety net ended up saving the lives of 19, instruction workers. So I think the people who were in the highest risk of falling to their"
+    },
+    {
+      "segment_id": 263,
+      "start_sentence_idx": 440,
+      "end_sentence_idx": 450,
+      "num_sentences": 10,
+      "start_time_sec": 1237.84,
+      "end_time_sec": 1273.88,
+      "text_preview": "In the end, 11 people died from this project, which is pretty good. I mean, it's awful that 11 people died, but for the time, they would say  for every million dollars of a project, you can expect one death. And it's a very good thing. It's pretty good. I mean, it's awful that 11…",
+      "keywords": [
+        "million",
+        "11",
+        "yeah",
+        "project",
+        "died",
+        "death"
+      ],
+      "summary": "In the end, 11 people died from this project, which is pretty good. I find that a really strange rule of thumb for every million spent you can expect a death. But it's definitely a cool thing."
+    },
+    {
+      "segment_id": 264,
+      "start_sentence_idx": 450,
+      "end_sentence_idx": 451,
+      "num_sentences": 1,
+      "start_time_sec": 1274.88,
+      "end_time_sec": 1274.88,
+      "text_preview": "So yeah, there's 34 people dead in one person's , how much is this bridge can cost with at 35 and you're in that?",
+      "keywords": [
+        "yeah",
+        "person",
+        "people",
+        "one",
+        "much",
+        "dead"
+      ],
+      "summary": "So yeah, there's 34 people dead in one person's , how much is this bridge can cost with at 35 and you're in that? …"
+    },
+    {
+      "segment_id": 265,
+      "start_sentence_idx": 451,
+      "end_sentence_idx": 452,
+      "num_sentences": 1,
+      "start_time_sec": 1275.88,
+      "end_time_sec": 1275.88,
+      "text_preview": "There's this cost over runs and  what that means?",
+      "keywords": [],
+      "summary": "There's this cost over runs and  what that means? …"
+    },
+    {
+      "segment_id": 266,
+      "start_sentence_idx": 452,
+      "end_sentence_idx": 453,
+      "num_sentences": 1,
+      "start_time_sec": 1277.88,
+      "end_time_sec": 1277.88,
+      "text_preview": "So they've completed the towers, both towers in 1935.",
+      "keywords": [],
+      "summary": "So they've completed the towers, both towers in 1935. …"
+    },
+    {
+      "segment_id": 267,
+      "start_sentence_idx": 453,
+      "end_sentence_idx": 454,
+      "num_sentences": 1,
+      "start_time_sec": 1280.52,
+      "end_time_sec": 1280.52,
+      "text_preview": "Remember they started this whole thing.",
+      "keywords": [],
+      "summary": "Remember they started this whole thing. …"
+    },
+    {
+      "segment_id": 268,
+      "start_sentence_idx": 454,
+      "end_sentence_idx": 455,
+      "num_sentences": 1,
+      "start_time_sec": 1281.52,
+      "end_time_sec": 1281.52,
+      "text_preview": "I think they started building that temporary roadway to the first foundation in 1930. one.",
+      "keywords": [],
+      "summary": "I think they started building that temporary roadway to the first foundation in 1930. one. …"
+    },
+    {
+      "segment_id": 269,
+      "start_sentence_idx": 455,
+      "end_sentence_idx": 456,
+      "num_sentences": 1,
+      "start_time_sec": 1281.52,
+      "end_time_sec": 1281.52,
+      "text_preview": "We're moving along.",
+      "keywords": [],
+      "summary": "We're moving along. …"
+    },
+    {
+      "segment_id": 270,
+      "start_sentence_idx": 456,
+      "end_sentence_idx": 457,
+      "num_sentences": 1,
+      "start_time_sec": 1285.76,
+      "end_time_sec": 1285.76,
+      "text_preview": "And after the towers were complete, it was time to create those four iconic cables that are the actual things that hold up the road deck, the bridge itself.",
+      "keywords": [
+        "towers",
+        "time",
+        "things",
+        "road",
+        "iconic",
+        "hold"
+      ],
+      "summary": "And after the towers were complete, it was time to create those four iconic cables that are the actual things that hold up the road deck, the bridge itself. …"
+    },
+    {
+      "segment_id": 271,
+      "start_sentence_idx": 457,
+      "end_sentence_idx": 458,
+      "num_sentences": 1,
+      "start_time_sec": 1289.72,
+      "end_time_sec": 1289.72,
+      "text_preview": "The point of the bridge is held up by these cables.",
+      "keywords": [],
+      "summary": "The point of the bridge is held up by these cables. …"
+    },
+    {
+      "segment_id": 272,
+      "start_sentence_idx": 458,
+      "end_sentence_idx": 461,
+      "num_sentences": 3,
+      "start_time_sec": 1290.0,
+      "end_time_sec": 1299.84,
+      "text_preview": "And if you see one of those cables in person, you'll find that is three feet, one meter, 36 inches of the C-ON-DUIT, a 300 centimeters. And let's see, it would be a third of a decometer in with Irendian. And it's actually made of 25,000 wires.",
+      "keywords": [
+        "see",
+        "one",
+        "would",
+        "three",
+        "wires",
+        "third"
+      ],
+      "summary": "And if you see one of those cables in person, you'll find that is three feet, one meter, 36 inches of the C-ON-DUIT, a 300 centimeters. And let's see, it would be a third of a decometer in with Irendian. And it's actuall …"
+    },
+    {
+      "segment_id": 273,
+      "start_sentence_idx": 461,
+      "end_sentence_idx": 462,
+      "num_sentences": 1,
+      "start_time_sec": 1300.84,
+      "end_time_sec": 1300.84,
+      "text_preview": "Each of those cables are all twisted.",
+      "keywords": [],
+      "summary": "Each of those cables are all twisted. …"
+    },
+    {
+      "segment_id": 274,
+      "start_sentence_idx": 462,
+      "end_sentence_idx": 463,
+      "num_sentences": 1,
+      "start_time_sec": 1304.84,
+      "end_time_sec": 1304.84,
+      "text_preview": "Yeah, and to get that done, they hired John A. Roboings, Sun's Company, the name of company.",
+      "keywords": [],
+      "summary": "Yeah, and to get that done, they hired John A. Roboings, Sun's Company, the name of company. …"
+    },
+    {
+      "segment_id": 275,
+      "start_sentence_idx": 463,
+      "end_sentence_idx": 464,
+      "num_sentences": 1,
+      "start_time_sec": 1305.84,
+      "end_time_sec": 1305.84,
+      "text_preview": "And they had worked on the Brooklyn Bridge, so they were obviously great people call for that.",
+      "keywords": [],
+      "summary": "And they had worked on the Brooklyn Bridge, so they were obviously great people call for that. …"
+    },
+    {
+      "segment_id": 276,
+      "start_sentence_idx": 464,
+      "end_sentence_idx": 465,
+      "num_sentences": 1,
+      "start_time_sec": 1310.76,
+      "end_time_sec": 1310.76,
+      "text_preview": "But  you said, I think he said, it was completed, they had a schedule.",
+      "keywords": [],
+      "summary": "But  you said, I think he said, it was completed, they had a schedule. …"
+    },
+    {
+      "segment_id": 277,
+      "start_sentence_idx": 465,
+      "end_sentence_idx": 466,
+      "num_sentences": 1,
+      "start_time_sec": 1312.76,
+      "end_time_sec": 1312.76,
+      "text_preview": "This is April 1937, about a $1,3 million budget.",
+      "keywords": [],
+      "summary": "This is April 1937, about a $1,3 million budget. …"
+    },
+    {
+      "segment_id": 278,
+      "start_sentence_idx": 466,
+      "end_sentence_idx": 467,
+      "num_sentences": 1,
+      "start_time_sec": 1314.92,
+      "end_time_sec": 1314.92,
+      "text_preview": "Just a little housekeeping here.",
+      "keywords": [],
+      "summary": "Just a little housekeeping here. …"
+    },
+    {
+      "segment_id": 279,
+      "start_sentence_idx": 467,
+      "end_sentence_idx": 468,
+      "num_sentences": 1,
+      "start_time_sec": 1315.92,
+      "end_time_sec": 1315.92,
+      "text_preview": "It's 1.7 miles long, 90 feet wide, holds six lanes of traffic, two sidewalks, 746-foot-high towers, with the mains span between them being 4,200 feet, and at his midpoint, I've just been hanging 265 feet above the average height of the water.",
+      "keywords": [
+        "feet",
+        "wide",
+        "two",
+        "water",
+        "towers",
+        "span"
+      ],
+      "summary": "It's 1.7 miles long, 90 feet wide, holds six lanes of traffic, two sidewalks, 746-foot-high towers, with the mains span between them being 4,200 feet, and at his midpoint, I've just been hanging 265 feet above the averag …"
+    },
+    {
+      "segment_id": 280,
+      "start_sentence_idx": 468,
+      "end_sentence_idx": 469,
+      "num_sentences": 1,
+      "start_time_sec": 1317.72,
+      "end_time_sec": 1317.72,
+      "text_preview": "below and people were really excited to get them.",
+      "keywords": [],
+      "summary": "below and people were really excited to get them. …"
+    },
+    {
+      "segment_id": 281,
+      "start_sentence_idx": 469,
+      "end_sentence_idx": 470,
+      "num_sentences": 1,
+      "start_time_sec": 1320.0,
+      "end_time_sec": 1320.0,
+      "text_preview": "They were an opening day.",
+      "keywords": [],
+      "summary": "They were an opening day. …"
+    },
+    {
+      "segment_id": 282,
+      "start_sentence_idx": 470,
+      "end_sentence_idx": 471,
+      "num_sentences": 1,
+      "start_time_sec": 1325.92,
+      "end_time_sec": 1325.92,
+      "text_preview": "First day they let pedestrians across.",
+      "keywords": [],
+      "summary": "First day they let pedestrians across. …"
+    },
+    {
+      "segment_id": 283,
+      "start_sentence_idx": 471,
+      "end_sentence_idx": 472,
+      "num_sentences": 1,
+      "start_time_sec": 1332.16,
+      "end_time_sec": 1332.16,
+      "text_preview": "The next day was cars.",
+      "keywords": [],
+      "summary": "The next day was cars. …"
+    },
+    {
+      "segment_id": 284,
+      "start_sentence_idx": 472,
+      "end_sentence_idx": 473,
+      "num_sentences": 1,
+      "start_time_sec": 1332.16,
+      "end_time_sec": 1332.16,
+      "text_preview": "And at the greened opening, I think this kind of gets across the person just, He read a poem that he wrote for the day.",
+      "keywords": [
+        "wrote",
+        "think",
+        "read",
+        "poem",
+        "person",
+        "opening"
+      ],
+      "summary": "And at the greened opening, I think this kind of gets across the person just, He read a poem that he wrote for the day. …"
+    },
+    {
+      "segment_id": 285,
+      "start_sentence_idx": 473,
+      "end_sentence_idx": 474,
+      "num_sentences": 1,
+      "start_time_sec": 1340.72,
+      "end_time_sec": 1340.72,
+      "text_preview": "And he was a poet, so it's not bad.",
+      "keywords": [],
+      "summary": "And he was a poet, so it's not bad. …"
+    },
+    {
+      "segment_id": 286,
+      "start_sentence_idx": 474,
+      "end_sentence_idx": 475,
+      "num_sentences": 1,
+      "start_time_sec": 1347.44,
+      "end_time_sec": 1347.44,
+      "text_preview": "I  the rhythm of it, the meter.",
+      "keywords": [],
+      "summary": "I  the rhythm of it, the meter. …"
+    },
+    {
+      "segment_id": 287,
+      "start_sentence_idx": 475,
+      "end_sentence_idx": 478,
+      "num_sentences": 3,
+      "start_time_sec": 1350.0,
+      "end_time_sec": 1353.0,
+      "text_preview": "Sure, is that correct? Yeah, I think so. I would say I'm going to look it up and read you.",
+      "keywords": [
+        "yeah",
+        "would",
+        "think",
+        "sure",
+        "say",
+        "read"
+      ],
+      "summary": "Sure, is that correct? Yeah, I think so. I would say I'm going to look it up and read you. …"
+    },
+    {
+      "segment_id": 288,
+      "start_sentence_idx": 478,
+      "end_sentence_idx": 479,
+      "num_sentences": 1,
+      "start_time_sec": 1354.0,
+      "end_time_sec": 1354.0,
+      "text_preview": "himself in the canarytip is called the mighty task is done by Joseph Strauss.",
+      "keywords": [],
+      "summary": "himself in the canarytip is called the mighty task is done by Joseph Strauss. …"
+    },
+    {
+      "segment_id": 289,
+      "start_sentence_idx": 479,
+      "end_sentence_idx": 485,
+      "num_sentences": 6,
+      "start_time_sec": 1356.0,
+      "end_time_sec": 1371.0,
+      "text_preview": "The thing that bothers me aside from a couple of clunky lines, he says essentially  that all the people who were involved are glorified and that no selfish urge stains his life, no envy, greed, intrigue or strife, and I'm  dude, he specifically didn't mention Ellis, Charles Ellis…",
+      "keywords": [
+        "yeah",
+        "thing",
+        "ellis",
+        "urge",
+        "word",
+        "trellis"
+      ],
+      "summary": "The actor says he doesn't know about Strauss' role in the film. He says he's not sure if Strauss has ever talked about it. The film is set to be released on September 14."
+    },
+    {
+      "segment_id": 290,
+      "start_sentence_idx": 485,
+      "end_sentence_idx": 486,
+      "num_sentences": 1,
+      "start_time_sec": 1374.0,
+      "end_time_sec": 1374.0,
+      "text_preview": "There's a, there's a, there's a, bronze statue of him and go and get part, I think, but, about him his amazing seat.",
+      "keywords": [
+        "think",
+        "statue",
+        "seat",
+        "part",
+        "go",
+        "get"
+      ],
+      "summary": "There's a, there's a, there's a, bronze statue of him and go and get part, I think, but, about him his amazing seat. …"
+    },
+    {
+      "segment_id": 291,
+      "start_sentence_idx": 486,
+      "end_sentence_idx": 488,
+      "num_sentences": 2,
+      "start_time_sec": 1377.0,
+      "end_time_sec": 1380.0,
+      "text_preview": "And it's just, I don't  people  that. Who take full credit for something that hundreds or thousands of people have done, and that they did  backbiting along the way with it.",
+      "keywords": [
+        "people",
+        "thousands",
+        "way",
+        "take",
+        "something",
+        "hundreds"
+      ],
+      "summary": "And it's just, I don't  people  that. Who take full credit for something that hundreds or thousands of people have done, and that they did  backbiting along the way with it. …"
+    },
+    {
+      "segment_id": 292,
+      "start_sentence_idx": 488,
+      "end_sentence_idx": 489,
+      "num_sentences": 1,
+      "start_time_sec": 1386.32,
+      "end_time_sec": 1386.32,
+      "text_preview": "This is, I don't, yeah, I don't  it.",
+      "keywords": [],
+      "summary": "This is, I don't, yeah, I don't  it. …"
+    },
+    {
+      "segment_id": 293,
+      "start_sentence_idx": 489,
+      "end_sentence_idx": 490,
+      "num_sentences": 1,
+      "start_time_sec": 1391.52,
+      "end_time_sec": 1391.52,
+      "text_preview": "And with it.",
+      "keywords": [],
+      "summary": "And with it. …"
+    },
+    {
+      "segment_id": 294,
+      "start_sentence_idx": 490,
+      "end_sentence_idx": 491,
+      "num_sentences": 1,
+      "start_time_sec": 1396.88,
+      "end_time_sec": 1396.88,
+      "text_preview": "Yeah, actually had a trellis line, he was , , he was a trellis.",
+      "keywords": [],
+      "summary": "Yeah, actually had a trellis line, he was , , he was a trellis. …"
+    },
+    {
+      "segment_id": 295,
+      "start_sentence_idx": 491,
+      "end_sentence_idx": 492,
+      "num_sentences": 1,
+      "start_time_sec": 1402.8,
+      "end_time_sec": 1402.8,
+      "text_preview": "Hmm, I got nothing, yeah.",
+      "keywords": [],
+      "summary": "Hmm, I got nothing, yeah. …"
+    },
+    {
+      "segment_id": 296,
+      "start_sentence_idx": 492,
+      "end_sentence_idx": 493,
+      "num_sentences": 1,
+      "start_time_sec": 1402.8,
+      "end_time_sec": 1402.8,
+      "text_preview": "He scratched it out  Ellys's outside of him.",
+      "keywords": [],
+      "summary": "He scratched it out  Ellys's outside of him. …"
+    },
+    {
+      "segment_id": 297,
+      "start_sentence_idx": 493,
+      "end_sentence_idx": 494,
+      "num_sentences": 1,
+      "start_time_sec": 1408.4,
+      "end_time_sec": 1408.4,
+      "text_preview": "They were holding the sign.",
+      "keywords": [],
+      "summary": "They were holding the sign. …"
+    },
+    {
+      "segment_id": 298,
+      "start_sentence_idx": 494,
+      "end_sentence_idx": 495,
+      "num_sentences": 1,
+      "start_time_sec": 1410.0,
+      "end_time_sec": 1410.0,
+      "text_preview": "The math kicks out.",
+      "keywords": [],
+      "summary": "The math kicks out. …"
+    },
+    {
+      "segment_id": 299,
+      "start_sentence_idx": 495,
+      "end_sentence_idx": 496,
+      "num_sentences": 1,
+      "start_time_sec": 1415.0,
+      "end_time_sec": 1415.0,
+      "text_preview": "I saw that no one can say for certain.",
+      "keywords": [],
+      "summary": "I saw that no one can say for certain. …"
+    },
+    {
+      "segment_id": 300,
+      "start_sentence_idx": 496,
+      "end_sentence_idx": 497,
+      "num_sentences": 1,
+      "start_time_sec": 1422.0,
+      "end_time_sec": 1422.0,
+      "text_preview": "whether Ellis ever saw the Golden Gate Bridge itself.",
+      "keywords": [],
+      "summary": "whether Ellis ever saw the Golden Gate Bridge itself. …"
+    },
+    {
+      "segment_id": 301,
+      "start_sentence_idx": 497,
+      "end_sentence_idx": 498,
+      "num_sentences": 1,
+      "start_time_sec": 1427.0,
+      "end_time_sec": 1427.0,
+      "text_preview": "I'm sure sure that he went and saw it at some point because he died for a decade or two.",
+      "keywords": [
+        "sure",
+        "went",
+        "two",
+        "saw",
+        "point",
+        "died"
+      ],
+      "summary": "I'm sure sure that he went and saw it at some point because he died for a decade or two. …"
+    },
+    {
+      "segment_id": 302,
+      "start_sentence_idx": 498,
+      "end_sentence_idx": 499,
+      "num_sentences": 1,
+      "start_time_sec": 1436.0,
+      "end_time_sec": 1436.0,
+      "text_preview": "Yeah, good decade after it opened.",
+      "keywords": [],
+      "summary": "Yeah, good decade after it opened. …"
+    },
+    {
+      "segment_id": 303,
+      "start_sentence_idx": 499,
+      "end_sentence_idx": 500,
+      "num_sentences": 1,
+      "start_time_sec": 1440.0,
+      "end_time_sec": 1440.0,
+      "text_preview": "So I would guess unless he had horrible version that just bought it at the bridge.",
+      "keywords": [],
+      "summary": "So I would guess unless he had horrible version that just bought it at the bridge. …"
+    },
+    {
+      "segment_id": 304,
+      "start_sentence_idx": 500,
+      "end_sentence_idx": 501,
+      "num_sentences": 1,
+      "start_time_sec": 1443.64,
+      "end_time_sec": 1443.64,
+      "text_preview": "I'll pay for it.",
+      "keywords": [],
+      "summary": "I'll pay for it. …"
+    },
+    {
+      "segment_id": 305,
+      "start_sentence_idx": 501,
+      "end_sentence_idx": 502,
+      "num_sentences": 1,
+      "start_time_sec": 1444.88,
+      "end_time_sec": 1444.88,
+      "text_preview": "So we can compare it to other suspension bridges in a few ways.",
+      "keywords": [],
+      "summary": "So we can compare it to other suspension bridges in a few ways. …"
+    },
+    {
+      "segment_id": 306,
+      "start_sentence_idx": 502,
+      "end_sentence_idx": 503,
+      "num_sentences": 1,
+      "start_time_sec": 1446.76,
+      "end_time_sec": 1446.76,
+      "text_preview": "It's really interesting.",
+      "keywords": [],
+      "summary": "It's really interesting. …"
+    },
+    {
+      "segment_id": 307,
+      "start_sentence_idx": 503,
+      "end_sentence_idx": 504,
+      "num_sentences": 1,
+      "start_time_sec": 1449.48,
+      "end_time_sec": 1449.48,
+      "text_preview": "It's got a lighter roadway than most.",
+      "keywords": [],
+      "summary": "It's got a lighter roadway than most. …"
+    },
+    {
+      "segment_id": 308,
+      "start_sentence_idx": 504,
+      "end_sentence_idx": 505,
+      "num_sentences": 1,
+      "start_time_sec": 1451.52,
+      "end_time_sec": 1451.52,
+      "text_preview": "It does not have train tracks on it, but it seems  that was one of the original ideas They wanted to train to be able to run across that thing But they realized that the winds were real problem in 1940 after the Pembo Nero's Bridge Disaster and they saw those things in 40 mile an…",
+      "keywords": [
+        "winds",
+        "thing",
+        "twisting",
+        "train",
+        "stiffen",
+        "tracks"
+      ],
+      "summary": "It does not have train tracks on it, but it seems  that was one of the original ideas. They wanted to train to be able to run across that thing. But they realized that the winds were real problem in 1940."
+    },
+    {
+      "segment_id": 309,
+      "start_sentence_idx": 505,
+      "end_sentence_idx": 508,
+      "num_sentences": 3,
+      "start_time_sec": 1452.52,
+      "end_time_sec": 1460.88,
+      "text_preview": "No,  they were close to the limit of it. That's right. Yeah, good.",
+      "keywords": [],
+      "summary": "No,  they were close to the limit of it. That's right. Yeah, good. …"
+    },
+    {
+      "segment_id": 310,
+      "start_sentence_idx": 508,
+      "end_sentence_idx": 516,
+      "num_sentences": 8,
+      "start_time_sec": 1462.28,
+      "end_time_sec": 1483.92,
+      "text_preview": "Okay, so the Golden Gate, it was the longest-spentian bridge until 1964 in the Vereson and Neros to go over that for a while. And  we said, there's Golden Gate Heart. That's that predates the bridge. But Golden Gate National Rec- creation area was created on either side of the br…",
+      "keywords": [
+        "bridge",
+        "gate",
+        "golden",
+        "things",
+        "survived",
+        "earthquake"
+      ],
+      "summary": "The Golden Gate survived the Loma Prieta earthquake, the 1989 earthquake that took place when the A's and the giants were playing each other in the world series. The goal-engate survived with no damage, what sort of a  a close very little of it."
+    },
+    {
+      "segment_id": 311,
+      "start_sentence_idx": 516,
+      "end_sentence_idx": 517,
+      "num_sentences": 1,
+      "start_time_sec": 1491.2,
+      "end_time_sec": 1491.2,
+      "text_preview": "Yeah, pretty good.",
+      "keywords": [],
+      "summary": "Yeah, pretty good. …"
+    },
+    {
+      "segment_id": 312,
+      "start_sentence_idx": 517,
+      "end_sentence_idx": 518,
+      "num_sentences": 1,
+      "start_time_sec": 1495.0,
+      "end_time_sec": 1495.0,
+      "text_preview": "There, and this is something I heard early on in my life was that the Golden Gate Bridge basically is in constant paint mode basically.",
+      "keywords": [
+        "basically",
+        "paint",
+        "something",
+        "mode",
+        "life",
+        "golden"
+      ],
+      "summary": "There, and this is something I heard early on in my life was that the Golden Gate Bridge basically is in constant paint mode basically. …"
+    },
+    {
+      "segment_id": 313,
+      "start_sentence_idx": 518,
+      "end_sentence_idx": 520,
+      "num_sentences": 2,
+      "start_time_sec": 1497.0,
+      "end_time_sec": 1500.0,
+      "text_preview": "Yeah, it's always being painted apparently,  it takes so long to paint and sort of take care of the corrosion, because of all that salty fog and salty air and water. Right?",
+      "keywords": [
+        "salty",
+        "yeah",
+        "takes",
+        "water",
+        "take",
+        "sort"
+      ],
+      "summary": "Yeah, it's always being painted apparently,  it takes so long to paint and sort of take care of the corrosion, because of all that salty fog and salty air and water. Right? …"
+    },
+    {
+      "segment_id": 314,
+      "start_sentence_idx": 520,
+      "end_sentence_idx": 521,
+      "num_sentences": 1,
+      "start_time_sec": 1505.0,
+      "end_time_sec": 1505.0,
+      "text_preview": "It's just it never stops.",
+      "keywords": [],
+      "summary": "It's just it never stops. …"
+    },
+    {
+      "segment_id": 315,
+      "start_sentence_idx": 521,
+      "end_sentence_idx": 522,
+      "num_sentences": 1,
+      "start_time_sec": 1508.0,
+      "end_time_sec": 1508.0,
+      "text_preview": "So , all right, we're done and we're going to take a few minutes off.",
+      "keywords": [],
+      "summary": "So , all right, we're done and we're going to take a few minutes off. …"
+    },
+    {
+      "segment_id": 316,
+      "start_sentence_idx": 522,
+      "end_sentence_idx": 523,
+      "num_sentences": 1,
+      "start_time_sec": 1508.0,
+      "end_time_sec": 1508.0,
+      "text_preview": "It's continuously being kept up.",
+      "keywords": [],
+      "summary": "It's continuously being kept up. …"
+    },
+    {
+      "segment_id": 317,
+      "start_sentence_idx": 523,
+      "end_sentence_idx": 524,
+      "num_sentences": 1,
+      "start_time_sec": 1513.0,
+      "end_time_sec": 1513.0,
+      "text_preview": "Yeah, and one other thing about the earthquake thing, they, they, somebody at some point figured out that the San Andreas could produce that most of a 0.6 magnitude earthquake, and then they went and figured out that the goal and gate would probably not be able to withstand that.",
+      "keywords": [
+        "earthquake",
+        "figured",
+        "thing",
+        "withstand",
+        "would",
+        "yeah"
+      ],
+      "summary": "The goal and gate would probably not be able to withstand a 0.6 magnitude earthquake. The San Andreas could produce that."
+    },
+    {
+      "segment_id": 318,
+      "start_sentence_idx": 524,
+      "end_sentence_idx": 528,
+      "num_sentences": 4,
+      "start_time_sec": 1515.0,
+      "end_time_sec": 1519.0,
+      "text_preview": "So they started, I think, back in, well, after the Loma pre-editors, they can 1989, they started a bit of a retrofit, tried to make it earthquake. up to 8.6 magnitude and one of the things that they were having to shore up, Chuck, was that they didn't bolt the towers to the found…",
+      "keywords": [
+        "one",
+        "towers",
+        "feet",
+        "started",
+        "back",
+        "tried"
+      ],
+      "summary": "The Loma Loma earthquake tower was retrofitted to withstand an 8.6 magnitude quake. The towers are so heavy, they didn't need to bolt them to the foundation, Chuck says. When the earthquake struck, the towers fell to the ground, Chuck adds."
+    },
+    {
+      "segment_id": 319,
+      "start_sentence_idx": 528,
+      "end_sentence_idx": 529,
+      "num_sentences": 1,
+      "start_time_sec": 1522.0,
+      "end_time_sec": 1522.0,
+      "text_preview": "When it comes back down on that foundation, they're ... That foundation is not going to hold that up.",
+      "keywords": [],
+      "summary": "When it comes back down on that foundation, they're ... That foundation is not going to hold that up. …"
+    },
+    {
+      "segment_id": 320,
+      "start_sentence_idx": 529,
+      "end_sentence_idx": 531,
+      "num_sentences": 2,
+      "start_time_sec": 1522.0,
+      "end_time_sec": 1527.0,
+      "text_preview": "So that's what they're trying to read. That's a big footstone.",
+      "keywords": [],
+      "summary": "So that's what they're trying to read. That's a big footstone. …"
+    },
+    {
+      "segment_id": 321,
+      "start_sentence_idx": 531,
+      "end_sentence_idx": 532,
+      "num_sentences": 1,
+      "start_time_sec": 1530.0,
+      "end_time_sec": 1530.0,
+      "text_preview": "So what they said?",
+      "keywords": [],
+      "summary": "So what they said? …"
+    },
+    {
+      "segment_id": 322,
+      "start_sentence_idx": 532,
+      "end_sentence_idx": 533,
+      "num_sentences": 1,
+      "start_time_sec": 1531.0,
+      "end_time_sec": 1531.0,
+      "text_preview": "So we have to close now with some sort of darker stuff.",
+      "keywords": [],
+      "summary": "So we have to close now with some sort of darker stuff. …"
+    },
+    {
+      "segment_id": 323,
+      "start_sentence_idx": 533,
+      "end_sentence_idx": 534,
+      "num_sentences": 1,
+      "start_time_sec": 1534.0,
+      "end_time_sec": 1534.0,
+      "text_preview": "Because Golden Gate Bridge, if it's known for...",
+      "keywords": [],
+      "summary": "Because Golden Gate Bridge, if it's known for... …"
+    },
+    {
+      "segment_id": 324,
+      "start_sentence_idx": 534,
+      "end_sentence_idx": 535,
+      "num_sentences": 1,
+      "start_time_sec": 1538.44,
+      "end_time_sec": 1538.44,
+      "text_preview": "It's known for many things, but one thing that's very much known for is that there have been many, many two-asides attempted and completed over the years.",
+      "keywords": [
+        "many",
+        "known",
+        "years",
+        "things",
+        "two",
+        "one"
+      ],
+      "summary": "It's known for many things, but one thing that's very much known for is that there have been many, many two-asides attempted and completed over the years. …"
+    },
+    {
+      "segment_id": 325,
+      "start_sentence_idx": 535,
+      "end_sentence_idx": 536,
+      "num_sentences": 1,
+      "start_time_sec": 1540.48,
+      "end_time_sec": 1540.48,
+      "text_preview": "They averaged about 20 per year for a very long time.",
+      "keywords": [],
+      "summary": "They averaged about 20 per year for a very long time. …"
+    },
+    {
+      "segment_id": 326,
+      "start_sentence_idx": 536,
+      "end_sentence_idx": 537,
+      "num_sentences": 1,
+      "start_time_sec": 1544.68,
+      "end_time_sec": 1544.68,
+      "text_preview": "hundreds of others had been stopped by obviously volunteers that are stationed there to watch for the sort of thing Bridge Workers' Cops sometimes just stranded people seeing a movie and they took a very long time to eventually get a safety net even though it was possible it they…",
+      "keywords": [
+        "thing",
+        "watch",
+        "workers",
+        "volunteers",
+        "took",
+        "time"
+      ],
+      "summary": "Bridge Workers' Cops sometimes just stranded people seeing a movie and they took a very long time to eventually get a safety net. Hundreds of others had been stopped by"
+    },
+    {
+      "segment_id": 327,
+      "start_sentence_idx": 537,
+      "end_sentence_idx": 538,
+      "num_sentences": 1,
+      "start_time_sec": 1550.76,
+      "end_time_sec": 1550.76,
+      "text_preview": "Yeah I saw that there was an opposition to it that included it will be ugly.",
+      "keywords": [],
+      "summary": "Yeah I saw that there was an opposition to it that included it will be ugly. …"
+    },
+    {
+      "segment_id": 328,
+      "start_sentence_idx": 538,
+      "end_sentence_idx": 539,
+      "num_sentences": 1,
+      "start_time_sec": 1551.76,
+      "end_time_sec": 1551.76,
+      "text_preview": "So every every I think since The first guy who died by suicide, his name was Harold Wawbert.",
+      "keywords": [],
+      "summary": "So every every I think since The first guy who died by suicide, his name was Harold Wawbert. …"
+    },
+    {
+      "segment_id": 329,
+      "start_sentence_idx": 539,
+      "end_sentence_idx": 540,
+      "num_sentences": 1,
+      "start_time_sec": 1552.76,
+      "end_time_sec": 1552.76,
+      "text_preview": "He was walking on the bridge all the way back just a few months after it opened.",
+      "keywords": [],
+      "summary": "He was walking on the bridge all the way back just a few months after it opened. …"
+    },
+    {
+      "segment_id": 330,
+      "start_sentence_idx": 540,
+      "end_sentence_idx": 542,
+      "num_sentences": 2,
+      "start_time_sec": 1553.76,
+      "end_time_sec": 1554.76,
+      "text_preview": "And he was walking with a friend. He said, this is as far as I go and he came the first person to jump to his death from the bridge.",
+      "keywords": [
+        "walking",
+        "said",
+        "person",
+        "jump",
+        "go",
+        "friend"
+      ],
+      "summary": "And he was walking with a friend. He said, this is as far as I go and he came the first person to jump to his death from the bridge. …"
+    },
+    {
+      "segment_id": 331,
+      "start_sentence_idx": 542,
+      "end_sentence_idx": 543,
+      "num_sentences": 1,
+      "start_time_sec": 1558.32,
+      "end_time_sec": 1558.32,
+      "text_preview": "That was in 1937.",
+      "keywords": [],
+      "summary": "That was in 1937. …"
+    },
+    {
+      "segment_id": 332,
+      "start_sentence_idx": 543,
+      "end_sentence_idx": 545,
+      "num_sentences": 2,
+      "start_time_sec": 1560.0,
+      "end_time_sec": 1565.0,
+      "text_preview": "What a thing. What a last line.",
+      "keywords": [],
+      "summary": "What a thing. What a last line. …"
+    },
+    {
+      "segment_id": 333,
+      "start_sentence_idx": 545,
+      "end_sentence_idx": 546,
+      "num_sentences": 1,
+      "start_time_sec": 1569.0,
+      "end_time_sec": 1569.0,
+      "text_preview": "Yeah, imagine being that friend and being , Wait, what?",
+      "keywords": [],
+      "summary": "Yeah, imagine being that friend and being , Wait, what? …"
+    },
+    {
+      "segment_id": 334,
+      "start_sentence_idx": 546,
+      "end_sentence_idx": 547,
+      "num_sentences": 1,
+      "start_time_sec": 1573.0,
+      "end_time_sec": 1573.0,
+      "text_preview": "And then, yeah, I can't imagine that.",
+      "keywords": [],
+      "summary": "And then, yeah, I can't imagine that. …"
+    },
+    {
+      "segment_id": 335,
+      "start_sentence_idx": 547,
+      "end_sentence_idx": 548,
+      "num_sentences": 1,
+      "start_time_sec": 1574.0,
+      "end_time_sec": 1574.0,
+      "text_preview": "Since then, at least 2000. people, maybe a little more, probably more because I think they assume that there's plenty of people who have jumped in their bodies whenever found.",
+      "keywords": [
+        "people",
+        "whenever",
+        "think",
+        "since",
+        "probably",
+        "plenty"
+      ],
+      "summary": "Since then, at least 2000. people, maybe a little more, probably more because I think they assume that there's plenty of people who have jumped in their bodies whenever found. …"
+    },
+    {
+      "segment_id": 336,
+      "start_sentence_idx": 548,
+      "end_sentence_idx": 550,
+      "num_sentences": 2,
+      "start_time_sec": 1577.0,
+      "end_time_sec": 1579.0,
+      "text_preview": "But at least 2000 confirmed people have jumped to their deaths from the Golden Gate Bridge and in 1995 the California Highway Patrol which had been keeping an official count. Stop their official count at 997 because they were worried that there's going to be a rash of suicides to…",
+      "keywords": [
+        "official",
+        "count",
+        "gate",
+        "golden",
+        "bridge",
+        "rash"
+      ],
+      "summary": "In 1995 the California Highway Patrol which had been keeping an official count. Stop their official count at 997 because they were worried that there's going to be a rash of suicides."
+    },
+    {
+      "segment_id": 337,
+      "start_sentence_idx": 550,
+      "end_sentence_idx": 551,
+      "num_sentences": 1,
+      "start_time_sec": 1582.0,
+      "end_time_sec": 1582.0,
+      "text_preview": "So officially the counts.",
+      "keywords": [],
+      "summary": "So officially the counts. …"
+    },
+    {
+      "segment_id": 338,
+      "start_sentence_idx": 551,
+      "end_sentence_idx": 552,
+      "num_sentences": 1,
+      "start_time_sec": 1582.0,
+      "end_time_sec": 1582.0,
+      "text_preview": "It's 1997, but I think most credible source put it at over two falls.",
+      "keywords": [],
+      "summary": "It's 1997, but I think most credible source put it at over two falls. …"
+    },
+    {
+      "segment_id": 339,
+      "start_sentence_idx": 552,
+      "end_sentence_idx": 553,
+      "num_sentences": 1,
+      "start_time_sec": 1584.0,
+      "end_time_sec": 1584.0,
+      "text_preview": "Yeah.",
+      "keywords": [],
+      "summary": "Yeah. …"
+    },
+    {
+      "segment_id": 340,
+      "start_sentence_idx": 553,
+      "end_sentence_idx": 555,
+      "num_sentences": 2,
+      "start_time_sec": 1590.0,
+      "end_time_sec": 1608.68,
+      "text_preview": "And what a thing to think about. What an awful thing to consider, but , thank God they bought of something  that.",
+      "keywords": [
+        "thing",
+        "think",
+        "thank",
+        "something",
+        "god",
+        "consider"
+      ],
+      "summary": "And what a thing to think about. What an awful thing to consider, but , thank God they bought of something  that. …"
+    },
+    {
+      "segment_id": 341,
+      "start_sentence_idx": 555,
+      "end_sentence_idx": 560,
+      "num_sentences": 5,
+      "start_time_sec": 1612.0,
+      "end_time_sec": 1632.5,
+      "text_preview": "Because they're probably right, ? What now? The security net? No, the stopping the public count because, oh yeah. , I would never have bought of something  that.",
+      "keywords": [
+        "yeah",
+        "would",
+        "stopping",
+        "something",
+        "security",
+        "right"
+      ],
+      "summary": "Because they're probably right, ? What now? The security net? No, the stopping the public count because, oh yeah. , I would never have bought of something  that. …"
+    },
+    {
+      "segment_id": 342,
+      "start_sentence_idx": 560,
+      "end_sentence_idx": 561,
+      "num_sentences": 1,
+      "start_time_sec": 1638.0,
+      "end_time_sec": 1638.0,
+      "text_preview": "So I'm glad they bought it that.",
+      "keywords": [],
+      "summary": "So I'm glad they bought it that. …"
+    },
+    {
+      "segment_id": 343,
+      "start_sentence_idx": 561,
+      "end_sentence_idx": 562,
+      "num_sentences": 1,
+      "start_time_sec": 1644.0,
+      "end_time_sec": 1644.0,
+      "text_preview": "It was a really, I don't know what to call it, either.",
+      "keywords": [],
+      "summary": "It was a really, I don't know what to call it, either. …"
+    },
+    {
+      "segment_id": 344,
+      "start_sentence_idx": 562,
+      "end_sentence_idx": 563,
+      "num_sentences": 1,
+      "start_time_sec": 1647.0,
+      "end_time_sec": 1647.0,
+      "text_preview": "interesting and awful documentary from 2006 called the Bridge.",
+      "keywords": [],
+      "summary": "interesting and awful documentary from 2006 called the Bridge. …"
+    },
+    {
+      "segment_id": 345,
+      "start_sentence_idx": 563,
+      "end_sentence_idx": 564,
+      "num_sentences": 1,
+      "start_time_sec": 1650.0,
+      "end_time_sec": 1650.0,
+      "text_preview": "I saw it a mucher, did you see that one?",
+      "keywords": [],
+      "summary": "I saw it a mucher, did you see that one? …"
+    },
+    {
+      "segment_id": 346,
+      "start_sentence_idx": 564,
+      "end_sentence_idx": 565,
+      "num_sentences": 1,
+      "start_time_sec": 1652.32,
+      "end_time_sec": 1652.32,
+      "text_preview": "Yeah, there's a lot too.",
+      "keywords": [],
+      "summary": "Yeah, there's a lot too. …"
+    },
+    {
+      "segment_id": 347,
+      "start_sentence_idx": 565,
+      "end_sentence_idx": 569,
+      "num_sentences": 4,
+      "start_time_sec": 1655.2,
+      "end_time_sec": 1664.76,
+      "text_preview": "The point was to drive awareness about this and about suicide and suicide prevention, but very controversial in that they captured footage. They had cameras trained on the bridge from the mountains in your body. They captured footage of 23 suicides, including a survivor, and they…",
+      "keywords": [
+        "suicide",
+        "footage",
+        "captured",
+        "trained",
+        "prevention",
+        "point"
+      ],
+      "summary": "\"They had cameras trained on the bridge from the mountains in your body. They captured footage of 23 suicides, including a survivor, and they filmed films,\""
+    },
+    {
+      "segment_id": 348,
+      "start_sentence_idx": 569,
+      "end_sentence_idx": 570,
+      "num_sentences": 1,
+      "start_time_sec": 1666.72,
+      "end_time_sec": 1666.72,
+      "text_preview": "It's very moving and upsetting documentary from Rene C. 2000s.",
+      "keywords": [],
+      "summary": "It's very moving and upsetting documentary from Rene C. 2000s. …"
+    },
+    {
+      "segment_id": 349,
+      "start_sentence_idx": 570,
+      "end_sentence_idx": 571,
+      "num_sentences": 1,
+      "start_time_sec": 1669.08,
+      "end_time_sec": 1669.08,
+      "text_preview": "Yeah, it is.",
+      "keywords": [],
+      "summary": "Yeah, it is. …"
+    },
+    {
+      "segment_id": 350,
+      "start_sentence_idx": 571,
+      "end_sentence_idx": 572,
+      "num_sentences": 1,
+      "start_time_sec": 1670.92,
+      "end_time_sec": 1670.92,
+      "text_preview": "So yeah, they definitely raised public awareness in kind of, I think, amplify the public outcry about this.",
+      "keywords": [],
+      "summary": "So yeah, they definitely raised public awareness in kind of, I think, amplify the public outcry about this. …"
+    },
+    {
+      "segment_id": 351,
+      "start_sentence_idx": 572,
+      "end_sentence_idx": 573,
+      "num_sentences": 1,
+      "start_time_sec": 1674.4,
+      "end_time_sec": 1674.4,
+      "text_preview": "And maybe people would be , yeah, we probably should do something about this because 20 to 30 people a year were taking their own lives at this time, right?",
+      "keywords": [
+        "people",
+        "yeah",
+        "would",
+        "time",
+        "year",
+        "taking"
+      ],
+      "summary": "And maybe people would be , yeah, we probably should do something about this because 20 to 30 people a year were taking their own lives at this time, right? …"
+    },
+    {
+      "segment_id": 352,
+      "start_sentence_idx": 573,
+      "end_sentence_idx": 574,
+      "num_sentences": 1,
+      "start_time_sec": 1677.04,
+      "end_time_sec": 1677.04,
+      "text_preview": "They finally finally in 2000, the beginning of 2020.",
+      "keywords": [],
+      "summary": "They finally finally in 2000, the beginning of 2020. …"
+    },
+    {
+      "segment_id": 353,
+      "start_sentence_idx": 574,
+      "end_sentence_idx": 575,
+      "num_sentences": 1,
+      "start_time_sec": 1679.84,
+      "end_time_sec": 1679.84,
+      "text_preview": "24.",
+      "keywords": [],
+      "summary": "24. …"
+    },
+    {
+      "segment_id": 354,
+      "start_sentence_idx": 575,
+      "end_sentence_idx": 578,
+      "num_sentences": 3,
+      "start_time_sec": 1680.0,
+      "end_time_sec": 1684.36,
+      "text_preview": "They finished putting up the safety nets, essentially. Let's stick out from the side of the bridge so that if you jump off the side of the bridge you're going to land in the steel net the whole thing costs $224 million and completed suicide drop by 73 percent yeah after they were…",
+      "keywords": [
+        "suicide",
+        "people",
+        "suicides",
+        "nets",
+        "side",
+        "completed"
+      ],
+      "summary": "The net costs $224 million and completed suicide drop by 73 percent after they were installed. \"These nets are actually preventing people from completing suicide and also deterring people from attempting suicide,\" he says."
+    },
+    {
+      "segment_id": 355,
+      "start_sentence_idx": 578,
+      "end_sentence_idx": 583,
+      "num_sentences": 5,
+      "start_time_sec": 1686.28,
+      "end_time_sec": 1701.76,
+      "text_preview": "Yeah and  they've done studies where they've interviewed people who did survive. Most of them don't ever try again, which is  very encouraging to now. I think those studying in 1970s by a guy named Richard Sidon and he followed up. on 515 people who had been stopped. These aren't…",
+      "keywords": [
+        "people",
+        "stopped",
+        "yeah",
+        "try",
+        "survive",
+        "think"
+      ],
+      "summary": "Most people who survive don't try to jump again, according to studies. The study was done in the 1970s by Richard Sidon."
+    },
+    {
+      "segment_id": 356,
+      "start_sentence_idx": 583,
+      "end_sentence_idx": 584,
+      "num_sentences": 1,
+      "start_time_sec": 1707.16,
+      "end_time_sec": 1707.16,
+      "text_preview": "You found that only 35, the 515 went on to die by suicide.",
+      "keywords": [],
+      "summary": "You found that only 35, the 515 went on to die by suicide. …"
+    },
+    {
+      "segment_id": 357,
+      "start_sentence_idx": 584,
+      "end_sentence_idx": 585,
+      "num_sentences": 1,
+      "start_time_sec": 1709.72,
+      "end_time_sec": 1709.72,
+      "text_preview": "So that's really great to know that if you can be an EMT or a police officer or a random passerby who can get someone out of that dire situation, there's a very, very good chance that that will be not something they go on to compete.",
+      "keywords": [
+        "something",
+        "someone",
+        "situation",
+        "really",
+        "random",
+        "police"
+      ],
+      "summary": "So that's really great to know that if you can be an EMT or a police officer or a random passerby who can get someone out of that dire situation, there's a very, very good chance that that will be not something they go o …"
+    },
+    {
+      "segment_id": 358,
+      "start_sentence_idx": 585,
+      "end_sentence_idx": 586,
+      "num_sentences": 1,
+      "start_time_sec": 1710.0,
+      "end_time_sec": 1710.0,
+      "text_preview": "Yeah.",
+      "keywords": [],
+      "summary": "Yeah. …"
+    },
+    {
+      "segment_id": 359,
+      "start_sentence_idx": 586,
+      "end_sentence_idx": 587,
+      "num_sentences": 1,
+      "start_time_sec": 1710.0,
+      "end_time_sec": 1710.0,
+      "text_preview": "And you mentioned those volunteers that are stationed along the bridge just for that very purpose.",
+      "keywords": [],
+      "summary": "And you mentioned those volunteers that are stationed along the bridge just for that very purpose. …"
+    },
+    {
+      "segment_id": 360,
+      "start_sentence_idx": 587,
+      "end_sentence_idx": 588,
+      "num_sentences": 1,
+      "start_time_sec": 1716.08,
+      "end_time_sec": 1716.08,
+      "text_preview": "I would wager that there's at least one stuff you should know, who does that and I would love to do.",
+      "keywords": [
+        "would",
+        "wager",
+        "stuff",
+        "one",
+        "love",
+        "least"
+      ],
+      "summary": "I would wager that there's at least one stuff you should know, who does that and I would love to do. …"
+    },
+    {
+      "segment_id": 361,
+      "start_sentence_idx": 588,
+      "end_sentence_idx": 589,
+      "num_sentences": 1,
+      "start_time_sec": 1716.08,
+      "end_time_sec": 1716.08,
+      "text_preview": "I bet you're right.",
+      "keywords": [],
+      "summary": "I bet you're right. …"
+    },
+    {
+      "segment_id": 362,
+      "start_sentence_idx": 589,
+      "end_sentence_idx": 592,
+      "num_sentences": 3,
+      "start_time_sec": 1721.12,
+      "end_time_sec": 1721.12,
+      "text_preview": "And I hope someone comes to our live show and stands for the end in Tulls. Everybody to think about it. I bet you that.",
+      "keywords": [
+        "tulls",
+        "think",
+        "stands",
+        "someone",
+        "show",
+        "live"
+      ],
+      "summary": "And I hope someone comes to our live show and stands for the end in Tulls. Everybody to think about it. I bet you that. …"
+    },
+    {
+      "segment_id": 363,
+      "start_sentence_idx": 592,
+      "end_sentence_idx": 594,
+      "num_sentences": 2,
+      "start_time_sec": 1727.6,
+      "end_time_sec": 1727.6,
+      "text_preview": "Yeah, they will get thunderous applause. I feel  we should end on a high note and the high note is the Gongay bridge was where James Bond.",
+      "keywords": [
+        "note",
+        "high",
+        "thunderous",
+        "yeah",
+        "james",
+        "gongay"
+      ],
+      "summary": "Yeah, they will get thunderous applause. I feel  we should end on a high note and the high note is the Gongay bridge was where James Bond. …"
+    },
+    {
+      "segment_id": 364,
+      "start_sentence_idx": 594,
+      "end_sentence_idx": 598,
+      "num_sentences": 4,
+      "start_time_sec": 1733.68,
+      "end_time_sec": 1740.0,
+      "text_preview": "successfully deceit a Christian walk in saving Tanya Roberts in the bargain. That's right. W to a kill. Probably the best bomb movie ever.",
+      "keywords": [
+        "walk",
+        "tanya",
+        "successfully",
+        "saving",
+        "roberts",
+        "right"
+      ],
+      "summary": "successfully deceit a Christian walk in saving Tanya Roberts in the bargain. That's right. W to a kill. Probably the best bomb movie ever. …"
+    },
+    {
+      "segment_id": 365,
+      "start_sentence_idx": 598,
+      "end_sentence_idx": 602,
+      "num_sentences": 4,
+      "start_time_sec": 1744.36,
+      "end_time_sec": 1756.32,
+      "text_preview": "Hmm interesting. All right. I mean that was the one I grew up on. So that's probably why I  that.",
+      "keywords": [
+        "right",
+        "probably",
+        "one",
+        "mean",
+        "interesting",
+        "hmm"
+      ],
+      "summary": "Hmm interesting. All right. I mean that was the one I grew up on. So that's probably why I  that. …"
+    },
+    {
+      "segment_id": 366,
+      "start_sentence_idx": 602,
+      "end_sentence_idx": 603,
+      "num_sentences": 1,
+      "start_time_sec": 1759.32,
+      "end_time_sec": 1759.32,
+      "text_preview": "There's no kid who grew up on  the living day lights and it puts the ghost limit.",
+      "keywords": [],
+      "summary": "There's no kid who grew up on  the living day lights and it puts the ghost limit. …"
+    },
+    {
+      "segment_id": 367,
+      "start_sentence_idx": 603,
+      "end_sentence_idx": 604,
+      "num_sentences": 1,
+      "start_time_sec": 1760.32,
+      "end_time_sec": 1760.32,
+      "text_preview": "Good stuff.",
+      "keywords": [],
+      "summary": "Good stuff. …"
+    },
+    {
+      "segment_id": 368,
+      "start_sentence_idx": 604,
+      "end_sentence_idx": 605,
+      "num_sentences": 1,
+      "start_time_sec": 1761.32,
+      "end_time_sec": 1761.32,
+      "text_preview": "Chuck said good stuff.",
+      "keywords": [],
+      "summary": "Chuck said good stuff. …"
+    },
+    {
+      "segment_id": 369,
+      "start_sentence_idx": 605,
+      "end_sentence_idx": 606,
+      "num_sentences": 1,
+      "start_time_sec": 1762.32,
+      "end_time_sec": 1762.32,
+      "text_preview": "Where I was trying to push him because that unlocks the murderamped All right, this is a chance to plug the sprints of the show here.",
+      "keywords": [
+        "unlocks",
+        "trying",
+        "sprints",
+        "show",
+        "right",
+        "push"
+      ],
+      "summary": "Where I was trying to push him because that unlocks the murderamped All right, this is a chance to plug the sprints of the show here. …"
+    },
+    {
+      "segment_id": 370,
+      "start_sentence_idx": 606,
+      "end_sentence_idx": 607,
+      "num_sentences": 1,
+      "start_time_sec": 1765.32,
+      "end_time_sec": 1765.32,
+      "text_preview": "Hey guys, just finished the episode on the radio, the National Radio Quiet Zone, kind of very fascinating.",
+      "keywords": [],
+      "summary": "Hey guys, just finished the episode on the radio, the National Radio Quiet Zone, kind of very fascinating. …"
+    },
+    {
+      "segment_id": 371,
+      "start_sentence_idx": 607,
+      "end_sentence_idx": 608,
+      "num_sentences": 1,
+      "start_time_sec": 1766.32,
+      "end_time_sec": 1766.32,
+      "text_preview": "By the way, we've got a few emails from people coming this out.",
+      "keywords": [],
+      "summary": "By the way, we've got a few emails from people coming this out. …"
+    },
+    {
+      "segment_id": 372,
+      "start_sentence_idx": 608,
+      "end_sentence_idx": 609,
+      "num_sentences": 1,
+      "start_time_sec": 1770.0,
+      "end_time_sec": 1770.0,
+      "text_preview": "I want to reach out with a recommendation of one of the Macaroid pods .",
+      "keywords": [],
+      "summary": "I want to reach out with a recommendation of one of the Macaroid pods . …"
+    },
+    {
+      "segment_id": 373,
+      "start_sentence_idx": 609,
+      "end_sentence_idx": 610,
+      "num_sentences": 1,
+      "start_time_sec": 1770.0,
+      "end_time_sec": 1770.0,
+      "text_preview": "The Macaroid brothers, just as Griffin and Travis Macaroid have long done.",
+      "keywords": [],
+      "summary": "The Macaroid brothers, just as Griffin and Travis Macaroid have long done. …"
+    },
+    {
+      "segment_id": 374,
+      "start_sentence_idx": 610,
+      "end_sentence_idx": 611,
+      "num_sentences": 1,
+      "start_time_sec": 1775.84,
+      "end_time_sec": 1775.84,
+      "text_preview": "My brother and my brother are me.",
+      "keywords": [],
+      "summary": "My brother and my brother are me. …"
+    },
+    {
+      "segment_id": 375,
+      "start_sentence_idx": 611,
+      "end_sentence_idx": 612,
+      "num_sentences": 1,
+      "start_time_sec": 1775.84,
+      "end_time_sec": 1775.84,
+      "text_preview": "And I'm going to those guys for a long time super cool dudes.",
+      "keywords": [],
+      "summary": "And I'm going to those guys for a long time super cool dudes. …"
+    },
+    {
+      "segment_id": 376,
+      "start_sentence_idx": 612,
+      "end_sentence_idx": 613,
+      "num_sentences": 1,
+      "start_time_sec": 1775.84,
+      "end_time_sec": 1775.84,
+      "text_preview": "And then they do a show with their death.",
+      "keywords": [],
+      "summary": "And then they do a show with their death. …"
+    },
+    {
+      "segment_id": 377,
+      "start_sentence_idx": 613,
+      "end_sentence_idx": 614,
+      "num_sentences": 1,
+      "start_time_sec": 1784.08,
+      "end_time_sec": 1784.08,
+      "text_preview": "It called the adventurism, which is where they play D&D, and that's become hugely popular.",
+      "keywords": [],
+      "summary": "It called the adventurism, which is where they play D&D, and that's become hugely popular. …"
+    },
+    {
+      "segment_id": 378,
+      "start_sentence_idx": 614,
+      "end_sentence_idx": 617,
+      "num_sentences": 3,
+      "start_time_sec": 1784.08,
+      "end_time_sec": 1788.8,
+      "text_preview": "It's awesome, man. Yeah, it's super cool. But the second season, adventurism is called Amnesty, and it is well-to-table top-worldly game genre of its always D&D.",
+      "keywords": [
+        "yeah",
+        "worldly",
+        "well",
+        "top",
+        "table",
+        "super"
+      ],
+      "summary": "It's awesome, man. Yeah, it's super cool. But the second season, adventurism is called Amnesty, and it is well-to-table top-worldly game genre of its always D&D. …"
+    },
+    {
+      "segment_id": 379,
+      "start_sentence_idx": 617,
+      "end_sentence_idx": 618,
+      "num_sentences": 1,
+      "start_time_sec": 1788.8,
+      "end_time_sec": 1788.8,
+      "text_preview": "But Griffin has said it in the green bank area.",
+      "keywords": [],
+      "summary": "But Griffin has said it in the green bank area. …"
+    },
+    {
+      "segment_id": 380,
+      "start_sentence_idx": 618,
+      "end_sentence_idx": 619,
+      "num_sentences": 1,
+      "start_time_sec": 1795.12,
+      "end_time_sec": 1795.12,
+      "text_preview": "So the folks in that area that attracts in the lack of communication is a plot device and really drives the story.",
+      "keywords": [
+        "story",
+        "really",
+        "plot",
+        "lack",
+        "folks",
+        "drives"
+      ],
+      "summary": "So the folks in that area that attracts in the lack of communication is a plot device and really drives the story. …"
+    },
+    {
+      "segment_id": 381,
+      "start_sentence_idx": 619,
+      "end_sentence_idx": 620,
+      "num_sentences": 1,
+      "start_time_sec": 1795.12,
+      "end_time_sec": 1795.12,
+      "text_preview": "It's one of my favorites that they've done.",
+      "keywords": [],
+      "summary": "It's one of my favorites that they've done. …"
+    },
+    {
+      "segment_id": 382,
+      "start_sentence_idx": 620,
+      "end_sentence_idx": 621,
+      "num_sentences": 1,
+      "start_time_sec": 1800.0,
+      "end_time_sec": 1800.0,
+      "text_preview": "I hold stuffy shit.",
+      "keywords": [],
+      "summary": "I hold stuffy shit. …"
+    },
+    {
+      "segment_id": 383,
+      "start_sentence_idx": 621,
+      "end_sentence_idx": 622,
+      "num_sentences": 1,
+      "start_time_sec": 1800.0,
+      "end_time_sec": 1800.0,
+      "text_preview": "in the heart, thanks for doing what you do.",
+      "keywords": [],
+      "summary": "in the heart, thanks for doing what you do. …"
+    },
+    {
+      "segment_id": 384,
+      "start_sentence_idx": 622,
+      "end_sentence_idx": 623,
+      "num_sentences": 1,
+      "start_time_sec": 1800.0,
+      "end_time_sec": 1800.0,
+      "text_preview": "And PS, I love hearing a few of the Macroys on movie crush, I love hearing Josh on Behind the Bastards and so on.",
+      "keywords": [
+        "love",
+        "hearing",
+        "ps",
+        "macroys",
+        "movie",
+        "josh"
+      ],
+      "summary": "And PS, I love hearing a few of the Macroys on movie crush, I love hearing Josh on Behind the Bastards and so on. …"
+    },
+    {
+      "segment_id": 385,
+      "start_sentence_idx": 623,
+      "end_sentence_idx": 624,
+      "num_sentences": 1,
+      "start_time_sec": 1800.0,
+      "end_time_sec": 1800.0,
+      "text_preview": "All of my favorite podcasters, Crossing Pasts, now and then really drives those pure social lines.",
+      "keywords": [],
+      "summary": "All of my favorite podcasters, Crossing Pasts, now and then really drives those pure social lines. …"
+    },
+    {
+      "segment_id": 386,
+      "start_sentence_idx": 624,
+      "end_sentence_idx": 625,
+      "num_sentences": 1,
+      "start_time_sec": 1806.16,
+      "end_time_sec": 1806.16,
+      "text_preview": "So go listen to Josh on Behind the Bastards, your past episode, two on a couple of times, right?",
+      "keywords": [],
+      "summary": "So go listen to Josh on Behind the Bastards, your past episode, two on a couple of times, right? …"
+    },
+    {
+      "segment_id": 387,
+      "start_sentence_idx": 625,
+      "end_sentence_idx": 628,
+      "num_sentences": 3,
+      "start_time_sec": 1806.16,
+      "end_time_sec": 1811.36,
+      "text_preview": "Yes, I was. Ian Don Dele's at? No, I was on Behind the Bastards once I was on Dele's at this.",
+      "keywords": [
+        "dele",
+        "yes",
+        "ian",
+        "behind",
+        "bastards"
+      ],
+      "summary": "Yes, I was. Ian Don Dele's at? No, I was on Behind the Bastards once I was on Dele's at this. …"
+    },
+    {
+      "segment_id": 388,
+      "start_sentence_idx": 628,
+      "end_sentence_idx": 629,
+      "num_sentences": 1,
+      "start_time_sec": 1811.36,
+      "end_time_sec": 1811.36,
+      "text_preview": "So I guess couple of times, and then I have... had a griffin on movie crush in his favorite movie which he claims is not his favorite movie only but also the best movie was Groundhog Day.",
+      "keywords": [
+        "movie",
+        "favorite",
+        "guess",
+        "times",
+        "groundhog",
+        "griffin"
+      ],
+      "summary": "So I guess couple of times, and then I have... had a griffin on movie crush in his favorite movie which he claims is not his favorite movie only but also the best movie was Groundhog Day. …"
+    },
+    {
+      "segment_id": 389,
+      "start_sentence_idx": 629,
+      "end_sentence_idx": 630,
+      "num_sentences": 1,
+      "start_time_sec": 1817.12,
+      "end_time_sec": 1817.12,
+      "text_preview": "It is good movie and I had just an on and Justin I think I can remember every single guest in the movie still his was with nail on.",
+      "keywords": [
+        "movie",
+        "think",
+        "still",
+        "single",
+        "remember",
+        "nail"
+      ],
+      "summary": "It is good movie and I had just an on and Justin I think I can remember every single guest in the movie still his was with nail on. …"
+    },
+    {
+      "segment_id": 390,
+      "start_sentence_idx": 630,
+      "end_sentence_idx": 631,
+      "num_sentences": 1,
+      "start_time_sec": 1817.12,
+      "end_time_sec": 1817.12,
+      "text_preview": "I've never seen that.",
+      "keywords": [],
+      "summary": "I've never seen that. …"
+    },
+    {
+      "segment_id": 391,
+      "start_sentence_idx": 631,
+      "end_sentence_idx": 632,
+      "num_sentences": 1,
+      "start_time_sec": 1823.92,
+      "end_time_sec": 1823.92,
+      "text_preview": "Isn't that a more see-album?",
+      "keywords": [],
+      "summary": "Isn't that a more see-album? …"
+    },
+    {
+      "segment_id": 392,
+      "start_sentence_idx": 632,
+      "end_sentence_idx": 633,
+      "num_sentences": 1,
+      "start_time_sec": 1829.36,
+      "end_time_sec": 1829.36,
+      "text_preview": "I don't know but it's a British independent film so it wouldn't surprise me.",
+      "keywords": [],
+      "summary": "I don't know but it's a British independent film so it wouldn't surprise me. …"
+    },
+    {
+      "segment_id": 393,
+      "start_sentence_idx": 633,
+      "end_sentence_idx": 640,
+      "num_sentences": 7,
+      "start_time_sec": 1830.0,
+      "end_time_sec": 1843.64,
+      "text_preview": "This is Voxol and I. Okay. With Neil and I, Richard E. Grant, it's really good. I think you and you meet with both , all right. We'll watch it. It's from  the Hindi movie Revolution of the Nineteenths from England. And it's really, really great.",
+      "keywords": [
+        "really",
+        "watch",
+        "voxol",
+        "right",
+        "think",
+        "richard"
+      ],
+      "summary": "This is Voxol and I. Okay. With Neil and I, Richard E. Grant, it's really good. I think you and you meet with both , all right. We'll watch it. It's from  the Hindi movie Revolution of the Nineteenths from England. And i …"
+    },
+    {
+      "segment_id": 394,
+      "start_sentence_idx": 640,
+      "end_sentence_idx": 641,
+      "num_sentences": 1,
+      "start_time_sec": 1843.64,
+      "end_time_sec": 1843.64,
+      "text_preview": ", I think I was talking smack nuts and long ago about P.T.",
+      "keywords": [],
+      "summary": ", I think I was talking smack nuts and long ago about P.T. …"
+    },
+    {
+      "segment_id": 395,
+      "start_sentence_idx": 641,
+      "end_sentence_idx": 642,
+      "num_sentences": 1,
+      "start_time_sec": 1843.64,
+      "end_time_sec": 1843.64,
+      "text_preview": "Anderson.",
+      "keywords": [],
+      "summary": "Anderson. …"
+    },
+    {
+      "segment_id": 396,
+      "start_sentence_idx": 642,
+      "end_sentence_idx": 643,
+      "num_sentences": 1,
+      "start_time_sec": 1850.88,
+      "end_time_sec": 1850.88,
+      "text_preview": "Both know says on the podcast or not.",
+      "keywords": [],
+      "summary": "Both know says on the podcast or not. …"
+    },
+    {
+      "segment_id": 397,
+      "start_sentence_idx": 643,
+      "end_sentence_idx": 645,
+      "num_sentences": 2,
+      "start_time_sec": 1856.88,
+      "end_time_sec": 1860.0,
+      "text_preview": "And I basically hadn't liked anything at his since bookie night. Maybe Magnolia.",
+      "keywords": [],
+      "summary": "And I basically hadn't liked anything at his since bookie night. Maybe Magnolia. …"
+    },
+    {
+      "segment_id": 398,
+      "start_sentence_idx": 645,
+      "end_sentence_idx": 646,
+      "num_sentences": 1,
+      "start_time_sec": 1862.0,
+      "end_time_sec": 1862.0,
+      "text_preview": "Then I saw one battle after another and I'm  buddy, this guy's back in my estimate.",
+      "keywords": [],
+      "summary": "Then I saw one battle after another and I'm  buddy, this guy's back in my estimate. …"
+    },
+    {
+      "segment_id": 399,
+      "start_sentence_idx": 646,
+      "end_sentence_idx": 650,
+      "num_sentences": 4,
+      "start_time_sec": 1865.0,
+      "end_time_sec": 1869.0,
+      "text_preview": "Not only did he direct it, he wrote it too. It's a good move. Yeah, he right directs all his movies. He, yeah, I loved loved one battle after him.",
+      "keywords": [
+        "yeah",
+        "loved",
+        "wrote",
+        "right",
+        "one",
+        "movies"
+      ],
+      "summary": "Not only did he direct it, he wrote it too. It's a good move. Yeah, he right directs all his movies. He, yeah, I loved loved one battle after him. …"
+    },
+    {
+      "segment_id": 400,
+      "start_sentence_idx": 650,
+      "end_sentence_idx": 651,
+      "num_sentences": 1,
+      "start_time_sec": 1871.0,
+      "end_time_sec": 1871.0,
+      "text_preview": "I think it was my favorite movie here.",
+      "keywords": [],
+      "summary": "I think it was my favorite movie here. …"
+    },
+    {
+      "segment_id": 401,
+      "start_sentence_idx": 651,
+      "end_sentence_idx": 652,
+      "num_sentences": 1,
+      "start_time_sec": 1877.0,
+      "end_time_sec": 1877.0,
+      "text_preview": "That, that in sinners probably time.",
+      "keywords": [],
+      "summary": "That, that in sinners probably time. …"
+    },
+    {
+      "segment_id": 402,
+      "start_sentence_idx": 652,
+      "end_sentence_idx": 653,
+      "num_sentences": 1,
+      "start_time_sec": 1880.0,
+      "end_time_sec": 1880.0,
+      "text_preview": "I've not seen sinners yet.",
+      "keywords": [],
+      "summary": "I've not seen sinners yet. …"
+    },
+    {
+      "segment_id": 403,
+      "start_sentence_idx": 653,
+      "end_sentence_idx": 654,
+      "num_sentences": 1,
+      "start_time_sec": 1885.0,
+      "end_time_sec": 1885.0,
+      "text_preview": "Is it as pretty good?",
+      "keywords": [],
+      "summary": "Is it as pretty good? …"
+    },
+    {
+      "segment_id": 404,
+      "start_sentence_idx": 654,
+      "end_sentence_idx": 656,
+      "num_sentences": 2,
+      "start_time_sec": 1887.0,
+      "end_time_sec": 1890.0,
+      "text_preview": "It's all right. I'll check it out.",
+      "keywords": [],
+      "summary": "It's all right. I'll check it out. …"
+    },
+    {
+      "segment_id": 405,
+      "start_sentence_idx": 656,
+      "end_sentence_idx": 665,
+      "num_sentences": 9,
+      "start_time_sec": 1894.4,
+      "end_time_sec": 1915.32,
+      "text_preview": "Don't tell me anything else, fine. All I need to hear was, oh man, capital G great. Then it's right of here. Okay. I'm... that by the way is from Ryan Pinto who's coming to see us in Denver and I'm sorry Ryan but we're not doing it on the Pinto we've already done that right now. …",
+      "keywords": [
+        "yeah",
+        "ryan",
+        "pinto",
+        "right",
+        "way",
+        "sorry"
+      ],
+      "summary": "Ryan Pinto is coming to see us in Denver and I'm sorry Ryan but we're not doing it on the Pinto we've already done that right now. That's the shame. You can go back and listen to"
+    },
+    {
+      "segment_id": 406,
+      "start_sentence_idx": 665,
+      "end_sentence_idx": 666,
+      "num_sentences": 1,
+      "start_time_sec": 1918.88,
+      "end_time_sec": 1918.88,
+      "text_preview": "You need to be able to do this.",
+      "keywords": [],
+      "summary": "You need to be able to do this. …"
+    },
+    {
+      "segment_id": 407,
+      "start_sentence_idx": 666,
+      "end_sentence_idx": 667,
+      "num_sentences": 1,
+      "start_time_sec": 1920.0,
+      "end_time_sec": 1920.0,
+      "text_preview": "Thanks Ryan.",
+      "keywords": [],
+      "summary": "Thanks Ryan. …"
+    },
+    {
+      "segment_id": 408,
+      "start_sentence_idx": 667,
+      "end_sentence_idx": 668,
+      "num_sentences": 1,
+      "start_time_sec": 1926.04,
+      "end_time_sec": 1926.04,
+      "text_preview": "We'll see you in Denver.",
+      "keywords": [],
+      "summary": "We'll see you in Denver. …"
+    },
+    {
+      "segment_id": 409,
+      "start_sentence_idx": 668,
+      "end_sentence_idx": 674,
+      "num_sentences": 6,
+      "start_time_sec": 1927.04,
+      "end_time_sec": 1947.72,
+      "text_preview": "If you want to see us in Denver or Seattle or San Francisco where you can also visit the Golden Gate Bridge, you can go to stuffyshino.com and get tickets and in the meantime if you want to email with us  ruffarado. you did. You can send an email to stuff podcasts that I Heart Ra…",
+      "keywords": [
+        "radio",
+        "heart",
+        "podcasts",
+        "want",
+        "visit",
+        "stuff"
+      ],
+      "summary": "Stuff you should know is a production of I Heart Radio. If you want to see us in Denver or Seattle or San Francisco you can go to stuffyshino.com and get tickets."
+    }
+  ]
+}

@@ -1,0 +1,4402 @@
+{
+  "episode_id": "episode_114",
+  "source_file": "episode_114_whisper.json",
+  "total_sentences": 666,
+  "algorithm_used": "embedding-based (Sentence Transformers)",
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_sentence_idx": 0,
+      "end_sentence_idx": 5,
+      "num_sentences": 5,
+      "start_time_sec": 2.43,
+      "end_time_sec": 13.15,
+      "text_preview": "I've been thinking about the gangster, Arnold Vosting, guys often credited with fixing 1919 World Series. From a thing about his last words, after he was shot during Pope Gain in 1928, someone asked you, shot him, the mother did it, said, his mother, even in death he was not goin…",
+      "keywords": [
+        "mother",
+        "shot",
+        "going",
+        "last",
+        "death",
+        "wrap"
+      ],
+      "summary": "In the face of death, Dogey was, which was a guy who would not wrap. Naming his mother was nothing more than reasserting who he was, one last time."
+    },
+    {
+      "segment_id": 2,
+      "start_sentence_idx": 5,
+      "end_sentence_idx": 6,
+      "num_sentences": 1,
+      "start_time_sec": 13.71,
+      "end_time_sec": 13.71,
+      "text_preview": "And this is what we want from last words.",
+      "keywords": [],
+      "summary": "And this is what we want from last words. …"
+    },
+    {
+      "segment_id": 3,
+      "start_sentence_idx": 6,
+      "end_sentence_idx": 7,
+      "num_sentences": 1,
+      "start_time_sec": 14.91,
+      "end_time_sec": 14.91,
+      "text_preview": "Let me tell you, this kind of summing up, who a person is.",
+      "keywords": [],
+      "summary": "Let me tell you, this kind of summing up, who a person is. …"
+    },
+    {
+      "segment_id": 4,
+      "start_sentence_idx": 7,
+      "end_sentence_idx": 8,
+      "num_sentences": 1,
+      "start_time_sec": 17.87,
+      "end_time_sec": 17.87,
+      "text_preview": ", sometimes you see those collections, famous last words, were printed in paper, or the Sunday magazine.",
+      "keywords": [],
+      "summary": ", sometimes you see those collections, famous last words, were printed in paper, or the Sunday magazine. …"
+    },
+    {
+      "segment_id": 5,
+      "start_sentence_idx": 8,
+      "end_sentence_idx": 9,
+      "num_sentences": 1,
+      "start_time_sec": 19.87,
+      "end_time_sec": 19.87,
+      "text_preview": "And they all have this quality.",
+      "keywords": [],
+      "summary": "And they all have this quality. …"
+    },
+    {
+      "segment_id": 6,
+      "start_sentence_idx": 9,
+      "end_sentence_idx": 10,
+      "num_sentences": 1,
+      "start_time_sec": 23.39,
+      "end_time_sec": 23.39,
+      "text_preview": "They always do.",
+      "keywords": [],
+      "summary": "They always do. …"
+    },
+    {
+      "segment_id": 7,
+      "start_sentence_idx": 10,
+      "end_sentence_idx": 11,
+      "num_sentences": 1,
+      "start_time_sec": 25.07,
+      "end_time_sec": 25.07,
+      "text_preview": "I'm pretending to sum up an entire vibe.",
+      "keywords": [],
+      "summary": "I'm pretending to sum up an entire vibe. …"
+    },
+    {
+      "segment_id": 8,
+      "start_sentence_idx": 11,
+      "end_sentence_idx": 12,
+      "num_sentences": 1,
+      "start_time_sec": 27.39,
+      "end_time_sec": 27.39,
+      "text_preview": "Think of a crossbow.",
+      "keywords": [],
+      "summary": "Think of a crossbow. …"
+    },
+    {
+      "segment_id": 9,
+      "start_sentence_idx": 12,
+      "end_sentence_idx": 13,
+      "num_sentences": 1,
+      "start_time_sec": 30.91,
+      "end_time_sec": 30.91,
+      "text_preview": "That was a great game of cow.",
+      "keywords": [],
+      "summary": "That was a great game of cow. …"
+    },
+    {
+      "segment_id": 10,
+      "start_sentence_idx": 13,
+      "end_sentence_idx": 14,
+      "num_sentences": 1,
+      "start_time_sec": 32.43,
+      "end_time_sec": 32.43,
+      "text_preview": "flowers, the BC fields.",
+      "keywords": [],
+      "summary": "flowers, the BC fields. …"
+    },
+    {
+      "segment_id": 11,
+      "start_sentence_idx": 14,
+      "end_sentence_idx": 15,
+      "num_sentences": 1,
+      "start_time_sec": 35.43,
+      "end_time_sec": 35.43,
+      "text_preview": "I spent a lot of time searching for the Bible for new polls.",
+      "keywords": [],
+      "summary": "I spent a lot of time searching for the Bible for new polls. …"
+    },
+    {
+      "segment_id": 12,
+      "start_sentence_idx": 15,
+      "end_sentence_idx": 16,
+      "num_sentences": 1,
+      "start_time_sec": 39.43,
+      "end_time_sec": 39.43,
+      "text_preview": "I'll scowild.",
+      "keywords": [],
+      "summary": "I'll scowild. …"
+    },
+    {
+      "segment_id": 13,
+      "start_sentence_idx": 16,
+      "end_sentence_idx": 17,
+      "num_sentences": 1,
+      "start_time_sec": 41.43,
+      "end_time_sec": 41.43,
+      "text_preview": "I did that well people because.",
+      "keywords": [],
+      "summary": "I did that well people because. …"
+    },
+    {
+      "segment_id": 14,
+      "start_sentence_idx": 17,
+      "end_sentence_idx": 18,
+      "num_sentences": 1,
+      "start_time_sec": 43.43,
+      "end_time_sec": 43.43,
+      "text_preview": "I ride it.",
+      "keywords": [],
+      "summary": "I ride it. …"
+    },
+    {
+      "segment_id": 15,
+      "start_sentence_idx": 18,
+      "end_sentence_idx": 19,
+      "num_sentences": 1,
+      "start_time_sec": 45.43,
+      "end_time_sec": 45.43,
+      "text_preview": "And in effect is I'll scowild didn't even say that on step that.",
+      "keywords": [],
+      "summary": "And in effect is I'll scowild didn't even say that on step that. …"
+    },
+    {
+      "segment_id": 16,
+      "start_sentence_idx": 19,
+      "end_sentence_idx": 20,
+      "num_sentences": 1,
+      "start_time_sec": 48.43,
+      "end_time_sec": 48.43,
+      "text_preview": "It's a remark he made to a friend at a cafe a month before he died.",
+      "keywords": [],
+      "summary": "It's a remark he made to a friend at a cafe a month before he died. …"
+    },
+    {
+      "segment_id": 17,
+      "start_sentence_idx": 20,
+      "end_sentence_idx": 23,
+      "num_sentences": 3,
+      "start_time_sec": 53.43,
+      "end_time_sec": 55.43,
+      "text_preview": "That's how much we want to believe in these things. But , we want our lives to mean something. And we want to believe that words can capture that mean.",
+      "keywords": [
+        "want",
+        "believe",
+        "mean",
+        "words",
+        "things",
+        "much"
+      ],
+      "summary": "That's how much we want to believe in these things. But , we want our lives to mean something. And we want to believe that words can capture that mean. …"
+    },
+    {
+      "segment_id": 18,
+      "start_sentence_idx": 23,
+      "end_sentence_idx": 24,
+      "num_sentences": 1,
+      "start_time_sec": 58.43,
+      "end_time_sec": 58.43,
+      "text_preview": "And seen in that way, glass words, ten-sad glass words, a one-final shot, figuring all out, something in all up.",
+      "keywords": [
+        "words",
+        "glass",
+        "way",
+        "ten",
+        "something",
+        "seen"
+      ],
+      "summary": "And seen in that way, glass words, ten-sad glass words, a one-final shot, figuring all out, something in all up. …"
+    },
+    {
+      "segment_id": 19,
+      "start_sentence_idx": 24,
+      "end_sentence_idx": 25,
+      "num_sentences": 1,
+      "start_time_sec": 60.43,
+      "end_time_sec": 60.43,
+      "text_preview": "Did this way of asserting the fact of our existence, had the exact moment for annihilation?",
+      "keywords": [],
+      "summary": "Did this way of asserting the fact of our existence, had the exact moment for annihilation? …"
+    },
+    {
+      "segment_id": 20,
+      "start_sentence_idx": 25,
+      "end_sentence_idx": 26,
+      "num_sentences": 1,
+      "start_time_sec": 62.43,
+      "end_time_sec": 62.43,
+      "text_preview": "Well , Well the B.E.C.",
+      "keywords": [],
+      "summary": "Well , Well the B.E.C. …"
+    },
+    {
+      "segment_id": 21,
+      "start_sentence_idx": 26,
+      "end_sentence_idx": 27,
+      "num_sentences": 1,
+      "start_time_sec": 62.43,
+      "end_time_sec": 62.43,
+      "text_preview": "Chicago Public Radio International.",
+      "keywords": [],
+      "summary": "Chicago Public Radio International. …"
+    },
+    {
+      "segment_id": 22,
+      "start_sentence_idx": 27,
+      "end_sentence_idx": 28,
+      "num_sentences": 1,
+      "start_time_sec": 69.79,
+      "end_time_sec": 69.79,
+      "text_preview": "It's a American life.",
+      "keywords": [],
+      "summary": "It's a American life. …"
+    },
+    {
+      "segment_id": 23,
+      "start_sentence_idx": 28,
+      "end_sentence_idx": 29,
+      "num_sentences": 1,
+      "start_time_sec": 69.79,
+      "end_time_sec": 69.79,
+      "text_preview": "I'm out of glass today's program.",
+      "keywords": [],
+      "summary": "I'm out of glass today's program. …"
+    },
+    {
+      "segment_id": 24,
+      "start_sentence_idx": 29,
+      "end_sentence_idx": 30,
+      "num_sentences": 1,
+      "start_time_sec": 69.79,
+      "end_time_sec": 69.79,
+      "text_preview": "Last words.",
+      "keywords": [],
+      "summary": "Last words. …"
+    },
+    {
+      "segment_id": 25,
+      "start_sentence_idx": 30,
+      "end_sentence_idx": 31,
+      "num_sentences": 1,
+      "start_time_sec": 79.63,
+      "end_time_sec": 79.63,
+      "text_preview": "Several case studies for you.",
+      "keywords": [],
+      "summary": "Several case studies for you. …"
+    },
+    {
+      "segment_id": 26,
+      "start_sentence_idx": 31,
+      "end_sentence_idx": 36,
+      "num_sentences": 5,
+      "start_time_sec": 79.63,
+      "end_time_sec": 98.27,
+      "text_preview": "Act one. Action speak louder. Story of people who are perfectly eloquent. And the limits of what even the best chosen last words can say and do for people. Act two.",
+      "keywords": [
+        "people",
+        "act",
+        "words",
+        "speak",
+        "two",
+        "say"
+      ],
+      "summary": "Act one. Action speak louder. Story of people who are perfectly eloquent. And the limits of what even the best chosen last words can say and do for people. Act two. …"
+    },
+    {
+      "segment_id": 27,
+      "start_sentence_idx": 36,
+      "end_sentence_idx": 38,
+      "num_sentences": 2,
+      "start_time_sec": 103.07,
+      "end_time_sec": 108.75,
+      "text_preview": "The unknown soldier. Story in which 40 voices become one voice.",
+      "keywords": [],
+      "summary": "The unknown soldier. Story in which 40 voices become one voice. …"
+    },
+    {
+      "segment_id": 28,
+      "start_sentence_idx": 38,
+      "end_sentence_idx": 40,
+      "num_sentences": 2,
+      "start_time_sec": 111.87,
+      "end_time_sec": 117.91,
+      "text_preview": "You're on your radio. Three.",
+      "keywords": [],
+      "summary": "You're on your radio. Three. …"
+    },
+    {
+      "segment_id": 29,
+      "start_sentence_idx": 40,
+      "end_sentence_idx": 41,
+      "num_sentences": 1,
+      "start_time_sec": 120.87,
+      "end_time_sec": 120.87,
+      "text_preview": "but an active at which the less said the better actor or how the living use the dead.",
+      "keywords": [],
+      "summary": "but an active at which the less said the better actor or how the living use the dead. …"
+    },
+    {
+      "segment_id": 30,
+      "start_sentence_idx": 41,
+      "end_sentence_idx": 42,
+      "num_sentences": 1,
+      "start_time_sec": 122.43,
+      "end_time_sec": 122.43,
+      "text_preview": "Right a real Marcus explains what rock fans use dead rock stars for.",
+      "keywords": [],
+      "summary": "Right a real Marcus explains what rock fans use dead rock stars for. …"
+    },
+    {
+      "segment_id": 31,
+      "start_sentence_idx": 42,
+      "end_sentence_idx": 44,
+      "num_sentences": 2,
+      "start_time_sec": 122.43,
+      "end_time_sec": 125.15,
+      "text_preview": "And climb, black box. We go through transcripts from those black box flavor quarters.",
+      "keywords": [],
+      "summary": "And climb, black box. We go through transcripts from those black box flavor quarters. …"
+    },
+    {
+      "segment_id": 32,
+      "start_sentence_idx": 44,
+      "end_sentence_idx": 45,
+      "num_sentences": 1,
+      "start_time_sec": 126.27,
+      "end_time_sec": 126.27,
+      "text_preview": "The ones we covered from airplane crashes.",
+      "keywords": [],
+      "summary": "The ones we covered from airplane crashes. …"
+    },
+    {
+      "segment_id": 33,
+      "start_sentence_idx": 45,
+      "end_sentence_idx": 46,
+      "num_sentences": 1,
+      "start_time_sec": 128.43,
+      "end_time_sec": 128.43,
+      "text_preview": "That's six.",
+      "keywords": [],
+      "summary": "That's six. …"
+    },
+    {
+      "segment_id": 34,
+      "start_sentence_idx": 46,
+      "end_sentence_idx": 47,
+      "num_sentences": 1,
+      "start_time_sec": 130.43,
+      "end_time_sec": 130.43,
+      "text_preview": "What goes through your head?",
+      "keywords": [],
+      "summary": "What goes through your head? …"
+    },
+    {
+      "segment_id": 35,
+      "start_sentence_idx": 47,
+      "end_sentence_idx": 48,
+      "num_sentences": 1,
+      "start_time_sec": 131.95,
+      "end_time_sec": 131.95,
+      "text_preview": "We have a straight, right or device wolf.",
+      "keywords": [],
+      "summary": "We have a straight, right or device wolf. …"
+    },
+    {
+      "segment_id": 36,
+      "start_sentence_idx": 48,
+      "end_sentence_idx": 49,
+      "num_sentences": 1,
+      "start_time_sec": 133.15,
+      "end_time_sec": 133.15,
+      "text_preview": "Stay with us.",
+      "keywords": [],
+      "summary": "Stay with us. …"
+    },
+    {
+      "segment_id": 37,
+      "start_sentence_idx": 49,
+      "end_sentence_idx": 50,
+      "num_sentences": 1,
+      "start_time_sec": 136.19,
+      "end_time_sec": 136.19,
+      "text_preview": "The eldest cub She's young, ábagaz She's where the simulator in forest snakes.",
+      "keywords": [],
+      "summary": "The eldest cub She's young, ábagaz She's where the simulator in forest snakes. …"
+    },
+    {
+      "segment_id": 38,
+      "start_sentence_idx": 50,
+      "end_sentence_idx": 51,
+      "num_sentences": 1,
+      "start_time_sec": 138.51,
+      "end_time_sec": 138.51,
+      "text_preview": "Directed by Craig Art Hood Lang Cow gang Back one, action speak louder.",
+      "keywords": [],
+      "summary": "Directed by Craig Art Hood Lang Cow gang Back one, action speak louder. …"
+    },
+    {
+      "segment_id": 39,
+      "start_sentence_idx": 51,
+      "end_sentence_idx": 52,
+      "num_sentences": 1,
+      "start_time_sec": 143.23,
+      "end_time_sec": 143.23,
+      "text_preview": "This is the story of people attempting to surround death in a web of words, better understand it.",
+      "keywords": [],
+      "summary": "This is the story of people attempting to surround death in a web of words, better understand it. …"
+    },
+    {
+      "segment_id": 40,
+      "start_sentence_idx": 52,
+      "end_sentence_idx": 57,
+      "num_sentences": 5,
+      "start_time_sec": 144.35,
+      "end_time_sec": 152.43,
+      "text_preview": "A very eloquent people and their last words, and what last words can and cannot accomplish. Page Smith and Eloise Pickard Smith were married for a proper five decades, and they died one day apart. It's an occurs where they live, they will well-known, she was an artist, who's writ…",
+      "keywords": [
+        "words",
+        "story",
+        "smith",
+        "death",
+        "actions",
+        "last"
+      ],
+      "summary": "Page Smith and Eloise Pickard Smith were married for a proper five decades, and they died one day apart. This is a love story, a death story. It is a competition between actions and the power of words to describe those actions."
+    },
+    {
+      "segment_id": 41,
+      "start_sentence_idx": 57,
+      "end_sentence_idx": 58,
+      "num_sentences": 1,
+      "start_time_sec": 159.43,
+      "end_time_sec": 159.43,
+      "text_preview": "Before we get to anyone's last words about page and Eloise myths, joint life, and joint death, here are the facts.",
+      "keywords": [
+        "joint",
+        "page",
+        "words",
+        "myths",
+        "life",
+        "last"
+      ],
+      "summary": "Before we get to anyone's last words about page and Eloise myths, joint life, and joint death, here are the facts. …"
+    },
+    {
+      "segment_id": 42,
+      "start_sentence_idx": 58,
+      "end_sentence_idx": 59,
+      "num_sentences": 1,
+      "start_time_sec": 164.43,
+      "end_time_sec": 164.43,
+      "text_preview": "I asked their friend John Tezikis and their daughter Anne E. Sly to tell the story.",
+      "keywords": [],
+      "summary": "I asked their friend John Tezikis and their daughter Anne E. Sly to tell the story. …"
+    },
+    {
+      "segment_id": 43,
+      "start_sentence_idx": 59,
+      "end_sentence_idx": 60,
+      "num_sentences": 1,
+      "start_time_sec": 167.43,
+      "end_time_sec": 167.43,
+      "text_preview": "and recalls the beginning of the end when her mother was diagnosed with cancer.",
+      "keywords": [],
+      "summary": "and recalls the beginning of the end when her mother was diagnosed with cancer. …"
+    },
+    {
+      "segment_id": 44,
+      "start_sentence_idx": 60,
+      "end_sentence_idx": 89,
+      "num_sentences": 29,
+      "start_time_sec": 171.43,
+      "end_time_sec": 251.43,
+      "text_preview": "Early on, the diagnosis was not a good one. But her,  within the first three weeks, we knew that it wasn't about all that she was probably able to win, but she went ahead and allowed a lot of treatment anyway. And I think that she did that mainly for my father. And then he had st…",
+      "keywords": [
+        "mother",
+        "father",
+        "died",
+        "think",
+        "doctor",
+        "said"
+      ],
+      "summary": "\"I want to hurt illness. I couldn't even believe it. It was my shock,\" she says. \"I think Dad, well he knew he was going to do it. We didn't tell mother, we just wanted to say it\""
+    },
+    {
+      "segment_id": 45,
+      "start_sentence_idx": 89,
+      "end_sentence_idx": 97,
+      "num_sentences": 8,
+      "start_time_sec": 255.93,
+      "end_time_sec": 292.27,
+      "text_preview": "You just can have to accept this because I'm going to do it. Okay, good. Anyway, , but as a matter of fact, I think that father would have died probably right with mother if he hadn't been on chemotherapy. They put him on chemotherapy because he insisted on outland. We wanted to …",
+      "keywords": [
+        "wanted",
+        "die",
+        "chemotherapy",
+        "would",
+        "went",
+        "treatments"
+      ],
+      "summary": "\"I think that father would have died probably right with mother if he hadn't been on chemotherapy. They put him on chemotherapy because he insisted on outland. We wanted to keep it. I wanted to die before we wanted to live after her\""
+    },
+    {
+      "segment_id": 46,
+      "start_sentence_idx": 97,
+      "end_sentence_idx": 98,
+      "num_sentences": 1,
+      "start_time_sec": 296.03,
+      "end_time_sec": 296.03,
+      "text_preview": "You did.",
+      "keywords": [],
+      "summary": "You did. …"
+    },
+    {
+      "segment_id": 47,
+      "start_sentence_idx": 98,
+      "end_sentence_idx": 99,
+      "num_sentences": 1,
+      "start_time_sec": 300.31,
+      "end_time_sec": 300.31,
+      "text_preview": "You died 36 hours later.",
+      "keywords": [],
+      "summary": "You died 36 hours later. …"
+    },
+    {
+      "segment_id": 48,
+      "start_sentence_idx": 99,
+      "end_sentence_idx": 100,
+      "num_sentences": 1,
+      "start_time_sec": 300.31,
+      "end_time_sec": 300.31,
+      "text_preview": "Those are the facts, as for the last words that try to make sense of that act.",
+      "keywords": [],
+      "summary": "Those are the facts, as for the last words that try to make sense of that act. …"
+    },
+    {
+      "segment_id": 49,
+      "start_sentence_idx": 100,
+      "end_sentence_idx": 101,
+      "num_sentences": 1,
+      "start_time_sec": 302.43,
+      "end_time_sec": 302.43,
+      "text_preview": "H. Smith wrote a column that does as well as one might hope.",
+      "keywords": [],
+      "summary": "H. Smith wrote a column that does as well as one might hope. …"
+    },
+    {
+      "segment_id": 50,
+      "start_sentence_idx": 101,
+      "end_sentence_idx": 102,
+      "num_sentences": 1,
+      "start_time_sec": 304.43,
+      "end_time_sec": 304.43,
+      "text_preview": "Those part of a series of columns he wrote from the San Francisco Chronicle.",
+      "keywords": [],
+      "summary": "Those part of a series of columns he wrote from the San Francisco Chronicle. …"
+    },
+    {
+      "segment_id": 51,
+      "start_sentence_idx": 102,
+      "end_sentence_idx": 106,
+      "num_sentences": 4,
+      "start_time_sec": 305.43,
+      "end_time_sec": 322.43,
+      "text_preview": "left years on old age and done. In the essay he talks about the pleasures of lifelong coupling, ultimately the pain for those who've death does part. He wrote, the constellations of an old marriage are the good news, the bad news is that one part Aaron emerged, however I'd feel i…",
+      "keywords": [
+        "old",
+        "years",
+        "part",
+        "news",
+        "talks",
+        "ultimately"
+      ],
+      "summary": "The constellations of an old marriage are the good news, the bad news is that one part Aaron emerged, however I'd feel it, will predestice him. Many years ago he"
+    },
+    {
+      "segment_id": 52,
+      "start_sentence_idx": 106,
+      "end_sentence_idx": 107,
+      "num_sentences": 1,
+      "start_time_sec": 326.43,
+      "end_time_sec": 326.43,
+      "text_preview": "and who've stone the unbearably poignant words is a fearful thing to love what death can touch.",
+      "keywords": [],
+      "summary": "and who've stone the unbearably poignant words is a fearful thing to love what death can touch. …"
+    },
+    {
+      "segment_id": 53,
+      "start_sentence_idx": 107,
+      "end_sentence_idx": 108,
+      "num_sentences": 1,
+      "start_time_sec": 330.43,
+      "end_time_sec": 330.43,
+      "text_preview": "In another column called the famous last words, page, ponders the quandary of the final thought.",
+      "keywords": [],
+      "summary": "In another column called the famous last words, page, ponders the quandary of the final thought. …"
+    },
+    {
+      "segment_id": 54,
+      "start_sentence_idx": 108,
+      "end_sentence_idx": 109,
+      "num_sentences": 1,
+      "start_time_sec": 332.43,
+      "end_time_sec": 332.43,
+      "text_preview": "He said that he admired the last words John Quincy Adams, collapsed on the floor of the house.",
+      "keywords": [],
+      "summary": "He said that he admired the last words John Quincy Adams, collapsed on the floor of the house. …"
+    },
+    {
+      "segment_id": 55,
+      "start_sentence_idx": 109,
+      "end_sentence_idx": 110,
+      "num_sentences": 1,
+      "start_time_sec": 340.43,
+      "end_time_sec": 340.43,
+      "text_preview": "of representatives and declared it is finished.",
+      "keywords": [],
+      "summary": "of representatives and declared it is finished. …"
+    },
+    {
+      "segment_id": 56,
+      "start_sentence_idx": 110,
+      "end_sentence_idx": 114,
+      "num_sentences": 4,
+      "start_time_sec": 346.43,
+      "end_time_sec": 358.43,
+      "text_preview": "I am from the edge. H points out that the problem is that in order for your last words to convey this, you have to convey this, rather, profit-accent. He continues, it has to shut over the whole enterprise. Maybe the problem thing to do is to die in decent, resigned, signed, keep…",
+      "keywords": [
+        "convey",
+        "problem",
+        "words",
+        "whole",
+        "shut",
+        "resigned"
+      ],
+      "summary": "H points out that in order for your last words to convey this, you have to convey it in profit-accent. Maybe the problem thing to do is"
+    },
+    {
+      "segment_id": 57,
+      "start_sentence_idx": 114,
+      "end_sentence_idx": 115,
+      "num_sentences": 1,
+      "start_time_sec": 362.43,
+      "end_time_sec": 362.43,
+      "text_preview": "Well, of course, all of us were waiting for his final words, but...",
+      "keywords": [],
+      "summary": "Well, of course, all of us were waiting for his final words, but... …"
+    },
+    {
+      "segment_id": 58,
+      "start_sentence_idx": 115,
+      "end_sentence_idx": 116,
+      "num_sentences": 1,
+      "start_time_sec": 369.43,
+      "end_time_sec": 369.43,
+      "text_preview": "It wasn't something where he, where we asked him, , if you had your last words or what would you say, and he slipped off, come with before any of us would have done that.",
+      "keywords": [
+        "would",
+        "words",
+        "us",
+        "something",
+        "slipped",
+        "say"
+      ],
+      "summary": "It wasn't something where he, where we asked him, , if you had your last words or what would you say, and he slipped off, come with before any of us would have done that. …"
+    },
+    {
+      "segment_id": 59,
+      "start_sentence_idx": 116,
+      "end_sentence_idx": 124,
+      "num_sentences": 8,
+      "start_time_sec": 378.43,
+      "end_time_sec": 408.03,
+      "text_preview": "We live and we disappear. We go come from somewhere and we go somewhere. And yet words come from the name, writing, I mean art remains. Art is wrong, life is short as we know. And the last words you think are connected with it. evidence that it's a kind of testimony against our o…",
+      "keywords": [
+        "words",
+        "art",
+        "go",
+        "live",
+        "last",
+        "somewhere"
+      ],
+      "summary": "Anne says that Eloise is final words spoken to her sister, Ellen, word, I'm going to God. \"We live and we disappear. We go come from somewhere and we go somewhere,\" she says."
+    },
+    {
+      "segment_id": 60,
+      "start_sentence_idx": 124,
+      "end_sentence_idx": 125,
+      "num_sentences": 1,
+      "start_time_sec": 409.59,
+      "end_time_sec": 409.59,
+      "text_preview": "Page told the son to give my best to everybody at the cow, meaning how a college that you see Santa Cruz, you found?",
+      "keywords": [
+        "told",
+        "son",
+        "see",
+        "santa",
+        "page",
+        "meaning"
+      ],
+      "summary": "Page told the son to give my best to everybody at the cow, meaning how a college that you see Santa Cruz, you found? …"
+    },
+    {
+      "segment_id": 61,
+      "start_sentence_idx": 125,
+      "end_sentence_idx": 127,
+      "num_sentences": 2,
+      "start_time_sec": 417.87,
+      "end_time_sec": 422.43,
+      "text_preview": "Historians as an occupational hazard live among the dead more than the rest of us. They talk to the dead, read their words, eat their warnings, try to give breath and blood to bodies long since turned to dust.",
+      "keywords": [
+        "dead",
+        "words",
+        "us",
+        "turned",
+        "try",
+        "warnings"
+      ],
+      "summary": "Historians as an occupational hazard live among the dead more than the rest of us. They talk to the dead, read their words, eat their warnings, try to give breath and blood to bodies long since turned to dust. …"
+    },
+    {
+      "segment_id": 62,
+      "start_sentence_idx": 127,
+      "end_sentence_idx": 130,
+      "num_sentences": 3,
+      "start_time_sec": 422.43,
+      "end_time_sec": 429.15,
+      "text_preview": "The first important work of Paige Smith's career was a two-volume biography of John Adams published in 1962. John Hizikis Smith's former student, fellow history professor in friend delivered. joint eulogy for Eloise and Pages their funeral.",
+      "keywords": [
+        "smith",
+        "john",
+        "volume",
+        "two",
+        "student",
+        "published"
+      ],
+      "summary": "The first important work of Paige Smith's career was a two-volume biography of John Adams published in 1962. John Hizikis Smith's former student, fellow history professor in friend delivered. joint eulogy for Eloise and  …"
+    },
+    {
+      "segment_id": 63,
+      "start_sentence_idx": 130,
+      "end_sentence_idx": 132,
+      "num_sentences": 2,
+      "start_time_sec": 429.15,
+      "end_time_sec": 440.75,
+      "text_preview": "I asked him to read it for me. It begins with one of Pages' favorite anecdotes about the second-president, the fact that Adam died on July 4, 1826.",
+      "keywords": [
+        "second",
+        "read",
+        "president",
+        "pages",
+        "one",
+        "july"
+      ],
+      "summary": "I asked him to read it for me. It begins with one of Pages' favorite anecdotes about the second-president, the fact that Adam died on July 4, 1826. …"
+    },
+    {
+      "segment_id": 64,
+      "start_sentence_idx": 132,
+      "end_sentence_idx": 135,
+      "num_sentences": 3,
+      "start_time_sec": 440.75,
+      "end_time_sec": 445.39,
+      "text_preview": "Precisely 50 years after the Declaration of Independence, and coinciding with Thomas Jefferson's death on the same day in Virginia. So paid, this extraordinary occurrence to which he returned. again and again in conversation and in lectures.",
+      "keywords": [
+        "years",
+        "virginia",
+        "thomas",
+        "returned",
+        "precisely",
+        "paid"
+      ],
+      "summary": "Precisely 50 years after the Declaration of Independence, and coinciding with Thomas Jefferson's death on the same day in Virginia. So paid, this extraordinary occurrence to which he returned. again and again in conversa …"
+    },
+    {
+      "segment_id": 65,
+      "start_sentence_idx": 135,
+      "end_sentence_idx": 136,
+      "num_sentences": 1,
+      "start_time_sec": 452.43,
+      "end_time_sec": 452.43,
+      "text_preview": "The joint departure of two presiding spirits, two lives, two deaths, free will and necessity, unfathomably intermingled.",
+      "keywords": [],
+      "summary": "The joint departure of two presiding spirits, two lives, two deaths, free will and necessity, unfathomably intermingled. …"
+    },
+    {
+      "segment_id": 66,
+      "start_sentence_idx": 136,
+      "end_sentence_idx": 141,
+      "num_sentences": 5,
+      "start_time_sec": 457.43,
+      "end_time_sec": 478.43,
+      "text_preview": "Suggested something far beyond mere coincidence. History is divined, drama. It could not be said that Americans were struck dumb, we wrote. Rather the reverse, they were struck into an out pouring of wonder and astonishment of amazement and awe. And in these last few days, many o…",
+      "keywords": [
+        "wonder",
+        "something",
+        "struck",
+        "amazement",
+        "awe",
+        "us"
+      ],
+      "summary": "We wrote that Americans were struck into an out pouring of wonder and astonishment of amazement and awe. And in these last few days, many of us,"
+    },
+    {
+      "segment_id": 67,
+      "start_sentence_idx": 141,
+      "end_sentence_idx": 147,
+      "num_sentences": 6,
+      "start_time_sec": 482.43,
+      "end_time_sec": 512.43,
+      "text_preview": "The biography of John Adams was also a biography of Abigail Adams, and one of its most compelling aspects is the way past and present emerge, the 18th century and the 20th century. one My Fondlove has been in my existing simultaneously, in consciousness of the writer and of the r…",
+      "keywords": [
+        "words",
+        "one",
+        "john",
+        "marriage",
+        "abigail",
+        "eloise"
+      ],
+      "summary": "My Fondlove has been in my existing simultaneously, in consciousness of the writer and of the reader, exemplified by the books and forgettable dedication to Eloise. Through him, I know what Abigail meant to Jumbo. Those are lovely words and historians words, but sometimes there's only so"
+    },
+    {
+      "segment_id": 68,
+      "start_sentence_idx": 147,
+      "end_sentence_idx": 149,
+      "num_sentences": 2,
+      "start_time_sec": 512.43,
+      "end_time_sec": 519.63,
+      "text_preview": "I think many of us have wondered and thought, probably that we have about ourselves in relation to that. What Paige and Eloise were?",
+      "keywords": [
+        "wondered",
+        "us",
+        "thought",
+        "think",
+        "relation",
+        "probably"
+      ],
+      "summary": "I think many of us have wondered and thought, probably that we have about ourselves in relation to that. What Paige and Eloise were? …"
+    },
+    {
+      "segment_id": 69,
+      "start_sentence_idx": 149,
+      "end_sentence_idx": 150,
+      "num_sentences": 1,
+      "start_time_sec": 519.63,
+      "end_time_sec": 519.63,
+      "text_preview": "and did may or may not be at all knowing to what we are.",
+      "keywords": [],
+      "summary": "and did may or may not be at all knowing to what we are. …"
+    },
+    {
+      "segment_id": 70,
+      "start_sentence_idx": 150,
+      "end_sentence_idx": 151,
+      "num_sentences": 1,
+      "start_time_sec": 526.19,
+      "end_time_sec": 526.19,
+      "text_preview": "I do think in some that there is a quality of intensity of the month that some toughness and necessity of being to gain it.",
+      "keywords": [
+        "toughness",
+        "think",
+        "quality",
+        "necessity",
+        "month",
+        "intensity"
+      ],
+      "summary": "I do think in some that there is a quality of intensity of the month that some toughness and necessity of being to gain it. …"
+    },
+    {
+      "segment_id": 71,
+      "start_sentence_idx": 151,
+      "end_sentence_idx": 152,
+      "num_sentences": 1,
+      "start_time_sec": 530.75,
+      "end_time_sec": 530.75,
+      "text_preview": "The many other devoted people don't have.",
+      "keywords": [],
+      "summary": "The many other devoted people don't have. …"
+    },
+    {
+      "segment_id": 72,
+      "start_sentence_idx": 152,
+      "end_sentence_idx": 153,
+      "num_sentences": 1,
+      "start_time_sec": 530.75,
+      "end_time_sec": 530.75,
+      "text_preview": "Very, very few people will ever have what they have.",
+      "keywords": [],
+      "summary": "Very, very few people will ever have what they have. …"
+    },
+    {
+      "segment_id": 73,
+      "start_sentence_idx": 153,
+      "end_sentence_idx": 158,
+      "num_sentences": 5,
+      "start_time_sec": 537.07,
+      "end_time_sec": 572.43,
+      "text_preview": "And I have a one. I have a wonderful husband, but it's, and I don't know, maybe baby in 20 or 30 years. If we're still alive and we've been together 30 years already, and if we have another 30 years, maybe we'll be as tired as we can. I believe that I understand how much elders a…",
+      "keywords": [
+        "years",
+        "much",
+        "30",
+        "maybe",
+        "one",
+        "together"
+      ],
+      "summary": "\"I have a wonderful husband, but it's, and I don't know, maybe baby in 20 or 30 years. If we're still alive and we've been together 30 years already, and if we have another 30 years,"
+    },
+    {
+      "segment_id": 74,
+      "start_sentence_idx": 158,
+      "end_sentence_idx": 161,
+      "num_sentences": 3,
+      "start_time_sec": 572.43,
+      "end_time_sec": 577.43,
+      "text_preview": "Not that life is not worth living. It is. But perhaps that you've lived it for me.",
+      "keywords": [],
+      "summary": "Not that life is not worth living. It is. But perhaps that you've lived it for me. …"
+    },
+    {
+      "segment_id": 75,
+      "start_sentence_idx": 161,
+      "end_sentence_idx": 162,
+      "num_sentences": 1,
+      "start_time_sec": 584.43,
+      "end_time_sec": 584.43,
+      "text_preview": "And there's no point in living it diminishing.",
+      "keywords": [],
+      "summary": "And there's no point in living it diminishing. …"
+    },
+    {
+      "segment_id": 76,
+      "start_sentence_idx": 162,
+      "end_sentence_idx": 163,
+      "num_sentences": 1,
+      "start_time_sec": 584.43,
+      "end_time_sec": 584.43,
+      "text_preview": "H. Smith once commented, often the power of the original fact is so great your odd by it.",
+      "keywords": [],
+      "summary": "H. Smith once commented, often the power of the original fact is so great your odd by it. …"
+    },
+    {
+      "segment_id": 77,
+      "start_sentence_idx": 163,
+      "end_sentence_idx": 164,
+      "num_sentences": 1,
+      "start_time_sec": 590.43,
+      "end_time_sec": 590.43,
+      "text_preview": "As Charles Adams said, when his grandfather John Adams and Thomas Jefferson both died on the same day, 4 July 1826, there is nothing so eloquent as fact.",
+      "keywords": [
+        "adams",
+        "thomas",
+        "nothing",
+        "july",
+        "john",
+        "said"
+      ],
+      "summary": "As Charles Adams said, when his grandfather John Adams and Thomas Jefferson both died on the same day, 4 July 1826, there is nothing so eloquent as fact. …"
+    },
+    {
+      "segment_id": 78,
+      "start_sentence_idx": 164,
+      "end_sentence_idx": 165,
+      "num_sentences": 1,
+      "start_time_sec": 597.43,
+      "end_time_sec": 597.43,
+      "text_preview": "His historians, which is to say, writers of non-fiction spend their careers as fans of noticeings.",
+      "keywords": [],
+      "summary": "His historians, which is to say, writers of non-fiction spend their careers as fans of noticeings. …"
+    },
+    {
+      "segment_id": 79,
+      "start_sentence_idx": 165,
+      "end_sentence_idx": 166,
+      "num_sentences": 1,
+      "start_time_sec": 602.43,
+      "end_time_sec": 602.43,
+      "text_preview": "In those moments when actual events have about them an air of magic of myth.",
+      "keywords": [],
+      "summary": "In those moments when actual events have about them an air of magic of myth. …"
+    },
+    {
+      "segment_id": 80,
+      "start_sentence_idx": 166,
+      "end_sentence_idx": 167,
+      "num_sentences": 1,
+      "start_time_sec": 606.43,
+      "end_time_sec": 606.43,
+      "text_preview": "I think Page Smith, who loved his wife, more than his wife, would have appreciated the eloquence of his body's final act dying when he did.",
+      "keywords": [
+        "wife",
+        "would",
+        "think",
+        "smith",
+        "page",
+        "loved"
+      ],
+      "summary": "I think Page Smith, who loved his wife, more than his wife, would have appreciated the eloquence of his body's final act dying when he did. …"
+    },
+    {
+      "segment_id": 81,
+      "start_sentence_idx": 167,
+      "end_sentence_idx": 168,
+      "num_sentences": 1,
+      "start_time_sec": 610.43,
+      "end_time_sec": 610.43,
+      "text_preview": "Page and Eloise were cremated together, their ashes mixed.",
+      "keywords": [],
+      "summary": "Page and Eloise were cremated together, their ashes mixed. …"
+    },
+    {
+      "segment_id": 82,
+      "start_sentence_idx": 168,
+      "end_sentence_idx": 169,
+      "num_sentences": 1,
+      "start_time_sec": 615.43,
+      "end_time_sec": 615.43,
+      "text_preview": "They're buried at the bottom of a hill.",
+      "keywords": [],
+      "summary": "They're buried at the bottom of a hill. …"
+    },
+    {
+      "segment_id": 83,
+      "start_sentence_idx": 169,
+      "end_sentence_idx": 170,
+      "num_sentences": 1,
+      "start_time_sec": 617.43,
+      "end_time_sec": 617.43,
+      "text_preview": "The marker made by Anne, breeds, and is a fearful thing to love what death in touch.",
+      "keywords": [],
+      "summary": "The marker made by Anne, breeds, and is a fearful thing to love what death in touch. …"
+    },
+    {
+      "segment_id": 84,
+      "start_sentence_idx": 170,
+      "end_sentence_idx": 171,
+      "num_sentences": 1,
+      "start_time_sec": 620.43,
+      "end_time_sec": 620.43,
+      "text_preview": "Sir Vows' most recent book is Sassination Vacation.",
+      "keywords": [],
+      "summary": "Sir Vows' most recent book is Sassination Vacation. …"
+    },
+    {
+      "segment_id": 85,
+      "start_sentence_idx": 171,
+      "end_sentence_idx": 172,
+      "num_sentences": 1,
+      "start_time_sec": 623.43,
+      "end_time_sec": 623.43,
+      "text_preview": "Back to, an end-sulture.",
+      "keywords": [],
+      "summary": "Back to, an end-sulture. …"
+    },
+    {
+      "segment_id": 86,
+      "start_sentence_idx": 172,
+      "end_sentence_idx": 173,
+      "num_sentences": 1,
+      "start_time_sec": 625.43,
+      "end_time_sec": 625.43,
+      "text_preview": "We had this story written by Luke song.",
+      "keywords": [],
+      "summary": "We had this story written by Luke song. …"
+    },
+    {
+      "segment_id": 87,
+      "start_sentence_idx": 173,
+      "end_sentence_idx": 185,
+      "num_sentences": 12,
+      "start_time_sec": 629.43,
+      "end_time_sec": 684.15,
+      "text_preview": "The last thing I saw was a hallway ceiling for a few while, finished along its edges, plastered molding that looked  a long row of small fish each time to swallow the one thing. The last thing I saw. was a crack of yellow sky between buildings, partly obscured by a line of washin…",
+      "keywords": [
+        "thing",
+        "saw",
+        "last",
+        "along",
+        "turb",
+        "trees"
+      ],
+      "summary": "\"The last thing I saw. was a crack of yellow sky between buildings, partly obscured by a line of washing\" \"I thought, it's okay. I'm safely behind the window, but don't shut up.\" \"I saw the boot. right foot and the nails protruding from the instant\""
+    },
+    {
+      "segment_id": 88,
+      "start_sentence_idx": 185,
+      "end_sentence_idx": 186,
+      "num_sentences": 1,
+      "start_time_sec": 687.09,
+      "end_time_sec": 687.09,
+      "text_preview": "I lost my balance crossing Broadway and just trampled by a team of brewery horses.",
+      "keywords": [],
+      "summary": "I lost my balance crossing Broadway and just trampled by a team of brewery horses. …"
+    },
+    {
+      "segment_id": 89,
+      "start_sentence_idx": 186,
+      "end_sentence_idx": 188,
+      "num_sentences": 2,
+      "start_time_sec": 692.43,
+      "end_time_sec": 692.43,
+      "text_preview": "I was wimching myself up the side of a six-story corner house and board platform with a load of nails with corners when the week part of it. rope hit the pulley sideways and I'm sure.",
+      "keywords": [
+        "wimching",
+        "week",
+        "sure",
+        "story",
+        "six",
+        "sideways"
+      ],
+      "summary": "I was wimching myself up the side of a six-story corner house and board platform with a load of nails with corners when the week part of it. rope hit the pulley sideways and I'm sure. …"
+    },
+    {
+      "segment_id": 90,
+      "start_sentence_idx": 188,
+      "end_sentence_idx": 189,
+      "num_sentences": 1,
+      "start_time_sec": 692.43,
+      "end_time_sec": 692.43,
+      "text_preview": "I lost my way in snowdress, half a block from my flat.",
+      "keywords": [],
+      "summary": "I lost my way in snowdress, half a block from my flat. …"
+    },
+    {
+      "segment_id": 91,
+      "start_sentence_idx": 189,
+      "end_sentence_idx": 191,
+      "num_sentences": 2,
+      "start_time_sec": 698.35,
+      "end_time_sec": 703.71,
+      "text_preview": "I drank a bottle of crabolic acid, not really knowing whether I meant to or not. I got very cold, coughed and forgot things.",
+      "keywords": [
+        "whether",
+        "things",
+        "really",
+        "meant",
+        "knowing",
+        "got"
+      ],
+      "summary": "I drank a bottle of crabolic acid, not really knowing whether I meant to or not. I got very cold, coughed and forgot things. …"
+    },
+    {
+      "segment_id": 92,
+      "start_sentence_idx": 191,
+      "end_sentence_idx": 198,
+      "num_sentences": 7,
+      "start_time_sec": 707.87,
+      "end_time_sec": 735.47,
+      "text_preview": "I went out to a yard to try to give birth and secret, but something happened. I met a policeman who mistook me for somebody else. I was drunk on my birthday and I fell off the dock trying to grab a gold piece that looked it's floating. in the courtyard of the tombs for a cheering…",
+      "keywords": [
+        "yard",
+        "went",
+        "trying",
+        "try",
+        "tombs",
+        "throat"
+      ],
+      "summary": "I was drunk on my birthday and I fell off the dock trying to grab a gold piece that looked it's floating. in the courtyard of the tombs. I stole a loaf of bread and started eating it as I ran down the street. But there was a lot of rado and middle that got"
+    },
+    {
+      "segment_id": 93,
+      "start_sentence_idx": 198,
+      "end_sentence_idx": 199,
+      "num_sentences": 1,
+      "start_time_sec": 735.47,
+      "end_time_sec": 735.47,
+      "text_preview": "I was supposed to get up early that morning, but I couldn't move.",
+      "keywords": [],
+      "summary": "I was supposed to get up early that morning, but I couldn't move. …"
+    },
+    {
+      "segment_id": 94,
+      "start_sentence_idx": 199,
+      "end_sentence_idx": 256,
+      "num_sentences": 57,
+      "start_time_sec": 735.47,
+      "end_time_sec": 1021.43,
+      "text_preview": "I heard a sort of whistling noise above my head as I was passed by the post office, and that's all I know. I was hustling a customer who looked  a real. swell, but when we got upstairs he pulled out a razor. I owed a lot of money for rent and got put out and that night, curled up…",
+      "keywords": [
+        "thought",
+        "took",
+        "put",
+        "got",
+        "know",
+        "never"
+      ],
+      "summary": "I was bitten by that black dog that used to hang around and I forgot all about it for six months or so. I ate some oysters and dug up myself. It took a shot of the big guy with the hammer guns. I jumped over the other fire escape, but my foot slipped. I thought"
+    },
+    {
+      "segment_id": 95,
+      "start_sentence_idx": 256,
+      "end_sentence_idx": 264,
+      "num_sentences": 8,
+      "start_time_sec": 1022.43,
+      "end_time_sec": 1047.43,
+      "text_preview": "So, give my eyes the eye bank, give my blood to the blood bank. Make my hair into switches, pick my teeth into rattles. So, my heart to the jump end. If my stream to the mayor, hook my lungs to an engine, stretch my guts down the avenue, stick my head on a pike, plug my spine to …",
+      "keywords": [
+        "blood",
+        "make",
+        "give",
+        "bank",
+        "winner",
+        "window"
+      ],
+      "summary": "\"Take my name for me, make a verb. Think of me, but, money. Then my nails are with sage and camphor and solid on. said my hands in the window\""
+    },
+    {
+      "segment_id": 96,
+      "start_sentence_idx": 264,
+      "end_sentence_idx": 265,
+      "num_sentences": 1,
+      "start_time_sec": 1050.43,
+      "end_time_sec": 1050.43,
+      "text_preview": "Remember me when you fall on the sidewalk.",
+      "keywords": [],
+      "summary": "Remember me when you fall on the sidewalk. …"
+    },
+    {
+      "segment_id": 97,
+      "start_sentence_idx": 265,
+      "end_sentence_idx": 266,
+      "num_sentences": 1,
+      "start_time_sec": 1052.43,
+      "end_time_sec": 1052.43,
+      "text_preview": "Mention me when you ask the sound.",
+      "keywords": [],
+      "summary": "Mention me when you ask the sound. …"
+    },
+    {
+      "segment_id": 98,
+      "start_sentence_idx": 266,
+      "end_sentence_idx": 267,
+      "num_sentences": 1,
+      "start_time_sec": 1052.43,
+      "end_time_sec": 1052.43,
+      "text_preview": "I am everywhere on feet.",
+      "keywords": [],
+      "summary": "I am everywhere on feet. …"
+    },
+    {
+      "segment_id": 99,
+      "start_sentence_idx": 267,
+      "end_sentence_idx": 270,
+      "num_sentences": 3,
+      "start_time_sec": 1057.23,
+      "end_time_sec": 1070.43,
+      "text_preview": "The Anand Soldier was written by Big Sound. We at 46th. and readers too many to name here, ending with the often and sound.",
+      "keywords": [
+        "sound",
+        "written",
+        "soldier",
+        "readers",
+        "often",
+        "name"
+      ],
+      "summary": "The Anand Soldier was written by Big Sound. We at 46th. and readers too many to name here, ending with the often and sound. …"
+    },
+    {
+      "segment_id": 100,
+      "start_sentence_idx": 270,
+      "end_sentence_idx": 272,
+      "num_sentences": 2,
+      "start_time_sec": 1074.07,
+      "end_time_sec": 1074.07,
+      "text_preview": "This is a sad song. Shall I say this song?",
+      "keywords": [],
+      "summary": "This is a sad song. Shall I say this song? …"
+    },
+    {
+      "segment_id": 101,
+      "start_sentence_idx": 272,
+      "end_sentence_idx": 273,
+      "num_sentences": 1,
+      "start_time_sec": 1078.59,
+      "end_time_sec": 1078.59,
+      "text_preview": "Act 3.",
+      "keywords": [],
+      "summary": "Act 3. …"
+    },
+    {
+      "segment_id": 102,
+      "start_sentence_idx": 273,
+      "end_sentence_idx": 274,
+      "num_sentences": 1,
+      "start_time_sec": 1082.43,
+      "end_time_sec": 1082.43,
+      "text_preview": "How the good thing is that the dead.",
+      "keywords": [],
+      "summary": "How the good thing is that the dead. …"
+    },
+    {
+      "segment_id": 103,
+      "start_sentence_idx": 274,
+      "end_sentence_idx": 280,
+      "num_sentences": 6,
+      "start_time_sec": 1082.43,
+      "end_time_sec": 1093.63,
+      "text_preview": "Janice, Jimmy, Elvis. Some dead pop stars are so big you don't even need their last names. And this Kurt Cobain, John Lenin, Keet Moon, Jen Morrison, Svicious, Mama Casselli, and Crouchy, Ronnie Van Zandt, Drain, Almond. I could go on and on with dead pop stars. I don't actually …",
+      "keywords": [
+        "stars",
+        "pop",
+        "deaths",
+        "dead",
+        "way",
+        "van"
+      ],
+      "summary": "Kurt Cobain, John Lenin, Keet Moon, Jen Morrison, Svicious, Mama Casselli, and Crouchy. Janice, Jimmy, Elvis. Ronnie Van Zandt, Drain, Almond. I could go on and on with dead pop stars."
+    },
+    {
+      "segment_id": 104,
+      "start_sentence_idx": 280,
+      "end_sentence_idx": 281,
+      "num_sentences": 1,
+      "start_time_sec": 1100.31,
+      "end_time_sec": 1100.31,
+      "text_preview": "He comes close to meeting that 19th century romance slash James Dean ideal when he passed on young.",
+      "keywords": [],
+      "summary": "He comes close to meeting that 19th century romance slash James Dean ideal when he passed on young. …"
+    },
+    {
+      "segment_id": 105,
+      "start_sentence_idx": 281,
+      "end_sentence_idx": 282,
+      "num_sentences": 1,
+      "start_time_sec": 1100.31,
+      "end_time_sec": 1100.31,
+      "text_preview": "And he decided that the only way to deal with it was to make it into a job, to settle the exchange.",
+      "keywords": [
+        "way",
+        "settle",
+        "make",
+        "job",
+        "exchange",
+        "decided"
+      ],
+      "summary": "And he decided that the only way to deal with it was to make it into a job, to settle the exchange. …"
+    },
+    {
+      "segment_id": 106,
+      "start_sentence_idx": 282,
+      "end_sentence_idx": 283,
+      "num_sentences": 1,
+      "start_time_sec": 1100.31,
+      "end_time_sec": 1100.31,
+      "text_preview": "once and for all, ranked 116 dead pop stars, putting to a couple of hit points.",
+      "keywords": [],
+      "summary": "once and for all, ranked 116 dead pop stars, putting to a couple of hit points. …"
+    },
+    {
+      "segment_id": 107,
+      "start_sentence_idx": 283,
+      "end_sentence_idx": 284,
+      "num_sentences": 1,
+      "start_time_sec": 1106.31,
+      "end_time_sec": 1106.31,
+      "text_preview": "And I have absolute fabulous, not doing it.",
+      "keywords": [],
+      "summary": "And I have absolute fabulous, not doing it. …"
+    },
+    {
+      "segment_id": 108,
+      "start_sentence_idx": 284,
+      "end_sentence_idx": 285,
+      "num_sentences": 1,
+      "start_time_sec": 1110.19,
+      "end_time_sec": 1110.19,
+      "text_preview": ", very quick Web is really very, very well.",
+      "keywords": [],
+      "summary": ", very quick Web is really very, very well. …"
+    },
+    {
+      "segment_id": 109,
+      "start_sentence_idx": 285,
+      "end_sentence_idx": 286,
+      "num_sentences": 1,
+      "start_time_sec": 1112.43,
+      "end_time_sec": 1112.43,
+      "text_preview": "How much is this suicide work, , depending on the manner of the suicide, you get extra points for Web points, knowledge, and what?",
+      "keywords": [
+        "points",
+        "suicide",
+        "web",
+        "work",
+        "much",
+        "manner"
+      ],
+      "summary": "How much is this suicide work, , depending on the manner of the suicide, you get extra points for Web points, knowledge, and what? …"
+    },
+    {
+      "segment_id": 110,
+      "start_sentence_idx": 286,
+      "end_sentence_idx": 287,
+      "num_sentences": 1,
+      "start_time_sec": 1117.47,
+      "end_time_sec": 1117.47,
+      "text_preview": "A classic example of something starting off the show and suddenly becoming an obsession.",
+      "keywords": [],
+      "summary": "A classic example of something starting off the show and suddenly becoming an obsession. …"
+    },
+    {
+      "segment_id": 111,
+      "start_sentence_idx": 287,
+      "end_sentence_idx": 288,
+      "num_sentences": 1,
+      "start_time_sec": 1119.15,
+      "end_time_sec": 1119.15,
+      "text_preview": "Well, I got fast.",
+      "keywords": [],
+      "summary": "Well, I got fast. …"
+    },
+    {
+      "segment_id": 112,
+      "start_sentence_idx": 288,
+      "end_sentence_idx": 289,
+      "num_sentences": 1,
+      "start_time_sec": 1122.47,
+      "end_time_sec": 1122.47,
+      "text_preview": "Here.",
+      "keywords": [],
+      "summary": "Here. …"
+    },
+    {
+      "segment_id": 113,
+      "start_sentence_idx": 289,
+      "end_sentence_idx": 290,
+      "num_sentences": 1,
+      "start_time_sec": 1126.87,
+      "end_time_sec": 1126.87,
+      "text_preview": "70 and the end of the 70s.",
+      "keywords": [],
+      "summary": "70 and the end of the 70s. …"
+    },
+    {
+      "segment_id": 114,
+      "start_sentence_idx": 290,
+      "end_sentence_idx": 291,
+      "num_sentences": 1,
+      "start_time_sec": 1130.79,
+      "end_time_sec": 1130.79,
+      "text_preview": "One is soul-motion from survivors.",
+      "keywords": [],
+      "summary": "One is soul-motion from survivors. …"
+    },
+    {
+      "segment_id": 115,
+      "start_sentence_idx": 291,
+      "end_sentence_idx": 292,
+      "num_sentences": 1,
+      "start_time_sec": 1134.03,
+      "end_time_sec": 1134.03,
+      "text_preview": "Auto-dominate and break this great mouse and pop into the metal high-risk.",
+      "keywords": [],
+      "summary": "Auto-dominate and break this great mouse and pop into the metal high-risk. …"
+    },
+    {
+      "segment_id": 116,
+      "start_sentence_idx": 292,
+      "end_sentence_idx": 293,
+      "num_sentences": 1,
+      "start_time_sec": 1139.07,
+      "end_time_sec": 1139.07,
+      "text_preview": "White, wonderful, long essay on the cult of the survivor.",
+      "keywords": [],
+      "summary": "White, wonderful, long essay on the cult of the survivor. …"
+    },
+    {
+      "segment_id": 117,
+      "start_sentence_idx": 293,
+      "end_sentence_idx": 297,
+      "num_sentences": 4,
+      "start_time_sec": 1140.51,
+      "end_time_sec": 1148.27,
+      "text_preview": "They think it's on. Constructation is not the concentration camp. And the whole notion of what it meant to survive and how. For some, a lot for his art.",
+      "keywords": [
+        "whole",
+        "think",
+        "survive",
+        "notion",
+        "meant",
+        "lot"
+      ],
+      "summary": "They think it's on. Constructation is not the concentration camp. And the whole notion of what it meant to survive and how. For some, a lot for his art. …"
+    },
+    {
+      "segment_id": 118,
+      "start_sentence_idx": 297,
+      "end_sentence_idx": 298,
+      "num_sentences": 1,
+      "start_time_sec": 1153.55,
+      "end_time_sec": 1153.55,
+      "text_preview": "It had become the primary version that nothing was more important than surviving than it was good and self-ident.",
+      "keywords": [],
+      "summary": "It had become the primary version that nothing was more important than surviving than it was good and self-ident. …"
+    },
+    {
+      "segment_id": 119,
+      "start_sentence_idx": 298,
+      "end_sentence_idx": 299,
+      "num_sentences": 1,
+      "start_time_sec": 1153.55,
+      "end_time_sec": 1153.55,
+      "text_preview": "And I noticed that in music there were all these records called survivor.",
+      "keywords": [],
+      "summary": "And I noticed that in music there were all these records called survivor. …"
+    },
+    {
+      "segment_id": 120,
+      "start_sentence_idx": 299,
+      "end_sentence_idx": 308,
+      "num_sentences": 9,
+      "start_time_sec": 1159.71,
+      "end_time_sec": 1191.63,
+      "text_preview": "I'm a survivor. I must survive. I will survive. In USA, rock death in the 1970s, the suicide was a lot to be done. You listen, this grand fun survivor, rolling stones, so... survivor, Barry Mann survivor, Cindy Bowen survivor, Eric Berdens survivor, Gloria Gainers, I Will Survive…",
+      "keywords": [
+        "survivor",
+        "survive",
+        "dogs",
+        "survival",
+        "bam",
+        "whaler"
+      ],
+      "summary": "In USA, rock death in the 1970s, the suicide was a lot to be done. Barry Mann survivor, Cindy Bowen survivor, Eric Berdens survivor. Gloria Gainers, I Will Survive, Adam Fates, I Survive, Randy Bopman survivor."
+    },
+    {
+      "segment_id": 121,
+      "start_sentence_idx": 308,
+      "end_sentence_idx": 312,
+      "num_sentences": 4,
+      "start_time_sec": 1194.43,
+      "end_time_sec": 1202.43,
+      "text_preview": "The E was being praised for not being dead. And you reach a point when people are having themselves on the back. Or not being dead. When you're celebrating their triumph over the dead.",
+      "keywords": [
+        "dead",
+        "triumph",
+        "praised",
+        "reach",
+        "point",
+        "people"
+      ],
+      "summary": "The E was being praised for not being dead. And you reach a point when people are having themselves on the back. Or not being dead. When you're celebrating their triumph over the dead. …"
+    },
+    {
+      "segment_id": 122,
+      "start_sentence_idx": 312,
+      "end_sentence_idx": 313,
+      "num_sentences": 1,
+      "start_time_sec": 1204.43,
+      "end_time_sec": 1204.43,
+      "text_preview": "When they're affirming their superiority, for not being dead.",
+      "keywords": [],
+      "summary": "When they're affirming their superiority, for not being dead. …"
+    },
+    {
+      "segment_id": 123,
+      "start_sentence_idx": 313,
+      "end_sentence_idx": 314,
+      "num_sentences": 1,
+      "start_time_sec": 1208.11,
+      "end_time_sec": 1208.11,
+      "text_preview": "Yeah.",
+      "keywords": [],
+      "summary": "Yeah. …"
+    },
+    {
+      "segment_id": 124,
+      "start_sentence_idx": 314,
+      "end_sentence_idx": 315,
+      "num_sentences": 1,
+      "start_time_sec": 1212.11,
+      "end_time_sec": 1212.11,
+      "text_preview": "Real Markets is the author of lipstick traces and other books, including the upcoming book, The Shape of Things to Come, Prophecy and the American Voice.",
+      "keywords": [
+        "voice",
+        "upcoming",
+        "traces",
+        "things",
+        "shape",
+        "real"
+      ],
+      "summary": "Real Markets is the author of lipstick traces and other books, including the upcoming book, The Shape of Things to Come, Prophecy and the American Voice. …"
+    },
+    {
+      "segment_id": 125,
+      "start_sentence_idx": 315,
+      "end_sentence_idx": 316,
+      "num_sentences": 1,
+      "start_time_sec": 1216.51,
+      "end_time_sec": 1216.51,
+      "text_preview": "Well, the sweet, don't want to freeze!",
+      "keywords": [],
+      "summary": "Well, the sweet, don't want to freeze! …"
+    },
+    {
+      "segment_id": 126,
+      "start_sentence_idx": 316,
+      "end_sentence_idx": 317,
+      "num_sentences": 1,
+      "start_time_sec": 1220.99,
+      "end_time_sec": 1220.99,
+      "text_preview": "Well, the sweet, that out she's!",
+      "keywords": [],
+      "summary": "Well, the sweet, that out she's! …"
+    },
+    {
+      "segment_id": 127,
+      "start_sentence_idx": 317,
+      "end_sentence_idx": 318,
+      "num_sentences": 1,
+      "start_time_sec": 1226.03,
+      "end_time_sec": 1226.03,
+      "text_preview": "She's lost her official name!",
+      "keywords": [],
+      "summary": "She's lost her official name! …"
+    },
+    {
+      "segment_id": 128,
+      "start_sentence_idx": 318,
+      "end_sentence_idx": 319,
+      "num_sentences": 1,
+      "start_time_sec": 1230.59,
+      "end_time_sec": 1230.59,
+      "text_preview": "Coming up, which is very plain pilots from Black Boxes.",
+      "keywords": [],
+      "summary": "Coming up, which is very plain pilots from Black Boxes. …"
+    },
+    {
+      "segment_id": 129,
+      "start_sentence_idx": 319,
+      "end_sentence_idx": 320,
+      "num_sentences": 1,
+      "start_time_sec": 1232.43,
+      "end_time_sec": 1232.43,
+      "text_preview": "other last words that's in a minute for public video international, two noon RPMs are open This is American live from my reclass, it's you're gonna program of course which is a theme, but a variety of writers and reporters and performers to tackle that theme.",
+      "keywords": [
+        "theme",
+        "writers",
+        "words",
+        "video",
+        "variety",
+        "two"
+      ],
+      "summary": "other last words that's in a minute for public video international, two noon RPMs are open This is American live from my reclass, it's you're gonna program of course which is a theme, but a variety of writers and reporte …"
+    },
+    {
+      "segment_id": 130,
+      "start_sentence_idx": 320,
+      "end_sentence_idx": 324,
+      "num_sentences": 4,
+      "start_time_sec": 1235.23,
+      "end_time_sec": 1253.15,
+      "text_preview": "Today's program, last words, people's attempts to make sense of their own lives, some of their own lives, a certain fact of their own lives, in piss of death. We run to that four-for-for program, at four. Res bed. At five, black box.",
+      "keywords": [
+        "lives",
+        "program",
+        "four",
+        "words",
+        "run",
+        "sense"
+      ],
+      "summary": "Today's program, last words, people's attempts to make sense of their own lives, some of their own lives, a certain fact of their own lives, in piss of death. We run to that four-for-for program, at four. Res bed. At fiv …"
+    },
+    {
+      "segment_id": 131,
+      "start_sentence_idx": 324,
+      "end_sentence_idx": 325,
+      "num_sentences": 1,
+      "start_time_sec": 1253.15,
+      "end_time_sec": 1253.15,
+      "text_preview": "The most freaking contemplation we do as a culture of people's last words is when airplanes crash.",
+      "keywords": [],
+      "summary": "The most freaking contemplation we do as a culture of people's last words is when airplanes crash. …"
+    },
+    {
+      "segment_id": 132,
+      "start_sentence_idx": 325,
+      "end_sentence_idx": 326,
+      "num_sentences": 1,
+      "start_time_sec": 1256.99,
+      "end_time_sec": 1256.99,
+      "text_preview": "There is the black box which is frequently fluorescent arms, not black, which has data from airplanes instruments and the tape voices from cockpit voice recorder or CVR.",
+      "keywords": [
+        "black",
+        "voices",
+        "tape",
+        "recorder",
+        "instruments",
+        "voice"
+      ],
+      "summary": "There is the black box which is frequently fluorescent arms, not black, which has data from airplanes instruments and the tape voices from cockpit voice recorder or CVR. …"
+    },
+    {
+      "segment_id": 133,
+      "start_sentence_idx": 326,
+      "end_sentence_idx": 327,
+      "num_sentences": 1,
+      "start_time_sec": 1259.23,
+      "end_time_sec": 1259.23,
+      "text_preview": "We wonder do these voices tell us anything about how people propose themselves in this danger.",
+      "keywords": [],
+      "summary": "We wonder do these voices tell us anything about how people propose themselves in this danger. …"
+    },
+    {
+      "segment_id": 134,
+      "start_sentence_idx": 327,
+      "end_sentence_idx": 328,
+      "num_sentences": 1,
+      "start_time_sec": 1262.43,
+      "end_time_sec": 1262.43,
+      "text_preview": "Well, Malcolm McPherson is published a book of transcripts from 28 different questions.",
+      "keywords": [],
+      "summary": "Well, Malcolm McPherson is published a book of transcripts from 28 different questions. …"
+    },
+    {
+      "segment_id": 135,
+      "start_sentence_idx": 328,
+      "end_sentence_idx": 329,
+      "num_sentences": 1,
+      "start_time_sec": 1268.43,
+      "end_time_sec": 1268.43,
+      "text_preview": "As let's Google is reading and might think, probably can move you a polythritine and bright of the chuckie.",
+      "keywords": [],
+      "summary": "As let's Google is reading and might think, probably can move you a polythritine and bright of the chuckie. …"
+    },
+    {
+      "segment_id": 136,
+      "start_sentence_idx": 329,
+      "end_sentence_idx": 330,
+      "num_sentences": 1,
+      "start_time_sec": 1270.43,
+      "end_time_sec": 1270.43,
+      "text_preview": "That's what a technical talk, keep trying to work things out.",
+      "keywords": [],
+      "summary": "That's what a technical talk, keep trying to work things out. …"
+    },
+    {
+      "segment_id": 137,
+      "start_sentence_idx": 330,
+      "end_sentence_idx": 331,
+      "num_sentences": 1,
+      "start_time_sec": 1274.43,
+      "end_time_sec": 1274.43,
+      "text_preview": "I think that in general what I've seen in news is the work of some extremely professional people, some highly trained people who are doing what their training has instructed them to do.",
+      "keywords": [
+        "people",
+        "work",
+        "trained",
+        "training",
+        "think",
+        "seen"
+      ],
+      "summary": "I think that in general what I've seen in news is the work of some extremely professional people, some highly trained people who are doing what their training has instructed them to do. …"
+    },
+    {
+      "segment_id": 138,
+      "start_sentence_idx": 331,
+      "end_sentence_idx": 332,
+      "num_sentences": 1,
+      "start_time_sec": 1276.43,
+      "end_time_sec": 1276.43,
+      "text_preview": "to that last second and some in many cases through the last second.",
+      "keywords": [],
+      "summary": "to that last second and some in many cases through the last second. …"
+    },
+    {
+      "segment_id": 139,
+      "start_sentence_idx": 332,
+      "end_sentence_idx": 333,
+      "num_sentences": 1,
+      "start_time_sec": 1280.43,
+      "end_time_sec": 1280.43,
+      "text_preview": "And then at one point you just know you can read and you can feel in reading these that they know that it's the end game that it's old.",
+      "keywords": [
+        "know",
+        "reading",
+        "read",
+        "one",
+        "point",
+        "old"
+      ],
+      "summary": "And then at one point you just know you can read and you can feel in reading these that they know that it's the end game that it's old. …"
+    },
+    {
+      "segment_id": 140,
+      "start_sentence_idx": 333,
+      "end_sentence_idx": 334,
+      "num_sentences": 1,
+      "start_time_sec": 1283.43,
+      "end_time_sec": 1283.43,
+      "text_preview": "And that's usually when you get the, , the kinds of emotions that you can read in this or the yelling, the sh... out in the swearing.",
+      "keywords": [
+        "yelling",
+        "usually",
+        "swearing",
+        "sh",
+        "read",
+        "kinds"
+      ],
+      "summary": "And that's usually when you get the, , the kinds of emotions that you can read in this or the yelling, the sh... out in the swearing. …"
+    },
+    {
+      "segment_id": 141,
+      "start_sentence_idx": 334,
+      "end_sentence_idx": 335,
+      "num_sentences": 1,
+      "start_time_sec": 1287.43,
+      "end_time_sec": 1287.43,
+      "text_preview": "It goes on.",
+      "keywords": [],
+      "summary": "It goes on. …"
+    },
+    {
+      "segment_id": 142,
+      "start_sentence_idx": 335,
+      "end_sentence_idx": 336,
+      "num_sentences": 1,
+      "start_time_sec": 1290.43,
+      "end_time_sec": 1290.43,
+      "text_preview": "A lot of these people just, , end without sh...",
+      "keywords": [],
+      "summary": "A lot of these people just, , end without sh... …"
+    },
+    {
+      "segment_id": 143,
+      "start_sentence_idx": 336,
+      "end_sentence_idx": 337,
+      "num_sentences": 1,
+      "start_time_sec": 1292.43,
+      "end_time_sec": 1292.43,
+      "text_preview": "I think that the different categories of these fallen to there are the ones where with who actually acts very heroically and does what they can to save the plane.",
+      "keywords": [
+        "think",
+        "save",
+        "plane",
+        "ones",
+        "heroically",
+        "fallen"
+      ],
+      "summary": "I think that the different categories of these fallen to there are the ones where with who actually acts very heroically and does what they can to save the plane. …"
+    },
+    {
+      "segment_id": 144,
+      "start_sentence_idx": 337,
+      "end_sentence_idx": 338,
+      "num_sentences": 1,
+      "start_time_sec": 1292.43,
+      "end_time_sec": 1292.43,
+      "text_preview": "There are few where people just seem to die out of cheers to pity.",
+      "keywords": [],
+      "summary": "There are few where people just seem to die out of cheers to pity. …"
+    },
+    {
+      "segment_id": 145,
+      "start_sentence_idx": 338,
+      "end_sentence_idx": 339,
+      "num_sentences": 1,
+      "start_time_sec": 1292.43,
+      "end_time_sec": 1292.43,
+      "text_preview": "There's one Chinese Airlines flight.",
+      "keywords": [],
+      "summary": "There's one Chinese Airlines flight. …"
+    },
+    {
+      "segment_id": 146,
+      "start_sentence_idx": 339,
+      "end_sentence_idx": 341,
+      "num_sentences": 2,
+      "start_time_sec": 1298.11,
+      "end_time_sec": 1298.11,
+      "text_preview": "It was a China Northern Boeing M.D. Weeding to over West China in November of 1993.",
+      "keywords": [],
+      "summary": "It was a China Northern Boeing M.D. Weeding to over West China in November of 1993. …"
+    },
+    {
+      "segment_id": 147,
+      "start_sentence_idx": 341,
+      "end_sentence_idx": 342,
+      "num_sentences": 1,
+      "start_time_sec": 1298.11,
+      "end_time_sec": 1298.11,
+      "text_preview": "And the crew lost track their altitude and fog and they were coming in for a landing on landing approach.",
+      "keywords": [
+        "landing",
+        "track",
+        "lost",
+        "fog",
+        "crew",
+        "coming"
+      ],
+      "summary": "And the crew lost track their altitude and fog and they were coming in for a landing on landing approach. …"
+    },
+    {
+      "segment_id": 148,
+      "start_sentence_idx": 342,
+      "end_sentence_idx": 354,
+      "num_sentences": 12,
+      "start_time_sec": 1302.75,
+      "end_time_sec": 1322.43,
+      "text_preview": "And there are these proximity warning, ground proximity warning forms that go off and talk. They're quite loud and they're recording English. And when they go off they start screaming and the crew's ears pull up. up and in a very flat kind of very sort of loud way. And these Chin…",
+      "keywords": [
+        "emergency",
+        "send",
+        "still",
+        "sort",
+        "warning",
+        "transcript"
+      ],
+      "summary": "The pre-mequited messages that the women put out of all communities and sometimes it's a little eerie. One of the most eerie times is Korean-ervine flight, 007, which got to be a missile. And at the end of the transcript, the plane goes down. And after the"
+    },
+    {
+      "segment_id": 149,
+      "start_sentence_idx": 354,
+      "end_sentence_idx": 355,
+      "num_sentences": 1,
+      "start_time_sec": 1322.43,
+      "end_time_sec": 1322.43,
+      "text_preview": "How far those were warnings were going on, I don't know, but they must have been repeated over and over, is that thing plummeted from 50,000 feet away up there and had a long way to fall.",
+      "keywords": [
+        "way",
+        "warnings",
+        "thing",
+        "repeated",
+        "plummeted",
+        "must"
+      ],
+      "summary": "How far those were warnings were going on, I don't know, but they must have been repeated over and over, is that thing plummeted from 50,000 feet away up there and had a long way to fall. …"
+    },
+    {
+      "segment_id": 150,
+      "start_sentence_idx": 355,
+      "end_sentence_idx": 356,
+      "num_sentences": 1,
+      "start_time_sec": 1322.43,
+      "end_time_sec": 1322.43,
+      "text_preview": "Let's go through a few of these people get a sense of what these are .",
+      "keywords": [],
+      "summary": "Let's go through a few of these people get a sense of what these are . …"
+    },
+    {
+      "segment_id": 151,
+      "start_sentence_idx": 356,
+      "end_sentence_idx": 357,
+      "num_sentences": 1,
+      "start_time_sec": 1328.75,
+      "end_time_sec": 1328.75,
+      "text_preview": "There's one of the flights, Atlantic, Southeast Airlines, Flight 5, 20 years, which is obviously the first in the continent going to Mississippi.",
+      "keywords": [
+        "years",
+        "southeast",
+        "one",
+        "obviously",
+        "mississippi",
+        "going"
+      ],
+      "summary": "There's one of the flights, Atlantic, Southeast Airlines, Flight 5, 20 years, which is obviously the first in the continent going to Mississippi. …"
+    },
+    {
+      "segment_id": 152,
+      "start_sentence_idx": 357,
+      "end_sentence_idx": 359,
+      "num_sentences": 2,
+      "start_time_sec": 1328.75,
+      "end_time_sec": 1328.75,
+      "text_preview": "And can I ask you to just read a little bit from the captain says we can get in on vision. We can get in and land on visual approach without... instruments controlled out.",
+      "keywords": [
+        "get",
+        "without",
+        "vision",
+        "says",
+        "read",
+        "visual"
+      ],
+      "summary": "And can I ask you to just read a little bit from the captain says we can get in on vision. We can get in and land on visual approach without... instruments controlled out. …"
+    },
+    {
+      "segment_id": 153,
+      "start_sentence_idx": 359,
+      "end_sentence_idx": 360,
+      "num_sentences": 1,
+      "start_time_sec": 1334.43,
+      "end_time_sec": 1334.43,
+      "text_preview": "Good luck guys.",
+      "keywords": [],
+      "summary": "Good luck guys. …"
+    },
+    {
+      "segment_id": 154,
+      "start_sentence_idx": 360,
+      "end_sentence_idx": 361,
+      "num_sentences": 1,
+      "start_time_sec": 1334.43,
+      "end_time_sec": 1334.43,
+      "text_preview": "Captain, engines exploded.",
+      "keywords": [],
+      "summary": "Captain, engines exploded. …"
+    },
+    {
+      "segment_id": 155,
+      "start_sentence_idx": 361,
+      "end_sentence_idx": 362,
+      "num_sentences": 1,
+      "start_time_sec": 1341.15,
+      "end_time_sec": 1341.15,
+      "text_preview": "It's just hanging out there.",
+      "keywords": [],
+      "summary": "It's just hanging out there. …"
+    },
+    {
+      "segment_id": 156,
+      "start_sentence_idx": 362,
+      "end_sentence_idx": 369,
+      "num_sentences": 7,
+      "start_time_sec": 1352.43,
+      "end_time_sec": 1379.59,
+      "text_preview": "Copilot. Yes sir, we're with you declaring an emergency. Captain, it's the copilot. Sing, sing, sing, sing, sing, sing a lenge and check list please. Copilot. Where the hell is it? Captain, copilot.",
+      "keywords": [
+        "sing",
+        "copilot",
+        "captain",
+        "yes",
+        "please",
+        "sir"
+      ],
+      "summary": "Copilot. Yes sir, we're with you declaring an emergency. Captain, it's the copilot. Sing, sing, sing, sing, sing, sing a lenge and check list please. Copilot. Where the hell is it? Captain, copilot. …"
+    },
+    {
+      "segment_id": 157,
+      "start_sentence_idx": 369,
+      "end_sentence_idx": 373,
+      "num_sentences": 4,
+      "start_time_sec": 1382.43,
+      "end_time_sec": 1390.43,
+      "text_preview": "Help me. Help me hold it. Help me hold it. Help me hold it.",
+      "keywords": [],
+      "summary": "Help me. Help me hold it. Help me hold it. Help me hold it. …"
+    },
+    {
+      "segment_id": 158,
+      "start_sentence_idx": 373,
+      "end_sentence_idx": 374,
+      "num_sentences": 1,
+      "start_time_sec": 1390.43,
+      "end_time_sec": 1390.43,
+      "text_preview": "It's vibrating sound as the stick shaker starts warning of the stall.",
+      "keywords": [],
+      "summary": "It's vibrating sound as the stick shaker starts warning of the stall. …"
+    },
+    {
+      "segment_id": 159,
+      "start_sentence_idx": 374,
+      "end_sentence_idx": 375,
+      "num_sentences": 1,
+      "start_time_sec": 1390.43,
+      "end_time_sec": 1390.43,
+      "text_preview": "Copilot, Amy.",
+      "keywords": [],
+      "summary": "Copilot, Amy. …"
+    },
+    {
+      "segment_id": 160,
+      "start_sentence_idx": 375,
+      "end_sentence_idx": 376,
+      "num_sentences": 1,
+      "start_time_sec": 1396.43,
+      "end_time_sec": 1396.43,
+      "text_preview": "I love you.",
+      "keywords": [],
+      "summary": "I love you. …"
+    },
+    {
+      "segment_id": 161,
+      "start_sentence_idx": 376,
+      "end_sentence_idx": 377,
+      "num_sentences": 1,
+      "start_time_sec": 1396.43,
+      "end_time_sec": 1396.43,
+      "text_preview": "Cabin, sound of grunting, sound of impact, end of tape.",
+      "keywords": [],
+      "summary": "Cabin, sound of grunting, sound of impact, end of tape. …"
+    },
+    {
+      "segment_id": 162,
+      "start_sentence_idx": 377,
+      "end_sentence_idx": 379,
+      "num_sentences": 2,
+      "start_time_sec": 1409.43,
+      "end_time_sec": 1409.43,
+      "text_preview": "When I think that that was interesting reading these transcripts, is how few of them have anything  the pilots of Copilot saying any last words to their loved ones. Use this one with the Copilot says right before the tape goes off.",
+      "keywords": [
+        "copilot",
+        "words",
+        "use",
+        "transcripts",
+        "tape",
+        "think"
+      ],
+      "summary": "When I think that that was interesting reading these transcripts, is how few of them have anything  the pilots of Copilot saying any last words to their loved ones. Use this one with the Copilot says right before the tap …"
+    },
+    {
+      "segment_id": 163,
+      "start_sentence_idx": 379,
+      "end_sentence_idx": 380,
+      "num_sentences": 1,
+      "start_time_sec": 1412.43,
+      "end_time_sec": 1412.43,
+      "text_preview": "But in the whole book, in any other, where anybody gets any last words, anybody who grab.",
+      "keywords": [],
+      "summary": "But in the whole book, in any other, where anybody gets any last words, anybody who grab. …"
+    },
+    {
+      "segment_id": 164,
+      "start_sentence_idx": 380,
+      "end_sentence_idx": 381,
+      "num_sentences": 1,
+      "start_time_sec": 1442.43,
+      "end_time_sec": 1442.43,
+      "text_preview": "They're not, they're certainly not listed on these transcripts.",
+      "keywords": [],
+      "summary": "They're not, they're certainly not listed on these transcripts. …"
+    },
+    {
+      "segment_id": 165,
+      "start_sentence_idx": 381,
+      "end_sentence_idx": 382,
+      "num_sentences": 1,
+      "start_time_sec": 1447.43,
+      "end_time_sec": 1447.43,
+      "text_preview": "They see VR transcripts.",
+      "keywords": [],
+      "summary": "They see VR transcripts. …"
+    },
+    {
+      "segment_id": 166,
+      "start_sentence_idx": 382,
+      "end_sentence_idx": 385,
+      "num_sentences": 3,
+      "start_time_sec": 1454.43,
+      "end_time_sec": 1457.43,
+      "text_preview": "The NTSB National Transportation Safety Board, which gets these things out of the black boxes. They're sanitized to an extent where personal or deepening them up. emotional words that have nothing to do with the helping anyone to analyze the incident, the crash, whatever it might…",
+      "keywords": [
+        "words",
+        "whatever",
+        "transportation",
+        "things",
+        "sanitized",
+        "safety"
+      ],
+      "summary": "The NTSB National Transportation Safety Board, which gets these things out of the black boxes. They're sanitized to an extent where personal or deepening them up. emotional words that have nothing to do with the helping  …"
+    },
+    {
+      "segment_id": 167,
+      "start_sentence_idx": 385,
+      "end_sentence_idx": 386,
+      "num_sentences": 1,
+      "start_time_sec": 1459.43,
+      "end_time_sec": 1459.43,
+      "text_preview": "They're not released to the public.",
+      "keywords": [],
+      "summary": "They're not released to the public. …"
+    },
+    {
+      "segment_id": 168,
+      "start_sentence_idx": 386,
+      "end_sentence_idx": 387,
+      "num_sentences": 1,
+      "start_time_sec": 1462.43,
+      "end_time_sec": 1462.43,
+      "text_preview": "In some instances, some of it is through, but for the most case, I think the NTSB is absolutely correct in this, that it really has no business for the public to be reading this.",
+      "keywords": [
+        "think",
+        "really",
+        "reading",
+        "public",
+        "ntsb",
+        "instances"
+      ],
+      "summary": "In some instances, some of it is through, but for the most case, I think the NTSB is absolutely correct in this, that it really has no business for the public to be reading this. …"
+    },
+    {
+      "segment_id": 169,
+      "start_sentence_idx": 387,
+      "end_sentence_idx": 388,
+      "num_sentences": 1,
+      "start_time_sec": 1466.43,
+      "end_time_sec": 1466.43,
+      "text_preview": "I think that it's an issue between that.",
+      "keywords": [],
+      "summary": "I think that it's an issue between that. …"
+    },
+    {
+      "segment_id": 170,
+      "start_sentence_idx": 388,
+      "end_sentence_idx": 389,
+      "num_sentences": 1,
+      "start_time_sec": 1469.43,
+      "end_time_sec": 1469.43,
+      "text_preview": "crew in and whoever.",
+      "keywords": [],
+      "summary": "crew in and whoever. …"
+    },
+    {
+      "segment_id": 171,
+      "start_sentence_idx": 389,
+      "end_sentence_idx": 390,
+      "num_sentences": 1,
+      "start_time_sec": 1472.43,
+      "end_time_sec": 1472.43,
+      "text_preview": "So it's possible that in fact many more crews are actually trying to get in my spirits to their loved ones, but they didn't.",
+      "keywords": [
+        "trying",
+        "spirits",
+        "possible",
+        "ones",
+        "many",
+        "loved"
+      ],
+      "summary": "So it's possible that in fact many more crews are actually trying to get in my spirits to their loved ones, but they didn't. …"
+    },
+    {
+      "segment_id": 172,
+      "start_sentence_idx": 390,
+      "end_sentence_idx": 391,
+      "num_sentences": 1,
+      "start_time_sec": 1477.47,
+      "end_time_sec": 1477.47,
+      "text_preview": "Yeah.",
+      "keywords": [],
+      "summary": "Yeah. …"
+    },
+    {
+      "segment_id": 173,
+      "start_sentence_idx": 391,
+      "end_sentence_idx": 392,
+      "num_sentences": 1,
+      "start_time_sec": 1479.47,
+      "end_time_sec": 1479.47,
+      "text_preview": "Is there a quarter, five on your own?",
+      "keywords": [],
+      "summary": "Is there a quarter, five on your own? …"
+    },
+    {
+      "segment_id": 174,
+      "start_sentence_idx": 392,
+      "end_sentence_idx": 403,
+      "num_sentences": 11,
+      "start_time_sec": 1484.11,
+      "end_time_sec": 1523.43,
+      "text_preview": "Do you travel with a little tape record? I do. And if you've been on airplanes, where you were fried divided crashing and you were to your tape or what should I say? And no, I, when I've been afraid on an airplane, I've been to a freight turn on a tape record. Hold it back. you o…",
+      "keywords": [
+        "tape",
+        "traveling",
+        "say",
+        "record",
+        "time",
+        "going"
+      ],
+      "summary": "\"I've had, , sort of mentally prepared of what I'm going to say into this tape recorder if this thing goes down,\" he says. \"I don't know what that says about me, but I have tell me,\" he adds."
+    },
+    {
+      "segment_id": 175,
+      "start_sentence_idx": 403,
+      "end_sentence_idx": 405,
+      "num_sentences": 2,
+      "start_time_sec": 1528.43,
+      "end_time_sec": 1531.43,
+      "text_preview": "Who do I want to say anything to? And, , what's my obligation to actually observe, what is happening around me?",
+      "keywords": [
+        "want",
+        "say",
+        "observe",
+        "obligation",
+        "happening",
+        "around"
+      ],
+      "summary": "Who do I want to say anything to? And, , what's my obligation to actually observe, what is happening around me? …"
+    },
+    {
+      "segment_id": 176,
+      "start_sentence_idx": 405,
+      "end_sentence_idx": 406,
+      "num_sentences": 1,
+      "start_time_sec": 1532.43,
+      "end_time_sec": 1532.43,
+      "text_preview": "I can quickly, I mean, in a way it's the kind of self-flattering melodrama.",
+      "keywords": [],
+      "summary": "I can quickly, I mean, in a way it's the kind of self-flattering melodrama. …"
+    },
+    {
+      "segment_id": 177,
+      "start_sentence_idx": 406,
+      "end_sentence_idx": 407,
+      "num_sentences": 1,
+      "start_time_sec": 1534.43,
+      "end_time_sec": 1534.43,
+      "text_preview": "Do  what I mean?",
+      "keywords": [],
+      "summary": "Do  what I mean? …"
+    },
+    {
+      "segment_id": 178,
+      "start_sentence_idx": 407,
+      "end_sentence_idx": 408,
+      "num_sentences": 1,
+      "start_time_sec": 1537.43,
+      "end_time_sec": 1537.43,
+      "text_preview": "It's putting yourself at the center of a dramatic movie that you're imagining in your head.",
+      "keywords": [],
+      "summary": "It's putting yourself at the center of a dramatic movie that you're imagining in your head. …"
+    },
+    {
+      "segment_id": 179,
+      "start_sentence_idx": 408,
+      "end_sentence_idx": 409,
+      "num_sentences": 1,
+      "start_time_sec": 1543.43,
+      "end_time_sec": 1543.43,
+      "text_preview": "Yeah, the thing that interests me most about the intrinsic nature of these transcripts is that I am fascinated by the moment at which everything normal turns.",
+      "keywords": [
+        "yeah",
+        "turns",
+        "transcripts",
+        "thing",
+        "normal",
+        "nature"
+      ],
+      "summary": "Yeah, the thing that interests me most about the intrinsic nature of these transcripts is that I am fascinated by the moment at which everything normal turns. …"
+    },
+    {
+      "segment_id": 180,
+      "start_sentence_idx": 409,
+      "end_sentence_idx": 410,
+      "num_sentences": 1,
+      "start_time_sec": 1548.43,
+      "end_time_sec": 1548.43,
+      "text_preview": "180 degrees in an instant.",
+      "keywords": [],
+      "summary": "180 degrees in an instant. …"
+    },
+    {
+      "segment_id": 181,
+      "start_sentence_idx": 410,
+      "end_sentence_idx": 411,
+      "num_sentences": 1,
+      "start_time_sec": 1551.43,
+      "end_time_sec": 1551.43,
+      "text_preview": "And all of a sudden, everybody is in these cases, in the case of the CVR transcripts, everybody is in a tragic, pre-traging situation.",
+      "keywords": [
+        "everybody",
+        "transcripts",
+        "traging",
+        "tragic",
+        "situation",
+        "sudden"
+      ],
+      "summary": "And all of a sudden, everybody is in these cases, in the case of the CVR transcripts, everybody is in a tragic, pre-traging situation. …"
+    },
+    {
+      "segment_id": 182,
+      "start_sentence_idx": 411,
+      "end_sentence_idx": 412,
+      "num_sentences": 1,
+      "start_time_sec": 1555.43,
+      "end_time_sec": 1555.43,
+      "text_preview": "They're in an emergency.",
+      "keywords": [],
+      "summary": "They're in an emergency. …"
+    },
+    {
+      "segment_id": 183,
+      "start_sentence_idx": 412,
+      "end_sentence_idx": 413,
+      "num_sentences": 1,
+      "start_time_sec": 1559.43,
+      "end_time_sec": 1559.43,
+      "text_preview": "It happened to me when I was kid and I was driving along one night at about 10 o'clock with my parents.",
+      "keywords": [
+        "parents",
+        "one",
+        "night",
+        "kid",
+        "happened",
+        "driving"
+      ],
+      "summary": "It happened to me when I was kid and I was driving along one night at about 10 o'clock with my parents. …"
+    },
+    {
+      "segment_id": 184,
+      "start_sentence_idx": 413,
+      "end_sentence_idx": 422,
+      "num_sentences": 9,
+      "start_time_sec": 1562.43,
+      "end_time_sec": 1598.11,
+      "text_preview": "I was 12 years old. It was in 1955 and we were driving along. My father hoped along, he said, no, whatever. and all of a sudden, blame somebody's dove into the side of us. My parents were killed instantly. I'm , I... And I... My whole life at that instant changed. It turned aroun…",
+      "keywords": [
+        "along",
+        "whole",
+        "whatever",
+        "us",
+        "years",
+        "things"
+      ],
+      "summary": "My parents were killed instantly. I'm , I... And I... My whole life at that instant changed. Something... Things happened to me that... were not expected."
+    },
+    {
+      "segment_id": 185,
+      "start_sentence_idx": 422,
+      "end_sentence_idx": 427,
+      "num_sentences": 5,
+      "start_time_sec": 1603.79,
+      "end_time_sec": 1616.39,
+      "text_preview": "That, , and... I think about that issue when I'm reading these transcripts. So... I think that's what brought them to this thing. What?",
+      "keywords": [
+        "think",
+        "transcripts",
+        "thing",
+        "reading",
+        "issue",
+        "brought"
+      ],
+      "summary": "That, , and... I think about that issue when I'm reading these transcripts. So... I think that's what brought them to this thing. What? …"
+    },
+    {
+      "segment_id": 186,
+      "start_sentence_idx": 427,
+      "end_sentence_idx": 428,
+      "num_sentences": 1,
+      "start_time_sec": 1618.39,
+      "end_time_sec": 1618.39,
+      "text_preview": "Do we say...",
+      "keywords": [],
+      "summary": "Do we say... …"
+    },
+    {
+      "segment_id": 187,
+      "start_sentence_idx": 428,
+      "end_sentence_idx": 429,
+      "num_sentences": 1,
+      "start_time_sec": 1621.39,
+      "end_time_sec": 1621.39,
+      "text_preview": "I am interested in these as much as I am.",
+      "keywords": [],
+      "summary": "I am interested in these as much as I am. …"
+    },
+    {
+      "segment_id": 188,
+      "start_sentence_idx": 429,
+      "end_sentence_idx": 432,
+      "num_sentences": 3,
+      "start_time_sec": 1622.43,
+      "end_time_sec": 1631.43,
+      "text_preview": "Well thinking about thinking about your collection of pocket voice recorder recordings as an examination of how people handle that moment when the world goes from its normal trajectory. This sort of extraordinary trajectory where nothing is normal. The one to come up is the most …",
+      "keywords": [
+        "thinking",
+        "trajectory",
+        "normal",
+        "well",
+        "voice",
+        "world"
+      ],
+      "summary": "CNN's John Sutter asks people to think about the moment when the world goes from its normal trajectory. The one to come up is"
+    },
+    {
+      "segment_id": 189,
+      "start_sentence_idx": 432,
+      "end_sentence_idx": 433,
+      "num_sentences": 1,
+      "start_time_sec": 1635.43,
+      "end_time_sec": 1635.43,
+      "text_preview": "to manage to keep themselves calm, to keep themselves as much  they were still living their normal life.",
+      "keywords": [],
+      "summary": "to manage to keep themselves calm, to keep themselves as much  they were still living their normal life. …"
+    },
+    {
+      "segment_id": 190,
+      "start_sentence_idx": 433,
+      "end_sentence_idx": 434,
+      "num_sentences": 1,
+      "start_time_sec": 1641.43,
+      "end_time_sec": 1641.43,
+      "text_preview": "For example, our hands are in the sucii.",
+      "keywords": [],
+      "summary": "For example, our hands are in the sucii. …"
+    },
+    {
+      "segment_id": 191,
+      "start_sentence_idx": 434,
+      "end_sentence_idx": 435,
+      "num_sentences": 1,
+      "start_time_sec": 1643.43,
+      "end_time_sec": 1643.43,
+      "text_preview": "Right.",
+      "keywords": [],
+      "summary": "Right. …"
+    },
+    {
+      "segment_id": 192,
+      "start_sentence_idx": 435,
+      "end_sentence_idx": 436,
+      "num_sentences": 1,
+      "start_time_sec": 1648.43,
+      "end_time_sec": 1648.43,
+      "text_preview": "Let me ask you to read a little bit from page 123 of the scripts.",
+      "keywords": [],
+      "summary": "Let me ask you to read a little bit from page 123 of the scripts. …"
+    },
+    {
+      "segment_id": 193,
+      "start_sentence_idx": 436,
+      "end_sentence_idx": 437,
+      "num_sentences": 1,
+      "start_time_sec": 1651.43,
+      "end_time_sec": 1651.43,
+      "text_preview": "Okay, the remarkable thing was the humor that kept going back.",
+      "keywords": [],
+      "summary": "Okay, the remarkable thing was the humor that kept going back. …"
+    },
+    {
+      "segment_id": 194,
+      "start_sentence_idx": 437,
+      "end_sentence_idx": 438,
+      "num_sentences": 1,
+      "start_time_sec": 1652.43,
+      "end_time_sec": 1652.43,
+      "text_preview": "I mean, there was a running joke in that pocket and that was the way the joke was.",
+      "keywords": [],
+      "summary": "I mean, there was a running joke in that pocket and that was the way the joke was. …"
+    },
+    {
+      "segment_id": 195,
+      "start_sentence_idx": 438,
+      "end_sentence_idx": 440,
+      "num_sentences": 2,
+      "start_time_sec": 1653.43,
+      "end_time_sec": 1658.11,
+      "text_preview": "Guy in Sam and Cisco, they kept trying to get tough. with who was part of the United Maintenance crew in San Francisco and he simply were not.",
+      "keywords": [
+        "united",
+        "trying",
+        "tough",
+        "simply",
+        "san",
+        "sam"
+      ],
+      "summary": "Guy in Sam and Cisco, they kept trying to get tough. with who was part of the United Maintenance crew in San Francisco and he simply were not. …"
+    },
+    {
+      "segment_id": 196,
+      "start_sentence_idx": 440,
+      "end_sentence_idx": 441,
+      "num_sentences": 1,
+      "start_time_sec": 1668.43,
+      "end_time_sec": 1668.43,
+      "text_preview": "What they were telling because according to all his manuals and all he knew this couldn't happen.",
+      "keywords": [],
+      "summary": "What they were telling because according to all his manuals and all he knew this couldn't happen. …"
+    },
+    {
+      "segment_id": 197,
+      "start_sentence_idx": 441,
+      "end_sentence_idx": 442,
+      "num_sentences": 1,
+      "start_time_sec": 1671.43,
+      "end_time_sec": 1671.43,
+      "text_preview": "Not these systems all couldn't go down the way they had gone down specifically explained this how bad how badly out these people were.",
+      "keywords": [
+        "way",
+        "systems",
+        "specifically",
+        "people",
+        "gone",
+        "go"
+      ],
+      "summary": "Not these systems all couldn't go down the way they had gone down specifically explained this how bad how badly out these people were. …"
+    },
+    {
+      "segment_id": 198,
+      "start_sentence_idx": 442,
+      "end_sentence_idx": 443,
+      "num_sentences": 1,
+      "start_time_sec": 1675.43,
+      "end_time_sec": 1675.43,
+      "text_preview": "Oh they'd lost their advent and explosion.",
+      "keywords": [],
+      "summary": "Oh they'd lost their advent and explosion. …"
+    },
+    {
+      "segment_id": 199,
+      "start_sentence_idx": 443,
+      "end_sentence_idx": 444,
+      "num_sentences": 1,
+      "start_time_sec": 1679.43,
+      "end_time_sec": 1679.43,
+      "text_preview": "Yeah, tail of the earth.",
+      "keywords": [],
+      "summary": "Yeah, tail of the earth. …"
+    },
+    {
+      "segment_id": 200,
+      "start_sentence_idx": 444,
+      "end_sentence_idx": 445,
+      "num_sentences": 1,
+      "start_time_sec": 1682.43,
+      "end_time_sec": 1682.43,
+      "text_preview": "It's severed.",
+      "keywords": [],
+      "summary": "It's severed. …"
+    },
+    {
+      "segment_id": 201,
+      "start_sentence_idx": 445,
+      "end_sentence_idx": 447,
+      "num_sentences": 2,
+      "start_time_sec": 1687.07,
+      "end_time_sec": 1742.43,
+      "text_preview": "the hydraulic control elements that turn the planes and the only thing that they had to move the plane left and right down and up were the two engines on the wings. And so they had no control except for these engines and they had to control by the throttles.",
+      "keywords": [
+        "control",
+        "engines",
+        "wings",
+        "throttles",
+        "thing",
+        "two"
+      ],
+      "summary": "The only thing that they had to move the plane left and right down and up were the two engines on the wings. And so they"
+    },
+    {
+      "segment_id": 202,
+      "start_sentence_idx": 447,
+      "end_sentence_idx": 448,
+      "num_sentences": 1,
+      "start_time_sec": 1755.39,
+      "end_time_sec": 1755.39,
+      "text_preview": "They basically led up on one throttle and pushed head on the other to turn the plane to the right and exactly.",
+      "keywords": [
+        "turn",
+        "throttle",
+        "right",
+        "pushed",
+        "plane",
+        "one"
+      ],
+      "summary": "They basically led up on one throttle and pushed head on the other to turn the plane to the right and exactly. …"
+    },
+    {
+      "segment_id": 203,
+      "start_sentence_idx": 448,
+      "end_sentence_idx": 449,
+      "num_sentences": 1,
+      "start_time_sec": 1759.31,
+      "end_time_sec": 1759.31,
+      "text_preview": "At the bottom of a page once there's this memory.",
+      "keywords": [],
+      "summary": "At the bottom of a page once there's this memory. …"
+    },
+    {
+      "segment_id": 204,
+      "start_sentence_idx": 449,
+      "end_sentence_idx": 450,
+      "num_sentences": 1,
+      "start_time_sec": 1763.79,
+      "end_time_sec": 1763.79,
+      "text_preview": "where captain D is starting to invite and he's getting your instructions.",
+      "keywords": [],
+      "summary": "where captain D is starting to invite and he's getting your instructions. …"
+    },
+    {
+      "segment_id": 205,
+      "start_sentence_idx": 450,
+      "end_sentence_idx": 451,
+      "num_sentences": 1,
+      "start_time_sec": 1768.19,
+      "end_time_sec": 1768.19,
+      "text_preview": "Okay, here's the computer.",
+      "keywords": [],
+      "summary": "Okay, here's the computer. …"
+    },
+    {
+      "segment_id": 206,
+      "start_sentence_idx": 451,
+      "end_sentence_idx": 452,
+      "num_sentences": 1,
+      "start_time_sec": 1772.43,
+      "end_time_sec": 1772.43,
+      "text_preview": "The vacuum waiters can give you the grace, for landing and , all that he says, then if you have to evacuate, you get the command signal to evacuate, but he really have my dad just see us then.",
+      "keywords": [
+        "evacuate",
+        "waiters",
+        "us",
+        "signal",
+        "see",
+        "vacuum"
+      ],
+      "summary": "The vacuum waiters can give you the grace, for landing and , all that he says, then if you have to evacuate, you get the command signal to evacuate, but he really have my dad just see us then. …"
+    },
+    {
+      "segment_id": 207,
+      "start_sentence_idx": 452,
+      "end_sentence_idx": 453,
+      "num_sentences": 1,
+      "start_time_sec": 1780.43,
+      "end_time_sec": 1780.43,
+      "text_preview": "Good luck soon, Art.",
+      "keywords": [],
+      "summary": "Good luck soon, Art. …"
+    },
+    {
+      "segment_id": 208,
+      "start_sentence_idx": 453,
+      "end_sentence_idx": 454,
+      "num_sentences": 1,
+      "start_time_sec": 1783.43,
+      "end_time_sec": 1783.43,
+      "text_preview": "I know.",
+      "keywords": [],
+      "summary": "I know. …"
+    },
+    {
+      "segment_id": 209,
+      "start_sentence_idx": 454,
+      "end_sentence_idx": 459,
+      "num_sentences": 5,
+      "start_time_sec": 1788.43,
+      "end_time_sec": 1807.89,
+      "text_preview": "Just thanks you, too. Isn't that amazing? It's so sweet. It's just so concerned, caring, ? Good luck, sweetheart.",
+      "keywords": [],
+      "summary": "Just thanks you, too. Isn't that amazing? It's so sweet. It's just so concerned, caring, ? Good luck, sweetheart. …"
+    },
+    {
+      "segment_id": 210,
+      "start_sentence_idx": 459,
+      "end_sentence_idx": 460,
+      "num_sentences": 1,
+      "start_time_sec": 1811.83,
+      "end_time_sec": 1811.83,
+      "text_preview": "Thanks you, too.",
+      "keywords": [],
+      "summary": "Thanks you, too. …"
+    },
+    {
+      "segment_id": 211,
+      "start_sentence_idx": 460,
+      "end_sentence_idx": 461,
+      "num_sentences": 1,
+      "start_time_sec": 1812.83,
+      "end_time_sec": 1812.83,
+      "text_preview": ", just to get back to something you said earlier, , I can't decide if I think it's a good thing or if I find it a little disturbing that people's last words are edited out of these transcripts.",
+      "keywords": [
+        "words",
+        "transcripts",
+        "think",
+        "thing",
+        "something",
+        "said"
+      ],
+      "summary": ", just to get back to something you said earlier, , I can't decide if I think it's a good thing or if I find it a little disturbing that people's last words are edited out of these transcripts. …"
+    },
+    {
+      "segment_id": 212,
+      "start_sentence_idx": 461,
+      "end_sentence_idx": 462,
+      "num_sentences": 1,
+      "start_time_sec": 1816.59,
+      "end_time_sec": 1816.59,
+      "text_preview": "I can see it both by it.",
+      "keywords": [],
+      "summary": "I can see it both by it. …"
+    },
+    {
+      "segment_id": 213,
+      "start_sentence_idx": 462,
+      "end_sentence_idx": 463,
+      "num_sentences": 1,
+      "start_time_sec": 1825.55,
+      "end_time_sec": 1825.55,
+      "text_preview": "Well, I see it pretty much in line with the NTSB and there's nothing we can do about it as .",
+      "keywords": [
+        "well",
+        "see",
+        "pretty",
+        "ntsb",
+        "nothing",
+        "much"
+      ],
+      "summary": "Well, I see it pretty much in line with the NTSB and there's nothing we can do about it as . …"
+    },
+    {
+      "segment_id": 214,
+      "start_sentence_idx": 463,
+      "end_sentence_idx": 464,
+      "num_sentences": 1,
+      "start_time_sec": 1831.55,
+      "end_time_sec": 1831.55,
+      "text_preview": "But the fact is that why would you want this to?",
+      "keywords": [],
+      "summary": "But the fact is that why would you want this to? …"
+    },
+    {
+      "segment_id": 215,
+      "start_sentence_idx": 464,
+      "end_sentence_idx": 465,
+      "num_sentences": 1,
+      "start_time_sec": 1832.43,
+      "end_time_sec": 1832.43,
+      "text_preview": "Why would you want to see or hear some of the reads, some of the words that would come off that would be just, I'll give you an example of what these can be .",
+      "keywords": [
+        "would",
+        "words",
+        "want",
+        "see",
+        "reads",
+        "hear"
+      ],
+      "summary": "Why would you want to see or hear some of the reads, some of the words that would come off that would be just, I'll give you an example of what these can be . …"
+    },
+    {
+      "segment_id": 216,
+      "start_sentence_idx": 465,
+      "end_sentence_idx": 466,
+      "num_sentences": 1,
+      "start_time_sec": 1838.93,
+      "end_time_sec": 1838.93,
+      "text_preview": "There was Turkish airline, DC 10 in 1975, the crashed in Paris, was taking off, going to London.",
+      "keywords": [],
+      "summary": "There was Turkish airline, DC 10 in 1975, the crashed in Paris, was taking off, going to London. …"
+    },
+    {
+      "segment_id": 217,
+      "start_sentence_idx": 466,
+      "end_sentence_idx": 467,
+      "num_sentences": 1,
+      "start_time_sec": 1844.43,
+      "end_time_sec": 1844.43,
+      "text_preview": "And as this thing was going down, the pilot said, he started the thing.",
+      "keywords": [],
+      "summary": "And as this thing was going down, the pilot said, he started the thing. …"
+    },
+    {
+      "segment_id": 218,
+      "start_sentence_idx": 467,
+      "end_sentence_idx": 468,
+      "num_sentences": 1,
+      "start_time_sec": 1850.43,
+      "end_time_sec": 1850.43,
+      "text_preview": "a lullaby in Turkish and a child's lullaby and it was, , it was extreme.",
+      "keywords": [],
+      "summary": "a lullaby in Turkish and a child's lullaby and it was, , it was extreme. …"
+    },
+    {
+      "segment_id": 219,
+      "start_sentence_idx": 468,
+      "end_sentence_idx": 469,
+      "num_sentences": 1,
+      "start_time_sec": 1860.43,
+      "end_time_sec": 1860.43,
+      "text_preview": "In fact, and it was just, , horrifying and at the same time it was so sad that this guy at that point knew, , the second's away and this was his reaction.",
+      "keywords": [
+        "time",
+        "second",
+        "sad",
+        "reaction",
+        "point",
+        "knew"
+      ],
+      "summary": "In fact, and it was just, , horrifying and at the same time it was so sad that this guy at that point knew, , the second's away and this was his reaction. …"
+    },
+    {
+      "segment_id": 220,
+      "start_sentence_idx": 469,
+      "end_sentence_idx": 472,
+      "num_sentences": 3,
+      "start_time_sec": 1862.43,
+      "end_time_sec": 1862.43,
+      "text_preview": "Why? What was going through his mind? What he was thinking about?",
+      "keywords": [],
+      "summary": "Why? What was going through his mind? What he was thinking about? …"
+    },
+    {
+      "segment_id": 221,
+      "start_sentence_idx": 472,
+      "end_sentence_idx": 473,
+      "num_sentences": 1,
+      "start_time_sec": 1873.47,
+      "end_time_sec": 1873.47,
+      "text_preview": "Oh, I don't know.",
+      "keywords": [],
+      "summary": "Oh, I don't know. …"
+    },
+    {
+      "segment_id": 222,
+      "start_sentence_idx": 473,
+      "end_sentence_idx": 476,
+      "num_sentences": 3,
+      "start_time_sec": 1877.23,
+      "end_time_sec": 1888.75,
+      "text_preview": "MacLean Kirsten's book is called The Black Box, all new cockpit voice reporter accounts in flight accidents. This latest book, but a needy saleshouse, helicopter crash landing, I've got to stand. It's called The Longer Surrey.",
+      "keywords": [
+        "book",
+        "called",
+        "voice",
+        "saleshouse",
+        "reporter",
+        "surrey"
+      ],
+      "summary": "MacLean Kirsten's book is called The Black Box, all new cockpit voice reporter accounts in flight accidents. This latest book, but a needy saleshouse, helicopter crash landing, I've got to stand. It's called The Longer S …"
+    },
+    {
+      "segment_id": 223,
+      "start_sentence_idx": 476,
+      "end_sentence_idx": 477,
+      "num_sentences": 1,
+      "start_time_sec": 1892.43,
+      "end_time_sec": 1892.43,
+      "text_preview": "X6, what goes through your head?",
+      "keywords": [],
+      "summary": "X6, what goes through your head? …"
+    },
+    {
+      "segment_id": 224,
+      "start_sentence_idx": 477,
+      "end_sentence_idx": 478,
+      "num_sentences": 1,
+      "start_time_sec": 1895.63,
+      "end_time_sec": 1895.63,
+      "text_preview": "We have this piece of fiction for me to advise for.",
+      "keywords": [],
+      "summary": "We have this piece of fiction for me to advise for. …"
+    },
+    {
+      "segment_id": 225,
+      "start_sentence_idx": 478,
+      "end_sentence_idx": 479,
+      "num_sentences": 1,
+      "start_time_sec": 1902.27,
+      "end_time_sec": 1902.27,
+      "text_preview": "Anders couldn't get to the bag, it took just before it closed.",
+      "keywords": [],
+      "summary": "Anders couldn't get to the bag, it took just before it closed. …"
+    },
+    {
+      "segment_id": 226,
+      "start_sentence_idx": 479,
+      "end_sentence_idx": 484,
+      "num_sentences": 5,
+      "start_time_sec": 1907.07,
+      "end_time_sec": 1922.43,
+      "text_preview": "So of course the line was endless. and he got stuck behind two women whose loud, stupid conversation put him in a murderous tip. He was never in the best attempt for any guy, anders, book critic, known for the weary, elegant savagery of which he dispatched almost everything he re…",
+      "keywords": [
+        "stuck",
+        "back",
+        "line",
+        "world",
+        "women",
+        "walked"
+      ],
+      "summary": "The book critic got stuck behind two women whose loud, stupid conversation put him in a murderous tip. He was never in the best attempt for any guy, anders, book critic, known for the weary, elegant savagery."
+    },
+    {
+      "segment_id": 227,
+      "start_sentence_idx": 484,
+      "end_sentence_idx": 485,
+      "num_sentences": 1,
+      "start_time_sec": 1927.43,
+      "end_time_sec": 1927.43,
+      "text_preview": "The women in front of angels broke off their conversation and watched the television feature.",
+      "keywords": [],
+      "summary": "The women in front of angels broke off their conversation and watched the television feature. …"
+    },
+    {
+      "segment_id": 228,
+      "start_sentence_idx": 485,
+      "end_sentence_idx": 486,
+      "num_sentences": 1,
+      "start_time_sec": 1936.15,
+      "end_time_sec": 1936.15,
+      "text_preview": "Oh, that's nice one of them said.",
+      "keywords": [],
+      "summary": "Oh, that's nice one of them said. …"
+    },
+    {
+      "segment_id": 229,
+      "start_sentence_idx": 486,
+      "end_sentence_idx": 487,
+      "num_sentences": 1,
+      "start_time_sec": 1943.47,
+      "end_time_sec": 1943.47,
+      "text_preview": "She turned to Anders and added confident at his accord, one of those little human touches that keep us coming back for more.",
+      "keywords": [
+        "us",
+        "turned",
+        "touches",
+        "one",
+        "little",
+        "keep"
+      ],
+      "summary": "She turned to Anders and added confident at his accord, one of those little human touches that keep us coming back for more. …"
+    },
+    {
+      "segment_id": 230,
+      "start_sentence_idx": 487,
+      "end_sentence_idx": 488,
+      "num_sentences": 1,
+      "start_time_sec": 1952.43,
+      "end_time_sec": 1952.43,
+      "text_preview": "Anders had conceived his own tower in nature that he tell her that he immediately turned it on the presumption of his private papers.",
+      "keywords": [
+        "turned",
+        "tower",
+        "tell",
+        "private",
+        "presumption",
+        "papers"
+      ],
+      "summary": "Anders had conceived his own tower in nature that he tell her that he immediately turned it on the presumption of his private papers. …"
+    },
+    {
+      "segment_id": 231,
+      "start_sentence_idx": 488,
+      "end_sentence_idx": 489,
+      "num_sentences": 1,
+      "start_time_sec": 1952.43,
+      "end_time_sec": 1952.43,
+      "text_preview": "FUNK.",
+      "keywords": [],
+      "summary": "FUNK. …"
+    },
+    {
+      "segment_id": 232,
+      "start_sentence_idx": 489,
+      "end_sentence_idx": 490,
+      "num_sentences": 1,
+      "start_time_sec": 1959.63,
+      "end_time_sec": 1959.63,
+      "text_preview": "Damn done fair, set.",
+      "keywords": [],
+      "summary": "Damn done fair, set. …"
+    },
+    {
+      "segment_id": 233,
+      "start_sentence_idx": 490,
+      "end_sentence_idx": 491,
+      "num_sentences": 1,
+      "start_time_sec": 1961.13,
+      "end_time_sec": 1961.13,
+      "text_preview": "Trash, breathing.",
+      "keywords": [],
+      "summary": "Trash, breathing. …"
+    },
+    {
+      "segment_id": 234,
+      "start_sentence_idx": 491,
+      "end_sentence_idx": 492,
+      "num_sentences": 1,
+      "start_time_sec": 1968.75,
+      "end_time_sec": 1968.75,
+      "text_preview": "If they're not chopping off the wrong line, but bombing your own successful village, they're closing their positions.",
+      "keywords": [],
+      "summary": "If they're not chopping off the wrong line, but bombing your own successful village, they're closing their positions. …"
+    },
+    {
+      "segment_id": 235,
+      "start_sentence_idx": 492,
+      "end_sentence_idx": 493,
+      "num_sentences": 1,
+      "start_time_sec": 1974.67,
+      "end_time_sec": 1974.67,
+      "text_preview": "She stood her ground.",
+      "keywords": [],
+      "summary": "She stood her ground. …"
+    },
+    {
+      "segment_id": 236,
+      "start_sentence_idx": 493,
+      "end_sentence_idx": 496,
+      "num_sentences": 3,
+      "start_time_sec": 1980.23,
+      "end_time_sec": 1987.95,
+      "text_preview": "I didn't say it was tragic, she said. I just think it's pretty loud as a way to treat your customers. Unforgivable, Andrew said.",
+      "keywords": [
+        "said",
+        "unforgivable",
+        "way",
+        "treat",
+        "tragic",
+        "think"
+      ],
+      "summary": "I didn't say it was tragic, she said. I just think it's pretty loud as a way to treat your customers. Unforgivable, Andrew said. …"
+    },
+    {
+      "segment_id": 237,
+      "start_sentence_idx": 496,
+      "end_sentence_idx": 497,
+      "num_sentences": 1,
+      "start_time_sec": 1991.79,
+      "end_time_sec": 1991.79,
+      "text_preview": "Heaven will take note.",
+      "keywords": [],
+      "summary": "Heaven will take note. …"
+    },
+    {
+      "segment_id": 238,
+      "start_sentence_idx": 497,
+      "end_sentence_idx": 498,
+      "num_sentences": 1,
+      "start_time_sec": 1998.19,
+      "end_time_sec": 1998.19,
+      "text_preview": "She sucked in her cheeks, stared past, and said nothing.",
+      "keywords": [],
+      "summary": "She sucked in her cheeks, stared past, and said nothing. …"
+    },
+    {
+      "segment_id": 239,
+      "start_sentence_idx": 498,
+      "end_sentence_idx": 499,
+      "num_sentences": 1,
+      "start_time_sec": 1998.19,
+      "end_time_sec": 1998.19,
+      "text_preview": "It said nothing.",
+      "keywords": [],
+      "summary": "It said nothing. …"
+    },
+    {
+      "segment_id": 240,
+      "start_sentence_idx": 499,
+      "end_sentence_idx": 500,
+      "num_sentences": 1,
+      "start_time_sec": 2004.43,
+      "end_time_sec": 2004.43,
+      "text_preview": "Andrew saw that the other woman, her friend, was looking in the same direction, and then the tellers stopped what they were doing, and the customs slowly turned, and silence came up the back.",
+      "keywords": [
+        "woman",
+        "turned",
+        "tellers",
+        "stopped",
+        "slowly",
+        "silence"
+      ],
+      "summary": "Andrew saw that the other woman, her friend, was looking in the same direction, and then the tellers stopped what they were doing, and the customs slowly turned, and silence came up the back. …"
+    },
+    {
+      "segment_id": 241,
+      "start_sentence_idx": 500,
+      "end_sentence_idx": 504,
+      "num_sentences": 4,
+      "start_time_sec": 2012.43,
+      "end_time_sec": 2030.99,
+      "text_preview": "Two men wearing black ski masks and blue businesses were standing to the side of the door. One of them had a pissed plasticist to guard snack. The guard ties were closed and his legs were moved. The other man had a sought off shocker.",
+      "keywords": [
+        "guard",
+        "two",
+        "wearing",
+        "standing",
+        "sought",
+        "snack"
+      ],
+      "summary": "Two men wearing black ski masks and blue businesses were standing to the side of the door. One of them had a pissed plasticist to guard snack. The guard ties were closed and his legs were moved. The other man had a sough …"
+    },
+    {
+      "segment_id": 242,
+      "start_sentence_idx": 504,
+      "end_sentence_idx": 505,
+      "num_sentences": 1,
+      "start_time_sec": 2039.71,
+      "end_time_sec": 2039.71,
+      "text_preview": "Keep your big mouth shut, the man with a kiss and said, the no one had spoken a word.",
+      "keywords": [],
+      "summary": "Keep your big mouth shut, the man with a kiss and said, the no one had spoken a word. …"
+    },
+    {
+      "segment_id": 243,
+      "start_sentence_idx": 505,
+      "end_sentence_idx": 506,
+      "num_sentences": 1,
+      "start_time_sec": 2042.43,
+      "end_time_sec": 2042.43,
+      "text_preview": "One of you tellers, hits the alarm, you're all dead meat.",
+      "keywords": [],
+      "summary": "One of you tellers, hits the alarm, you're all dead meat. …"
+    },
+    {
+      "segment_id": 244,
+      "start_sentence_idx": 506,
+      "end_sentence_idx": 509,
+      "num_sentences": 3,
+      "start_time_sec": 2042.43,
+      "end_time_sec": 2045.73,
+      "text_preview": "Oh, bravo, and her said, dead meat. Turn to the woman in front. Great script, eh?",
+      "keywords": [],
+      "summary": "Oh, bravo, and her said, dead meat. Turn to the woman in front. Great script, eh? …"
+    },
+    {
+      "segment_id": 245,
+      "start_sentence_idx": 509,
+      "end_sentence_idx": 510,
+      "num_sentences": 1,
+      "start_time_sec": 2049.45,
+      "end_time_sec": 2049.45,
+      "text_preview": "The stern, brass knuckle poetry, dangerous classes.",
+      "keywords": [],
+      "summary": "The stern, brass knuckle poetry, dangerous classes. …"
+    },
+    {
+      "segment_id": 246,
+      "start_sentence_idx": 510,
+      "end_sentence_idx": 511,
+      "num_sentences": 1,
+      "start_time_sec": 2049.45,
+      "end_time_sec": 2049.45,
+      "text_preview": "She looked at him, the drowning eye.",
+      "keywords": [],
+      "summary": "She looked at him, the drowning eye. …"
+    },
+    {
+      "segment_id": 247,
+      "start_sentence_idx": 511,
+      "end_sentence_idx": 520,
+      "num_sentences": 9,
+      "start_time_sec": 2052.85,
+      "end_time_sec": 2060.45,
+      "text_preview": "The man with the shotgun pushed the guard to his knees. He handed the shotgun to his partner and yanked the guard's wrists up behind his back and locked them together with a pair of hand. He toppled him onto the floor with a kick between the shoulder-bones. Then he took his shotg…",
+      "keywords": [
+        "shotgun",
+        "gate",
+        "guard",
+        "back",
+        "man",
+        "озможно"
+      ],
+      "summary": "The man with the shotgun pushed the guard to his knees. He handed the shotgun to his partner and yanked the guard's wrists up behind his back and locked them together with a pair of hand. He toppled him onto the floor with a kick between the shoulder-bones."
+    },
+    {
+      "segment_id": 248,
+      "start_sentence_idx": 520,
+      "end_sentence_idx": 522,
+      "num_sentences": 2,
+      "start_time_sec": 2064.99,
+      "end_time_sec": 2064.99,
+      "text_preview": "She put her hand to her throat and turned to the man she can talk to. He nod.",
+      "keywords": [],
+      "summary": "She put her hand to her throat and turned to the man she can talk to. He nod. …"
+    },
+    {
+      "segment_id": 249,
+      "start_sentence_idx": 522,
+      "end_sentence_idx": 526,
+      "num_sentences": 4,
+      "start_time_sec": 2069.55,
+      "end_time_sec": 2074.11,
+      "text_preview": "Minds you, said. Then get your ugly pussy. You're filled that. there you go, we're intercepting the woman in front of him, just as he's done.",
+      "keywords": [
+        "woman",
+        "ugly",
+        "said",
+        "pussy",
+        "minds",
+        "intercepting"
+      ],
+      "summary": "Minds you, said. Then get your ugly pussy. You're filled that. there you go, we're intercepting the woman in front of him, just as he's done. …"
+    },
+    {
+      "segment_id": 250,
+      "start_sentence_idx": 526,
+      "end_sentence_idx": 531,
+      "num_sentences": 5,
+      "start_time_sec": 2079.43,
+      "end_time_sec": 2112.49,
+      "text_preview": "Hey, bright boy, did I tell you to talk? No, Andersen. Then shut your trap. Do you hear that, Andersen? Right boy, called me bright boy, right out of the killers.",
+      "keywords": [
+        "boy",
+        "andersen",
+        "right",
+        "bright",
+        "shut",
+        "talk"
+      ],
+      "summary": "Hey, bright boy, did I tell you to talk? No, Andersen. Then shut your trap. Do you hear that, Andersen? Right boy, called me bright boy, right out of the killers. …"
+    },
+    {
+      "segment_id": 251,
+      "start_sentence_idx": 531,
+      "end_sentence_idx": 532,
+      "num_sentences": 1,
+      "start_time_sec": 2113.49,
+      "end_time_sec": 2113.49,
+      "text_preview": "Please be quiet.",
+      "keywords": [],
+      "summary": "Please be quiet. …"
+    },
+    {
+      "segment_id": 252,
+      "start_sentence_idx": 532,
+      "end_sentence_idx": 533,
+      "num_sentences": 1,
+      "start_time_sec": 2117.71,
+      "end_time_sec": 2117.71,
+      "text_preview": "Hey, you're deaf or what?",
+      "keywords": [],
+      "summary": "Hey, you're deaf or what? …"
+    },
+    {
+      "segment_id": 253,
+      "start_sentence_idx": 533,
+      "end_sentence_idx": 534,
+      "num_sentences": 1,
+      "start_time_sec": 2119.51,
+      "end_time_sec": 2119.51,
+      "text_preview": "The man with the pistol walked over there again.",
+      "keywords": [],
+      "summary": "The man with the pistol walked over there again. …"
+    },
+    {
+      "segment_id": 254,
+      "start_sentence_idx": 534,
+      "end_sentence_idx": 535,
+      "num_sentences": 1,
+      "start_time_sec": 2125.27,
+      "end_time_sec": 2125.27,
+      "text_preview": "He poked the weapon into Andrew's gut.",
+      "keywords": [],
+      "summary": "He poked the weapon into Andrew's gut. …"
+    },
+    {
+      "segment_id": 255,
+      "start_sentence_idx": 535,
+      "end_sentence_idx": 540,
+      "num_sentences": 5,
+      "start_time_sec": 2128.55,
+      "end_time_sec": 2139.43,
+      "text_preview": "He think I'm playing games, no Andrew said, but the barrel tickled  a stiff finger, and he had to fight that Titus. He did this by making himself scared the man's eyes, which were clearly visible behind the holes in the mask. Hail blue and rawly that ring. The man's left eyelid k…",
+      "keywords": [
+        "man",
+        "twitching",
+        "visible",
+        "tickled",
+        "think",
+        "stiff"
+      ],
+      "summary": "The man's left eyelid kept twitching. He breathed out of piercing ammonia. He think I'm playing games, no Andrew said, but the barrel tickled"
+    },
+    {
+      "segment_id": 256,
+      "start_sentence_idx": 540,
+      "end_sentence_idx": 541,
+      "num_sentences": 1,
+      "start_time_sec": 2147.43,
+      "end_time_sec": 2147.43,
+      "text_preview": "smell that shocked Andrews more than anything that had happened, and he was beginning to develop the sense of unease, or the man caught it him again, the piss.",
+      "keywords": [
+        "unease",
+        "smell",
+        "shocked",
+        "sense",
+        "piss",
+        "man"
+      ],
+      "summary": "smell that shocked Andrews more than anything that had happened, and he was beginning to develop the sense of unease, or the man caught it him again, the piss. …"
+    },
+    {
+      "segment_id": 257,
+      "start_sentence_idx": 541,
+      "end_sentence_idx": 542,
+      "num_sentences": 1,
+      "start_time_sec": 2152.43,
+      "end_time_sec": 2152.43,
+      "text_preview": "You  me, but I point you said, you want to suck my f***?",
+      "keywords": [],
+      "summary": "You  me, but I point you said, you want to suck my f***? …"
+    },
+    {
+      "segment_id": 258,
+      "start_sentence_idx": 542,
+      "end_sentence_idx": 544,
+      "num_sentences": 2,
+      "start_time_sec": 2152.43,
+      "end_time_sec": 2160.43,
+      "text_preview": "No, Andrew said, stop looking at. Andrews fixed his gaze on the man's shiny, blue-tipped shoes.",
+      "keywords": [],
+      "summary": "No, Andrew said, stop looking at. Andrews fixed his gaze on the man's shiny, blue-tipped shoes. …"
+    },
+    {
+      "segment_id": 259,
+      "start_sentence_idx": 544,
+      "end_sentence_idx": 545,
+      "num_sentences": 1,
+      "start_time_sec": 2162.43,
+      "end_time_sec": 2162.43,
+      "text_preview": "Not down there, up there.",
+      "keywords": [],
+      "summary": "Not down there, up there. …"
+    },
+    {
+      "segment_id": 260,
+      "start_sentence_idx": 545,
+      "end_sentence_idx": 546,
+      "num_sentences": 1,
+      "start_time_sec": 2165.91,
+      "end_time_sec": 2165.91,
+      "text_preview": "You stuck the pistol under Andrew's chin and pushed it up.",
+      "keywords": [],
+      "summary": "You stuck the pistol under Andrew's chin and pushed it up. …"
+    },
+    {
+      "segment_id": 261,
+      "start_sentence_idx": 546,
+      "end_sentence_idx": 547,
+      "num_sentences": 1,
+      "start_time_sec": 2168.63,
+      "end_time_sec": 2168.63,
+      "text_preview": "to elders who were looking at the seal.",
+      "keywords": [],
+      "summary": "to elders who were looking at the seal. …"
+    },
+    {
+      "segment_id": 262,
+      "start_sentence_idx": 547,
+      "end_sentence_idx": 548,
+      "num_sentences": 1,
+      "start_time_sec": 2172.63,
+      "end_time_sec": 2172.63,
+      "text_preview": "Anders had never paid much attention to that part of the bank, a pompous old building that model floors and counters and guilt scrolled over the tellers' cages.",
+      "keywords": [
+        "tellers",
+        "scrolled",
+        "pompous",
+        "part",
+        "paid",
+        "old"
+      ],
+      "summary": "Anders had never paid much attention to that part of the bank, a pompous old building that model floors and counters and guilt scrolled over the tellers' cages. …"
+    },
+    {
+      "segment_id": 263,
+      "start_sentence_idx": 548,
+      "end_sentence_idx": 552,
+      "num_sentences": 4,
+      "start_time_sec": 2173.79,
+      "end_time_sec": 2178.39,
+      "text_preview": "The dome ceiling had been decorated with mythological figures and flushing, tow-good-raped, uglyness, anders had taken in at a glance many years earlier and afterward declined to notice. No. When he had no choice but to scrutinize painters' work, it was even worse than he would r…",
+      "keywords": [
+        "anders",
+        "ceiling",
+        "zeus",
+        "would",
+        "years",
+        "worse"
+      ],
+      "summary": "The ceiling was crowded with various dramas, the one that caught Anders' eye was Zeus and Europa. The dome ceiling had been decorated with mythological figures and flushing, tow"
+    },
+    {
+      "segment_id": 264,
+      "start_sentence_idx": 552,
+      "end_sentence_idx": 555,
+      "num_sentences": 3,
+      "start_time_sec": 2180.11,
+      "end_time_sec": 2182.23,
+      "text_preview": "Prattrayed in this rendition, was a bowl of bullying a cow from behind a haystack. To make the cow sexy, painter had cantored her hips, suggestive wood, and given her long to be eyelash through which she gave back the bowl with salt to his walk. The bowl was smart and desired bro…",
+      "keywords": [
+        "bowl",
+        "cow",
+        "suggestive",
+        "walk",
+        "sexy",
+        "salt"
+      ],
+      "summary": "The painting shows a bowl of bullying a cow from behind a haystack. The bowl was smart and desired brows were arched."
+    },
+    {
+      "segment_id": 265,
+      "start_sentence_idx": 555,
+      "end_sentence_idx": 556,
+      "num_sentences": 1,
+      "start_time_sec": 2185.19,
+      "end_time_sec": 2185.19,
+      "text_preview": "If they had been a bubble coming out of these mouths, they would have said, how about how about?",
+      "keywords": [],
+      "summary": "If they had been a bubble coming out of these mouths, they would have said, how about how about? …"
+    },
+    {
+      "segment_id": 266,
+      "start_sentence_idx": 556,
+      "end_sentence_idx": 557,
+      "num_sentences": 1,
+      "start_time_sec": 2189.31,
+      "end_time_sec": 2189.31,
+      "text_preview": "What's so funny, bright boy?",
+      "keywords": [],
+      "summary": "What's so funny, bright boy? …"
+    },
+    {
+      "segment_id": 267,
+      "start_sentence_idx": 557,
+      "end_sentence_idx": 558,
+      "num_sentences": 1,
+      "start_time_sec": 2192.03,
+      "end_time_sec": 2192.03,
+      "text_preview": "Nothing.",
+      "keywords": [],
+      "summary": "Nothing. …"
+    },
+    {
+      "segment_id": 268,
+      "start_sentence_idx": 558,
+      "end_sentence_idx": 563,
+      "num_sentences": 5,
+      "start_time_sec": 2192.43,
+      "end_time_sec": 2198.27,
+      "text_preview": "You think I'm cromical? You think I'm some kind of clown? No. You think you can fuck with me? No.",
+      "keywords": [
+        "think",
+        "kind",
+        "fuck",
+        "cromical",
+        "clown"
+      ],
+      "summary": "You think I'm cromical? You think I'm some kind of clown? No. You think you can fuck with me? No. …"
+    },
+    {
+      "segment_id": 269,
+      "start_sentence_idx": 563,
+      "end_sentence_idx": 564,
+      "num_sentences": 1,
+      "start_time_sec": 2201.39,
+      "end_time_sec": 2201.39,
+      "text_preview": "Fuck me again, your history.",
+      "keywords": [],
+      "summary": "Fuck me again, your history. …"
+    },
+    {
+      "segment_id": 270,
+      "start_sentence_idx": 564,
+      "end_sentence_idx": 565,
+      "num_sentences": 1,
+      "start_time_sec": 2201.39,
+      "end_time_sec": 2201.39,
+      "text_preview": "Capit.",
+      "keywords": [],
+      "summary": "Capit. …"
+    },
+    {
+      "segment_id": 271,
+      "start_sentence_idx": 565,
+      "end_sentence_idx": 566,
+      "num_sentences": 1,
+      "start_time_sec": 2201.39,
+      "end_time_sec": 2201.39,
+      "text_preview": "Anders burst out loud.",
+      "keywords": [],
+      "summary": "Anders burst out loud. …"
+    },
+    {
+      "segment_id": 272,
+      "start_sentence_idx": 566,
+      "end_sentence_idx": 567,
+      "num_sentences": 1,
+      "start_time_sec": 2208.83,
+      "end_time_sec": 2208.83,
+      "text_preview": "Fuck.",
+      "keywords": [],
+      "summary": "Fuck. …"
+    },
+    {
+      "segment_id": 273,
+      "start_sentence_idx": 567,
+      "end_sentence_idx": 568,
+      "num_sentences": 1,
+      "start_time_sec": 2215.63,
+      "end_time_sec": 2215.63,
+      "text_preview": "covered his mouth both hands and said, I'm sorry, I'm sorry, then snorted topples  he did his fingers and said, cut peach, how got cut peach and at that the man with the pistol raised the pistol and shot Anders right in the head.",
+      "keywords": [
+        "sorry",
+        "said",
+        "peach",
+        "pistol",
+        "cut",
+        "topples"
+      ],
+      "summary": "covered his mouth both hands and said, I'm sorry, I'm sorry, then snorted topples  he did his fingers and said, cut peach, how got cut peach and at that the man with the pistol raised the pistol and shot Anders right in  …"
+    },
+    {
+      "segment_id": 274,
+      "start_sentence_idx": 568,
+      "end_sentence_idx": 569,
+      "num_sentences": 1,
+      "start_time_sec": 2215.63,
+      "end_time_sec": 2215.63,
+      "text_preview": "The bullet smashed and they were stalling and plowed through his brain and exiting behind his right ear.",
+      "keywords": [],
+      "summary": "The bullet smashed and they were stalling and plowed through his brain and exiting behind his right ear. …"
+    },
+    {
+      "segment_id": 275,
+      "start_sentence_idx": 569,
+      "end_sentence_idx": 573,
+      "num_sentences": 4,
+      "start_time_sec": 2215.63,
+      "end_time_sec": 2227.85,
+      "text_preview": "Scattering shards of bone with the scuba cortex, corpus close, back toward the basal gang we had down into the Falcons. But the four oldest crey, first appearance the bullet in the cerebral set off a crackling chain of ion transports and neurotransmitters. Because of their peculi…",
+      "keywords": [
+        "peculiar",
+        "bullet",
+        "traced",
+        "years",
+        "swastimum",
+        "summer"
+      ],
+      "summary": "The four oldest crey, first appearance the bullet in the cerebral set off a crackling chain of ion transports and neurotransmitters. After striking the cranium, the bullet was moving at 900 feet per second."
+    },
+    {
+      "segment_id": 276,
+      "start_sentence_idx": 573,
+      "end_sentence_idx": 574,
+      "num_sentences": 1,
+      "start_time_sec": 2228.85,
+      "end_time_sec": 2228.85,
+      "text_preview": "Once in the brain that is, the bullet came under the mediation of brain time.",
+      "keywords": [],
+      "summary": "Once in the brain that is, the bullet came under the mediation of brain time. …"
+    },
+    {
+      "segment_id": 277,
+      "start_sentence_idx": 574,
+      "end_sentence_idx": 575,
+      "num_sentences": 1,
+      "start_time_sec": 2234.63,
+      "end_time_sec": 2234.63,
+      "text_preview": "which gave Anders plenty of leisure to come to play the scene that, in a phrase he would have applaud past before his odds.",
+      "keywords": [
+        "would",
+        "scene",
+        "plenty",
+        "play",
+        "phrase",
+        "past"
+      ],
+      "summary": "which gave Anders plenty of leisure to come to play the scene that, in a phrase he would have applaud past before his odds. …"
+    },
+    {
+      "segment_id": 278,
+      "start_sentence_idx": 575,
+      "end_sentence_idx": 576,
+      "num_sentences": 1,
+      "start_time_sec": 2235.63,
+      "end_time_sec": 2235.63,
+      "text_preview": "It is worth noting what Anders did not remember given what he did remember.",
+      "keywords": [],
+      "summary": "It is worth noting what Anders did not remember given what he did remember. …"
+    },
+    {
+      "segment_id": 279,
+      "start_sentence_idx": 576,
+      "end_sentence_idx": 577,
+      "num_sentences": 1,
+      "start_time_sec": 2243.67,
+      "end_time_sec": 2243.67,
+      "text_preview": "He did not remember his first lover, shared, but what he had most madly loved about her, before it came to irritate.",
+      "keywords": [
+        "shared",
+        "remember",
+        "madly",
+        "lover",
+        "loved",
+        "irritate"
+      ],
+      "summary": "He did not remember his first lover, shared, but what he had most madly loved about her, before it came to irritate. …"
+    },
+    {
+      "segment_id": 280,
+      "start_sentence_idx": 577,
+      "end_sentence_idx": 581,
+      "num_sentences": 4,
+      "start_time_sec": 2252.43,
+      "end_time_sec": 2266.95,
+      "text_preview": "He was a very unenberased carnalct, and especially the cordial way she had with his unit. which she called Mr. Mole as in, looks  Mr. Mole wants to play. Andrews did not remember his wife. From he had also, the boy she exhaustive him, the predicted billet, or his daughter, now as…",
+      "keywords": [
+        "mr",
+        "mole",
+        "wants",
+        "way",
+        "unenberased",
+        "solon"
+      ],
+      "summary": " Andrews did not remember his wife. He was a very unenberased carnalct, and especially the cordial way she had with his unit."
+    },
+    {
+      "segment_id": 281,
+      "start_sentence_idx": 581,
+      "end_sentence_idx": 582,
+      "num_sentences": 1,
+      "start_time_sec": 2268.75,
+      "end_time_sec": 2268.75,
+      "text_preview": "He did not remember a single line of the hundreds of ponds he had committed to members in his youth so that he could give himself the ships.",
+      "keywords": [
+        "youth",
+        "single",
+        "ships",
+        "remember",
+        "ponds",
+        "members"
+      ],
+      "summary": "He did not remember a single line of the hundreds of ponds he had committed to members in his youth so that he could give himself the ships. …"
+    },
+    {
+      "segment_id": 282,
+      "start_sentence_idx": 582,
+      "end_sentence_idx": 583,
+      "num_sentences": 1,
+      "start_time_sec": 2268.75,
+      "end_time_sec": 2268.75,
+      "text_preview": "True friendship wasn't designed to make the ship were MAG Not enough b, Not silent upon a peaking darey yet.",
+      "keywords": [
+        "yet",
+        "upon",
+        "true",
+        "silent",
+        "ship",
+        "peaking"
+      ],
+      "summary": "True friendship wasn't designed to make the ship were MAG Not enough b, Not silent upon a peaking darey yet. …"
+    },
+    {
+      "segment_id": 283,
+      "start_sentence_idx": 583,
+      "end_sentence_idx": 584,
+      "num_sentences": 1,
+      "start_time_sec": 2273.91,
+      "end_time_sec": 2273.91,
+      "text_preview": "What?",
+      "keywords": [],
+      "summary": "What? …"
+    },
+    {
+      "segment_id": 284,
+      "start_sentence_idx": 584,
+      "end_sentence_idx": 585,
+      "num_sentences": 1,
+      "start_time_sec": 2274.91,
+      "end_time_sec": 2274.91,
+      "text_preview": "My God, I heard this day.",
+      "keywords": [],
+      "summary": "My God, I heard this day. …"
+    },
+    {
+      "segment_id": 285,
+      "start_sentence_idx": 585,
+      "end_sentence_idx": 586,
+      "num_sentences": 1,
+      "start_time_sec": 2276.55,
+      "end_time_sec": 2276.55,
+      "text_preview": "What?",
+      "keywords": [],
+      "summary": "What? …"
+    },
+    {
+      "segment_id": 286,
+      "start_sentence_idx": 586,
+      "end_sentence_idx": 587,
+      "num_sentences": 1,
+      "start_time_sec": 2279.95,
+      "end_time_sec": 2279.95,
+      "text_preview": "All my pretty wounds?",
+      "keywords": [],
+      "summary": "All my pretty wounds? …"
+    },
+    {
+      "segment_id": 287,
+      "start_sentence_idx": 587,
+      "end_sentence_idx": 588,
+      "num_sentences": 1,
+      "start_time_sec": 2282.43,
+      "end_time_sec": 2282.43,
+      "text_preview": "You say all?",
+      "keywords": [],
+      "summary": "You say all? …"
+    },
+    {
+      "segment_id": 288,
+      "start_sentence_idx": 588,
+      "end_sentence_idx": 589,
+      "num_sentences": 1,
+      "start_time_sec": 2287.87,
+      "end_time_sec": 2287.87,
+      "text_preview": "Oh, hell, kind.",
+      "keywords": [],
+      "summary": "Oh, hell, kind. …"
+    },
+    {
+      "segment_id": 289,
+      "start_sentence_idx": 589,
+      "end_sentence_idx": 590,
+      "num_sentences": 1,
+      "start_time_sec": 2290.39,
+      "end_time_sec": 2290.39,
+      "text_preview": "All.",
+      "keywords": [],
+      "summary": "All. …"
+    },
+    {
+      "segment_id": 290,
+      "start_sentence_idx": 590,
+      "end_sentence_idx": 591,
+      "num_sentences": 1,
+      "start_time_sec": 2291.77,
+      "end_time_sec": 2291.77,
+      "text_preview": "None of these did he rememble.",
+      "keywords": [],
+      "summary": "None of these did he rememble. …"
+    },
+    {
+      "segment_id": 291,
+      "start_sentence_idx": 591,
+      "end_sentence_idx": 592,
+      "num_sentences": 1,
+      "start_time_sec": 2293.71,
+      "end_time_sec": 2293.71,
+      "text_preview": "Not one.",
+      "keywords": [],
+      "summary": "Not one. …"
+    },
+    {
+      "segment_id": 292,
+      "start_sentence_idx": 592,
+      "end_sentence_idx": 593,
+      "num_sentences": 1,
+      "start_time_sec": 2296.45,
+      "end_time_sec": 2296.45,
+      "text_preview": "Anders did not remember his dying mother saying of his father.",
+      "keywords": [],
+      "summary": "Anders did not remember his dying mother saying of his father. …"
+    },
+    {
+      "segment_id": 293,
+      "start_sentence_idx": 593,
+      "end_sentence_idx": 594,
+      "num_sentences": 1,
+      "start_time_sec": 2298.43,
+      "end_time_sec": 2298.43,
+      "text_preview": "I should have stabbed him in this sleep.",
+      "keywords": [],
+      "summary": "I should have stabbed him in this sleep. …"
+    },
+    {
+      "segment_id": 294,
+      "start_sentence_idx": 594,
+      "end_sentence_idx": 607,
+      "num_sentences": 13,
+      "start_time_sec": 2299.71,
+      "end_time_sec": 2334.43,
+      "text_preview": "He did not remember Professor Joseph telling his class how a thinning prisoners insistently had been released to take a recite test. And then reciting estates himself right there in the Greek. Anders did not remember how his eyes had burned those sounds. He did not remember the s…",
+      "keywords": [
+        "remember",
+        "right",
+        "seeing",
+        "fuck",
+        "began",
+        "wiki"
+      ],
+      "summary": "Nurted Andrews did not remember when he began to regard the heat of his desk, the boredom, and dread, or when he grew angry at right for right. Nurted Andrews remember seeing a woman who took her death from the building off his own just days after his daughter was born."
+    },
+    {
+      "segment_id": 295,
+      "start_sentence_idx": 607,
+      "end_sentence_idx": 608,
+      "num_sentences": 1,
+      "start_time_sec": 2339.43,
+      "end_time_sec": 2339.43,
+      "text_preview": "This is what he will know.",
+      "keywords": [],
+      "summary": "This is what he will know. …"
+    },
+    {
+      "segment_id": 296,
+      "start_sentence_idx": 608,
+      "end_sentence_idx": 609,
+      "num_sentences": 1,
+      "start_time_sec": 2342.43,
+      "end_time_sec": 2342.43,
+      "text_preview": "He, a baseball field.",
+      "keywords": [],
+      "summary": "He, a baseball field. …"
+    },
+    {
+      "segment_id": 297,
+      "start_sentence_idx": 609,
+      "end_sentence_idx": 610,
+      "num_sentences": 1,
+      "start_time_sec": 2349.91,
+      "end_time_sec": 2349.91,
+      "text_preview": "Yellow.",
+      "keywords": [],
+      "summary": "Yellow. …"
+    },
+    {
+      "segment_id": 298,
+      "start_sentence_idx": 610,
+      "end_sentence_idx": 611,
+      "num_sentences": 1,
+      "start_time_sec": 2352.91,
+      "end_time_sec": 2352.91,
+      "text_preview": "The grass, the word of insects, he self leaning against the tree as poison in the garden that pick up the fish.",
+      "keywords": [
+        "word",
+        "tree",
+        "self",
+        "poison",
+        "pick",
+        "leaning"
+      ],
+      "summary": "The grass, the word of insects, he self leaning against the tree as poison in the garden that pick up the fish. …"
+    },
+    {
+      "segment_id": 299,
+      "start_sentence_idx": 611,
+      "end_sentence_idx": 612,
+      "num_sentences": 1,
+      "start_time_sec": 2354.23,
+      "end_time_sec": 2354.23,
+      "text_preview": "He looks on as the others are he developed genes against names.",
+      "keywords": [],
+      "summary": "He looks on as the others are he developed genes against names. …"
+    },
+    {
+      "segment_id": 300,
+      "start_sentence_idx": 612,
+      "end_sentence_idx": 613,
+      "num_sentences": 1,
+      "start_time_sec": 2359.43,
+      "end_time_sec": 2359.43,
+      "text_preview": "They've been worrying this subject all summer and it has become tedious to angers and oppression by the heat.",
+      "keywords": [],
+      "summary": "They've been worrying this subject all summer and it has become tedious to angers and oppression by the heat. …"
+    },
+    {
+      "segment_id": 301,
+      "start_sentence_idx": 613,
+      "end_sentence_idx": 614,
+      "num_sentences": 1,
+      "start_time_sec": 2363.11,
+      "end_time_sec": 2363.11,
+      "text_preview": "Then the last two boys arrive, coil in the cousin of the chimns for this sake.",
+      "keywords": [],
+      "summary": "Then the last two boys arrive, coil in the cousin of the chimns for this sake. …"
+    },
+    {
+      "segment_id": 302,
+      "start_sentence_idx": 614,
+      "end_sentence_idx": 615,
+      "num_sentences": 1,
+      "start_time_sec": 2368.79,
+      "end_time_sec": 2368.79,
+      "text_preview": "never met coils because of the four and will never see them again.",
+      "keywords": [],
+      "summary": "never met coils because of the four and will never see them again. …"
+    },
+    {
+      "segment_id": 303,
+      "start_sentence_idx": 615,
+      "end_sentence_idx": 616,
+      "num_sentences": 1,
+      "start_time_sec": 2372.43,
+      "end_time_sec": 2372.43,
+      "text_preview": "He says high with the grass that takes no further notice until they've chosen sides and someone asks because of what position he wants to play.",
+      "keywords": [
+        "wants",
+        "takes",
+        "someone",
+        "sides",
+        "says",
+        "position"
+      ],
+      "summary": "He says high with the grass that takes no further notice until they've chosen sides and someone asks because of what position he wants to play. …"
+    },
+    {
+      "segment_id": 304,
+      "start_sentence_idx": 616,
+      "end_sentence_idx": 620,
+      "num_sentences": 4,
+      "start_time_sec": 2372.43,
+      "end_time_sec": 2377.43,
+      "text_preview": "Shope stop, boy since. Shope's the best position they is. Anders, turns, and looks at him. He wants to ask coils because of the peak, it's just said, but he knows that it's asked.",
+      "keywords": [
+        "shope",
+        "wants",
+        "stop",
+        "turns",
+        "since",
+        "said"
+      ],
+      "summary": "Shope stop, boy since. Shope's the best position they is. Anders, turns, and looks at him. He wants to ask coils because of the peak, it's just said, but he knows that it's asked. …"
+    },
+    {
+      "segment_id": 305,
+      "start_sentence_idx": 620,
+      "end_sentence_idx": 621,
+      "num_sentences": 1,
+      "start_time_sec": 2385.47,
+      "end_time_sec": 2385.47,
+      "text_preview": "The others will think he's being.",
+      "keywords": [],
+      "summary": "The others will think he's being. …"
+    },
+    {
+      "segment_id": 306,
+      "start_sentence_idx": 621,
+      "end_sentence_idx": 625,
+      "num_sentences": 4,
+      "start_time_sec": 2385.47,
+      "end_time_sec": 2394.91,
+      "text_preview": "and church, ragging kit with ground. But that isn't it, not at all. It's that Anders is strangely proud, he laid it by those final two words. They're pure unexpected, so they're music.",
+      "keywords": [
+        "words",
+        "unexpected",
+        "two",
+        "strangely",
+        "ragging",
+        "pure"
+      ],
+      "summary": "and church, ragging kit with ground. But that isn't it, not at all. It's that Anders is strangely proud, he laid it by those final two words. They're pure unexpected, so they're music. …"
+    },
+    {
+      "segment_id": 307,
+      "start_sentence_idx": 625,
+      "end_sentence_idx": 626,
+      "num_sentences": 1,
+      "start_time_sec": 2399.99,
+      "end_time_sec": 2399.99,
+      "text_preview": "He takes the field in a trance, repeated in teams.",
+      "keywords": [],
+      "summary": "He takes the field in a trance, repeated in teams. …"
+    },
+    {
+      "segment_id": 308,
+      "start_sentence_idx": 626,
+      "end_sentence_idx": 627,
+      "num_sentences": 1,
+      "start_time_sec": 2402.43,
+      "end_time_sec": 2402.43,
+      "text_preview": "The bullet is already praying.",
+      "keywords": [],
+      "summary": "The bullet is already praying. …"
+    },
+    {
+      "segment_id": 309,
+      "start_sentence_idx": 627,
+      "end_sentence_idx": 628,
+      "num_sentences": 1,
+      "start_time_sec": 2402.43,
+      "end_time_sec": 2402.43,
+      "text_preview": "It won't be out none for him.",
+      "keywords": [],
+      "summary": "It won't be out none for him. …"
+    },
+    {
+      "segment_id": 310,
+      "start_sentence_idx": 628,
+      "end_sentence_idx": 629,
+      "num_sentences": 1,
+      "start_time_sec": 2410.43,
+      "end_time_sec": 2410.43,
+      "text_preview": "Charged in all.",
+      "keywords": [],
+      "summary": "Charged in all. …"
+    },
+    {
+      "segment_id": 311,
+      "start_sentence_idx": 629,
+      "end_sentence_idx": 630,
+      "num_sentences": 1,
+      "start_time_sec": 2416.43,
+      "end_time_sec": 2416.43,
+      "text_preview": "In the end, it will do its work and leave the shop.",
+      "keywords": [],
+      "summary": "In the end, it will do its work and leave the shop. …"
+    },
+    {
+      "segment_id": 312,
+      "start_sentence_idx": 630,
+      "end_sentence_idx": 631,
+      "num_sentences": 1,
+      "start_time_sec": 2422.43,
+      "end_time_sec": 2422.43,
+      "text_preview": "skull behind.",
+      "keywords": [],
+      "summary": "skull behind. …"
+    },
+    {
+      "segment_id": 313,
+      "start_sentence_idx": 631,
+      "end_sentence_idx": 632,
+      "num_sentences": 1,
+      "start_time_sec": 2429.43,
+      "end_time_sec": 2429.43,
+      "text_preview": "Dragon is comes to memory and hope and talent and love and is a marble fall comes.",
+      "keywords": [],
+      "summary": "Dragon is comes to memory and hope and talent and love and is a marble fall comes. …"
+    },
+    {
+      "segment_id": 314,
+      "start_sentence_idx": 632,
+      "end_sentence_idx": 633,
+      "num_sentences": 1,
+      "start_time_sec": 2432.43,
+      "end_time_sec": 2432.43,
+      "text_preview": "That can't help.",
+      "keywords": [],
+      "summary": "That can't help. …"
+    },
+    {
+      "segment_id": 315,
+      "start_sentence_idx": 633,
+      "end_sentence_idx": 634,
+      "num_sentences": 1,
+      "start_time_sec": 2437.43,
+      "end_time_sec": 2437.43,
+      "text_preview": "But for now, Anders can still make time for the shadows to lighten on the grass.",
+      "keywords": [],
+      "summary": "But for now, Anders can still make time for the shadows to lighten on the grass. …"
+    },
+    {
+      "segment_id": 316,
+      "start_sentence_idx": 634,
+      "end_sentence_idx": 635,
+      "num_sentences": 1,
+      "start_time_sec": 2438.43,
+      "end_time_sec": 2438.43,
+      "text_preview": "Time for the tethered dumb to bark and fly in the ball.",
+      "keywords": [],
+      "summary": "Time for the tethered dumb to bark and fly in the ball. …"
+    },
+    {
+      "segment_id": 317,
+      "start_sentence_idx": 635,
+      "end_sentence_idx": 636,
+      "num_sentences": 1,
+      "start_time_sec": 2441.43,
+      "end_time_sec": 2441.43,
+      "text_preview": "Time for the boy and right field to smack his sweat blackened knit.",
+      "keywords": [],
+      "summary": "Time for the boy and right field to smack his sweat blackened knit. …"
+    },
+    {
+      "segment_id": 318,
+      "start_sentence_idx": 636,
+      "end_sentence_idx": 637,
+      "num_sentences": 1,
+      "start_time_sec": 2443.43,
+      "end_time_sec": 2443.43,
+      "text_preview": "It's not a big chair.",
+      "keywords": [],
+      "summary": "It's not a big chair. …"
+    },
+    {
+      "segment_id": 319,
+      "start_sentence_idx": 637,
+      "end_sentence_idx": 640,
+      "num_sentences": 3,
+      "start_time_sec": 2446.43,
+      "end_time_sec": 2450.43,
+      "text_preview": "They're here. They're here. They're here.",
+      "keywords": [],
+      "summary": "They're here. They're here. They're here. …"
+    },
+    {
+      "segment_id": 320,
+      "start_sentence_idx": 640,
+      "end_sentence_idx": 641,
+      "num_sentences": 1,
+      "start_time_sec": 2451.43,
+      "end_time_sec": 2451.43,
+      "text_preview": "To buy a swore story, Boba and the brain, this one is both the night and the question.",
+      "keywords": [],
+      "summary": "To buy a swore story, Boba and the brain, this one is both the night and the question. …"
+    },
+    {
+      "segment_id": 321,
+      "start_sentence_idx": 641,
+      "end_sentence_idx": 642,
+      "num_sentences": 1,
+      "start_time_sec": 2452.43,
+      "end_time_sec": 2452.43,
+      "text_preview": "The wisdom of autumn, the virtue of spring is the way of life.",
+      "keywords": [],
+      "summary": "The wisdom of autumn, the virtue of spring is the way of life. …"
+    },
+    {
+      "segment_id": 322,
+      "start_sentence_idx": 642,
+      "end_sentence_idx": 643,
+      "num_sentences": 1,
+      "start_time_sec": 2453.43,
+      "end_time_sec": 2453.43,
+      "text_preview": "It's a way of life.",
+      "keywords": [],
+      "summary": "It's a way of life. …"
+    },
+    {
+      "segment_id": 323,
+      "start_sentence_idx": 643,
+      "end_sentence_idx": 644,
+      "num_sentences": 1,
+      "start_time_sec": 2456.43,
+      "end_time_sec": 2456.43,
+      "text_preview": "The sound of a Sunday.",
+      "keywords": [],
+      "summary": "The sound of a Sunday. …"
+    },
+    {
+      "segment_id": 324,
+      "start_sentence_idx": 644,
+      "end_sentence_idx": 645,
+      "num_sentences": 1,
+      "start_time_sec": 2458.43,
+      "end_time_sec": 2458.43,
+      "text_preview": "is a song the world can see burgerム produces a dependency actor himself at least people in Julie Snyder shooting at her to speak post op check hit to the January special thanks to the day to Lawrence Westburn Michael Lassin then.",
+      "keywords": [
+        "world",
+        "westburn",
+        "thanks",
+        "special",
+        "speak",
+        "song"
+      ],
+      "summary": "is a song the world can see burgerム produces a dependency actor himself at least people in Julie Snyder shooting at her to speak post op check hit to the January special thanks to the day to Lawrence Westburn Michael Las …"
+    },
+    {
+      "segment_id": 325,
+      "start_sentence_idx": 645,
+      "end_sentence_idx": 646,
+      "num_sentences": 1,
+      "start_time_sec": 2459.43,
+      "end_time_sec": 2459.43,
+      "text_preview": "our web address www.lismaricanglife.org.",
+      "keywords": [],
+      "summary": "our web address www.lismaricanglife.org. …"
+    },
+    {
+      "segment_id": 326,
+      "start_sentence_idx": 646,
+      "end_sentence_idx": 649,
+      "num_sentences": 3,
+      "start_time_sec": 2462.43,
+      "end_time_sec": 2483.43,
+      "text_preview": "We're going to do our shows for absolutely free or vice-heaties. We know you can download today's program and our archives at audible.com slash this American life. This American life is distributed by public radio international, American life is made possible by Volkswagen, Ameri…",
+      "keywords": [
+        "life",
+        "american",
+        "volkswagen",
+        "vice",
+        "today",
+        "radio"
+      ],
+      "summary": "We're going to do our shows for absolutely free or vice-heaties. We know you can download today's program and our archives at audible.com slash this American life. This American life is distributed by public radio intern …"
+    },
+    {
+      "segment_id": 327,
+      "start_sentence_idx": 649,
+      "end_sentence_idx": 650,
+      "num_sentences": 1,
+      "start_time_sec": 2492.43,
+      "end_time_sec": 2492.43,
+      "text_preview": "The minding listeners that safe can happen anytime, anywhere, Volkswagen, Jeddah.",
+      "keywords": [],
+      "summary": "The minding listeners that safe can happen anytime, anywhere, Volkswagen, Jeddah. …"
+    },
+    {
+      "segment_id": 328,
+      "start_sentence_idx": 650,
+      "end_sentence_idx": 651,
+      "num_sentences": 1,
+      "start_time_sec": 2496.31,
+      "end_time_sec": 2496.31,
+      "text_preview": "Safe patterns.",
+      "keywords": [],
+      "summary": "Safe patterns. …"
+    },
+    {
+      "segment_id": 329,
+      "start_sentence_idx": 651,
+      "end_sentence_idx": 652,
+      "num_sentences": 1,
+      "start_time_sec": 2499.63,
+      "end_time_sec": 2499.63,
+      "text_preview": "WB Easy Management Ever Side for a program by Mr. Tory Malatia.",
+      "keywords": [],
+      "summary": "WB Easy Management Ever Side for a program by Mr. Tory Malatia. …"
+    },
+    {
+      "segment_id": 330,
+      "start_sentence_idx": 652,
+      "end_sentence_idx": 653,
+      "num_sentences": 1,
+      "start_time_sec": 2503.31,
+      "end_time_sec": 2503.31,
+      "text_preview": "Wonders the Anti-Halls WBZ.",
+      "keywords": [],
+      "summary": "Wonders the Anti-Halls WBZ. …"
+    },
+    {
+      "segment_id": 331,
+      "start_sentence_idx": 653,
+      "end_sentence_idx": 654,
+      "num_sentences": 1,
+      "start_time_sec": 2507.55,
+      "end_time_sec": 2507.55,
+      "text_preview": "After each fight driver's over.",
+      "keywords": [],
+      "summary": "After each fight driver's over. …"
+    },
+    {
+      "segment_id": 332,
+      "start_sentence_idx": 654,
+      "end_sentence_idx": 655,
+      "num_sentences": 1,
+      "start_time_sec": 2512.59,
+      "end_time_sec": 2512.59,
+      "text_preview": "Saying... Oh my pretty woods.",
+      "keywords": [],
+      "summary": "Saying... Oh my pretty woods. …"
+    },
+    {
+      "segment_id": 333,
+      "start_sentence_idx": 655,
+      "end_sentence_idx": 656,
+      "num_sentences": 1,
+      "start_time_sec": 2516.27,
+      "end_time_sec": 2516.27,
+      "text_preview": "You say all.",
+      "keywords": [],
+      "summary": "You say all. …"
+    },
+    {
+      "segment_id": 334,
+      "start_sentence_idx": 656,
+      "end_sentence_idx": 666,
+      "num_sentences": 10,
+      "start_time_sec": 2520.43,
+      "end_time_sec": 2552.43,
+      "text_preview": "Oh hell, cut. Oh... And I regret I asked back next week. I've more stories in the American life. Which is so funny, right boy. Oh, how... Man of FAMILY. Hush bitch. Oh white. And to  each day is a way of life. P.R.I. Public Radio in a night.",
+      "keywords": [
+        "oh",
+        "life",
+        "white",
+        "week",
+        "right",
+        "regret"
+      ],
+      "summary": "Oh hell, cut. Oh... And I regret I asked back next week. I've more stories in the American life. Which is so funny, right boy. Oh, how... Man of FAMILY. Hush bitch. Oh white. And to  each day is a way of life. P.R.I. Pub …"
+    }
+  ]
+}

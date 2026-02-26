@@ -1,0 +1,1567 @@
+{
+  "episode_id": "episode_207",
+  "source_file": "episode_207_whisper.json",
+  "total_sentences": 344,
+  "algorithm_used": "embedding-based (Sentence Transformers)",
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_sentence_idx": 0,
+      "end_sentence_idx": 5,
+      "num_sentences": 5,
+      "start_time_sec": 0.0,
+      "end_time_sec": 22.96,
+      "text_preview": "Welcome to Human Lab Essentials, where we revisit Hashtepasos with the most potent and actionable science-based tools. And so help this helps. I'm Andrew Huberman and I'm Professor of Gear Biology and Ophthalmology at Stairroast School of Medicine. Today we're talking all about g…",
+      "keywords": [
+        "goals",
+        "goal",
+        "science",
+        "welcome",
+        "tools",
+        "today"
+      ],
+      "summary": "Andrew Huberman is Professor of Gear Biology and Ophthalmology at Stairroast School of Medicine. We're talking all about goals, science, goal setting, and achieving your goals."
+    },
+    {
+      "segment_id": 2,
+      "start_sentence_idx": 5,
+      "end_sentence_idx": 6,
+      "num_sentences": 1,
+      "start_time_sec": 27.84,
+      "end_time_sec": 27.84,
+      "text_preview": "It involves a common set of rural circuits.",
+      "keywords": [],
+      "summary": "It involves a common set of rural circuits. …"
+    },
+    {
+      "segment_id": 3,
+      "start_sentence_idx": 6,
+      "end_sentence_idx": 12,
+      "num_sentences": 6,
+      "start_time_sec": 30.0,
+      "end_time_sec": 45.6,
+      "text_preview": "One of the brain areas is so called neglect. The neglect is most often associated with fears. How is that involved in the world-directed behavior? Well, a lot of our gold-directed behavior is to avoid punishments. It's  embarrassment or financial ruin or things of that sort. And …",
+      "keywords": [
+        "directed",
+        "neglect",
+        "behavior",
+        "world",
+        "well",
+        "things"
+      ],
+      "summary": "A lot of our gold-directed behavior is to avoid punishments. One of the brain areas is so called neglect. The neglect is most often associated with fears."
+    },
+    {
+      "segment_id": 4,
+      "start_sentence_idx": 12,
+      "end_sentence_idx": 19,
+      "num_sentences": 7,
+      "start_time_sec": 50.32,
+      "end_time_sec": 76.64,
+      "text_preview": "Other areas are the so called eventual strideum. The strideum is part of what's called conbezzled ganglia. The basal ganglia is a neural circuit that can very simply be described as neural circuit that helps us generate go meaning initiation of action and no go. The prevention of…",
+      "keywords": [
+        "ganglia",
+        "strideum",
+        "basal",
+        "called",
+        "part",
+        "neural"
+      ],
+      "summary": "The basal ganglia is a neural circuit that helps us generate go meaning initiation of action and no go. Other areas are the so called eventual strideum. The strideum is part of what's called conbezz"
+    },
+    {
+      "segment_id": 5,
+      "start_sentence_idx": 19,
+      "end_sentence_idx": 20,
+      "num_sentences": 1,
+      "start_time_sec": 79.44,
+      "end_time_sec": 79.44,
+      "text_preview": "The circuit is involved in getting us to do things ... get up tomorrow and I'm gonna run five miles for some important.",
+      "keywords": [
+        "us",
+        "tomorrow",
+        "things",
+        "run",
+        "miles",
+        "involved"
+      ],
+      "summary": "The circuit is involved in getting us to do things ... get up tomorrow and I'm gonna run five miles for some important. …"
+    },
+    {
+      "segment_id": 6,
+      "start_sentence_idx": 20,
+      "end_sentence_idx": 26,
+      "num_sentences": 6,
+      "start_time_sec": 81.64,
+      "end_time_sec": 95.0,
+      "text_preview": "I don't know if I'm actually gonna be there, I'm just using that as an example. Another circuit within the basil ganglet is a no-go circuit. It's the one that says, no, I'm not going to go for the second cookie or the third cookie. I'm not going to eat that and then the goes circ…",
+      "keywords": [
+        "go",
+        "circuit",
+        "within",
+        "going",
+        "cookie",
+        "one"
+      ],
+      "summary": "A no-go circuit is the one that says, no, I'm not going to go for the second cookie or the third cookie. The goes circuit would be the one responsible for. Instead eating something else."
+    },
+    {
+      "segment_id": 7,
+      "start_sentence_idx": 26,
+      "end_sentence_idx": 27,
+      "num_sentences": 1,
+      "start_time_sec": 97.0,
+      "end_time_sec": 97.0,
+      "text_preview": "So we've got a mix of the ingredients.",
+      "keywords": [],
+      "summary": "So we've got a mix of the ingredients. …"
+    },
+    {
+      "segment_id": 8,
+      "start_sentence_idx": 27,
+      "end_sentence_idx": 28,
+      "num_sentences": 1,
+      "start_time_sec": 100.0,
+      "end_time_sec": 100.0,
+      "text_preview": "Here in anxiety and avoidance, we've got the basil.",
+      "keywords": [],
+      "summary": "Here in anxiety and avoidance, we've got the basil. …"
+    },
+    {
+      "segment_id": 9,
+      "start_sentence_idx": 28,
+      "end_sentence_idx": 31,
+      "num_sentences": 3,
+      "start_time_sec": 105.0,
+      "end_time_sec": 112.0,
+      "text_preview": "So ganglia, which are initiating action, preventing action, and then there is the so-called cortex, cortex outer shell of the brain, two sub-rejects that are ball, gold-directed. Hader, one is the lateral prefrontal cortex prefrontal cortex, walled in so-called executive function…",
+      "keywords": [
+        "cortex",
+        "called",
+        "want",
+        "prefrontal",
+        "action",
+        "walled"
+      ],
+      "summary": "Ganglia are initiating action, preventing action, and then there is the so-called cortex, cortex outer shell of the brain, two sub-rejects that are ball, gold-directed. Hader, one is"
+    },
+    {
+      "segment_id": 10,
+      "start_sentence_idx": 31,
+      "end_sentence_idx": 32,
+      "num_sentences": 1,
+      "start_time_sec": 115.0,
+      "end_time_sec": 115.0,
+      "text_preview": "Hovered up from the cortex has a large number of functions, but one of the key functions of the Hovered up from the cortex is involved in meshing some emotionality with our current state of progress, and preparing that emotionality to where it might be when we are closer to goal.",
+      "keywords": [
+        "emotionality",
+        "functions",
+        "cortex",
+        "hovered",
+        "state",
+        "progress"
+      ],
+      "summary": "Hovered up from the cortex has a large number of functions. One of the key functions is involved in meshing some emotionality with"
+    },
+    {
+      "segment_id": 11,
+      "start_sentence_idx": 32,
+      "end_sentence_idx": 36,
+      "num_sentences": 4,
+      "start_time_sec": 117.0,
+      "end_time_sec": 131.32,
+      "text_preview": "Okay? So, there are basically four areas. One involved in anxiety, one involved in emotion, one involved planning, and another involved in this go-go-go action. Okay?",
+      "keywords": [
+        "involved",
+        "one",
+        "go",
+        "okay",
+        "planning",
+        "four"
+      ],
+      "summary": "Okay? So, there are basically four areas. One involved in anxiety, one involved in emotion, one involved planning, and another involved in this go-go-go action. Okay? …"
+    },
+    {
+      "segment_id": 12,
+      "start_sentence_idx": 36,
+      "end_sentence_idx": 40,
+      "num_sentences": 4,
+      "start_time_sec": 136.32,
+      "end_time_sec": 150.0,
+      "text_preview": "One involved plays. Over collaboration with the Hovered up from theутьfrom-withoutالم event of alternative resentment which for more mental breakdowns are related. There are bereits. me this even simpler out to this one more time.",
+      "keywords": [
+        "one",
+        "withoutالم",
+        "time",
+        "simpler",
+        "theутьfrom",
+        "resentment"
+      ],
+      "summary": "One involved plays. Over collaboration with the Hovered up from theутьfrom-withoutالم event of alternative resentment which for more mental breakdowns are related. There are bereits. me this even simpler out to this one  …"
+    },
+    {
+      "segment_id": 13,
+      "start_sentence_idx": 40,
+      "end_sentence_idx": 41,
+      "num_sentences": 1,
+      "start_time_sec": 151.0,
+      "end_time_sec": 151.0,
+      "text_preview": "Think, is I fear, segala, second is involved action and inaction, remember go and no go.",
+      "keywords": [],
+      "summary": "Think, is I fear, segala, second is involved action and inaction, remember go and no go. …"
+    },
+    {
+      "segment_id": 14,
+      "start_sentence_idx": 41,
+      "end_sentence_idx": 42,
+      "num_sentences": 1,
+      "start_time_sec": 155.16,
+      "end_time_sec": 155.16,
+      "text_preview": "So that's the days of Julia.",
+      "keywords": [],
+      "summary": "So that's the days of Julia. …"
+    },
+    {
+      "segment_id": 15,
+      "start_sentence_idx": 42,
+      "end_sentence_idx": 43,
+      "num_sentences": 1,
+      "start_time_sec": 160.16,
+      "end_time_sec": 160.16,
+      "text_preview": "The other one is involved in planning, thinking, cross the time scales, so that's lateral critical critical criticals.",
+      "keywords": [],
+      "summary": "The other one is involved in planning, thinking, cross the time scales, so that's lateral critical critical criticals. …"
+    },
+    {
+      "segment_id": 16,
+      "start_sentence_idx": 43,
+      "end_sentence_idx": 49,
+      "num_sentences": 6,
+      "start_time_sec": 167.6,
+      "end_time_sec": 178.88,
+      "text_preview": "And then the fourth one is involved in emotionality, where we sit emotionally at present, and where we think we will be emotionally reach some particular. goal and that's the core bit of important things. What is going on in these circuits can basically go down to two particular …",
+      "keywords": [
+        "two",
+        "value",
+        "things",
+        "emotionally",
+        "particular",
+        "actions"
+      ],
+      "summary": "What is going on in these circuits can basically go down to two particular things. First is value information. Trying to understand whether or not something is really worth pursuing. Other component of this neural circuit is associated with action which actions take, which actions not to take."
+    },
+    {
+      "segment_id": 17,
+      "start_sentence_idx": 49,
+      "end_sentence_idx": 50,
+      "num_sentences": 1,
+      "start_time_sec": 179.88,
+      "end_time_sec": 179.88,
+      "text_preview": "We're going to hear me say over and over again in this episode.",
+      "keywords": [],
+      "summary": "We're going to hear me say over and over again in this episode. …"
+    },
+    {
+      "segment_id": 18,
+      "start_sentence_idx": 50,
+      "end_sentence_idx": 52,
+      "num_sentences": 2,
+      "start_time_sec": 190.46,
+      "end_time_sec": 195.06,
+      "text_preview": "all you information about it is so key. Here's what.",
+      "keywords": [],
+      "summary": "all you information about it is so key. Here's what. …"
+    },
+    {
+      "segment_id": 19,
+      "start_sentence_idx": 52,
+      "end_sentence_idx": 53,
+      "num_sentences": 1,
+      "start_time_sec": 197.96,
+      "end_time_sec": 197.96,
+      "text_preview": "There is basically one neural transmitter of word rather, a modulator system that governs our goal setting, goal assessment, goal pursuit, and that is the neuromodular, dope.",
+      "keywords": [
+        "goal",
+        "transmitter",
+        "word",
+        "setting",
+        "rather",
+        "pursuit"
+      ],
+      "summary": "There is basically one neural transmitter of word rather, a modulator system that governs our goal setting, goal assessment, goal pursuit, and that is the neuromodular, dope. …"
+    },
+    {
+      "segment_id": 20,
+      "start_sentence_idx": 53,
+      "end_sentence_idx": 54,
+      "num_sentences": 1,
+      "start_time_sec": 180.0,
+      "end_time_sec": 180.0,
+      "text_preview": "dope.",
+      "keywords": [],
+      "summary": "dope. …"
+    },
+    {
+      "segment_id": 21,
+      "start_sentence_idx": 54,
+      "end_sentence_idx": 58,
+      "num_sentences": 4,
+      "start_time_sec": 182.0,
+      "end_time_sec": 192.18,
+      "text_preview": "dope, I mean is the common currency by which we assess our progress toward particular things of particular value. In fact, dope, I mean is the way that we assess value of our progress. There are basically only three or four elements. goal setting, goal pursue.",
+      "keywords": [
+        "value",
+        "mean",
+        "goal",
+        "assess",
+        "dope",
+        "particular"
+      ],
+      "summary": "dope, I mean is the common currency by which we assess our progress toward particular things of particular value. In fact, dope, I mean is the way that we assess value of our progress. There are basically only three or f …"
+    },
+    {
+      "segment_id": 22,
+      "start_sentence_idx": 58,
+      "end_sentence_idx": 59,
+      "num_sentences": 1,
+      "start_time_sec": 198.02,
+      "end_time_sec": 198.02,
+      "text_preview": "Basically an individual or set of individuals has to identify a specific thing that are going to attain assessment of what whether or not what is making progress towards those goals, second, but necessary step.",
+      "keywords": [
+        "whether",
+        "towards",
+        "thing",
+        "step",
+        "specific",
+        "set"
+      ],
+      "summary": "Basically an individual or set of individuals has to identify a specific thing that are going to attain assessment of what whether or not what is making progress towards those goals, second, but necessary step. …"
+    },
+    {
+      "segment_id": 23,
+      "start_sentence_idx": 59,
+      "end_sentence_idx": 70,
+      "num_sentences": 11,
+      "start_time_sec": 199.32,
+      "end_time_sec": 231.32,
+      "text_preview": "And then there's the business of goal execution. That brings us back to the neural circuit part. Remember, the neural circuit, evolving those four things earlier, the omega was straight and the root of the cortex, and the prefrontal cortex. They work together to divide the whole …",
+      "keywords": [
+        "things",
+        "going",
+        "goals",
+        "quickly",
+        "one",
+        "particular"
+      ],
+      "summary": "The neural circuit, evolving those four things earlier, the omega was straight and the root of the cortex, and the prefrontal cortex. They work together to divide the whole process as an of the genie body to general categories. And then there's the business of goal execution."
+    },
+    {
+      "segment_id": 24,
+      "start_sentence_idx": 70,
+      "end_sentence_idx": 71,
+      "num_sentences": 1,
+      "start_time_sec": 231.32,
+      "end_time_sec": 231.32,
+      "text_preview": "In fact, let's start with a tool now.",
+      "keywords": [],
+      "summary": "In fact, let's start with a tool now. …"
+    },
+    {
+      "segment_id": 25,
+      "start_sentence_idx": 71,
+      "end_sentence_idx": 74,
+      "num_sentences": 3,
+      "start_time_sec": 237.52,
+      "end_time_sec": 240.0,
+      "text_preview": "First thing to do is to understand difference between a very personal space, extra personal space. Very personal space. is a key concept of a science because you have particular neural circuits in particular chemicals that are geared toward what are called consumatory behaviors.",
+      "keywords": [
+        "space",
+        "personal",
+        "particular",
+        "thing",
+        "toward",
+        "understand"
+      ],
+      "summary": "First thing to do is to understand difference between a very personal space, extra personal space. Very personal space. is a key concept of a science because you have particular neural circuits in particular chemicals th …"
+    },
+    {
+      "segment_id": 26,
+      "start_sentence_idx": 74,
+      "end_sentence_idx": 76,
+      "num_sentences": 2,
+      "start_time_sec": 240.0,
+      "end_time_sec": 246.72,
+      "text_preview": "Meaning using things and consuming things and enjoying things that are a year immediate, peri-person space. Within my current peri-person space is my inter-oception, my understanding or perception of my internal body.",
+      "keywords": [
+        "things",
+        "space",
+        "peri",
+        "person",
+        "within",
+        "year"
+      ],
+      "summary": "Meaning using things and consuming things and enjoying things that are a year immediate, peri-person space. Within my current peri-person space is my inter-oception, my understanding or perception of my internal body. …"
+    },
+    {
+      "segment_id": 27,
+      "start_sentence_idx": 76,
+      "end_sentence_idx": 81,
+      "num_sentences": 5,
+      "start_time_sec": 253.56,
+      "end_time_sec": 258.56,
+      "text_preview": "So breathing, heart rate, the aliens on the surface. Skin, etc. But also... So within the confines of my peri personal space, it's this coffee mug that listen to this, see this, but I'm looking at my coffee mug, I'm taking this coffee. It's a Sumatory Behavior, I have the coffee,…",
+      "keywords": [
+        "coffee",
+        "much",
+        "mug",
+        "within",
+        "space",
+        "taking"
+      ],
+      "summary": "Within the confines of my peri personal space, it's this coffee mug that listen to this, see this, but I'm looking at my coffee mug, I'm"
+    },
+    {
+      "segment_id": 28,
+      "start_sentence_idx": 81,
+      "end_sentence_idx": 83,
+      "num_sentences": 2,
+      "start_time_sec": 264.6,
+      "end_time_sec": 264.6,
+      "text_preview": "Contrast that, the so-called extra personal space. Extra personal space, everything being on the confines is pretty rich.",
+      "keywords": [],
+      "summary": "Contrast that, the so-called extra personal space. Extra personal space, everything being on the confines is pretty rich. …"
+    },
+    {
+      "segment_id": 29,
+      "start_sentence_idx": 83,
+      "end_sentence_idx": 88,
+      "num_sentences": 5,
+      "start_time_sec": 270.0,
+      "end_time_sec": 281.92,
+      "text_preview": "How we feel about it, is truly a feeling that we experience in the here and now even though the goals of the future. If we are going to evaluate whether or not we made progress or yesterday or not, that's in evaluation of how we feel immediate peri-person assistance. However, mov…",
+      "keywords": [
+        "person",
+        "extra",
+        "assistance",
+        "peri",
+        "feel",
+        "focus"
+      ],
+      "summary": "The focus on the extra-person assistance is not the peri-person. How we feel about it, is truly a feeling that we experience in the here and now even though the goals of the future."
+    },
+    {
+      "segment_id": 30,
+      "start_sentence_idx": 88,
+      "end_sentence_idx": 89,
+      "num_sentences": 1,
+      "start_time_sec": 286.64,
+      "end_time_sec": 286.64,
+      "text_preview": "Work at NYU in particular in the laboratory of phenomenal research or psychology department by the name Emily Bell set as B A L C E T I S and we Bell set as done really nice work on this They've done is they've had people focus their visual attention on a goal line of some sort a…",
+      "keywords": [
+        "work",
+        "sort",
+        "set",
+        "people",
+        "done",
+        "bell"
+      ],
+      "summary": "The study was done by Emily Bell at NYU's psychology department. Bell set as done really nice work on this. They've done is they've had people focus their visual attention on a goal line."
+    },
+    {
+      "segment_id": 31,
+      "start_sentence_idx": 89,
+      "end_sentence_idx": 90,
+      "num_sentences": 1,
+      "start_time_sec": 286.64,
+      "end_time_sec": 286.64,
+      "text_preview": "They are much more effective at reaching the goals and they achieve them with the perception that they expanded last effort.",
+      "keywords": [
+        "reaching",
+        "perception",
+        "much",
+        "last",
+        "goals",
+        "expanded"
+      ],
+      "summary": "They are much more effective at reaching the goals and they achieve them with the perception that they expanded last effort. …"
+    },
+    {
+      "segment_id": 32,
+      "start_sentence_idx": 90,
+      "end_sentence_idx": 95,
+      "num_sentences": 5,
+      "start_time_sec": 290.4,
+      "end_time_sec": 299.36,
+      "text_preview": "And what they did is they had a group of people exercise wearing 15-pound ankle weights and they had to basically move a certain distance or run a certain distance to reach the goal one. One group was focused on goal line, visually focused on goal line. The other group was not to…",
+      "keywords": [
+        "goal",
+        "line",
+        "group",
+        "focused",
+        "distance",
+        "one"
+      ],
+      "summary": "A group of people exercise wearing 15-pound ankle weights and they had to basically move a certain distance. One group was focused on goal line, visually focused ongoal line. The other group was not told to visually focus on the goal line."
+    },
+    {
+      "segment_id": 33,
+      "start_sentence_idx": 95,
+      "end_sentence_idx": 96,
+      "num_sentences": 1,
+      "start_time_sec": 300.0,
+      "end_time_sec": 300.0,
+      "text_preview": "Simply by looking at the goal line, does something to the psychology and end physiology that allows them to move forward with less perceived effort and to do it.",
+      "keywords": [
+        "something",
+        "simply",
+        "psychology",
+        "physiology",
+        "perceived",
+        "move"
+      ],
+      "summary": "Simply by looking at the goal line, does something to the psychology and end physiology that allows them to move forward with less perceived effort and to do it. …"
+    },
+    {
+      "segment_id": 34,
+      "start_sentence_idx": 96,
+      "end_sentence_idx": 97,
+      "num_sentences": 1,
+      "start_time_sec": 300.0,
+      "end_time_sec": 300.0,
+      "text_preview": "So what is special about focusing on visual attention?",
+      "keywords": [],
+      "summary": "So what is special about focusing on visual attention? …"
+    },
+    {
+      "segment_id": 35,
+      "start_sentence_idx": 97,
+      "end_sentence_idx": 110,
+      "num_sentences": 13,
+      "start_time_sec": 305.92,
+      "end_time_sec": 346.0,
+      "text_preview": "That actually? It turns out that we are two branches of our system. So visual information all comes in through our eyes, but then it can head down two different patterns. One pathway is engaged when our vision is brought to a common point that we call a virgin side. So we're focu…",
+      "keywords": [
+        "pathway",
+        "us",
+        "system",
+        "visual",
+        "things",
+        "small"
+      ],
+      "summary": "We are two branches of our system. So visual information all comes in through our eyes, but then it can head down two different patterns. One pathway is engaged when our vision is brought to a common point that we call a virgin side."
+    },
+    {
+      "segment_id": 36,
+      "start_sentence_idx": 110,
+      "end_sentence_idx": 114,
+      "num_sentences": 4,
+      "start_time_sec": 349.0,
+      "end_time_sec": 358.0,
+      "text_preview": "Great body. start with this. Is that a little low-mounted term? This is a little bit of a adrenaline further ready to use your body action.",
+      "keywords": [
+        "body",
+        "little",
+        "use",
+        "term",
+        "ready",
+        "start"
+      ],
+      "summary": "Great body. start with this. Is that a little low-mounted term? This is a little bit of a adrenaline further ready to use your body action. …"
+    },
+    {
+      "segment_id": 37,
+      "start_sentence_idx": 114,
+      "end_sentence_idx": 115,
+      "num_sentences": 1,
+      "start_time_sec": 360.0,
+      "end_time_sec": 360.0,
+      "text_preview": "Conversely, when our visual system is the mode of looking at everything, aperture of our visual system is very raw.",
+      "keywords": [
+        "visual",
+        "system",
+        "raw",
+        "mode",
+        "looking",
+        "everything"
+      ],
+      "summary": "Conversely, when our visual system is the mode of looking at everything, aperture of our visual system is very raw. …"
+    },
+    {
+      "segment_id": 38,
+      "start_sentence_idx": 115,
+      "end_sentence_idx": 119,
+      "num_sentences": 4,
+      "start_time_sec": 365.6,
+      "end_time_sec": 371.04,
+      "text_preview": "We know that there's also a reduction in our goal-directing and a reduction in one pressure. What many of you are probably thinking was, okay, well, that's some physiology, there's some psychology, but how do you actually apply this towards setting and achieving goals? Well, do t…",
+      "keywords": [
+        "well",
+        "towards",
+        "know",
+        "pursue",
+        "reduction",
+        "maybe"
+      ],
+      "summary": "We know that there's also a reduction in our goal-directing and a Reduction in One pressure. If you already know what goal you want to pursue maybe it's a workout. Maybe it's the cognitive work of somebody to pursue."
+    },
+    {
+      "segment_id": 39,
+      "start_sentence_idx": 119,
+      "end_sentence_idx": 120,
+      "num_sentences": 1,
+      "start_time_sec": 377.44,
+      "end_time_sec": 377.44,
+      "text_preview": "Again, the process is very simple.",
+      "keywords": [],
+      "summary": "Again, the process is very simple. …"
+    },
+    {
+      "segment_id": 40,
+      "start_sentence_idx": 120,
+      "end_sentence_idx": 130,
+      "num_sentences": 10,
+      "start_time_sec": 377.44,
+      "end_time_sec": 402.0,
+      "text_preview": "We're going to focus your visual attention on one point beyond your very personal space or the... If you're going to be on wall, it could be a horizon, it could be at a distance. And you're going to focus your visual attention there, and with some effort, hold your visual attenti…",
+      "keywords": [
+        "visual",
+        "attention",
+        "going",
+        "okay",
+        "pursue",
+        "distance"
+      ],
+      "summary": "Focus your visual attention on one point beyond your very personal space or the... If you're going to be on wall, it could be a horizon. And with some effort, hold yourVisual attention for a distance of seconds."
+    },
+    {
+      "segment_id": 41,
+      "start_sentence_idx": 130,
+      "end_sentence_idx": 131,
+      "num_sentences": 1,
+      "start_time_sec": 403.0,
+      "end_time_sec": 403.0,
+      "text_preview": "So does visualization work?",
+      "keywords": [],
+      "summary": "So does visualization work? …"
+    },
+    {
+      "segment_id": 42,
+      "start_sentence_idx": 131,
+      "end_sentence_idx": 132,
+      "num_sentences": 1,
+      "start_time_sec": 405.0,
+      "end_time_sec": 405.0,
+      "text_preview": "Well, to prove that visualization of big wind and goals.",
+      "keywords": [],
+      "summary": "Well, to prove that visualization of big wind and goals. …"
+    },
+    {
+      "segment_id": 43,
+      "start_sentence_idx": 132,
+      "end_sentence_idx": 133,
+      "num_sentences": 1,
+      "start_time_sec": 408.0,
+      "end_time_sec": 408.0,
+      "text_preview": "So the super bowl, we're eight world metals in the Olympics and we're so we're so found here at an organic racks.",
+      "keywords": [
+        "world",
+        "super",
+        "racks",
+        "organic",
+        "olympics",
+        "metals"
+      ],
+      "summary": "So the super bowl, we're eight world metals in the Olympics and we're so we're so found here at an organic racks. …"
+    },
+    {
+      "segment_id": 44,
+      "start_sentence_idx": 133,
+      "end_sentence_idx": 135,
+      "num_sentences": 2,
+      "start_time_sec": 410.0,
+      "end_time_sec": 411.0,
+      "text_preview": "We're forty years old or Daisy, and we're one of my purposes. Hello.",
+      "keywords": [],
+      "summary": "We're forty years old or Daisy, and we're one of my purposes. Hello. …"
+    },
+    {
+      "segment_id": 45,
+      "start_sentence_idx": 135,
+      "end_sentence_idx": 136,
+      "num_sentences": 1,
+      "start_time_sec": 413.0,
+      "end_time_sec": 413.0,
+      "text_preview": "How are the models whenever do you plan to give up on what're your little fellows you're with?",
+      "keywords": [],
+      "summary": "How are the models whenever do you plan to give up on what're your little fellows you're with? …"
+    },
+    {
+      "segment_id": 46,
+      "start_sentence_idx": 136,
+      "end_sentence_idx": 137,
+      "num_sentences": 1,
+      "start_time_sec": 415.0,
+      "end_time_sec": 415.0,
+      "text_preview": "Graduation from the University of your choice.",
+      "keywords": [],
+      "summary": "Graduation from the University of your choice. …"
+    },
+    {
+      "segment_id": 47,
+      "start_sentence_idx": 137,
+      "end_sentence_idx": 138,
+      "num_sentences": 1,
+      "start_time_sec": 415.0,
+      "end_time_sec": 415.0,
+      "text_preview": "We're making a certain amount of money Finding the partner of your choice, etc.",
+      "keywords": [],
+      "summary": "We're making a certain amount of money Finding the partner of your choice, etc. …"
+    },
+    {
+      "segment_id": 48,
+      "start_sentence_idx": 138,
+      "end_sentence_idx": 139,
+      "num_sentences": 1,
+      "start_time_sec": 420.0,
+      "end_time_sec": 420.0,
+      "text_preview": "That visualization is effective in getting your goal pursuit process started But it actually is a 3D lousy and maybe the caliper that way pursuit That much better way to maintain ongoing action toward that also involves utilization but rotten It's not about visualizing success, i…",
+      "keywords": [
+        "way",
+        "visualizing",
+        "pursuit",
+        "utilization",
+        "visualization",
+        "toward"
+      ],
+      "summary": "That visualization is effective in getting your goal pursuit process started But it actually is a 3D lousy and maybe the caliper that way pursuit That much better way to maintain ongoing action toward that also involves  …"
+    },
+    {
+      "segment_id": 49,
+      "start_sentence_idx": 139,
+      "end_sentence_idx": 147,
+      "num_sentences": 8,
+      "start_time_sec": 425.2,
+      "end_time_sec": 464.68,
+      "text_preview": "You look at the literature, scientific literature. There's a near doubling, near doubling, the probability of reaching one's goal if you focus with continually on or shadowing fail. You think about the ways which things could fail if you take action A, where you take action B, an…",
+      "keywords": [
+        "goal",
+        "take",
+        "one",
+        "think",
+        "doubling",
+        "action"
+      ],
+      "summary": "The mix alone is one of the four court components of our goal setting and goal pursuit. It's circuitry. The mix alone, that's the center of the brain that's involved in the exciting fear and worry."
+    },
+    {
+      "segment_id": 50,
+      "start_sentence_idx": 147,
+      "end_sentence_idx": 148,
+      "num_sentences": 1,
+      "start_time_sec": 471.28,
+      "end_time_sec": 471.28,
+      "text_preview": "So, while I'd love to be able to tell you that all you should think about is brain boasts and puppies, all the wonderful rewarding things that are going to happen when you achieve your goals.",
+      "keywords": [
+        "wonderful",
+        "think",
+        "things",
+        "tell",
+        "rewarding",
+        "puppies"
+      ],
+      "summary": "So, while I'd love to be able to tell you that all you should think about is brain boasts and puppies, all the wonderful rewarding things that are going to happen when you achieve your goals. …"
+    },
+    {
+      "segment_id": 51,
+      "start_sentence_idx": 148,
+      "end_sentence_idx": 152,
+      "num_sentences": 4,
+      "start_time_sec": 479.12,
+      "end_time_sec": 489.68,
+      "text_preview": "Truth is, you should be thinking mainly about how bad it's really going to get you don't happen. how to support in yourself, how it will negatively impact you, not in the community, it's a long term. If indeed your goal is to reach your goal. And more specific you can get by writ…",
+      "keywords": [
+        "thinking",
+        "get",
+        "bad",
+        "goal",
+        "truth",
+        "writing"
+      ],
+      "summary": "You should be thinking mainly about how bad it's really going to get you. how to support in yourself, how it will negatively impact you, not in the community. If indeed your goal is"
+    },
+    {
+      "segment_id": 52,
+      "start_sentence_idx": 152,
+      "end_sentence_idx": 154,
+      "num_sentences": 2,
+      "start_time_sec": 495.6,
+      "end_time_sec": 499.68,
+      "text_preview": "More likely you are to achieve this. If you're going to visualize in a positive way, do that at the very beginning.",
+      "keywords": [
+        "way",
+        "visualize",
+        "positive",
+        "likely",
+        "going",
+        "beginning"
+      ],
+      "summary": "More likely you are to achieve this. If you're going to visualize in a positive way, do that at the very beginning. …"
+    },
+    {
+      "segment_id": 53,
+      "start_sentence_idx": 154,
+      "end_sentence_idx": 157,
+      "num_sentences": 3,
+      "start_time_sec": 500.68,
+      "end_time_sec": 508.2,
+      "text_preview": "You may be intermittent, every once in a while. Imagine the big win of restoring perfect on exam, winning the championship. great relationship.",
+      "keywords": [
+        "winning",
+        "win",
+        "restoring",
+        "relationship",
+        "perfect",
+        "may"
+      ],
+      "summary": "You may be intermittent, every once in a while. Imagine the big win of restoring perfect on exam, winning the championship. great relationship. …"
+    },
+    {
+      "segment_id": 54,
+      "start_sentence_idx": 157,
+      "end_sentence_idx": 158,
+      "num_sentences": 1,
+      "start_time_sec": 510.0,
+      "end_time_sec": 510.0,
+      "text_preview": "Most of the time, if you want to be effective, you should be focusing on a weighty failure and you should be clear about what those failures are .",
+      "keywords": [
+        "weighty",
+        "want",
+        "time",
+        "focusing",
+        "failures",
+        "failure"
+      ],
+      "summary": "Most of the time, if you want to be effective, you should be focusing on a weighty failure and you should be clear about what those failures are . …"
+    },
+    {
+      "segment_id": 55,
+      "start_sentence_idx": 158,
+      "end_sentence_idx": 159,
+      "num_sentences": 1,
+      "start_time_sec": 518.96,
+      "end_time_sec": 518.96,
+      "text_preview": "Now let's talk about goal setting.",
+      "keywords": [],
+      "summary": "Now let's talk about goal setting. …"
+    },
+    {
+      "segment_id": 56,
+      "start_sentence_idx": 159,
+      "end_sentence_idx": 160,
+      "num_sentences": 1,
+      "start_time_sec": 518.96,
+      "end_time_sec": 518.96,
+      "text_preview": "The goal should be significant here at all.",
+      "keywords": [],
+      "summary": "The goal should be significant here at all. …"
+    },
+    {
+      "segment_id": 57,
+      "start_sentence_idx": 160,
+      "end_sentence_idx": 161,
+      "num_sentences": 1,
+      "start_time_sec": 525.28,
+      "end_time_sec": 525.28,
+      "text_preview": "It should be inspirational.",
+      "keywords": [],
+      "summary": "It should be inspirational. …"
+    },
+    {
+      "segment_id": 58,
+      "start_sentence_idx": 161,
+      "end_sentence_idx": 162,
+      "num_sentences": 1,
+      "start_time_sec": 532.56,
+      "end_time_sec": 532.56,
+      "text_preview": "It should be oppressive yet realist.",
+      "keywords": [],
+      "summary": "It should be oppressive yet realist. …"
+    },
+    {
+      "segment_id": 59,
+      "start_sentence_idx": 162,
+      "end_sentence_idx": 164,
+      "num_sentences": 2,
+      "start_time_sec": 532.56,
+      "end_time_sec": 537.76,
+      "text_preview": "But what does that really look ? What does that correspond to?",
+      "keywords": [],
+      "summary": "But what does that really look ? What does that correspond to? …"
+    },
+    {
+      "segment_id": 60,
+      "start_sentence_idx": 164,
+      "end_sentence_idx": 165,
+      "num_sentences": 1,
+      "start_time_sec": 538.88,
+      "end_time_sec": 538.88,
+      "text_preview": "How do we actually think about that?",
+      "keywords": [],
+      "summary": "How do we actually think about that? …"
+    },
+    {
+      "segment_id": 61,
+      "start_sentence_idx": 165,
+      "end_sentence_idx": 166,
+      "num_sentences": 1,
+      "start_time_sec": 540.0,
+      "end_time_sec": 540.0,
+      "text_preview": "Turns out that the probability of achieving a goal goes up or down?",
+      "keywords": [],
+      "summary": "Turns out that the probability of achieving a goal goes up or down? …"
+    },
+    {
+      "segment_id": 62,
+      "start_sentence_idx": 166,
+      "end_sentence_idx": 167,
+      "num_sentences": 1,
+      "start_time_sec": 541.58,
+      "end_time_sec": 541.58,
+      "text_preview": "depending on whether or not one visualizes or sets a goal that is easy, moderate or impossible.",
+      "keywords": [],
+      "summary": "depending on whether or not one visualizes or sets a goal that is easy, moderate or impossible. …"
+    },
+    {
+      "segment_id": 63,
+      "start_sentence_idx": 167,
+      "end_sentence_idx": 174,
+      "num_sentences": 7,
+      "start_time_sec": 544.42,
+      "end_time_sec": 561.38,
+      "text_preview": "Turns out that if the goal is too easy, it's too within reach, it doesn't recruit enough of the autonomic nervous system to make pursuit of that goal . Also, if a goal was too long, if it was too far from that current, it didn't recruit enough to stall it, word pressure. Even if …",
+      "keywords": [
+        "maybe",
+        "goal",
+        "pursuit",
+        "within",
+        "recruit",
+        "enough"
+      ],
+      "summary": "If a goal is too easy, it's too within reach, it doesn't recruit enough of the autonomic nervous system to make pursuit of that goal. Also, if a goal was too long, if it was too far from that current, it didn’t recruit enough to stall it, word pressure"
+    },
+    {
+      "segment_id": 64,
+      "start_sentence_idx": 174,
+      "end_sentence_idx": 177,
+      "num_sentences": 3,
+      "start_time_sec": 565.42,
+      "end_time_sec": 570.0,
+      "text_preview": "Goals need to be realistic and true and challenging. Don't set goals that are so challenging, so lofty, that they crash that blood pressure system in the other direction and make you or anyone feel hungry. Now it might be talked about three particular areas of scientific study th…",
+      "keywords": [
+        "goal",
+        "goals",
+        "challenging",
+        "true",
+        "study",
+        "set"
+      ],
+      "summary": " goals need to be realistic and true and challenging. Don't set goals that are so challenging, so lofty, that they crash that blood pressure system."
+    },
+    {
+      "segment_id": 65,
+      "start_sentence_idx": 177,
+      "end_sentence_idx": 178,
+      "num_sentences": 1,
+      "start_time_sec": 570.0,
+      "end_time_sec": 570.0,
+      "text_preview": "Any discussion about goals at goal pursuit?",
+      "keywords": [],
+      "summary": "Any discussion about goals at goal pursuit? …"
+    },
+    {
+      "segment_id": 66,
+      "start_sentence_idx": 178,
+      "end_sentence_idx": 179,
+      "num_sentences": 1,
+      "start_time_sec": 570.0,
+      "end_time_sec": 570.0,
+      "text_preview": "Complete doubt in discussion.",
+      "keywords": [],
+      "summary": "Complete doubt in discussion. …"
+    },
+    {
+      "segment_id": 67,
+      "start_sentence_idx": 179,
+      "end_sentence_idx": 180,
+      "num_sentences": 1,
+      "start_time_sec": 574.4,
+      "end_time_sec": 574.4,
+      "text_preview": "about the molecule, dopamine is often thought of as a molecule, pleasure and word that actually it is the molecule of motivation.",
+      "keywords": [
+        "molecule",
+        "word",
+        "pleasure",
+        "thought",
+        "often",
+        "motivation"
+      ],
+      "summary": "about the molecule, dopamine is often thought of as a molecule, pleasure and word that actually it is the molecule of motivation. …"
+    },
+    {
+      "segment_id": 68,
+      "start_sentence_idx": 180,
+      "end_sentence_idx": 181,
+      "num_sentences": 1,
+      "start_time_sec": 574.4,
+      "end_time_sec": 574.4,
+      "text_preview": "It's best illustrated classic set of studies, material animals, humans, animal study, describe the fallen weight, to rats each in separate cage, and by those rats, the opportunity to indulge in something.",
+      "keywords": [
+        "rats",
+        "study",
+        "weight",
+        "studies",
+        "something",
+        "set"
+      ],
+      "summary": "It's best illustrated classic set of studies, material animals, humans, animal study, describe the fallen weight, to rats each in separate cage, and by those rats, the opportunity to indulge in something. …"
+    },
+    {
+      "segment_id": 69,
+      "start_sentence_idx": 181,
+      "end_sentence_idx": 196,
+      "num_sentences": 15,
+      "start_time_sec": 579.2,
+      "end_time_sec": 622.4,
+      "text_preview": "White food, mating, or heat. It's cold in the environment who is spot cage. It's warm in the environment and so forth. You find is that rats will very readily approach the rewarding thing. Mate eats pursue something that is a pleasure. If you are to take one of those rats to heat…",
+      "keywords": [
+        "pleasure",
+        "dopamine",
+        "rats",
+        "one",
+        "environment",
+        "anti"
+      ],
+      "summary": "Rats will pursue something that is a pleasure. White food, mating, or heat. The rat, without dopamine, will not even move one length of its own body in order to achieve that pleasure."
+    },
+    {
+      "segment_id": 70,
+      "start_sentence_idx": 196,
+      "end_sentence_idx": 222,
+      "num_sentences": 26,
+      "start_time_sec": 625.0,
+      "end_time_sec": 704.64,
+      "text_preview": "conditions in humans where there's thepletion of dopamine, what you find is that the pletion of dopamine does not inhibit ability to experience pleasure necessarily. It inhibits an ability to pursue or go through the series of action steps in order to achieve pleasure. So dopamin…",
+      "keywords": [
+        "dopamine",
+        "something",
+        "positive",
+        "happens",
+        "happen",
+        "increase"
+      ],
+      "summary": "Dopamine sits at the heart of our motivational state to seek out goals, to seek pleasure. The biggest increases in dopamine are response to things that are positive and unexpected. Lesser dopamine is released when we anticipate it's something that will happen."
+    },
+    {
+      "segment_id": 71,
+      "start_sentence_idx": 222,
+      "end_sentence_idx": 223,
+      "num_sentences": 1,
+      "start_time_sec": 707.44,
+      "end_time_sec": 707.44,
+      "text_preview": "Now this dopamine reward prediction error as it's called can be leverage toward... trying to reach our goals because it tells us where we should set our miles to.",
+      "keywords": [
+        "us",
+        "trying",
+        "toward",
+        "tells",
+        "set",
+        "reward"
+      ],
+      "summary": "Now this dopamine reward prediction error as it's called can be leverage toward... trying to reach our goals because it tells us where we should set our miles to. …"
+    },
+    {
+      "segment_id": 72,
+      "start_sentence_idx": 223,
+      "end_sentence_idx": 224,
+      "num_sentences": 1,
+      "start_time_sec": 710.04,
+      "end_time_sec": 710.04,
+      "text_preview": "We can't be in a mode of simply being focused on fishing.",
+      "keywords": [],
+      "summary": "We can't be in a mode of simply being focused on fishing. …"
+    },
+    {
+      "segment_id": 73,
+      "start_sentence_idx": 224,
+      "end_sentence_idx": 225,
+      "num_sentences": 1,
+      "start_time_sec": 714.88,
+      "end_time_sec": 714.88,
+      "text_preview": "So understanding what we know about with word prediction error, we can make better choices about where it's placed miles, how far out the future is.",
+      "keywords": [
+        "word",
+        "understanding",
+        "prediction",
+        "placed",
+        "miles",
+        "make"
+      ],
+      "summary": "So understanding what we know about with word prediction error, we can make better choices about where it's placed miles, how far out the future is. …"
+    },
+    {
+      "segment_id": 74,
+      "start_sentence_idx": 225,
+      "end_sentence_idx": 228,
+      "num_sentences": 3,
+      "start_time_sec": 719.44,
+      "end_time_sec": 724.44,
+      "text_preview": "So then the question becomes how often, or at what intervals, should one assess progress. I think they're checking in at the end of a week. back on the previous week and assess how well you could learn in pursuit of a get a goal, how many times you did something, what to do, or w…",
+      "keywords": [
+        "week",
+        "something",
+        "assess",
+        "want",
+        "times",
+        "think"
+      ],
+      "summary": "\"I think they're checking in at the end of a week. back on the previous week and assess how well you could learn in pursuit of a goal\""
+    },
+    {
+      "segment_id": 75,
+      "start_sentence_idx": 228,
+      "end_sentence_idx": 229,
+      "num_sentences": 1,
+      "start_time_sec": 735.24,
+      "end_time_sec": 735.24,
+      "text_preview": "I think that's a reasonable and tractable schedule to assess once a week.",
+      "keywords": [],
+      "summary": "I think that's a reasonable and tractable schedule to assess once a week. …"
+    },
+    {
+      "segment_id": 76,
+      "start_sentence_idx": 229,
+      "end_sentence_idx": 230,
+      "num_sentences": 1,
+      "start_time_sec": 743.24,
+      "end_time_sec": 743.24,
+      "text_preview": "This dopamine system is critical to re-op to remind ourselves that we are a track in the D.V.",
+      "keywords": [],
+      "summary": "This dopamine system is critical to re-op to remind ourselves that we are a track in the D.V. …"
+    },
+    {
+      "segment_id": 77,
+      "start_sentence_idx": 230,
+      "end_sentence_idx": 231,
+      "num_sentences": 1,
+      "start_time_sec": 746.04,
+      "end_time_sec": 746.04,
+      "text_preview": "or a track, because dopamine itself provides a state of motivation ready to continue in regular pursuit of our goals.",
+      "keywords": [
+        "track",
+        "state",
+        "regular",
+        "ready",
+        "pursuit",
+        "provides"
+      ],
+      "summary": "or a track, because dopamine itself provides a state of motivation ready to continue in regular pursuit of our goals. …"
+    },
+    {
+      "segment_id": 78,
+      "start_sentence_idx": 231,
+      "end_sentence_idx": 241,
+      "num_sentences": 10,
+      "start_time_sec": 720.0,
+      "end_time_sec": 750.0,
+      "text_preview": "Another very interesting aspect of dopamine is actually how dopamine system interacts with visual system. When we are focused on a particular point in visual space or it's a particular goal or horizon, all those systems are blood pressure, have an effort and then the dopamine get…",
+      "keywords": [
+        "visual",
+        "particular",
+        "dopamine",
+        "space",
+        "state",
+        "system"
+      ],
+      "summary": "When dopamine is increased, our visual attention for particular things out in space. When we use our visual system, particular way, bring it to a point of focus, your crutes chemical and neural systems in our brain body that put us into a state of readiness in our suit."
+    },
+    {
+      "segment_id": 79,
+      "start_sentence_idx": 241,
+      "end_sentence_idx": 242,
+      "num_sentences": 1,
+      "start_time_sec": 754.56,
+      "end_time_sec": 754.56,
+      "text_preview": "Then we also allow our visual system to be the state of looking out at particular locations.",
+      "keywords": [],
+      "summary": "Then we also allow our visual system to be the state of looking out at particular locations. …"
+    },
+    {
+      "segment_id": 80,
+      "start_sentence_idx": 242,
+      "end_sentence_idx": 245,
+      "num_sentences": 3,
+      "start_time_sec": 757.36,
+      "end_time_sec": 763.68,
+      "text_preview": "So the system works in both directions and some people leverage this by using Kathy or take  El Tire or something. And again it works both ways. There's no right or wrong way to do it.",
+      "keywords": [
+        "works",
+        "wrong",
+        "ways",
+        "way",
+        "using",
+        "tire"
+      ],
+      "summary": "So the system works in both directions and some people leverage this by using Kathy or take  El Tire or something. And again it works both ways. There's no right or wrong way to do it. …"
+    },
+    {
+      "segment_id": 81,
+      "start_sentence_idx": 245,
+      "end_sentence_idx": 246,
+      "num_sentences": 1,
+      "start_time_sec": 768.68,
+      "end_time_sec": 768.68,
+      "text_preview": "I'm a particular fan of using behavioral tools always prior to using supplementation or any kinds of other tools because behavioral tools have a very pretty much an impact on their good face.",
+      "keywords": [
+        "tools",
+        "using",
+        "behavioral",
+        "supplementation",
+        "pretty",
+        "prior"
+      ],
+      "summary": "I'm a particular fan of using behavioral tools always prior to using supplementation or any kinds of other tools because behavioral tools have a very pretty much an impact on their good face. …"
+    },
+    {
+      "segment_id": 82,
+      "start_sentence_idx": 246,
+      "end_sentence_idx": 247,
+      "num_sentences": 1,
+      "start_time_sec": 772.12,
+      "end_time_sec": 772.12,
+      "text_preview": "unique feature that some patients, other chemical tools, don't, which is that behavioral tools use over time, age and growth processes.",
+      "keywords": [
+        "tools",
+        "use",
+        "unique",
+        "time",
+        "processes",
+        "patients"
+      ],
+      "summary": "unique feature that some patients, other chemical tools, don't, which is that behavioral tools use over time, age and growth processes. …"
+    },
+    {
+      "segment_id": 83,
+      "start_sentence_idx": 247,
+      "end_sentence_idx": 248,
+      "num_sentences": 1,
+      "start_time_sec": 775.28,
+      "end_time_sec": 775.28,
+      "text_preview": "As we start to practice using our visual system, harness our attention to particular locations and in that way move toward particular goals, we get better and better at using those systems.",
+      "keywords": [
+        "using",
+        "particular",
+        "better",
+        "way",
+        "systems",
+        "system"
+      ],
+      "summary": "As we start to practice using our visual system, harness our attention to particular locations and in that way move toward particular goals, we get better and better at using those systems. …"
+    },
+    {
+      "segment_id": 84,
+      "start_sentence_idx": 248,
+      "end_sentence_idx": 249,
+      "num_sentences": 1,
+      "start_time_sec": 777.28,
+      "end_time_sec": 777.28,
+      "text_preview": "In fact, systems for focus and motivation themselves have classes, so we get better at being motivated and focused when we play service and attention.",
+      "keywords": [
+        "systems",
+        "service",
+        "play",
+        "motivation",
+        "motivated",
+        "get"
+      ],
+      "summary": "In fact, systems for focus and motivation themselves have classes, so we get better at being motivated and focused when we play service and attention. …"
+    },
+    {
+      "segment_id": 85,
+      "start_sentence_idx": 249,
+      "end_sentence_idx": 256,
+      "num_sentences": 7,
+      "start_time_sec": 779.24,
+      "end_time_sec": 794.0,
+      "text_preview": "I'd  to just briefly recap what I've covered So now, first of all, set goals that are challenging the possible goals, moderate goals, not super easy, not super difficult, but moderate challenging goals seem to be the most effective moving people towards all of this short-term. Se…",
+      "keywords": [
+        "goals",
+        "goal",
+        "failure",
+        "success",
+        "visualizing",
+        "super"
+      ],
+      "summary": "Moderate challenging goals seem to be the most effective moving people towards all of this short-term. Focus on particular visual points as a way to harness your attention and to remove distractors."
+    },
+    {
+      "segment_id": 86,
+      "start_sentence_idx": 256,
+      "end_sentence_idx": 257,
+      "num_sentences": 1,
+      "start_time_sec": 795.0,
+      "end_time_sec": 795.0,
+      "text_preview": "the increase in the solid blood pressure, puts you into forward motion towards the goals absolutely.",
+      "keywords": [],
+      "summary": "the increase in the solid blood pressure, puts you into forward motion towards the goals absolutely. …"
+    },
+    {
+      "segment_id": 87,
+      "start_sentence_idx": 257,
+      "end_sentence_idx": 261,
+      "num_sentences": 4,
+      "start_time_sec": 798.0,
+      "end_time_sec": 807.0,
+      "text_preview": "So that's a brief summary of what I've covered up until now. But I want to be sure to include a tool that's been especially powerful for me that's grounded in the neuroscience research and in the psychology research. And as I described this tool next, I think you'll see the ways …",
+      "keywords": [
+        "tool",
+        "research",
+        "work",
+        "ways",
+        "want",
+        "years"
+      ],
+      "summary": "This is a brief summary of what I've covered up until now. But I want to be sure to include a tool that's been especially powerful for me that's grounded in the neuroscience research and in the psychology research"
+    },
+    {
+      "segment_id": 88,
+      "start_sentence_idx": 261,
+      "end_sentence_idx": 268,
+      "num_sentences": 7,
+      "start_time_sec": 810.0,
+      "end_time_sec": 828.96,
+      "text_preview": "based on my understanding of the visual system. And the understanding that indeed we can move our cognition and our perception from a place of interception and focusing on our peri personal space, space within us, we around us, and all the things that are accessible to us. But we…",
+      "keywords": [
+        "space",
+        "visual",
+        "talked",
+        "system",
+        "time",
+        "us"
+      ],
+      "summary": "We can shift from that mode to this mode of extra perception of focusing on things outside the context of our skin, and that are beyond our reach, so literally golderick. behaviors and goal-direct thoughts. based on my understanding of the visual system."
+    },
+    {
+      "segment_id": 89,
+      "start_sentence_idx": 268,
+      "end_sentence_idx": 270,
+      "num_sentences": 2,
+      "start_time_sec": 831.36,
+      "end_time_sec": 833.28,
+      "text_preview": "And then gradually, in a deliberate way, stepping one's focus into the extra personal space and back to the very personal space. The way that gives you a lot of things.",
+      "keywords": [
+        "way",
+        "personal",
+        "space",
+        "stepping",
+        "things",
+        "one"
+      ],
+      "summary": "And then gradually, in a deliberate way, stepping one's focus into the extra personal space and back to the very personal space. The way that gives you a lot of things. …"
+    },
+    {
+      "segment_id": 90,
+      "start_sentence_idx": 270,
+      "end_sentence_idx": 271,
+      "num_sentences": 1,
+      "start_time_sec": 834.44,
+      "end_time_sec": 834.44,
+      "text_preview": "flexibility and control over that ability in your daily life.",
+      "keywords": [],
+      "summary": "flexibility and control over that ability in your daily life. …"
+    },
+    {
+      "segment_id": 91,
+      "start_sentence_idx": 271,
+      "end_sentence_idx": 272,
+      "num_sentences": 1,
+      "start_time_sec": 835.48,
+      "end_time_sec": 835.48,
+      "text_preview": "So I'm going to first describe the tool and then I will explain more about the underlying science and the underlying mechanism.",
+      "keywords": [
+        "underlying",
+        "tool",
+        "science",
+        "mechanism",
+        "going",
+        "first"
+      ],
+      "summary": "So I'm going to first describe the tool and then I will explain more about the underlying science and the underlying mechanism. …"
+    },
+    {
+      "segment_id": 92,
+      "start_sentence_idx": 272,
+      "end_sentence_idx": 273,
+      "num_sentences": 1,
+      "start_time_sec": 838.84,
+      "end_time_sec": 838.84,
+      "text_preview": "Here's how you would do this.",
+      "keywords": [],
+      "summary": "Here's how you would do this. …"
+    },
+    {
+      "segment_id": 93,
+      "start_sentence_idx": 273,
+      "end_sentence_idx": 282,
+      "num_sentences": 9,
+      "start_time_sec": 840.0,
+      "end_time_sec": 855.04,
+      "text_preview": "You first see is you would close your eyes and you would focus as much of your attention, including your visual attention on your inner landscape, on your interrospection. Breathing, heart rate, maybe even the surface of your skin. But really focused. focusing in turn. And you wo…",
+      "keywords": [
+        "would",
+        "attention",
+        "focus",
+        "visual",
+        "eyes",
+        "palm"
+      ],
+      "summary": "Focus your visual attention on your inner landscape, on your interrospection. Breathing, heart rate, maybe even the surface of your skin. focusing in turn. Then you would do that for a duration of approximately three slow breaths."
+    },
+    {
+      "segment_id": 94,
+      "start_sentence_idx": 282,
+      "end_sentence_idx": 291,
+      "num_sentences": 9,
+      "start_time_sec": 855.04,
+      "end_time_sec": 876.56,
+      "text_preview": "But now I'm splitting out a little bit of my attention. Terrosception. Extra reception. Okay. about something outside the ratio with the split of attention is about 90-10, about 90% of my attention is focused differently, but I'm also focusing on attention, extra. Most people can…",
+      "keywords": [
+        "attention",
+        "move",
+        "90",
+        "breaths",
+        "outside",
+        "something"
+      ],
+      "summary": "Most people can do this pretty easily. But now I'm splitting out a little bit of my attention. Terrosception. Extra reception. about something outside the ratio with the split of attention is about 90-10."
+    },
+    {
+      "segment_id": 95,
+      "start_sentence_idx": 291,
+      "end_sentence_idx": 294,
+      "num_sentences": 3,
+      "start_time_sec": 883.12,
+      "end_time_sec": 889.92,
+      "text_preview": "And then what I typically will do is I will try and expand both my vision and my cognition to a much broader sphere. This is that Magnus seller vision we're talking about before. Where I'm not focusing on a particular location in the horizon, I'm trying to dilate the aperture of …",
+      "keywords": [
+        "vision",
+        "much",
+        "view",
+        "visual",
+        "trying",
+        "try"
+      ],
+      "summary": "\"I'm trying to dilate the aperture of my field of view, so I can see as much of the visual landscape on this as possible\""
+    },
+    {
+      "segment_id": 96,
+      "start_sentence_idx": 294,
+      "end_sentence_idx": 297,
+      "num_sentences": 3,
+      "start_time_sec": 896.8,
+      "end_time_sec": 900.0,
+      "text_preview": "again for the duration of food rest. Then I would return immediately to my internal landscape. I would close my eyes and I would do three more breaths focus entirely on my interception, on my internal lens, what we call, or my periperous space.",
+      "keywords": [
+        "would",
+        "internal",
+        "three",
+        "space",
+        "return",
+        "periperous"
+      ],
+      "summary": "again for the duration of food rest. Then I would return immediately to my internal landscape. I would close my eyes and I would do three more breaths focus entirely on my interception, on my internal lens, what we call, …"
+    },
+    {
+      "segment_id": 97,
+      "start_sentence_idx": 297,
+      "end_sentence_idx": 298,
+      "num_sentences": 1,
+      "start_time_sec": 902.04,
+      "end_time_sec": 902.04,
+      "text_preview": "And I would work through into those stations making two or three times.",
+      "keywords": [],
+      "summary": "And I would work through into those stations making two or three times. …"
+    },
+    {
+      "segment_id": 98,
+      "start_sentence_idx": 298,
+      "end_sentence_idx": 299,
+      "num_sentences": 1,
+      "start_time_sec": 905.12,
+      "end_time_sec": 905.12,
+      "text_preview": "The entire thing takes about 90 seconds to three minutes, depending on how many breaths you do, what is all of this do?",
+      "keywords": [
+        "three",
+        "thing",
+        "takes",
+        "seconds",
+        "minutes",
+        "many"
+      ],
+      "summary": "The entire thing takes about 90 seconds to three minutes, depending on how many breaths you do, what is all of this do? …"
+    },
+    {
+      "segment_id": 99,
+      "start_sentence_idx": 299,
+      "end_sentence_idx": 313,
+      "num_sentences": 14,
+      "start_time_sec": 907.8,
+      "end_time_sec": 947.12,
+      "text_preview": "Why do I call this space time? And why is this useful focus? setting. The reason I call it space time bridging is that the visual system is not just about the space, it's actually how batch time is how we carve up time. And the simple way to state this is that when we focus our v…",
+      "keywords": [
+        "time",
+        "space",
+        "system",
+        "visual",
+        "focus",
+        "focused"
+      ],
+      "summary": "The visual system is not just about the space, it's actually how batch time is how we carve up time. When we focus our visual system to a broader sphere of space or into space on the codelines of our skin, our frame rate changes."
+    },
+    {
+      "segment_id": 100,
+      "start_sentence_idx": 313,
+      "end_sentence_idx": 338,
+      "num_sentences": 25,
+      "start_time_sec": 951.96,
+      "end_time_sec": 1046.56,
+      "text_preview": "Now, this is useful in the context of goal setting. goal assessment, goal person, because with the exception of a very few isolated examples, almost all goals involve setting some goal that's often the future. And then carving up the time between now and being cheated of that goa…",
+      "keywords": [
+        "goals",
+        "goal",
+        "different",
+        "system",
+        "visual",
+        "space"
+      ],
+      "summary": "Daily or semi-daley practice, so called space time bridge, using the visual system, your ability to deliberately step your visual system from stations that are within your bodies, or peri personal, and sure it's at the space out into the world further and back again in sequence."
+    },
+    {
+      "segment_id": 101,
+      "start_sentence_idx": 338,
+      "end_sentence_idx": 344,
+      "num_sentences": 6,
+      "start_time_sec": 1046.56,
+      "end_time_sec": 1065.12,
+      "text_preview": "Ultimately, As you set out to accomplish your goals, there are going to be a number of these steps that everyone will have to follow and have to clearly identify with the long arching. Ultimate goal is not to identify what the milestones will be. You might not know all of them, b…",
+      "keywords": [
+        "set",
+        "milestones",
+        "two",
+        "identify",
+        "going",
+        "goals"
+      ],
+      "summary": "There are going to be a number of these steps that everyone will have to follow and have to clearly identify with the long arching. Ultimate goal is not to identify what the milestones will be. You might not know all of them, but you have to have some idea about the intervals at which you are going"
+    }
+  ]
+}

@@ -1,0 +1,5174 @@
+{
+  "episode_id": "episode_107",
+  "source_file": "episode_107_whisper.json",
+  "total_sentences": 604,
+  "algorithm_used": "embedding-based (Sentence Transformers)",
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_sentence_idx": 0,
+      "end_sentence_idx": 6,
+      "num_sentences": 6,
+      "start_time_sec": 0.0,
+      "end_time_sec": 26.32,
+      "text_preview": "What's history good for? Anyway, a couple years ago I went with a group of Chicago eighth graders on a class trip Washington, and they're teacher Mr. Prosty and Fadaldi's ambitious plans for the trip. I wanted the most ambitious involved us going up to the top of the steps at the…",
+      "keywords": [
+        "us",
+        "trip",
+        "top",
+        "ambitious",
+        "american",
+        "chicago"
+      ],
+      "summary": "Chicago eighth graders bring boom box to Lincoln Memorial. Class had to get special permits from the US parking place just for this one moment. Classes are African-American and Mexican-American kids from West Side Chicago."
+    },
+    {
+      "segment_id": 2,
+      "start_sentence_idx": 6,
+      "end_sentence_idx": 7,
+      "num_sentences": 1,
+      "start_time_sec": 30.0,
+      "end_time_sec": 30.0,
+      "text_preview": "Mr. Preston had this idea that we would sit there on the stairs, right near where the Reverend Dr. Martin Luther King gave the I have dreams speech.",
+      "keywords": [
+        "would",
+        "stairs",
+        "speech",
+        "sit",
+        "right",
+        "reverend"
+      ],
+      "summary": "Mr. Preston had this idea that we would sit there on the stairs, right near where the Reverend Dr. Martin Luther King gave the I have dreams speech. …"
+    },
+    {
+      "segment_id": 3,
+      "start_sentence_idx": 7,
+      "end_sentence_idx": 8,
+      "num_sentences": 1,
+      "start_time_sec": 37.0,
+      "end_time_sec": 37.0,
+      "text_preview": "Alright, listen up.",
+      "keywords": [],
+      "summary": "Alright, listen up. …"
+    },
+    {
+      "segment_id": 4,
+      "start_sentence_idx": 8,
+      "end_sentence_idx": 9,
+      "num_sentences": 1,
+      "start_time_sec": 43.0,
+      "end_time_sec": 43.0,
+      "text_preview": "Dr. King spoke from the mind.",
+      "keywords": [],
+      "summary": "Dr. King spoke from the mind. …"
+    },
+    {
+      "segment_id": 5,
+      "start_sentence_idx": 9,
+      "end_sentence_idx": 10,
+      "num_sentences": 1,
+      "start_time_sec": 53.0,
+      "end_time_sec": 53.0,
+      "text_preview": "starboard stairway to the right, proxy where that gentleman's walking up at the red back at.",
+      "keywords": [],
+      "summary": "starboard stairway to the right, proxy where that gentleman's walking up at the red back at. …"
+    },
+    {
+      "segment_id": 6,
+      "start_sentence_idx": 10,
+      "end_sentence_idx": 11,
+      "num_sentences": 1,
+      "start_time_sec": 57.0,
+      "end_time_sec": 57.0,
+      "text_preview": "Look out into the distance you can see first the reflection pool.",
+      "keywords": [],
+      "summary": "Look out into the distance you can see first the reflection pool. …"
+    },
+    {
+      "segment_id": 7,
+      "start_sentence_idx": 11,
+      "end_sentence_idx": 14,
+      "num_sentences": 3,
+      "start_time_sec": 60.0,
+      "end_time_sec": 64.4,
+      "text_preview": "Remember the pick right, show you people standing in the trees. Those are the trees over there on the left. Remember they were up in the trees with the sign.",
+      "keywords": [
+        "trees",
+        "remember",
+        "standing",
+        "show",
+        "sign",
+        "right"
+      ],
+      "summary": "Remember the pick right, show you people standing in the trees. Those are the trees over there on the left. Remember they were up in the trees with the sign. …"
+    },
+    {
+      "segment_id": 8,
+      "start_sentence_idx": 14,
+      "end_sentence_idx": 15,
+      "num_sentences": 1,
+      "start_time_sec": 66.4,
+      "end_time_sec": 66.4,
+      "text_preview": "This cross came talk for a while, trying to evoke that day in 1962.",
+      "keywords": [],
+      "summary": "This cross came talk for a while, trying to evoke that day in 1962. …"
+    },
+    {
+      "segment_id": 9,
+      "start_sentence_idx": 15,
+      "end_sentence_idx": 16,
+      "num_sentences": 1,
+      "start_time_sec": 69.4,
+      "end_time_sec": 69.4,
+      "text_preview": "So, that being was cute up and boombox.",
+      "keywords": [],
+      "summary": "So, that being was cute up and boombox. …"
+    },
+    {
+      "segment_id": 10,
+      "start_sentence_idx": 16,
+      "end_sentence_idx": 17,
+      "num_sentences": 1,
+      "start_time_sec": 72.4,
+      "end_time_sec": 72.4,
+      "text_preview": "Sit that, transport yourself into the past.",
+      "keywords": [],
+      "summary": "Sit that, transport yourself into the past. …"
+    },
+    {
+      "segment_id": 11,
+      "start_sentence_idx": 17,
+      "end_sentence_idx": 19,
+      "num_sentences": 2,
+      "start_time_sec": 75.2,
+      "end_time_sec": 78.7,
+      "text_preview": "I have a dream that one day, don't get out of ammo with its specials racist, with its governor having his lips dripping with the words of its position in the Philippines. One day right now the hell to my head The past was staring out the distance over the parking pool toward the …",
+      "keywords": [
+        "day",
+        "one",
+        "words",
+        "washington",
+        "voice",
+        "tourist"
+      ],
+      "summary": "I have a dream that one day, don't get out of ammo with its specials racist, with its governor having his lips dripping with the words of its position in the Philippines. One day right now the hell"
+    },
+    {
+      "segment_id": 12,
+      "start_sentence_idx": 19,
+      "end_sentence_idx": 21,
+      "num_sentences": 2,
+      "start_time_sec": 81.2,
+      "end_time_sec": 84.2,
+      "text_preview": "And afterwards, I asked kids about it. And it turns out you don't get to be a 14-year-old minority kid in public schools in America without having heard the I have a dream speech at times Most of kids were  that's each again I mean it was a while in a motion away You have to sit …",
+      "keywords": [
+        "speech",
+        "old",
+        "listen",
+        "kids",
+        "heard",
+        "times"
+      ],
+      "summary": "\"I thought it was   real moving or something  that,\" says one 14-year-old. \"Just listen to them talk And you heard that speech before,\" says another. \"That's a good time Haha!\""
+    },
+    {
+      "segment_id": 13,
+      "start_sentence_idx": 21,
+      "end_sentence_idx": 22,
+      "num_sentences": 1,
+      "start_time_sec": 88.4,
+      "end_time_sec": 88.4,
+      "text_preview": "To be fair to these kids, what exactly is somebody supposed to do on the tourist sites of around history?",
+      "keywords": [
+        "tourist",
+        "supposed",
+        "somebody",
+        "sites",
+        "kids",
+        "history"
+      ],
+      "summary": "To be fair to these kids, what exactly is somebody supposed to do on the tourist sites of around history? …"
+    },
+    {
+      "segment_id": 14,
+      "start_sentence_idx": 22,
+      "end_sentence_idx": 23,
+      "num_sentences": 1,
+      "start_time_sec": 90.0,
+      "end_time_sec": 90.0,
+      "text_preview": "Not exactly as it's supposed to touch us.",
+      "keywords": [],
+      "summary": "Not exactly as it's supposed to touch us. …"
+    },
+    {
+      "segment_id": 15,
+      "start_sentence_idx": 23,
+      "end_sentence_idx": 24,
+      "num_sentences": 1,
+      "start_time_sec": 91.46,
+      "end_time_sec": 91.46,
+      "text_preview": "On our national holidays, we pack up our children and we drive to get these bird and Williamsburg.",
+      "keywords": [],
+      "summary": "On our national holidays, we pack up our children and we drive to get these bird and Williamsburg. …"
+    },
+    {
+      "segment_id": 16,
+      "start_sentence_idx": 24,
+      "end_sentence_idx": 25,
+      "num_sentences": 1,
+      "start_time_sec": 100.96,
+      "end_time_sec": 100.96,
+      "text_preview": "The Alamo, into the grass  near the Dallasburg Pasta Toy, the house of Richard Nixon grew up, the alcohol and selling alcohols.",
+      "keywords": [
+        "toy",
+        "selling",
+        "richard",
+        "pasta",
+        "nixon",
+        "near"
+      ],
+      "summary": "The Alamo, into the grass  near the Dallasburg Pasta Toy, the house of Richard Nixon grew up, the alcohol and selling alcohols. …"
+    },
+    {
+      "segment_id": 17,
+      "start_sentence_idx": 25,
+      "end_sentence_idx": 26,
+      "num_sentences": 1,
+      "start_time_sec": 105.24,
+      "end_time_sec": 105.24,
+      "text_preview": "and we stand there, thousands and thousands of thumbs up, maybe even right now, people stand there, staring at his story aside, trying to imagine what it was  that, trying to observe something, some less than some fewer, into ourselves.",
+      "keywords": [
+        "trying",
+        "thousands",
+        "stand",
+        "thumbs",
+        "story",
+        "staring"
+      ],
+      "summary": "and we stand there, thousands and thousands of thumbs up, maybe even right now, people stand there, staring at his story aside, trying to imagine what it was  that, trying to observe something, some less than some fewer, …"
+    },
+    {
+      "segment_id": 18,
+      "start_sentence_idx": 26,
+      "end_sentence_idx": 27,
+      "num_sentences": 1,
+      "start_time_sec": 111.48,
+      "end_time_sec": 111.48,
+      "text_preview": "It's not easy.",
+      "keywords": [],
+      "summary": "It's not easy. …"
+    },
+    {
+      "segment_id": 19,
+      "start_sentence_idx": 27,
+      "end_sentence_idx": 28,
+      "num_sentences": 1,
+      "start_time_sec": 114.52,
+      "end_time_sec": 114.52,
+      "text_preview": "Fenty on the set.",
+      "keywords": [],
+      "summary": "Fenty on the set. …"
+    },
+    {
+      "segment_id": 20,
+      "start_sentence_idx": 28,
+      "end_sentence_idx": 29,
+      "num_sentences": 1,
+      "start_time_sec": 118.36,
+      "end_time_sec": 118.36,
+      "text_preview": "Those who cannot remember the past are condemned to repeat.",
+      "keywords": [],
+      "summary": "Those who cannot remember the past are condemned to repeat. …"
+    },
+    {
+      "segment_id": 21,
+      "start_sentence_idx": 29,
+      "end_sentence_idx": 30,
+      "num_sentences": 1,
+      "start_time_sec": 119.88,
+      "end_time_sec": 119.88,
+      "text_preview": "But , the opposite is a sausage.",
+      "keywords": [],
+      "summary": "But , the opposite is a sausage. …"
+    },
+    {
+      "segment_id": 22,
+      "start_sentence_idx": 30,
+      "end_sentence_idx": 31,
+      "num_sentences": 1,
+      "start_time_sec": 120.0,
+      "end_time_sec": 120.0,
+      "text_preview": "Those who can remember the past are also condemned for you.",
+      "keywords": [],
+      "summary": "Those who can remember the past are also condemned for you. …"
+    },
+    {
+      "segment_id": 23,
+      "start_sentence_idx": 31,
+      "end_sentence_idx": 32,
+      "num_sentences": 1,
+      "start_time_sec": 141.38,
+      "end_time_sec": 141.38,
+      "text_preview": "Do the children on summer road trips.",
+      "keywords": [],
+      "summary": "Do the children on summer road trips. …"
+    },
+    {
+      "segment_id": 24,
+      "start_sentence_idx": 32,
+      "end_sentence_idx": 33,
+      "num_sentences": 1,
+      "start_time_sec": 144.38,
+      "end_time_sec": 144.38,
+      "text_preview": "But the signs are keeping it someone else.",
+      "keywords": [],
+      "summary": "But the signs are keeping it someone else. …"
+    },
+    {
+      "segment_id": 25,
+      "start_sentence_idx": 33,
+      "end_sentence_idx": 34,
+      "num_sentences": 1,
+      "start_time_sec": 147.38,
+      "end_time_sec": 147.38,
+      "text_preview": "What are you supposed to do with this?",
+      "keywords": [],
+      "summary": "What are you supposed to do with this? …"
+    },
+    {
+      "segment_id": 26,
+      "start_sentence_idx": 34,
+      "end_sentence_idx": 35,
+      "num_sentences": 1,
+      "start_time_sec": 150.0,
+      "end_time_sec": 150.0,
+      "text_preview": "Especially history as ambiguous as that of our beloved United States of America.",
+      "keywords": [],
+      "summary": "Especially history as ambiguous as that of our beloved United States of America. …"
+    },
+    {
+      "segment_id": 27,
+      "start_sentence_idx": 35,
+      "end_sentence_idx": 36,
+      "num_sentences": 1,
+      "start_time_sec": 158.4,
+      "end_time_sec": 158.4,
+      "text_preview": "History that's often at week, murderers, heroic, money-grabbing, an idealistic.",
+      "keywords": [],
+      "summary": "History that's often at week, murderers, heroic, money-grabbing, an idealistic. …"
+    },
+    {
+      "segment_id": 28,
+      "start_sentence_idx": 36,
+      "end_sentence_idx": 38,
+      "num_sentences": 2,
+      "start_time_sec": 161.4,
+      "end_time_sec": 163.9,
+      "text_preview": "für komm, landsowment. This is American Life on my request.",
+      "keywords": [],
+      "summary": "für komm, landsowment. This is American Life on my request. …"
+    },
+    {
+      "segment_id": 29,
+      "start_sentence_idx": 38,
+      "end_sentence_idx": 39,
+      "num_sentences": 1,
+      "start_time_sec": 166.4,
+      "end_time_sec": 166.4,
+      "text_preview": "Today on our program, we try to make some sense in that.",
+      "keywords": [],
+      "summary": "Today on our program, we try to make some sense in that. …"
+    },
+    {
+      "segment_id": 30,
+      "start_sentence_idx": 39,
+      "end_sentence_idx": 40,
+      "num_sentences": 1,
+      "start_time_sec": 168.4,
+      "end_time_sec": 168.4,
+      "text_preview": "Greater Sarah Val and her twin sister Amy head out on the road to visit the site of the start tragedy.",
+      "keywords": [
+        "visit",
+        "val",
+        "twin",
+        "tragedy",
+        "start",
+        "site"
+      ],
+      "summary": "Greater Sarah Val and her twin sister Amy head out on the road to visit the site of the start tragedy. …"
+    },
+    {
+      "segment_id": 31,
+      "start_sentence_idx": 40,
+      "end_sentence_idx": 47,
+      "num_sentences": 7,
+      "start_time_sec": 172.8,
+      "end_time_sec": 194.98,
+      "text_preview": "One that about part of the run family, 160 years ago. See what's going on. Sarah and Amy were born in Oklahoma, where our story ends and where it also begins. Part Cherokee, that's an important element. of your story. We're going to be devoting our entire program today to their q…",
+      "keywords": [
+        "story",
+        "today",
+        "part",
+        "past",
+        "going",
+        "see"
+      ],
+      "summary": "Sarah and Amy were born in Oklahoma, where our story ends and where it also begins. Part Cherokee, that's an important element of your story. One that about part of"
+    },
+    {
+      "segment_id": 32,
+      "start_sentence_idx": 47,
+      "end_sentence_idx": 48,
+      "num_sentences": 1,
+      "start_time_sec": 197.58,
+      "end_time_sec": 197.58,
+      "text_preview": "Being at least a little Cherokee in Northeastern Oklahoma is about as rare and remarkable as being a Michael Jordan fan in Chicago.",
+      "keywords": [
+        "remarkable",
+        "rare",
+        "oklahoma",
+        "northeastern",
+        "michael",
+        "little"
+      ],
+      "summary": "Being at least a little Cherokee in Northeastern Oklahoma is about as rare and remarkable as being a Michael Jordan fan in Chicago. …"
+    },
+    {
+      "segment_id": 33,
+      "start_sentence_idx": 48,
+      "end_sentence_idx": 49,
+      "num_sentences": 1,
+      "start_time_sec": 201.02,
+      "end_time_sec": 201.02,
+      "text_preview": "I mean, who is it?",
+      "keywords": [],
+      "summary": "I mean, who is it? …"
+    },
+    {
+      "segment_id": 34,
+      "start_sentence_idx": 49,
+      "end_sentence_idx": 50,
+      "num_sentences": 1,
+      "start_time_sec": 202.18,
+      "end_time_sec": 202.18,
+      "text_preview": "I'm an eighth Cherokee on my mother's side about a sixteenth on my father's.",
+      "keywords": [],
+      "summary": "I'm an eighth Cherokee on my mother's side about a sixteenth on my father's. …"
+    },
+    {
+      "segment_id": 35,
+      "start_sentence_idx": 50,
+      "end_sentence_idx": 52,
+      "num_sentences": 2,
+      "start_time_sec": 205.94,
+      "end_time_sec": 210.0,
+      "text_preview": "It goes without saying that my twin sister Amy is too accept that I have dark eyes and dark hair and sheep. a blue-eyed blonde.",
+      "keywords": [
+        "dark",
+        "without",
+        "sister",
+        "sheep",
+        "saying",
+        "twin"
+      ],
+      "summary": "It goes without saying that my twin sister Amy is too accept that I have dark eyes and dark hair and sheep. a blue-eyed blonde. …"
+    },
+    {
+      "segment_id": 36,
+      "start_sentence_idx": 52,
+      "end_sentence_idx": 55,
+      "num_sentences": 3,
+      "start_time_sec": 215.84,
+      "end_time_sec": 221.84,
+      "text_preview": "And so our grandfather nicknamed WeEngine and her sweep. Here's how he needs to take on all this. I must point out that while my sister and I don't really look alike, we sound almost exactly alike.",
+      "keywords": [
+        "alike",
+        "take",
+        "weengine",
+        "sound",
+        "sister",
+        "really"
+      ],
+      "summary": "And so our grandfather nicknamed WeEngine and her sweep. Here's how he needs to take on all this. I must point out that while my sister and I don't really look alike, we sound almost exactly alike. …"
+    },
+    {
+      "segment_id": 37,
+      "start_sentence_idx": 55,
+      "end_sentence_idx": 56,
+      "num_sentences": 1,
+      "start_time_sec": 227.12,
+      "end_time_sec": 227.12,
+      "text_preview": "And hint for listening to this story, I'm usually the graph key one.",
+      "keywords": [],
+      "summary": "And hint for listening to this story, I'm usually the graph key one. …"
+    },
+    {
+      "segment_id": 38,
+      "start_sentence_idx": 56,
+      "end_sentence_idx": 57,
+      "num_sentences": 1,
+      "start_time_sec": 227.12,
+      "end_time_sec": 227.12,
+      "text_preview": "Here's a name.",
+      "keywords": [],
+      "summary": "Here's a name. …"
+    },
+    {
+      "segment_id": 39,
+      "start_sentence_idx": 57,
+      "end_sentence_idx": 58,
+      "num_sentences": 1,
+      "start_time_sec": 240.0,
+      "end_time_sec": 240.0,
+      "text_preview": "I mean those roles were assigned to us, , Indian and sweet because of the way we looked, but it was also more  things.",
+      "keywords": [
+        "way",
+        "us",
+        "things",
+        "sweet",
+        "roles",
+        "mean"
+      ],
+      "summary": "I mean those roles were assigned to us, , Indian and sweet because of the way we looked, but it was also more  things. …"
+    },
+    {
+      "segment_id": 40,
+      "start_sentence_idx": 58,
+      "end_sentence_idx": 63,
+      "num_sentences": 5,
+      "start_time_sec": 240.0,
+      "end_time_sec": 251.0,
+      "text_preview": "We were told about ourselves and , she was the one who was given that church in language book. And I was the one who was always told how much I liked. I was to our Swedish grandmother. And I think I was probably, , six or seven or something before I realized that I was church too…",
+      "keywords": [
+        "told",
+        "one",
+        "church",
+        "something",
+        "swedish",
+        "think"
+      ],
+      "summary": "\"We're a little French and Scottish and English and Seminole, too,\" she says. \"I was the one who was always told how much I liked. I was to our Swedish"
+    },
+    {
+      "segment_id": 41,
+      "start_sentence_idx": 63,
+      "end_sentence_idx": 64,
+      "num_sentences": 1,
+      "start_time_sec": 255.52,
+      "end_time_sec": 255.52,
+      "text_preview": "Typical American Luts.",
+      "keywords": [],
+      "summary": "Typical American Luts. …"
+    },
+    {
+      "segment_id": 42,
+      "start_sentence_idx": 64,
+      "end_sentence_idx": 70,
+      "num_sentences": 6,
+      "start_time_sec": 260.4,
+      "end_time_sec": 281.0,
+      "text_preview": "The Cherokee and Swedish sides of the family were the only canyology than anyone knew anything about. Here's what we knew about ourselves. Ellis Island Trail of Tears. And I think to a kid trail of tears, the Cherokee's forced march from the east to Oklahoma where we were born, s…",
+      "keywords": [
+        "tears",
+        "trail",
+        "think",
+        "cherokee",
+        "knew",
+        "understanding"
+      ],
+      "summary": " Cherokee and Swedish sides of the family were the only canyology than anyone knew anything about. Ellis Island Trail of Tears. The Cherokee's forced march from the east to Oklahoma where we were born."
+    },
+    {
+      "segment_id": 43,
+      "start_sentence_idx": 70,
+      "end_sentence_idx": 72,
+      "num_sentences": 2,
+      "start_time_sec": 285.0,
+      "end_time_sec": 286.0,
+      "text_preview": "Trailer tears between 1838 and 39, the US Army reached 16,000 people from their homes, rounded them up and stocked caves, and marched them across the country. 4,000.",
+      "keywords": [
+        "000",
+        "us",
+        "trailer",
+        "stocked",
+        "tears",
+        "reached"
+      ],
+      "summary": "Trailer tears between 1838 and 39, the US Army reached 16,000 people from their homes, rounded them up and stocked caves, and marched them across the country. 4,000. …"
+    },
+    {
+      "segment_id": 44,
+      "start_sentence_idx": 72,
+      "end_sentence_idx": 73,
+      "num_sentences": 1,
+      "start_time_sec": 298.0,
+      "end_time_sec": 298.0,
+      "text_preview": "F. Every summer when we were children, our parents would drive us to a place about half an hour from where we lived, called Jala Ghee, which is the Cherokee word for Cherokee.",
+      "keywords": [
+        "cherokee",
+        "would",
+        "us",
+        "word",
+        "place",
+        "parents"
+      ],
+      "summary": "F. Every summer when we were children, our parents would drive us to a place about half an hour from where we lived, called Jala Ghee, which is the Cherokee word for Cherokee. …"
+    },
+    {
+      "segment_id": 45,
+      "start_sentence_idx": 73,
+      "end_sentence_idx": 74,
+      "num_sentences": 1,
+      "start_time_sec": 300.0,
+      "end_time_sec": 300.0,
+      "text_preview": "Jala Ghee is the tribe's cultural center.",
+      "keywords": [],
+      "summary": "Jala Ghee is the tribe's cultural center. …"
+    },
+    {
+      "segment_id": 46,
+      "start_sentence_idx": 74,
+      "end_sentence_idx": 75,
+      "num_sentences": 1,
+      "start_time_sec": 300.0,
+      "end_time_sec": 300.0,
+      "text_preview": "There's a recreated colonial village, a museum, and this was our favorite part, an amphitheater which states the dramatic recreation of the trailers.",
+      "keywords": [
+        "village",
+        "trailers",
+        "states",
+        "recreation",
+        "recreated",
+        "part"
+      ],
+      "summary": "There's a recreated colonial village, a museum, and this was our favorite part, an amphitheater which states the dramatic recreation of the trailers. …"
+    },
+    {
+      "segment_id": 47,
+      "start_sentence_idx": 75,
+      "end_sentence_idx": 76,
+      "num_sentences": 1,
+      "start_time_sec": 304.0,
+      "end_time_sec": 304.0,
+      "text_preview": "Every summer we watched the chief John Ross, chry- mad, to save the Cherokee land who saw his hot-ed rival, Stan.",
+      "keywords": [
+        "watched",
+        "summer",
+        "stan",
+        "saw",
+        "save",
+        "ross"
+      ],
+      "summary": "Every summer we watched the chief John Ross, chry- mad, to save the Cherokee land who saw his hot-ed rival, Stan. …"
+    },
+    {
+      "segment_id": 48,
+      "start_sentence_idx": 76,
+      "end_sentence_idx": 77,
+      "num_sentences": 1,
+      "start_time_sec": 309.0,
+      "end_time_sec": 309.0,
+      "text_preview": "the lady, raved off to the civil war.",
+      "keywords": [],
+      "summary": "the lady, raved off to the civil war. …"
+    },
+    {
+      "segment_id": 49,
+      "start_sentence_idx": 77,
+      "end_sentence_idx": 78,
+      "num_sentences": 1,
+      "start_time_sec": 317.0,
+      "end_time_sec": 317.0,
+      "text_preview": "We especially loved the death of the Phoenix, a noise she magenta lit, interpretive dance in which the mythic bird would die only to rise again.",
+      "keywords": [
+        "would",
+        "rise",
+        "phoenix",
+        "noise",
+        "mythic",
+        "magenta"
+      ],
+      "summary": "We especially loved the death of the Phoenix, a noise she magenta lit, interpretive dance in which the mythic bird would die only to rise again. …"
+    },
+    {
+      "segment_id": 50,
+      "start_sentence_idx": 78,
+      "end_sentence_idx": 79,
+      "num_sentences": 1,
+      "start_time_sec": 317.0,
+      "end_time_sec": 317.0,
+      "text_preview": "We would get these programs for brochures and Sarah was kind of in charge of them and that's something she'd let me look at them.",
+      "keywords": [
+        "would",
+        "something",
+        "sarah",
+        "programs",
+        "look",
+        "let"
+      ],
+      "summary": "We would get these programs for brochures and Sarah was kind of in charge of them and that's something she'd let me look at them. …"
+    },
+    {
+      "segment_id": 51,
+      "start_sentence_idx": 79,
+      "end_sentence_idx": 80,
+      "num_sentences": 1,
+      "start_time_sec": 323.0,
+      "end_time_sec": 323.0,
+      "text_preview": "She had a whole little file and  we look  through them and it was, I mean I did take it to heart.",
+      "keywords": [
+        "whole",
+        "take",
+        "mean",
+        "look",
+        "little",
+        "heart"
+      ],
+      "summary": "She had a whole little file and  we look  through them and it was, I mean I did take it to heart. …"
+    },
+    {
+      "segment_id": 52,
+      "start_sentence_idx": 80,
+      "end_sentence_idx": 81,
+      "num_sentences": 1,
+      "start_time_sec": 330.0,
+      "end_time_sec": 330.0,
+      "text_preview": "It was.",
+      "keywords": [],
+      "summary": "It was. …"
+    },
+    {
+      "segment_id": 53,
+      "start_sentence_idx": 81,
+      "end_sentence_idx": 82,
+      "num_sentences": 1,
+      "start_time_sec": 330.0,
+      "end_time_sec": 330.0,
+      "text_preview": "story that was really tragic.",
+      "keywords": [],
+      "summary": "story that was really tragic. …"
+    },
+    {
+      "segment_id": 54,
+      "start_sentence_idx": 82,
+      "end_sentence_idx": 84,
+      "num_sentences": 2,
+      "start_time_sec": 335.44,
+      "end_time_sec": 335.44,
+      "text_preview": "I have a sort of reverent meal in Quawards and I think it's because of this pipe. This pipe was so serious and and told such a detailed story that the kind of took this place of Signift.",
+      "keywords": [
+        "pipe",
+        "took",
+        "think",
+        "story",
+        "sort",
+        "told"
+      ],
+      "summary": "I have a sort of reverent meal in Quawards and I think it's because of this pipe. This pipe was so serious and and told such a detailed story that the kind of took this place of Signift. …"
+    },
+    {
+      "segment_id": 55,
+      "start_sentence_idx": 84,
+      "end_sentence_idx": 85,
+      "num_sentences": 1,
+      "start_time_sec": 335.44,
+      "end_time_sec": 335.44,
+      "text_preview": "It was really important and really mattered.",
+      "keywords": [],
+      "summary": "It was really important and really mattered. …"
+    },
+    {
+      "segment_id": 56,
+      "start_sentence_idx": 85,
+      "end_sentence_idx": 86,
+      "num_sentences": 1,
+      "start_time_sec": 339.92,
+      "end_time_sec": 339.92,
+      "text_preview": "Here's the measure of how important the end.",
+      "keywords": [],
+      "summary": "Here's the measure of how important the end. …"
+    },
+    {
+      "segment_id": 57,
+      "start_sentence_idx": 86,
+      "end_sentence_idx": 87,
+      "num_sentences": 1,
+      "start_time_sec": 339.92,
+      "end_time_sec": 339.92,
+      "text_preview": "theater show West Amy.",
+      "keywords": [],
+      "summary": "theater show West Amy. …"
+    },
+    {
+      "segment_id": 58,
+      "start_sentence_idx": 87,
+      "end_sentence_idx": 94,
+      "num_sentences": 7,
+      "start_time_sec": 344.56,
+      "end_time_sec": 369.0,
+      "text_preview": "Our father and her grandfather used to show its photographs of Cherokee leaders and books, and even now, and I imagine stand-wait, I picture the actor and all I'd see. So on my life I knew I wouldn't exist but for the trailers and it struck me as a little silly that most of the t…",
+      "keywords": [
+        "wanted",
+        "books",
+        "knew",
+        "see",
+        "trek",
+        "years"
+      ],
+      "summary": "\"I knew I wouldn't exist but for the trailers and it struck me as a little silly that most of the things I knew about it were based on an amphitheater drama\" \"I wanted it to be real. I wanted to... to see it. Feel it. Know how long a trek it"
+    },
+    {
+      "segment_id": 59,
+      "start_sentence_idx": 94,
+      "end_sentence_idx": 95,
+      "num_sentences": 1,
+      "start_time_sec": 369.0,
+      "end_time_sec": 369.0,
+      "text_preview": "I enlisted Amy.",
+      "keywords": [],
+      "summary": "I enlisted Amy. …"
+    },
+    {
+      "segment_id": 60,
+      "start_sentence_idx": 95,
+      "end_sentence_idx": 96,
+      "num_sentences": 1,
+      "start_time_sec": 378.0,
+      "end_time_sec": 378.0,
+      "text_preview": "Perhaps she'd  to see all the driving?",
+      "keywords": [],
+      "summary": "Perhaps she'd  to see all the driving? …"
+    },
+    {
+      "segment_id": 61,
+      "start_sentence_idx": 96,
+      "end_sentence_idx": 97,
+      "num_sentences": 1,
+      "start_time_sec": 390.0,
+      "end_time_sec": 390.0,
+      "text_preview": "Historical tragedy in 5, 14 hour days behind the wheel who could pass that up.",
+      "keywords": [],
+      "summary": "Historical tragedy in 5, 14 hour days behind the wheel who could pass that up. …"
+    },
+    {
+      "segment_id": 62,
+      "start_sentence_idx": 97,
+      "end_sentence_idx": 98,
+      "num_sentences": 1,
+      "start_time_sec": 396.48,
+      "end_time_sec": 396.48,
+      "text_preview": "And so I fly from Chicago.",
+      "keywords": [],
+      "summary": "And so I fly from Chicago. …"
+    },
+    {
+      "segment_id": 63,
+      "start_sentence_idx": 98,
+      "end_sentence_idx": 99,
+      "num_sentences": 1,
+      "start_time_sec": 398.88,
+      "end_time_sec": 398.88,
+      "text_preview": "She from Montana.",
+      "keywords": [],
+      "summary": "She from Montana. …"
+    },
+    {
+      "segment_id": 64,
+      "start_sentence_idx": 99,
+      "end_sentence_idx": 100,
+      "num_sentences": 1,
+      "start_time_sec": 403.44,
+      "end_time_sec": 403.44,
+      "text_preview": "And once spring morning we find ourselves in a rental car on our way to North Western Georgia.",
+      "keywords": [],
+      "summary": "And once spring morning we find ourselves in a rental car on our way to North Western Georgia. …"
+    },
+    {
+      "segment_id": 65,
+      "start_sentence_idx": 100,
+      "end_sentence_idx": 101,
+      "num_sentences": 1,
+      "start_time_sec": 404.44,
+      "end_time_sec": 404.44,
+      "text_preview": "The homeland of the Cherokee, where they were shoved out to Oklahoma.",
+      "keywords": [],
+      "summary": "The homeland of the Cherokee, where they were shoved out to Oklahoma. …"
+    },
+    {
+      "segment_id": 66,
+      "start_sentence_idx": 101,
+      "end_sentence_idx": 102,
+      "num_sentences": 1,
+      "start_time_sec": 407.44,
+      "end_time_sec": 407.44,
+      "text_preview": "the place the trail of tears begins.",
+      "keywords": [],
+      "summary": "the place the trail of tears begins. …"
+    },
+    {
+      "segment_id": 67,
+      "start_sentence_idx": 102,
+      "end_sentence_idx": 103,
+      "num_sentences": 1,
+      "start_time_sec": 409.44,
+      "end_time_sec": 409.44,
+      "text_preview": "The Cherokee territory wants to encompass most of the present day Tennessee and Kentucky as well as parts of Alabama, Georgia, Virginia and Carolinas.",
+      "keywords": [
+        "well",
+        "wants",
+        "virginia",
+        "territory",
+        "tennessee",
+        "present"
+      ],
+      "summary": "The Cherokee territory wants to encompass most of the present day Tennessee and Kentucky as well as parts of Alabama, Georgia, Virginia and Carolinas. …"
+    },
+    {
+      "segment_id": 68,
+      "start_sentence_idx": 103,
+      "end_sentence_idx": 104,
+      "num_sentences": 1,
+      "start_time_sec": 416.08,
+      "end_time_sec": 416.08,
+      "text_preview": "Even before contact with the Europeans in 1540, they were a proto-democratic society.",
+      "keywords": [],
+      "summary": "Even before contact with the Europeans in 1540, they were a proto-democratic society. …"
+    },
+    {
+      "segment_id": 69,
+      "start_sentence_idx": 104,
+      "end_sentence_idx": 105,
+      "num_sentences": 1,
+      "start_time_sec": 419.6,
+      "end_time_sec": 419.6,
+      "text_preview": "They built these enormous council houses, big enough to fit the entire tribe inside.",
+      "keywords": [],
+      "summary": "They built these enormous council houses, big enough to fit the entire tribe inside. …"
+    },
+    {
+      "segment_id": 70,
+      "start_sentence_idx": 105,
+      "end_sentence_idx": 106,
+      "num_sentences": 1,
+      "start_time_sec": 420.0,
+      "end_time_sec": 420.0,
+      "text_preview": "So everyone.",
+      "keywords": [],
+      "summary": "So everyone. …"
+    },
+    {
+      "segment_id": 71,
+      "start_sentence_idx": 106,
+      "end_sentence_idx": 107,
+      "num_sentences": 1,
+      "start_time_sec": 420.0,
+      "end_time_sec": 420.0,
+      "text_preview": "to participate in tribal decisions.",
+      "keywords": [],
+      "summary": "to participate in tribal decisions. …"
+    },
+    {
+      "segment_id": 72,
+      "start_sentence_idx": 107,
+      "end_sentence_idx": 108,
+      "num_sentences": 1,
+      "start_time_sec": 426.32,
+      "end_time_sec": 426.32,
+      "text_preview": "We're barely on the road an hour when you spot them.",
+      "keywords": [],
+      "summary": "We're barely on the road an hour when you spot them. …"
+    },
+    {
+      "segment_id": 73,
+      "start_sentence_idx": 108,
+      "end_sentence_idx": 109,
+      "num_sentences": 1,
+      "start_time_sec": 431.88,
+      "end_time_sec": 431.88,
+      "text_preview": "Injuts, ceramic ones, three feet tall, and a shack on the side of the road.",
+      "keywords": [],
+      "summary": "Injuts, ceramic ones, three feet tall, and a shack on the side of the road. …"
+    },
+    {
+      "segment_id": 74,
+      "start_sentence_idx": 109,
+      "end_sentence_idx": 110,
+      "num_sentences": 1,
+      "start_time_sec": 431.88,
+      "end_time_sec": 431.88,
+      "text_preview": "Injuts passed them, we do a double take, and we don't even discuss whether or not to stop.",
+      "keywords": [],
+      "summary": "Injuts passed them, we do a double take, and we don't even discuss whether or not to stop. …"
+    },
+    {
+      "segment_id": 75,
+      "start_sentence_idx": 110,
+      "end_sentence_idx": 111,
+      "num_sentences": 1,
+      "start_time_sec": 441.32,
+      "end_time_sec": 441.32,
+      "text_preview": "She just backs up immediately in parts.",
+      "keywords": [],
+      "summary": "She just backs up immediately in parts. …"
+    },
+    {
+      "segment_id": 76,
+      "start_sentence_idx": 111,
+      "end_sentence_idx": 112,
+      "num_sentences": 1,
+      "start_time_sec": 446.32,
+      "end_time_sec": 446.32,
+      "text_preview": "Are you of Native American descent?",
+      "keywords": [],
+      "summary": "Are you of Native American descent? …"
+    },
+    {
+      "segment_id": 77,
+      "start_sentence_idx": 112,
+      "end_sentence_idx": 114,
+      "num_sentences": 2,
+      "start_time_sec": 448.32,
+      "end_time_sec": 450.0,
+      "text_preview": "Oh, my, oh my, that's it. Oh my, that's it.",
+      "keywords": [],
+      "summary": "Oh, my, oh my, that's it. Oh my, that's it. …"
+    },
+    {
+      "segment_id": 78,
+      "start_sentence_idx": 114,
+      "end_sentence_idx": 115,
+      "num_sentences": 1,
+      "start_time_sec": 454.56,
+      "end_time_sec": 454.56,
+      "text_preview": "That's it.",
+      "keywords": [],
+      "summary": "That's it. …"
+    },
+    {
+      "segment_id": 79,
+      "start_sentence_idx": 115,
+      "end_sentence_idx": 116,
+      "num_sentences": 1,
+      "start_time_sec": 459.4,
+      "end_time_sec": 459.4,
+      "text_preview": "I'm gonna do it.",
+      "keywords": [],
+      "summary": "I'm gonna do it. …"
+    },
+    {
+      "segment_id": 80,
+      "start_sentence_idx": 116,
+      "end_sentence_idx": 117,
+      "num_sentences": 1,
+      "start_time_sec": 462.24,
+      "end_time_sec": 462.24,
+      "text_preview": "One, what brought you to Calhine's Orte?",
+      "keywords": [],
+      "summary": "One, what brought you to Calhine's Orte? …"
+    },
+    {
+      "segment_id": 81,
+      "start_sentence_idx": 117,
+      "end_sentence_idx": 118,
+      "num_sentences": 1,
+      "start_time_sec": 467.64,
+      "end_time_sec": 467.64,
+      "text_preview": "The eight little Indians he's selling are of the kitchie tea, coating, planes, Indians, squas, and braised for rice.",
+      "keywords": [],
+      "summary": "The eight little Indians he's selling are of the kitchie tea, coating, planes, Indians, squas, and braised for rice. …"
+    },
+    {
+      "segment_id": 82,
+      "start_sentence_idx": 118,
+      "end_sentence_idx": 119,
+      "num_sentences": 1,
+      "start_time_sec": 471.88,
+      "end_time_sec": 471.88,
+      "text_preview": "Which you're probably a lot easier to sell than the stereotypical image of a charity.",
+      "keywords": [],
+      "summary": "Which you're probably a lot easier to sell than the stereotypical image of a charity. …"
+    },
+    {
+      "segment_id": 83,
+      "start_sentence_idx": 119,
+      "end_sentence_idx": 120,
+      "num_sentences": 1,
+      "start_time_sec": 476.72,
+      "end_time_sec": 476.72,
+      "text_preview": "Tired out of a woman, trotting through the trail of tears and rags.",
+      "keywords": [],
+      "summary": "Tired out of a woman, trotting through the trail of tears and rags. …"
+    },
+    {
+      "segment_id": 84,
+      "start_sentence_idx": 120,
+      "end_sentence_idx": 121,
+      "num_sentences": 1,
+      "start_time_sec": 480.0,
+      "end_time_sec": 480.0,
+      "text_preview": "Who wants that and claw an ornament?",
+      "keywords": [],
+      "summary": "Who wants that and claw an ornament? …"
+    },
+    {
+      "segment_id": 85,
+      "start_sentence_idx": 121,
+      "end_sentence_idx": 122,
+      "num_sentences": 1,
+      "start_time_sec": 480.0,
+      "end_time_sec": 480.0,
+      "text_preview": "Who tries to sell statues in the Indian statues?",
+      "keywords": [],
+      "summary": "Who tries to sell statues in the Indian statues? …"
+    },
+    {
+      "segment_id": 86,
+      "start_sentence_idx": 122,
+      "end_sentence_idx": 123,
+      "num_sentences": 1,
+      "start_time_sec": 485.28,
+      "end_time_sec": 485.28,
+      "text_preview": "people here from Cal, around Georgia.",
+      "keywords": [],
+      "summary": "people here from Cal, around Georgia. …"
+    },
+    {
+      "segment_id": 87,
+      "start_sentence_idx": 123,
+      "end_sentence_idx": 124,
+      "num_sentences": 1,
+      "start_time_sec": 492.96,
+      "end_time_sec": 492.96,
+      "text_preview": "People here around Georgia love India.",
+      "keywords": [],
+      "summary": "People here around Georgia love India. …"
+    },
+    {
+      "segment_id": 88,
+      "start_sentence_idx": 124,
+      "end_sentence_idx": 125,
+      "num_sentences": 1,
+      "start_time_sec": 498.0,
+      "end_time_sec": 498.0,
+      "text_preview": "Well, after they got rid of them.",
+      "keywords": [],
+      "summary": "Well, after they got rid of them. …"
+    },
+    {
+      "segment_id": 89,
+      "start_sentence_idx": 125,
+      "end_sentence_idx": 126,
+      "num_sentences": 1,
+      "start_time_sec": 498.0,
+      "end_time_sec": 498.0,
+      "text_preview": "Right.",
+      "keywords": [],
+      "summary": "Right. …"
+    },
+    {
+      "segment_id": 90,
+      "start_sentence_idx": 126,
+      "end_sentence_idx": 127,
+      "num_sentences": 1,
+      "start_time_sec": 502.96,
+      "end_time_sec": 502.96,
+      "text_preview": "You sound  you're there.",
+      "keywords": [],
+      "summary": "You sound  you're there. …"
+    },
+    {
+      "segment_id": 91,
+      "start_sentence_idx": 127,
+      "end_sentence_idx": 128,
+      "num_sentences": 1,
+      "start_time_sec": 502.96,
+      "end_time_sec": 502.96,
+      "text_preview": "The Cherokee, especially the mixed blood, were always your nerdy over a cheaper bookish sort of tribe.",
+      "keywords": [],
+      "summary": "The Cherokee, especially the mixed blood, were always your nerdy over a cheaper bookish sort of tribe. …"
+    },
+    {
+      "segment_id": 92,
+      "start_sentence_idx": 128,
+      "end_sentence_idx": 129,
+      "num_sentences": 1,
+      "start_time_sec": 510.0,
+      "end_time_sec": 510.0,
+      "text_preview": "And in the early 19th century, they lost In the late 19th century, 1868, has been the gen sickness when the OUR kids were born.",
+      "keywords": [
+        "century",
+        "19th",
+        "lost",
+        "sickness",
+        "late",
+        "kids"
+      ],
+      "summary": "And in the early 19th century, they lost In the late 19th century, 1868, has been the gen sickness when the OUR kids were born. …"
+    },
+    {
+      "segment_id": 93,
+      "start_sentence_idx": 129,
+      "end_sentence_idx": 130,
+      "num_sentences": 1,
+      "start_time_sec": 510.0,
+      "end_time_sec": 510.0,
+      "text_preview": "The boy did not realize everything they had childcare teens.",
+      "keywords": [],
+      "summary": "The boy did not realize everything they had childcare teens. …"
+    },
+    {
+      "segment_id": 94,
+      "start_sentence_idx": 130,
+      "end_sentence_idx": 131,
+      "num_sentences": 1,
+      "start_time_sec": 516.9,
+      "end_time_sec": 516.9,
+      "text_preview": "They had been the C propor.",
+      "keywords": [],
+      "summary": "They had been the C propor. …"
+    },
+    {
+      "segment_id": 95,
+      "start_sentence_idx": 131,
+      "end_sentence_idx": 132,
+      "num_sentences": 1,
+      "start_time_sec": 516.9,
+      "end_time_sec": 516.9,
+      "text_preview": "series of initiatives directly emanating the new American Republic.",
+      "keywords": [],
+      "summary": "series of initiatives directly emanating the new American Republic. …"
+    },
+    {
+      "segment_id": 96,
+      "start_sentence_idx": 132,
+      "end_sentence_idx": 133,
+      "num_sentences": 1,
+      "start_time_sec": 521.84,
+      "end_time_sec": 521.84,
+      "text_preview": "In one decade, they created a written language, started a free press, ratified a constitution and founded capital 6.",
+      "keywords": [],
+      "summary": "In one decade, they created a written language, started a free press, ratified a constitution and founded capital 6. …"
+    },
+    {
+      "segment_id": 97,
+      "start_sentence_idx": 133,
+      "end_sentence_idx": 139,
+      "num_sentences": 6,
+      "start_time_sec": 528.76,
+      "end_time_sec": 545.62,
+      "text_preview": "New a Chota was that capital. Now it stands in the middle of nowhere, the Georgia State Park with an handful of buildings across the Macaul. Newochota was founded in 1825. To call it the Cherokee version of Washington DC's entirely applicable given the form of government to try t…",
+      "keywords": [
+        "washington",
+        "version",
+        "united",
+        "try",
+        "states",
+        "state"
+      ],
+      "summary": "Newochota was founded in 1825. They ratified a constitution based on that of the United States, dividing into legislative judicial and executive branches."
+    },
+    {
+      "segment_id": 98,
+      "start_sentence_idx": 139,
+      "end_sentence_idx": 140,
+      "num_sentences": 1,
+      "start_time_sec": 551.5,
+      "end_time_sec": 551.5,
+      "text_preview": "We, the representatives of the school of the Cherokee nation.",
+      "keywords": [],
+      "summary": "We, the representatives of the school of the Cherokee nation. …"
+    },
+    {
+      "segment_id": 99,
+      "start_sentence_idx": 140,
+      "end_sentence_idx": 141,
+      "num_sentences": 1,
+      "start_time_sec": 553.86,
+      "end_time_sec": 553.86,
+      "text_preview": "and intervention assembled in order to establish justice, insure tranquility, promote our common welfare and secure to ourselves and our posterity the blessings of liberty.",
+      "keywords": [
+        "welfare",
+        "tranquility",
+        "secure",
+        "promote",
+        "posterity",
+        "order"
+      ],
+      "summary": "and intervention assembled in order to establish justice, insure tranquility, promote our common welfare and secure to ourselves and our posterity the blessings of liberty. …"
+    },
+    {
+      "segment_id": 100,
+      "start_sentence_idx": 141,
+      "end_sentence_idx": 142,
+      "num_sentences": 1,
+      "start_time_sec": 558.82,
+      "end_time_sec": 558.82,
+      "text_preview": "Unlike Washington, Newochota is cruel and quiet and green.",
+      "keywords": [],
+      "summary": "Unlike Washington, Newochota is cruel and quiet and green. …"
+    },
+    {
+      "segment_id": 101,
+      "start_sentence_idx": 142,
+      "end_sentence_idx": 143,
+      "num_sentences": 1,
+      "start_time_sec": 558.82,
+      "end_time_sec": 558.82,
+      "text_preview": "Site manager David Gomez showed us around the grounds and aiming our were unprepared for the lovelyness of the place.",
+      "keywords": [
+        "us",
+        "unprepared",
+        "site",
+        "showed",
+        "place",
+        "manager"
+      ],
+      "summary": "Site manager David Gomez showed us around the grounds and aiming our were unprepared for the lovelyness of the place. …"
+    },
+    {
+      "segment_id": 102,
+      "start_sentence_idx": 143,
+      "end_sentence_idx": 144,
+      "num_sentences": 1,
+      "start_time_sec": 563.22,
+      "end_time_sec": 563.22,
+      "text_preview": "Brits calm, luscious.",
+      "keywords": [],
+      "summary": "Brits calm, luscious. …"
+    },
+    {
+      "segment_id": 103,
+      "start_sentence_idx": 144,
+      "end_sentence_idx": 146,
+      "num_sentences": 2,
+      "start_time_sec": 565.94,
+      "end_time_sec": 569.06,
+      "text_preview": "It's fragrance everywhere. Honey, suckle was in bloom.",
+      "keywords": [],
+      "summary": "It's fragrance everywhere. Honey, suckle was in bloom. …"
+    },
+    {
+      "segment_id": 104,
+      "start_sentence_idx": 146,
+      "end_sentence_idx": 147,
+      "num_sentences": 1,
+      "start_time_sec": 570.0,
+      "end_time_sec": 570.0,
+      "text_preview": "I  it here.",
+      "keywords": [],
+      "summary": "I  it here. …"
+    },
+    {
+      "segment_id": 105,
+      "start_sentence_idx": 147,
+      "end_sentence_idx": 148,
+      "num_sentences": 1,
+      "start_time_sec": 570.0,
+      "end_time_sec": 570.0,
+      "text_preview": "Nice, it's peaceful and it's right for the damn spirit's right.",
+      "keywords": [],
+      "summary": "Nice, it's peaceful and it's right for the damn spirit's right. …"
+    },
+    {
+      "segment_id": 106,
+      "start_sentence_idx": 148,
+      "end_sentence_idx": 149,
+      "num_sentences": 1,
+      "start_time_sec": 570.0,
+      "end_time_sec": 570.0,
+      "text_preview": "We're going on in the story that we've built here.",
+      "keywords": [],
+      "summary": "We're going on in the story that we've built here. …"
+    },
+    {
+      "segment_id": 107,
+      "start_sentence_idx": 149,
+      "end_sentence_idx": 150,
+      "num_sentences": 1,
+      "start_time_sec": 570.0,
+      "end_time_sec": 570.0,
+      "text_preview": "Sorry, this sad and a lot of ways.",
+      "keywords": [],
+      "summary": "Sorry, this sad and a lot of ways. …"
+    },
+    {
+      "segment_id": 108,
+      "start_sentence_idx": 150,
+      "end_sentence_idx": 151,
+      "num_sentences": 1,
+      "start_time_sec": 570.0,
+      "end_time_sec": 570.0,
+      "text_preview": "There's a lot of great things that we can hear from you.",
+      "keywords": [],
+      "summary": "There's a lot of great things that we can hear from you. …"
+    },
+    {
+      "segment_id": 109,
+      "start_sentence_idx": 151,
+      "end_sentence_idx": 152,
+      "num_sentences": 1,
+      "start_time_sec": 570.0,
+      "end_time_sec": 570.0,
+      "text_preview": "The Cherokee, along with the other southeast, and tribes who suffered removal to Oklahoma, the Chikusa, the Creek, the Chakta, the Seminole.",
+      "keywords": [
+        "tribes",
+        "suffered",
+        "southeast",
+        "seminole",
+        "removal",
+        "oklahoma"
+      ],
+      "summary": "The Cherokee, along with the other southeast, and tribes who suffered removal to Oklahoma, the Chikusa, the Creek, the Chakta, the Seminole. …"
+    },
+    {
+      "segment_id": 110,
+      "start_sentence_idx": 152,
+      "end_sentence_idx": 156,
+      "num_sentences": 4,
+      "start_time_sec": 578.24,
+      "end_time_sec": 584.72,
+      "text_preview": "One of the so-called five civilized tribes. It was in 1822 that the Cherokee hero supported developed an alphabet, inventing the sole written language of any North American tribe. Only six years later, Cherokee editor-alias would not found in the Cherokee feeds, a bilingual Engli…",
+      "keywords": [
+        "cherokee",
+        "written",
+        "would",
+        "tribes",
+        "years",
+        "tribe"
+      ],
+      "summary": "In 1822, Cherokee hero developed an alphabet, inventing the sole written language of any North American tribe. Many Cherokee, especially the mixed blood practice Christianity"
+    },
+    {
+      "segment_id": 111,
+      "start_sentence_idx": 156,
+      "end_sentence_idx": 157,
+      "num_sentences": 1,
+      "start_time_sec": 584.72,
+      "end_time_sec": 584.72,
+      "text_preview": "And, because, Many of these lived as civilized southern gentlemen of the early 19th century, they owned prospering plantations, which meant they owned black slaves.",
+      "keywords": [
+        "owned",
+        "southern",
+        "slaves",
+        "prospering",
+        "plantations",
+        "meant"
+      ],
+      "summary": "And, because, Many of these lived as civilized southern gentlemen of the early 19th century, they owned prospering plantations, which meant they owned black slaves. …"
+    },
+    {
+      "segment_id": 112,
+      "start_sentence_idx": 157,
+      "end_sentence_idx": 158,
+      "num_sentences": 1,
+      "start_time_sec": 584.72,
+      "end_time_sec": 584.72,
+      "text_preview": "More than any other Native American tribe, the chair, he adopted the religious cultural and political ideals of the United States.",
+      "keywords": [
+        "united",
+        "tribe",
+        "states",
+        "religious",
+        "political",
+        "native"
+      ],
+      "summary": "More than any other Native American tribe, the chair, he adopted the religious cultural and political ideals of the United States. …"
+    },
+    {
+      "segment_id": 113,
+      "start_sentence_idx": 158,
+      "end_sentence_idx": 159,
+      "num_sentences": 1,
+      "start_time_sec": 592.56,
+      "end_time_sec": 592.56,
+      "text_preview": "Partly as a means to self-preservation.",
+      "keywords": [],
+      "summary": "Partly as a means to self-preservation. …"
+    },
+    {
+      "segment_id": 114,
+      "start_sentence_idx": 159,
+      "end_sentence_idx": 160,
+      "num_sentences": 1,
+      "start_time_sec": 592.56,
+      "end_time_sec": 592.56,
+      "text_preview": "By becoming more  the Americans, they hoped to coexist with this new nation that was growing up around.",
+      "keywords": [],
+      "summary": "By becoming more  the Americans, they hoped to coexist with this new nation that was growing up around. …"
+    },
+    {
+      "segment_id": 115,
+      "start_sentence_idx": 160,
+      "end_sentence_idx": 161,
+      "num_sentences": 1,
+      "start_time_sec": 597.84,
+      "end_time_sec": 597.84,
+      "text_preview": "They weren't allowed to.",
+      "keywords": [],
+      "summary": "They weren't allowed to. …"
+    },
+    {
+      "segment_id": 116,
+      "start_sentence_idx": 161,
+      "end_sentence_idx": 162,
+      "num_sentences": 1,
+      "start_time_sec": 600.0,
+      "end_time_sec": 600.0,
+      "text_preview": "George the settlers wanted their land and their gold, which was discovered near New Achoa in 1829.",
+      "keywords": [],
+      "summary": "George the settlers wanted their land and their gold, which was discovered near New Achoa in 1829. …"
+    },
+    {
+      "segment_id": 117,
+      "start_sentence_idx": 162,
+      "end_sentence_idx": 163,
+      "num_sentences": 1,
+      "start_time_sec": 607.0,
+      "end_time_sec": 607.0,
+      "text_preview": "They were really progressing so fast this time period.",
+      "keywords": [],
+      "summary": "They were really progressing so fast this time period. …"
+    },
+    {
+      "segment_id": 118,
+      "start_sentence_idx": 163,
+      "end_sentence_idx": 164,
+      "num_sentences": 1,
+      "start_time_sec": 617.0,
+      "end_time_sec": 617.0,
+      "text_preview": "Printing operations, joins the new paper here.",
+      "keywords": [],
+      "summary": "Printing operations, joins the new paper here. …"
+    },
+    {
+      "segment_id": 119,
+      "start_sentence_idx": 164,
+      "end_sentence_idx": 165,
+      "num_sentences": 1,
+      "start_time_sec": 623.0,
+      "end_time_sec": 623.0,
+      "text_preview": "Things were moving so fast for a short while here.",
+      "keywords": [],
+      "summary": "Things were moving so fast for a short while here. …"
+    },
+    {
+      "segment_id": 120,
+      "start_sentence_idx": 165,
+      "end_sentence_idx": 166,
+      "num_sentences": 1,
+      "start_time_sec": 629.0,
+      "end_time_sec": 629.0,
+      "text_preview": "It looks very long several golds i will take a man to land.",
+      "keywords": [],
+      "summary": "It looks very long several golds i will take a man to land. …"
+    },
+    {
+      "segment_id": 121,
+      "start_sentence_idx": 166,
+      "end_sentence_idx": 167,
+      "num_sentences": 1,
+      "start_time_sec": 630.0,
+      "end_time_sec": 630.0,
+      "text_preview": "played all of it, but still can't be achieved.",
+      "keywords": [],
+      "summary": "played all of it, but still can't be achieved. …"
+    },
+    {
+      "segment_id": 122,
+      "start_sentence_idx": 167,
+      "end_sentence_idx": 168,
+      "num_sentences": 1,
+      "start_time_sec": 633.44,
+      "end_time_sec": 633.44,
+      "text_preview": "Try a loud Christian missionaries to live and work among them and teach their children English.",
+      "keywords": [],
+      "summary": "Try a loud Christian missionaries to live and work among them and teach their children English. …"
+    },
+    {
+      "segment_id": 123,
+      "start_sentence_idx": 168,
+      "end_sentence_idx": 169,
+      "num_sentences": 1,
+      "start_time_sec": 636.6,
+      "end_time_sec": 636.6,
+      "text_preview": "The most beloved of these was the Presbyterian Samuel Worcester, who built the two-story house in New York, which functioned as a post office school in Grimmie House.",
+      "keywords": [
+        "house",
+        "worcester",
+        "york",
+        "story",
+        "school",
+        "samuel"
+      ],
+      "summary": "The most beloved of these was the Presbyterian Samuel Worcester, who built the two-story house in New York, which functioned as a post office school in Grimmie House. …"
+    },
+    {
+      "segment_id": 124,
+      "start_sentence_idx": 169,
+      "end_sentence_idx": 170,
+      "num_sentences": 1,
+      "start_time_sec": 639.56,
+      "end_time_sec": 639.56,
+      "text_preview": "Still there, and David Gomez watched his trip.",
+      "keywords": [],
+      "summary": "Still there, and David Gomez watched his trip. …"
+    },
+    {
+      "segment_id": 125,
+      "start_sentence_idx": 170,
+      "end_sentence_idx": 171,
+      "num_sentences": 1,
+      "start_time_sec": 641.84,
+      "end_time_sec": 641.84,
+      "text_preview": "All right, I guess the thief's there to go home.",
+      "keywords": [],
+      "summary": "All right, I guess the thief's there to go home. …"
+    },
+    {
+      "segment_id": 126,
+      "start_sentence_idx": 171,
+      "end_sentence_idx": 172,
+      "num_sentences": 1,
+      "start_time_sec": 644.52,
+      "end_time_sec": 644.52,
+      "text_preview": "Yeah.",
+      "keywords": [],
+      "summary": "Yeah. …"
+    },
+    {
+      "segment_id": 127,
+      "start_sentence_idx": 172,
+      "end_sentence_idx": 173,
+      "num_sentences": 1,
+      "start_time_sec": 647.16,
+      "end_time_sec": 647.16,
+      "text_preview": "And the doctor.",
+      "keywords": [],
+      "summary": "And the doctor. …"
+    },
+    {
+      "segment_id": 128,
+      "start_sentence_idx": 173,
+      "end_sentence_idx": 174,
+      "num_sentences": 1,
+      "start_time_sec": 651.84,
+      "end_time_sec": 651.84,
+      "text_preview": "And the work plan in that evening for an interview.",
+      "keywords": [],
+      "summary": "And the work plan in that evening for an interview. …"
+    },
+    {
+      "segment_id": 129,
+      "start_sentence_idx": 174,
+      "end_sentence_idx": 175,
+      "num_sentences": 1,
+      "start_time_sec": 653.8,
+      "end_time_sec": 653.8,
+      "text_preview": "The state of Georgia, which is all the Southern State's creed in the church with the most hostility, has the number of alarming laws in the 1820s and 30s undermining sovereignty of the nation.",
+      "keywords": [
+        "state",
+        "undermining",
+        "sovereignty",
+        "southern",
+        "number",
+        "nation"
+      ],
+      "summary": "The state of Georgia, which is all the Southern State's creed in the church with the most hostility, has the number of alarming laws in the 1820s and 30s undermining sovereignty of the nation. …"
+    },
+    {
+      "segment_id": 130,
+      "start_sentence_idx": 175,
+      "end_sentence_idx": 176,
+      "num_sentences": 1,
+      "start_time_sec": 656.08,
+      "end_time_sec": 656.08,
+      "text_preview": "One of these laws required white settlers within the boundaries of the nation to appeal to a permit for the state of Georgia.",
+      "keywords": [
+        "within",
+        "white",
+        "state",
+        "settlers",
+        "required",
+        "permit"
+      ],
+      "summary": "One of these laws required white settlers within the boundaries of the nation to appeal to a permit for the state of Georgia. …"
+    },
+    {
+      "segment_id": 131,
+      "start_sentence_idx": 176,
+      "end_sentence_idx": 177,
+      "num_sentences": 1,
+      "start_time_sec": 657.04,
+      "end_time_sec": 657.04,
+      "text_preview": "from the State of Georgia.",
+      "keywords": [],
+      "summary": "from the State of Georgia. …"
+    },
+    {
+      "segment_id": 132,
+      "start_sentence_idx": 177,
+      "end_sentence_idx": 181,
+      "num_sentences": 4,
+      "start_time_sec": 658.36,
+      "end_time_sec": 669.0,
+      "text_preview": "Samuel Wooster refused to apply for such a permit arguing that he had the permission of the Cherokee to live on their lands that should suffice. Georgia arrested Wooster and imprisoned him for four years. Wooster appealed to the Supreme Court, in the case, Wooster versus Georgia,…",
+      "keywords": [
+        "wooster",
+        "cherokee",
+        "georgia",
+        "court",
+        "tribe",
+        "years"
+      ],
+      "summary": "Samuel Wooster refused to apply for a permit to live on Cherokee land. Georgia arrested Wooster and imprisoned him for four years. Wooster appealed to the Supreme Court, in the case,"
+    },
+    {
+      "segment_id": 133,
+      "start_sentence_idx": 181,
+      "end_sentence_idx": 184,
+      "num_sentences": 3,
+      "start_time_sec": 673.0,
+      "end_time_sec": 682.0,
+      "text_preview": "with the borders of the U.S. and their court beholding only to the federal government. I.E. not under the jurisdiction of Georgia State laws.",
+      "keywords": [
+        "state",
+        "laws",
+        "jurisdiction",
+        "government",
+        "georgia",
+        "federal"
+      ],
+      "summary": "with the borders of the U.S. and their court beholding only to the federal government. I.E. not under the jurisdiction of Georgia State laws. …"
+    },
+    {
+      "segment_id": 134,
+      "start_sentence_idx": 184,
+      "end_sentence_idx": 185,
+      "num_sentences": 1,
+      "start_time_sec": 685.0,
+      "end_time_sec": 685.0,
+      "text_preview": "In a direction of the lady, , the highest court in the land of the United States.",
+      "keywords": [],
+      "summary": "In a direction of the lady, , the highest court in the land of the United States. …"
+    },
+    {
+      "segment_id": 135,
+      "start_sentence_idx": 185,
+      "end_sentence_idx": 186,
+      "num_sentences": 1,
+      "start_time_sec": 690.0,
+      "end_time_sec": 690.0,
+      "text_preview": "The government is a crime cop.",
+      "keywords": [],
+      "summary": "The government is a crime cop. …"
+    },
+    {
+      "segment_id": 136,
+      "start_sentence_idx": 186,
+      "end_sentence_idx": 187,
+      "num_sentences": 1,
+      "start_time_sec": 690.0,
+      "end_time_sec": 690.0,
+      "text_preview": "They ruled in our favor.",
+      "keywords": [],
+      "summary": "They ruled in our favor. …"
+    },
+    {
+      "segment_id": 137,
+      "start_sentence_idx": 187,
+      "end_sentence_idx": 192,
+      "num_sentences": 5,
+      "start_time_sec": 693.92,
+      "end_time_sec": 711.0,
+      "text_preview": "We were good. We were standing in Jackson's closed moveable. We heard a year campaign on that issue. We were back. We were wrong.",
+      "keywords": [
+        "year",
+        "wrong",
+        "standing",
+        "moveable",
+        "jackson",
+        "issue"
+      ],
+      "summary": "We were good. We were standing in Jackson's closed moveable. We heard a year campaign on that issue. We were back. We were wrong. …"
+    },
+    {
+      "segment_id": 138,
+      "start_sentence_idx": 192,
+      "end_sentence_idx": 193,
+      "num_sentences": 1,
+      "start_time_sec": 715.0,
+      "end_time_sec": 715.0,
+      "text_preview": "On hearing number ruling, the president is said to have replied, John Marshall has made his ruling.",
+      "keywords": [],
+      "summary": "On hearing number ruling, the president is said to have replied, John Marshall has made his ruling. …"
+    },
+    {
+      "segment_id": 139,
+      "start_sentence_idx": 193,
+      "end_sentence_idx": 195,
+      "num_sentences": 2,
+      "start_time_sec": 715.0,
+      "end_time_sec": 719.96,
+      "text_preview": "Now let him enforce it. Think about that.",
+      "keywords": [],
+      "summary": "Now let him enforce it. Think about that. …"
+    },
+    {
+      "segment_id": 140,
+      "start_sentence_idx": 195,
+      "end_sentence_idx": 196,
+      "num_sentences": 1,
+      "start_time_sec": 724.02,
+      "end_time_sec": 724.02,
+      "text_preview": "That needs.",
+      "keywords": [],
+      "summary": "That needs. …"
+    },
+    {
+      "segment_id": 141,
+      "start_sentence_idx": 196,
+      "end_sentence_idx": 199,
+      "num_sentences": 3,
+      "start_time_sec": 724.02,
+      "end_time_sec": 732.92,
+      "text_preview": "A breakdown of the balance of power and said boasting to tutorial terms. That's in violating his own oath of office, to uphold the constitution. In the 20th century, when people banned.",
+      "keywords": [
+        "violating",
+        "uphold",
+        "tutorial",
+        "terms",
+        "said",
+        "power"
+      ],
+      "summary": "A breakdown of the balance of power and said boasting to tutorial terms. That's in violating his own oath of office, to uphold the constitution. In the 20th century, when people banned. …"
+    },
+    {
+      "segment_id": 142,
+      "start_sentence_idx": 199,
+      "end_sentence_idx": 200,
+      "num_sentences": 1,
+      "start_time_sec": 734.84,
+      "end_time_sec": 734.84,
+      "text_preview": "about the idea of impeachment for presidents who fiv about extramarital balances, it's worth remembering what a truly impeachable offense looks .",
+      "keywords": [
+        "worth",
+        "truly",
+        "remembering",
+        "presidents",
+        "offense",
+        "looks"
+      ],
+      "summary": "about the idea of impeachment for presidents who fiv about extramarital balances, it's worth remembering what a truly impeachable offense looks . …"
+    },
+    {
+      "segment_id": 143,
+      "start_sentence_idx": 200,
+      "end_sentence_idx": 201,
+      "num_sentences": 1,
+      "start_time_sec": 720.0,
+      "end_time_sec": 720.0,
+      "text_preview": "Didn't happen, of course.",
+      "keywords": [],
+      "summary": "Didn't happen, of course. …"
+    },
+    {
+      "segment_id": 144,
+      "start_sentence_idx": 201,
+      "end_sentence_idx": 202,
+      "num_sentences": 1,
+      "start_time_sec": 725.24,
+      "end_time_sec": 725.24,
+      "text_preview": "I refer you to the face I'm going to be on bail.",
+      "keywords": [],
+      "summary": "I refer you to the face I'm going to be on bail. …"
+    },
+    {
+      "segment_id": 145,
+      "start_sentence_idx": 202,
+      "end_sentence_idx": 203,
+      "num_sentences": 1,
+      "start_time_sec": 731.2,
+      "end_time_sec": 731.2,
+      "text_preview": "Anyway, the state of Georgia was thrilled when Jackson Thumbt has no support and immediately dispatched teams to survey the Cherokee lands for a land lottery.",
+      "keywords": [
+        "thumbt",
+        "thrilled",
+        "teams",
+        "survey",
+        "support",
+        "state"
+      ],
+      "summary": "Anyway, the state of Georgia was thrilled when Jackson Thumbt has no support and immediately dispatched teams to survey the Cherokee lands for a land lottery. …"
+    },
+    {
+      "segment_id": 146,
+      "start_sentence_idx": 203,
+      "end_sentence_idx": 206,
+      "num_sentences": 3,
+      "start_time_sec": 734.0,
+      "end_time_sec": 741.2,
+      "text_preview": "soon white settlers arrived here. They show up two years later in 1834. You were the land lottery, they eat and you were just soldiers and  I've got some plants and lottery, get off of it.",
+      "keywords": [
+        "lottery",
+        "years",
+        "two",
+        "white",
+        "soldiers",
+        "show"
+      ],
+      "summary": "soon white settlers arrived here. They show up two years later in 1834. You were the land lottery, they eat and you were just soldiers and  I've got some plants and lottery, get off of it. …"
+    },
+    {
+      "segment_id": 147,
+      "start_sentence_idx": 206,
+      "end_sentence_idx": 208,
+      "num_sentences": 2,
+      "start_time_sec": 750.0,
+      "end_time_sec": 757.0,
+      "text_preview": "When small constitutional violation that was part of the land grab, Georgia seized the chair, keep printing press so they could publicize their cause and win political support and state that norm. The tribe was divided about what to do, stay in fight or demand cash for the land a…",
+      "keywords": [
+        "land",
+        "win",
+        "violation",
+        "west",
+        "support",
+        "stay"
+      ],
+      "summary": "The tribe was divided about what to do, stay in fight or demand cash for the land and head west. Georgia seized the chair, keep"
+    },
+    {
+      "segment_id": 148,
+      "start_sentence_idx": 208,
+      "end_sentence_idx": 209,
+      "num_sentences": 1,
+      "start_time_sec": 765.0,
+      "end_time_sec": 765.0,
+      "text_preview": "No one exploited this split more than Andrew Jackson.",
+      "keywords": [],
+      "summary": "No one exploited this split more than Andrew Jackson. …"
+    },
+    {
+      "segment_id": 149,
+      "start_sentence_idx": 209,
+      "end_sentence_idx": 218,
+      "num_sentences": 9,
+      "start_time_sec": 774.0,
+      "end_time_sec": 815.0,
+      "text_preview": "And no one annoyed Jackson  principal chief John Ross. Ross was a Jeffersonian figure in almost every sense, a founding father of the Cherokee nation in its modern, legal form. It was Ross who tripped from Jefferson and writing the Cherokee constitution. Jack. He preached liberty…",
+      "keywords": [
+        "ross",
+        "one",
+        "eighth",
+        "chair",
+        "cherokee",
+        "chief"
+      ],
+      "summary": "John Ross was a Jeffersonian figure in almost every sense. He wrote the Cherokee constitution and preached liberty while owning slaves. He was their chief from 1827 to 1866."
+    },
+    {
+      "segment_id": 150,
+      "start_sentence_idx": 218,
+      "end_sentence_idx": 219,
+      "num_sentences": 1,
+      "start_time_sec": 817.0,
+      "end_time_sec": 817.0,
+      "text_preview": "In his early years, he was such a believer in the inherent justice of the American system that he lobbied relentlessly in Washington, D.C. believing that once the Congress and the President understood that the charity were a virtuous, sibling republic that they treat the tribe fa…",
+      "keywords": [
+        "years",
+        "washington",
+        "virtuous",
+        "understood",
+        "tribe",
+        "treat"
+      ],
+      "summary": "In his early years, he was such a believer in the inherent justice of the American system that he lobbied relentlessly in Washington, D.C. believing that once the Congress and the President understood that the charity we …"
+    },
+    {
+      "segment_id": 151,
+      "start_sentence_idx": 219,
+      "end_sentence_idx": 220,
+      "num_sentences": 1,
+      "start_time_sec": 822.0,
+      "end_time_sec": 822.0,
+      "text_preview": "Once the state of Georgia began a big union chair, he and John Ross and Lundham, Ross wrote, who he did  dogs, find ourselves, each of its vagrets and strangers in our own country.",
+      "keywords": [
+        "ross",
+        "vagrets",
+        "wrote",
+        "union",
+        "strangers",
+        "state"
+      ],
+      "summary": "Once the state of Georgia began a big union chair, he and John Ross and Lundham, Ross wrote, who he did  dogs, find ourselves, each of its vagrets and strangers in our own country. …"
+    },
+    {
+      "segment_id": 152,
+      "start_sentence_idx": 220,
+      "end_sentence_idx": 221,
+      "num_sentences": 1,
+      "start_time_sec": 825.0,
+      "end_time_sec": 825.0,
+      "text_preview": "Class majority of the tribe won the state put in support of Ross.",
+      "keywords": [],
+      "summary": "Class majority of the tribe won the state put in support of Ross. …"
+    },
+    {
+      "segment_id": 153,
+      "start_sentence_idx": 221,
+      "end_sentence_idx": 222,
+      "num_sentences": 1,
+      "start_time_sec": 828.0,
+      "end_time_sec": 828.0,
+      "text_preview": "They're around 100 men including Phoenix Editor Elias Booth not in Brother Stan Whady.",
+      "keywords": [],
+      "summary": "They're around 100 men including Phoenix Editor Elias Booth not in Brother Stan Whady. …"
+    },
+    {
+      "segment_id": 154,
+      "start_sentence_idx": 222,
+      "end_sentence_idx": 223,
+      "num_sentences": 1,
+      "start_time_sec": 831.0,
+      "end_time_sec": 831.0,
+      "text_preview": "A hundred tribe of 60,000 men at Boothnots House in New Machota in Signed Treatment with the US government.",
+      "keywords": [],
+      "summary": "A hundred tribe of 60,000 men at Boothnots House in New Machota in Signed Treatment with the US government. …"
+    },
+    {
+      "segment_id": 155,
+      "start_sentence_idx": 223,
+      "end_sentence_idx": 224,
+      "num_sentences": 1,
+      "start_time_sec": 834.0,
+      "end_time_sec": 834.0,
+      "text_preview": "They had no authority to do this.",
+      "keywords": [],
+      "summary": "They had no authority to do this. …"
+    },
+    {
+      "segment_id": 156,
+      "start_sentence_idx": 224,
+      "end_sentence_idx": 225,
+      "num_sentences": 1,
+      "start_time_sec": 840.0,
+      "end_time_sec": 840.0,
+      "text_preview": "Called the Treaty of New Machota it really was all Cherokee lands east of Mississippi.",
+      "keywords": [],
+      "summary": "Called the Treaty of New Machota it really was all Cherokee lands east of Mississippi. …"
+    },
+    {
+      "segment_id": 157,
+      "start_sentence_idx": 225,
+      "end_sentence_idx": 226,
+      "num_sentences": 1,
+      "start_time_sec": 843.92,
+      "end_time_sec": 843.92,
+      "text_preview": "He exchanged her land in the west.",
+      "keywords": [],
+      "summary": "He exchanged her land in the west. …"
+    },
+    {
+      "segment_id": 158,
+      "start_sentence_idx": 226,
+      "end_sentence_idx": 229,
+      "num_sentences": 3,
+      "start_time_sec": 846.76,
+      "end_time_sec": 851.32,
+      "text_preview": "They figured Georgia was already seasick, Cher, land. This might be the end with Cher, he could get something for it. John Ross, whom the Georgia militia arrested, so that he could not protest, was stunned.",
+      "keywords": [
+        "could",
+        "georgia",
+        "cher",
+        "stunned",
+        "something",
+        "militia"
+      ],
+      "summary": "They figured Georgia was already seasick, Cher, land. This might be the end with Cher, he could get something for it. John Ross, whom the Georgia militia arrested, so that he could not protest, was stunned. …"
+    },
+    {
+      "segment_id": 159,
+      "start_sentence_idx": 229,
+      "end_sentence_idx": 230,
+      "num_sentences": 1,
+      "start_time_sec": 854.12,
+      "end_time_sec": 854.12,
+      "text_preview": "He accused the treaty party, Theresa.",
+      "keywords": [],
+      "summary": "He accused the treaty party, Theresa. …"
+    },
+    {
+      "segment_id": 160,
+      "start_sentence_idx": 230,
+      "end_sentence_idx": 231,
+      "num_sentences": 1,
+      "start_time_sec": 856.88,
+      "end_time_sec": 856.88,
+      "text_preview": "The rest of the 60,000-the-chair, he signed a petition calling the treaty invalid and illegal.",
+      "keywords": [],
+      "summary": "The rest of the 60,000-the-chair, he signed a petition calling the treaty invalid and illegal. …"
+    },
+    {
+      "segment_id": 161,
+      "start_sentence_idx": 231,
+      "end_sentence_idx": 232,
+      "num_sentences": 1,
+      "start_time_sec": 859.4,
+      "end_time_sec": 859.4,
+      "text_preview": "Congress ratified the treaty by only one vote.",
+      "keywords": [],
+      "summary": "Congress ratified the treaty by only one vote. …"
+    },
+    {
+      "segment_id": 162,
+      "start_sentence_idx": 232,
+      "end_sentence_idx": 233,
+      "num_sentences": 1,
+      "start_time_sec": 862.2,
+      "end_time_sec": 862.2,
+      "text_preview": "The Civil Championships in passion fleets on behalf of the charity by senators Henry Clay and David Crock.",
+      "keywords": [],
+      "summary": "The Civil Championships in passion fleets on behalf of the charity by senators Henry Clay and David Crock. …"
+    },
+    {
+      "segment_id": 163,
+      "start_sentence_idx": 233,
+      "end_sentence_idx": 234,
+      "num_sentences": 1,
+      "start_time_sec": 864.8,
+      "end_time_sec": 864.8,
+      "text_preview": "The tribe was given three years to remove themselves to the west.",
+      "keywords": [],
+      "summary": "The tribe was given three years to remove themselves to the west. …"
+    },
+    {
+      "segment_id": 164,
+      "start_sentence_idx": 234,
+      "end_sentence_idx": 235,
+      "num_sentences": 1,
+      "start_time_sec": 867.54,
+      "end_time_sec": 867.54,
+      "text_preview": "Now we're standing at the side of a life-food not-south, where the infamous new a children's need to be sung.",
+      "keywords": [
+        "sung",
+        "standing",
+        "south",
+        "side",
+        "new",
+        "need"
+      ],
+      "summary": "Now we're standing at the side of a life-food not-south, where the infamous new a children's need to be sung. …"
+    },
+    {
+      "segment_id": 165,
+      "start_sentence_idx": 235,
+      "end_sentence_idx": 236,
+      "num_sentences": 1,
+      "start_time_sec": 868.7,
+      "end_time_sec": 868.7,
+      "text_preview": "It's bringing 38-volt around about  right now, and nobody's going anywhere.",
+      "keywords": [],
+      "summary": "It's bringing 38-volt around about  right now, and nobody's going anywhere. …"
+    },
+    {
+      "segment_id": 166,
+      "start_sentence_idx": 236,
+      "end_sentence_idx": 238,
+      "num_sentences": 2,
+      "start_time_sec": 870.0,
+      "end_time_sec": 876.0,
+      "text_preview": "We're going to go to a program that we're going to have to grab more about 7000. We're going to support.",
+      "keywords": [
+        "going",
+        "support",
+        "program",
+        "grab",
+        "go",
+        "7000"
+      ],
+      "summary": "We're going to go to a program that we're going to have to grab more about 7000. We're going to support. …"
+    },
+    {
+      "segment_id": 167,
+      "start_sentence_idx": 238,
+      "end_sentence_idx": 239,
+      "num_sentences": 1,
+      "start_time_sec": 880.94,
+      "end_time_sec": 880.94,
+      "text_preview": "those moves here, from the farm, from the house.",
+      "keywords": [],
+      "summary": "those moves here, from the farm, from the house. …"
+    },
+    {
+      "segment_id": 168,
+      "start_sentence_idx": 239,
+      "end_sentence_idx": 240,
+      "num_sentences": 1,
+      "start_time_sec": 886.08,
+      "end_time_sec": 886.08,
+      "text_preview": "Initially, round it up and we're going to know the fourth stockage, moved up into East Tennessee and all people now are bound to three immigration due codes for whatever, then transferred and moved out on the trail tier.",
+      "keywords": [
+        "moved",
+        "transferred",
+        "whatever",
+        "trail",
+        "tier",
+        "tennessee"
+      ],
+      "summary": "Initially, round it up and we're going to know the fourth stockage, moved up into East Tennessee and all people now are bound to three immigration due codes for whatever, then transferred and moved out on the trail tier. …"
+    },
+    {
+      "segment_id": 169,
+      "start_sentence_idx": 240,
+      "end_sentence_idx": 241,
+      "num_sentences": 1,
+      "start_time_sec": 886.08,
+      "end_time_sec": 886.08,
+      "text_preview": "Technically, this starting point in trail tier is the individual strict and Cherokee, where it started up and it's not going to be.",
+      "keywords": [
+        "trail",
+        "tier",
+        "technically",
+        "strict",
+        "starting",
+        "started"
+      ],
+      "summary": "Technically, this starting point in trail tier is the individual strict and Cherokee, where it started up and it's not going to be. …"
+    },
+    {
+      "segment_id": 170,
+      "start_sentence_idx": 241,
+      "end_sentence_idx": 242,
+      "num_sentences": 1,
+      "start_time_sec": 889.68,
+      "end_time_sec": 889.68,
+      "text_preview": "Anywhere I want to step on this patch of gray.",
+      "keywords": [],
+      "summary": "Anywhere I want to step on this patch of gray. …"
+    },
+    {
+      "segment_id": 171,
+      "start_sentence_idx": 242,
+      "end_sentence_idx": 243,
+      "num_sentences": 1,
+      "start_time_sec": 892.68,
+      "end_time_sec": 892.68,
+      "text_preview": "grass where the tree can sign, but we hesitate.",
+      "keywords": [],
+      "summary": "grass where the tree can sign, but we hesitate. …"
+    },
+    {
+      "segment_id": 172,
+      "start_sentence_idx": 243,
+      "end_sentence_idx": 244,
+      "num_sentences": 1,
+      "start_time_sec": 898.0,
+      "end_time_sec": 898.0,
+      "text_preview": "It's not a grave, Gomez tell us.",
+      "keywords": [],
+      "summary": "It's not a grave, Gomez tell us. …"
+    },
+    {
+      "segment_id": 173,
+      "start_sentence_idx": 244,
+      "end_sentence_idx": 245,
+      "num_sentences": 1,
+      "start_time_sec": 900.0,
+      "end_time_sec": 900.0,
+      "text_preview": "That's what it feels .",
+      "keywords": [],
+      "summary": "That's what it feels . …"
+    },
+    {
+      "segment_id": 174,
+      "start_sentence_idx": 245,
+      "end_sentence_idx": 246,
+      "num_sentences": 1,
+      "start_time_sec": 903.0,
+      "end_time_sec": 903.0,
+      "text_preview": "We tiptoe onto it, this protein ground.",
+      "keywords": [],
+      "summary": "We tiptoe onto it, this protein ground. …"
+    },
+    {
+      "segment_id": 175,
+      "start_sentence_idx": 246,
+      "end_sentence_idx": 247,
+      "num_sentences": 1,
+      "start_time_sec": 911.84,
+      "end_time_sec": 911.84,
+      "text_preview": "And then we tiptoe away.",
+      "keywords": [],
+      "summary": "And then we tiptoe away. …"
+    },
+    {
+      "segment_id": 176,
+      "start_sentence_idx": 247,
+      "end_sentence_idx": 248,
+      "num_sentences": 1,
+      "start_time_sec": 913.84,
+      "end_time_sec": 913.84,
+      "text_preview": "Perhaps we should be embarrassed by certain discrepancies between our trail of tears and theirs.",
+      "keywords": [],
+      "summary": "Perhaps we should be embarrassed by certain discrepancies between our trail of tears and theirs. …"
+    },
+    {
+      "segment_id": 177,
+      "start_sentence_idx": 248,
+      "end_sentence_idx": 249,
+      "num_sentences": 1,
+      "start_time_sec": 918.28,
+      "end_time_sec": 918.28,
+      "text_preview": "We're weak, we're indebted, we're Americans.",
+      "keywords": [],
+      "summary": "We're weak, we're indebted, we're Americans. …"
+    },
+    {
+      "segment_id": 178,
+      "start_sentence_idx": 249,
+      "end_sentence_idx": 250,
+      "num_sentences": 1,
+      "start_time_sec": 921.0,
+      "end_time_sec": 921.0,
+      "text_preview": "What she means, road trip history, but... one minute and me she acts the next.",
+      "keywords": [],
+      "summary": "What she means, road trip history, but... one minute and me she acts the next. …"
+    },
+    {
+      "segment_id": 179,
+      "start_sentence_idx": 250,
+      "end_sentence_idx": 252,
+      "num_sentences": 2,
+      "start_time_sec": 924.56,
+      "end_time_sec": 924.56,
+      "text_preview": "We want to remember except when we want to forget. We register at the chat a new get you to, he chat a new get you to, it's a hotel now, a gloriously hokey beautifully restored holiday in, in which the lobby is the ornate dome of the old train station and the rooms are turn of th…",
+      "keywords": [
+        "want",
+        "get",
+        "new",
+        "chat",
+        "tracks",
+        "rooms"
+      ],
+      "summary": "The hotel is a gloriously hokey beautifully restored holiday in. The lobby is the ornate dome of the old train station and the rooms are turn of the century rail cars"
+    },
+    {
+      "segment_id": 180,
+      "start_sentence_idx": 252,
+      "end_sentence_idx": 254,
+      "num_sentences": 2,
+      "start_time_sec": 930.0,
+      "end_time_sec": 941.8,
+      "text_preview": "We're in Giggles the entire night for the simple reason that the phrase two two is completely addictive. We try to work it into every sentence.",
+      "keywords": [
+        "two",
+        "work",
+        "try",
+        "simple",
+        "sentence",
+        "reason"
+      ],
+      "summary": "We're in Giggles the entire night for the simple reason that the phrase two two is completely addictive. We try to work it into every sentence. …"
+    },
+    {
+      "segment_id": 181,
+      "start_sentence_idx": 254,
+      "end_sentence_idx": 255,
+      "num_sentences": 1,
+      "start_time_sec": 947.2,
+      "end_time_sec": 947.2,
+      "text_preview": "What should we do for dinner?",
+      "keywords": [],
+      "summary": "What should we do for dinner? …"
+    },
+    {
+      "segment_id": 182,
+      "start_sentence_idx": 255,
+      "end_sentence_idx": 256,
+      "num_sentences": 1,
+      "start_time_sec": 952.4,
+      "end_time_sec": 952.4,
+      "text_preview": "Stay here at the two two?",
+      "keywords": [],
+      "summary": "Stay here at the two two? …"
+    },
+    {
+      "segment_id": 183,
+      "start_sentence_idx": 256,
+      "end_sentence_idx": 257,
+      "num_sentences": 1,
+      "start_time_sec": 957.0,
+      "end_time_sec": 957.0,
+      "text_preview": "We end up going out for barbecue, saying, this is good, but I can't wait to get back to the two two.",
+      "keywords": [
+        "two",
+        "wait",
+        "saying",
+        "good",
+        "going",
+        "get"
+      ],
+      "summary": "We end up going out for barbecue, saying, this is good, but I can't wait to get back to the two two. …"
+    },
+    {
+      "segment_id": 184,
+      "start_sentence_idx": 257,
+      "end_sentence_idx": 258,
+      "num_sentences": 1,
+      "start_time_sec": 960.0,
+      "end_time_sec": 960.0,
+      "text_preview": "We watch the expiles in our train car commenting, is it just me or is this show even better in the two two?",
+      "keywords": [
+        "two",
+        "watch",
+        "train",
+        "show",
+        "expiles",
+        "even"
+      ],
+      "summary": "We watch the expiles in our train car commenting, is it just me or is this show even better in the two two? …"
+    },
+    {
+      "segment_id": 185,
+      "start_sentence_idx": 258,
+      "end_sentence_idx": 259,
+      "num_sentences": 1,
+      "start_time_sec": 963.0,
+      "end_time_sec": 963.0,
+      "text_preview": "I sent email from my laptop.",
+      "keywords": [],
+      "summary": "I sent email from my laptop. …"
+    },
+    {
+      "segment_id": 186,
+      "start_sentence_idx": 259,
+      "end_sentence_idx": 260,
+      "num_sentences": 1,
+      "start_time_sec": 966.0,
+      "end_time_sec": 966.0,
+      "text_preview": "So that I can write greetings from the chat and you get you to exclamation point number of times I just said 2 2 7 number of choose 14 Thank you Sadly we check out of the two two and drive across town to Ross's landing It used to be where John Ross is very service carried people …",
+      "keywords": [
+        "across",
+        "ross",
+        "two",
+        "number",
+        "used",
+        "write"
+      ],
+      "summary": "Ross's landing used to be where John Ross is very service carried people across the Tennessee River. In 1838 it was one of the starting points for the water route of the trail of tears."
+    },
+    {
+      "segment_id": 187,
+      "start_sentence_idx": 260,
+      "end_sentence_idx": 262,
+      "num_sentences": 2,
+      "start_time_sec": 967.0,
+      "end_time_sec": 972.0,
+      "text_preview": "I stand on the sand and read a weathered historical mark. Stablished about 1860 by John Ross some 370 yards east of this point.",
+      "keywords": [
+        "yards",
+        "weathered",
+        "stand",
+        "stablished",
+        "sand",
+        "ross"
+      ],
+      "summary": "I stand on the sand and read a weathered historical mark. Stablished about 1860 by John Ross some 370 yards east of this point. …"
+    },
+    {
+      "segment_id": 188,
+      "start_sentence_idx": 262,
+      "end_sentence_idx": 263,
+      "num_sentences": 1,
+      "start_time_sec": 977.0,
+      "end_time_sec": 977.0,
+      "text_preview": "It consisted of a ferry warehouse and landing.",
+      "keywords": [],
+      "summary": "It consisted of a ferry warehouse and landing. …"
+    },
+    {
+      "segment_id": 189,
+      "start_sentence_idx": 263,
+      "end_sentence_idx": 264,
+      "num_sentences": 1,
+      "start_time_sec": 984.0,
+      "end_time_sec": 984.0,
+      "text_preview": "Cherokee parties left from the weather всего 19 Eagle and Soursenque the growing community took the name Chattanooga.",
+      "keywords": [],
+      "summary": "Cherokee parties left from the weather всего 19 Eagle and Soursenque the growing community took the name Chattanooga. …"
+    },
+    {
+      "segment_id": 190,
+      "start_sentence_idx": 264,
+      "end_sentence_idx": 265,
+      "num_sentences": 1,
+      "start_time_sec": 989.0,
+      "end_time_sec": 989.0,
+      "text_preview": "And I'm sure there's no connection at all between those two points.",
+      "keywords": [],
+      "summary": "And I'm sure there's no connection at all between those two points. …"
+    },
+    {
+      "segment_id": 191,
+      "start_sentence_idx": 265,
+      "end_sentence_idx": 267,
+      "num_sentences": 2,
+      "start_time_sec": 990.0,
+      "end_time_sec": 992.36,
+      "text_preview": "So, that sounds so nice. There's left for the West.",
+      "keywords": [],
+      "summary": "So, that sounds so nice. There's left for the West. …"
+    },
+    {
+      "segment_id": 192,
+      "start_sentence_idx": 267,
+      "end_sentence_idx": 268,
+      "num_sentences": 1,
+      "start_time_sec": 997.36,
+      "end_time_sec": 997.36,
+      "text_preview": "Bye-bye!",
+      "keywords": [],
+      "summary": "Bye-bye! …"
+    },
+    {
+      "segment_id": 193,
+      "start_sentence_idx": 268,
+      "end_sentence_idx": 269,
+      "num_sentences": 1,
+      "start_time_sec": 1001.24,
+      "end_time_sec": 1001.24,
+      "text_preview": "Bullwire-Hage!",
+      "keywords": [],
+      "summary": "Bullwire-Hage! …"
+    },
+    {
+      "segment_id": 194,
+      "start_sentence_idx": 269,
+      "end_sentence_idx": 270,
+      "num_sentences": 1,
+      "start_time_sec": 1005.52,
+      "end_time_sec": 1005.52,
+      "text_preview": "I haven't mentioned that Ross' landing also functions as Chattanooga's tourist center.",
+      "keywords": [],
+      "summary": "I haven't mentioned that Ross' landing also functions as Chattanooga's tourist center. …"
+    },
+    {
+      "segment_id": 195,
+      "start_sentence_idx": 270,
+      "end_sentence_idx": 271,
+      "num_sentences": 1,
+      "start_time_sec": 1010.52,
+      "end_time_sec": 1010.52,
+      "text_preview": "Up the hill from the river is the gigantic Tennessee Aquarium in an IMAX theater.",
+      "keywords": [],
+      "summary": "Up the hill from the river is the gigantic Tennessee Aquarium in an IMAX theater. …"
+    },
+    {
+      "segment_id": 196,
+      "start_sentence_idx": 271,
+      "end_sentence_idx": 272,
+      "num_sentences": 1,
+      "start_time_sec": 1013.0,
+      "end_time_sec": 1013.0,
+      "text_preview": "The place is crawling with tourists.",
+      "keywords": [],
+      "summary": "The place is crawling with tourists. …"
+    },
+    {
+      "segment_id": 197,
+      "start_sentence_idx": 272,
+      "end_sentence_idx": 273,
+      "num_sentences": 1,
+      "start_time_sec": 1019.32,
+      "end_time_sec": 1019.32,
+      "text_preview": "Crowd so generic and indistinguishable.",
+      "keywords": [],
+      "summary": "Crowd so generic and indistinguishable. …"
+    },
+    {
+      "segment_id": 198,
+      "start_sentence_idx": 273,
+      "end_sentence_idx": 274,
+      "num_sentences": 1,
+      "start_time_sec": 1020.0,
+      "end_time_sec": 1020.0,
+      "text_preview": "from one another they swirl around us as a single t-shirt.",
+      "keywords": [],
+      "summary": "from one another they swirl around us as a single t-shirt. …"
+    },
+    {
+      "segment_id": 199,
+      "start_sentence_idx": 274,
+      "end_sentence_idx": 275,
+      "num_sentences": 1,
+      "start_time_sec": 1025.0,
+      "end_time_sec": 1025.0,
+      "text_preview": "160 years ago thousands of charities came through this site.",
+      "keywords": [],
+      "summary": "160 years ago thousands of charities came through this site. …"
+    },
+    {
+      "segment_id": 200,
+      "start_sentence_idx": 275,
+      "end_sentence_idx": 278,
+      "num_sentences": 3,
+      "start_time_sec": 1025.0,
+      "end_time_sec": 1035.0,
+      "text_preview": "In the summer they were forced onto boats and faced heat exhaustion and a drought stranded them without water to drink. In the fall they headed west by foot eventually treaking barefoot through blizzards. Either way they died of starvation, disinteriority, diarrhea, and fatigue.",
+      "keywords": [
+        "without",
+        "west",
+        "way",
+        "water",
+        "treaking",
+        "summer"
+      ],
+      "summary": "In the summer they were forced onto boats and faced heat exhaustion and a drought stranded them without water to drink. In the fall they headed west by foot eventually treaking barefoot through blizzards. Either way they …"
+    },
+    {
+      "segment_id": 201,
+      "start_sentence_idx": 278,
+      "end_sentence_idx": 279,
+      "num_sentences": 1,
+      "start_time_sec": 1038.0,
+      "end_time_sec": 1038.0,
+      "text_preview": "of the tribe was gone.",
+      "keywords": [],
+      "summary": "of the tribe was gone. …"
+    },
+    {
+      "segment_id": 202,
+      "start_sentence_idx": 279,
+      "end_sentence_idx": 280,
+      "num_sentences": 1,
+      "start_time_sec": 1040.0,
+      "end_time_sec": 1040.0,
+      "text_preview": "And here in the shadow of the aquarium, the trail of tears is remembered by a series of quotations from disgruntled Native Americans carved into a concrete plaza.",
+      "keywords": [
+        "trail",
+        "tears",
+        "shadow",
+        "series",
+        "remembered",
+        "quotations"
+      ],
+      "summary": "And here in the shadow of the aquarium, the trail of tears is remembered by a series of quotations from disgruntled Native Americans carved into a concrete plaza. …"
+    },
+    {
+      "segment_id": 203,
+      "start_sentence_idx": 280,
+      "end_sentence_idx": 281,
+      "num_sentences": 1,
+      "start_time_sec": 1041.0,
+      "end_time_sec": 1041.0,
+      "text_preview": "One of the citations from a charity named Dragon canue is from 1776.",
+      "keywords": [],
+      "summary": "One of the citations from a charity named Dragon canue is from 1776. …"
+    },
+    {
+      "segment_id": 204,
+      "start_sentence_idx": 281,
+      "end_sentence_idx": 282,
+      "num_sentences": 1,
+      "start_time_sec": 1044.0,
+      "end_time_sec": 1044.0,
+      "text_preview": "The white men have almost surrounded us leaving us only a little spot of ground to stand upon and it seems to be their intent to describe us as nation.",
+      "keywords": [
+        "us",
+        "white",
+        "upon",
+        "surrounded",
+        "stand",
+        "spot"
+      ],
+      "summary": "The white men have almost surrounded us leaving us only a little spot of ground to stand upon and it seems to be their intent to describe us as nation. …"
+    },
+    {
+      "segment_id": 205,
+      "start_sentence_idx": 282,
+      "end_sentence_idx": 283,
+      "num_sentences": 1,
+      "start_time_sec": 1047.0,
+      "end_time_sec": 1047.0,
+      "text_preview": "We call from removing diagonally across the sidewalk.",
+      "keywords": [],
+      "summary": "We call from removing diagonally across the sidewalk. …"
+    },
+    {
+      "segment_id": 206,
+      "start_sentence_idx": 283,
+      "end_sentence_idx": 284,
+      "num_sentences": 1,
+      "start_time_sec": 1049.0,
+      "end_time_sec": 1049.0,
+      "text_preview": "And in the Jackson and 1820, in a high time to do away with the farce of treating with Indian tribes as separate nations, we'll step on that one.",
+      "keywords": [
+        "tribes",
+        "treating",
+        "time",
+        "step",
+        "separate",
+        "one"
+      ],
+      "summary": "And in the Jackson and 1820, in a high time to do away with the farce of treating with Indian tribes as separate nations, we'll step on that one. …"
+    },
+    {
+      "segment_id": 207,
+      "start_sentence_idx": 284,
+      "end_sentence_idx": 286,
+      "num_sentences": 2,
+      "start_time_sec": 1050.0,
+      "end_time_sec": 1060.8,
+      "text_preview": "I got there are symbolic of broken promises. You're making that up more.",
+      "keywords": [],
+      "summary": "I got there are symbolic of broken promises. You're making that up more. …"
+    },
+    {
+      "segment_id": 208,
+      "start_sentence_idx": 286,
+      "end_sentence_idx": 287,
+      "num_sentences": 1,
+      "start_time_sec": 1063.0,
+      "end_time_sec": 1063.0,
+      "text_preview": "So try to hear some of the... Papers are tracked to symbolize the broken promises made to be in.",
+      "keywords": [],
+      "summary": "So try to hear some of the... Papers are tracked to symbolize the broken promises made to be in. …"
+    },
+    {
+      "segment_id": 209,
+      "start_sentence_idx": 287,
+      "end_sentence_idx": 288,
+      "num_sentences": 1,
+      "start_time_sec": 1065.4,
+      "end_time_sec": 1065.4,
+      "text_preview": "Most Americans have had this experience.",
+      "keywords": [],
+      "summary": "Most Americans have had this experience. …"
+    },
+    {
+      "segment_id": 210,
+      "start_sentence_idx": 288,
+      "end_sentence_idx": 289,
+      "num_sentences": 1,
+      "start_time_sec": 1066.4,
+      "end_time_sec": 1066.4,
+      "text_preview": "Most of us can name things our country is done that we find shameful.",
+      "keywords": [],
+      "summary": "Most of us can name things our country is done that we find shameful. …"
+    },
+    {
+      "segment_id": 211,
+      "start_sentence_idx": 289,
+      "end_sentence_idx": 292,
+      "num_sentences": 3,
+      "start_time_sec": 1071.4,
+      "end_time_sec": 1080.0,
+      "text_preview": "From the travel steas everybody agrees for wrong. The Japanese internment camps are the late date of slavery's abolition. The mercier partisan arguments about legalized abortion are the a no-le-gay.",
+      "keywords": [
+        "wrong",
+        "travel",
+        "steas",
+        "slavery",
+        "partisan",
+        "mercier"
+      ],
+      "summary": "From the travel steas everybody agrees for wrong. The Japanese internment camps are the late date of slavery's abolition. The mercier partisan arguments about legalized abortion are the a no-le-gay. …"
+    },
+    {
+      "segment_id": 212,
+      "start_sentence_idx": 292,
+      "end_sentence_idx": 293,
+      "num_sentences": 1,
+      "start_time_sec": 1084.58,
+      "end_time_sec": 1084.58,
+      "text_preview": "World history has been a bloody business from the get-go.",
+      "keywords": [],
+      "summary": "World history has been a bloody business from the get-go. …"
+    },
+    {
+      "segment_id": 213,
+      "start_sentence_idx": 293,
+      "end_sentence_idx": 294,
+      "num_sentences": 1,
+      "start_time_sec": 1089.28,
+      "end_time_sec": 1089.28,
+      "text_preview": "But the nausea.",
+      "keywords": [],
+      "summary": "But the nausea. …"
+    },
+    {
+      "segment_id": 214,
+      "start_sentence_idx": 294,
+      "end_sentence_idx": 295,
+      "num_sentences": 1,
+      "start_time_sec": 1089.28,
+      "end_time_sec": 1089.28,
+      "text_preview": "aware suffering standing on the broken promises that Ross' landing is peculiar to a democracy, because in a democracy, we're all responsible for everything our government does.",
+      "keywords": [
+        "democracy",
+        "suffering",
+        "ross",
+        "standing",
+        "responsible",
+        "promises"
+      ],
+      "summary": "aware suffering standing on the broken promises that Ross' landing is peculiar to a democracy, because in a democracy, we're all responsible for everything our government does. …"
+    },
+    {
+      "segment_id": 215,
+      "start_sentence_idx": 295,
+      "end_sentence_idx": 300,
+      "num_sentences": 5,
+      "start_time_sec": 1095.0,
+      "end_time_sec": 1115.2,
+      "text_preview": "This is the letter from Ralph Waldo Emerson to President Martin Benheurin in 1838. Crime is projected that confounds our understanding by its magnitude, crime that really deprives us as well as the charity of a country. For how can we call the conspiracy? that should crush these …",
+      "keywords": [
+        "country",
+        "crime",
+        "well",
+        "waldo",
+        "us",
+        "understanding"
+      ],
+      "summary": "Ralph Waldo Emerson wrote a letter to President Martin Benheurin in 1838. Emerson wrote: \"Crime is projected that confounds our understanding by its magnitude, crime that really deprives us of charity of a country\""
+    },
+    {
+      "segment_id": 216,
+      "start_sentence_idx": 300,
+      "end_sentence_idx": 309,
+      "num_sentences": 9,
+      "start_time_sec": 1119.6,
+      "end_time_sec": 1153.12,
+      "text_preview": "And the path ends. with quotation from an unknown survivor of the trail of tears. He said, longtime we travel on way to New Land. People feel bad and they leave old nation. Women's cry and make sad whales, children and many men and all look sad  when friends died. They say nothin…",
+      "keywords": [
+        "sad",
+        "tears",
+        "people",
+        "died",
+        "friends",
+        "many"
+      ],
+      "summary": "The passage was written by an unknown survivor of the trail of tears. People feel bad and they leave old nation. Women's cry and make sad whales."
+    },
+    {
+      "segment_id": 217,
+      "start_sentence_idx": 309,
+      "end_sentence_idx": 310,
+      "num_sentences": 1,
+      "start_time_sec": 1153.12,
+      "end_time_sec": 1153.12,
+      "text_preview": "And we just stand there looking off towards the Tennessee broken park.",
+      "keywords": [],
+      "summary": "And we just stand there looking off towards the Tennessee broken park. …"
+    },
+    {
+      "segment_id": 218,
+      "start_sentence_idx": 310,
+      "end_sentence_idx": 314,
+      "num_sentences": 4,
+      "start_time_sec": 1159.64,
+      "end_time_sec": 1169.52,
+      "text_preview": "Meanwhile, there are little kids literally walking over these words, playing on them, making noise, having fun. And start to hate them for a second. We ask a teacher who's with a group of fourth graders why she isn't talking to them about Cherokee history and she says normally sh…",
+      "keywords": [
+        "year",
+        "would",
+        "words",
+        "walking",
+        "trip",
+        "teacher"
+      ],
+      "summary": "Teacher says trip is their reward for being good. Meanwhile, little kids literally walk over these words, playing on them."
+    },
+    {
+      "segment_id": 219,
+      "start_sentence_idx": 314,
+      "end_sentence_idx": 315,
+      "num_sentences": 1,
+      "start_time_sec": 1170.0,
+      "end_time_sec": 1170.0,
+      "text_preview": "It sounds reasonable.",
+      "keywords": [],
+      "summary": "It sounds reasonable. …"
+    },
+    {
+      "segment_id": 220,
+      "start_sentence_idx": 315,
+      "end_sentence_idx": 316,
+      "num_sentences": 1,
+      "start_time_sec": 1173.72,
+      "end_time_sec": 1173.72,
+      "text_preview": "I ask Amy if she thinks these kids should share our sadness.",
+      "keywords": [],
+      "summary": "I ask Amy if she thinks these kids should share our sadness. …"
+    },
+    {
+      "segment_id": 221,
+      "start_sentence_idx": 316,
+      "end_sentence_idx": 317,
+      "num_sentences": 1,
+      "start_time_sec": 1178.2,
+      "end_time_sec": 1178.2,
+      "text_preview": "Well, I think it's a sad story.",
+      "keywords": [],
+      "summary": "Well, I think it's a sad story. …"
+    },
+    {
+      "segment_id": 222,
+      "start_sentence_idx": 317,
+      "end_sentence_idx": 319,
+      "num_sentences": 2,
+      "start_time_sec": 1179.56,
+      "end_time_sec": 1182.08,
+      "text_preview": "It's , I mean, it's sort of  the Holocaust. You don't have to be Jewish to think that that's definitely a sad part of history.",
+      "keywords": [
+        "think",
+        "sort",
+        "sad",
+        "part",
+        "mean",
+        "jewish"
+      ],
+      "summary": "It's , I mean, it's sort of  the Holocaust. You don't have to be Jewish to think that that's definitely a sad part of history. …"
+    },
+    {
+      "segment_id": 223,
+      "start_sentence_idx": 319,
+      "end_sentence_idx": 320,
+      "num_sentences": 1,
+      "start_time_sec": 1187.44,
+      "end_time_sec": 1187.44,
+      "text_preview": "I think the trial of tears is, , So itu mere patron of death as a dating, Tell me how is it?",
+      "keywords": [
+        "trial",
+        "think",
+        "tell",
+        "tears",
+        "patron",
+        "mere"
+      ],
+      "summary": "I think the trial of tears is, , So itu mere patron of death as a dating, Tell me how is it? …"
+    },
+    {
+      "segment_id": 224,
+      "start_sentence_idx": 320,
+      "end_sentence_idx": 321,
+      "num_sentences": 1,
+      "start_time_sec": 1191.44,
+      "end_time_sec": 1191.44,
+      "text_preview": "I've been so much honest with you.",
+      "keywords": [],
+      "summary": "I've been so much honest with you. …"
+    },
+    {
+      "segment_id": 225,
+      "start_sentence_idx": 321,
+      "end_sentence_idx": 322,
+      "num_sentences": 1,
+      "start_time_sec": 1195.76,
+      "end_time_sec": 1195.76,
+      "text_preview": "what I was talking about.",
+      "keywords": [],
+      "summary": "what I was talking about. …"
+    },
+    {
+      "segment_id": 226,
+      "start_sentence_idx": 322,
+      "end_sentence_idx": 323,
+      "num_sentences": 1,
+      "start_time_sec": 1200.0,
+      "end_time_sec": 1200.0,
+      "text_preview": "I didn't really start it right over there.",
+      "keywords": [],
+      "summary": "I didn't really start it right over there. …"
+    },
+    {
+      "segment_id": 227,
+      "start_sentence_idx": 323,
+      "end_sentence_idx": 324,
+      "num_sentences": 1,
+      "start_time_sec": 1205.02,
+      "end_time_sec": 1205.02,
+      "text_preview": "He looked  you're about to hit something.",
+      "keywords": [],
+      "summary": "He looked  you're about to hit something. …"
+    },
+    {
+      "segment_id": 228,
+      "start_sentence_idx": 324,
+      "end_sentence_idx": 325,
+      "num_sentences": 1,
+      "start_time_sec": 1214.0,
+      "end_time_sec": 1214.0,
+      "text_preview": "Still, I can't take my eyes off those children.",
+      "keywords": [],
+      "summary": "Still, I can't take my eyes off those children. …"
+    },
+    {
+      "segment_id": 229,
+      "start_sentence_idx": 325,
+      "end_sentence_idx": 326,
+      "num_sentences": 1,
+      "start_time_sec": 1220.0,
+      "end_time_sec": 1220.0,
+      "text_preview": "I envy them.",
+      "keywords": [],
+      "summary": "I envy them. …"
+    },
+    {
+      "segment_id": 230,
+      "start_sentence_idx": 326,
+      "end_sentence_idx": 327,
+      "num_sentences": 1,
+      "start_time_sec": 1230.0,
+      "end_time_sec": 1230.0,
+      "text_preview": "I want to join them.",
+      "keywords": [],
+      "summary": "I want to join them. …"
+    },
+    {
+      "segment_id": 231,
+      "start_sentence_idx": 327,
+      "end_sentence_idx": 329,
+      "num_sentences": 2,
+      "start_time_sec": 1237.0,
+      "end_time_sec": 1243.0,
+      "text_preview": "I'm an IMAX person. I had been to an IMAX theater just weeks before.",
+      "keywords": [],
+      "summary": "I'm an IMAX person. I had been to an IMAX theater just weeks before. …"
+    },
+    {
+      "segment_id": 232,
+      "start_sentence_idx": 329,
+      "end_sentence_idx": 330,
+      "num_sentences": 1,
+      "start_time_sec": 1251.0,
+      "end_time_sec": 1251.0,
+      "text_preview": "I wanted to come on this trip to get a feel for this trail that made us.",
+      "keywords": [],
+      "summary": "I wanted to come on this trip to get a feel for this trail that made us. …"
+    },
+    {
+      "segment_id": 233,
+      "start_sentence_idx": 330,
+      "end_sentence_idx": 331,
+      "num_sentences": 1,
+      "start_time_sec": 1254.0,
+      "end_time_sec": 1254.0,
+      "text_preview": "Standing here at Ross's Landing, it hits me how crazy that is.",
+      "keywords": [],
+      "summary": "Standing here at Ross's Landing, it hits me how crazy that is. …"
+    },
+    {
+      "segment_id": 234,
+      "start_sentence_idx": 331,
+      "end_sentence_idx": 332,
+      "num_sentences": 1,
+      "start_time_sec": 1260.0,
+      "end_time_sec": 1260.0,
+      "text_preview": "It's suddenly the only thing I get out of it in the rage.",
+      "keywords": [],
+      "summary": "It's suddenly the only thing I get out of it in the rage. …"
+    },
+    {
+      "segment_id": 235,
+      "start_sentence_idx": 332,
+      "end_sentence_idx": 333,
+      "num_sentences": 1,
+      "start_time_sec": 1262.16,
+      "end_time_sec": 1262.16,
+      "text_preview": "Why should we keep going?",
+      "keywords": [],
+      "summary": "Why should we keep going? …"
+    },
+    {
+      "segment_id": 236,
+      "start_sentence_idx": 333,
+      "end_sentence_idx": 336,
+      "num_sentences": 3,
+      "start_time_sec": 1264.48,
+      "end_time_sec": 1267.24,
+      "text_preview": "I don't know. I don't know why we're here. I seriously don't.",
+      "keywords": [],
+      "summary": "I don't know. I don't know why we're here. I seriously don't. …"
+    },
+    {
+      "segment_id": 237,
+      "start_sentence_idx": 336,
+      "end_sentence_idx": 337,
+      "num_sentences": 1,
+      "start_time_sec": 1269.24,
+      "end_time_sec": 1269.24,
+      "text_preview": "I know it's an interesting story and yes we are always interested in our past, but I don't eat sometimes I wonder what good comes to that.",
+      "keywords": [
+        "yes",
+        "wonder",
+        "story",
+        "sometimes",
+        "past",
+        "know"
+      ],
+      "summary": "I know it's an interesting story and yes we are always interested in our past, but I don't eat sometimes I wonder what good comes to that. …"
+    },
+    {
+      "segment_id": 238,
+      "start_sentence_idx": 337,
+      "end_sentence_idx": 347,
+      "num_sentences": 10,
+      "start_time_sec": 1273.12,
+      "end_time_sec": 1308.0,
+      "text_preview": "I don't think it makes me  more content to person at all. In fact I think I feel really haunted by all of this and I feel very kind of very kind of. way down by the paint. Part of me thinks this whole thing is a mistake. And maybe I feel more knowing about it. But I mean, it's no…",
+      "keywords": [
+        "feel",
+        "think",
+        "kind",
+        "words",
+        "towards",
+        "thinks"
+      ],
+      "summary": "\"I don't think it makes me  more content to person at all. In fact I think I feel really haunted by all of this and I feel very kind of very kind. way down by the paint\""
+    },
+    {
+      "segment_id": 239,
+      "start_sentence_idx": 347,
+      "end_sentence_idx": 348,
+      "num_sentences": 1,
+      "start_time_sec": 1310.0,
+      "end_time_sec": 1310.0,
+      "text_preview": "And  this is the most I just feel I got all this anger at everything and they're standing me so this stupid aquarium building talking to Coast Guard guys and they're  ducks around and they're now there's a colliety and I mean I don't know now I just feel I feel worse There are on…",
+      "keywords": [
+        "feel",
+        "worse",
+        "talking",
+        "unfocused",
+        "stomach",
+        "standing"
+      ],
+      "summary": "\"There are only so many hours of human being can stomach unfocused grid. And  this is the most I just feel I got all this anger at everything,\" he said."
+    },
+    {
+      "segment_id": 240,
+      "start_sentence_idx": 348,
+      "end_sentence_idx": 349,
+      "num_sentences": 1,
+      "start_time_sec": 1314.0,
+      "end_time_sec": 1314.0,
+      "text_preview": "I was tired and confused and depressed and I needed the kind of respite that can only come from focus resentment.",
+      "keywords": [
+        "tired",
+        "respite",
+        "resentment",
+        "needed",
+        "kind",
+        "focus"
+      ],
+      "summary": "I was tired and confused and depressed and I needed the kind of respite that can only come from focus resentment. …"
+    },
+    {
+      "segment_id": 241,
+      "start_sentence_idx": 349,
+      "end_sentence_idx": 350,
+      "num_sentences": 1,
+      "start_time_sec": 1319.0,
+      "end_time_sec": 1319.0,
+      "text_preview": "In the Trail of Tears saga, if there's one person here allowed to hate, it's Andrew Jackson, the architect of the Indian Removal Policy.",
+      "keywords": [
+        "trail",
+        "tears",
+        "saga",
+        "removal",
+        "policy",
+        "person"
+      ],
+      "summary": "In the Trail of Tears saga, if there's one person here allowed to hate, it's Andrew Jackson, the architect of the Indian Removal Policy. …"
+    },
+    {
+      "segment_id": 242,
+      "start_sentence_idx": 350,
+      "end_sentence_idx": 351,
+      "num_sentences": 1,
+      "start_time_sec": 1320.0,
+      "end_time_sec": 1320.0,
+      "text_preview": "And since the Trail of Tears passed through Nashville anyway, we stop in his plantation, the Hermitage.",
+      "keywords": [],
+      "summary": "And since the Trail of Tears passed through Nashville anyway, we stop in his plantation, the Hermitage. …"
+    },
+    {
+      "segment_id": 243,
+      "start_sentence_idx": 351,
+      "end_sentence_idx": 352,
+      "num_sentences": 1,
+      "start_time_sec": 1322.96,
+      "end_time_sec": 1322.96,
+      "text_preview": "Serve Allen or sister entered the enemy's bedroom.",
+      "keywords": [],
+      "summary": "Serve Allen or sister entered the enemy's bedroom. …"
+    },
+    {
+      "segment_id": 244,
+      "start_sentence_idx": 352,
+      "end_sentence_idx": 353,
+      "num_sentences": 1,
+      "start_time_sec": 1328.0,
+      "end_time_sec": 1328.0,
+      "text_preview": "It's in a minute.",
+      "keywords": [],
+      "summary": "It's in a minute. …"
+    },
+    {
+      "segment_id": 245,
+      "start_sentence_idx": 353,
+      "end_sentence_idx": 354,
+      "num_sentences": 1,
+      "start_time_sec": 1331.6,
+      "end_time_sec": 1331.6,
+      "text_preview": "For public radio, international, WANAR program continues.",
+      "keywords": [],
+      "summary": "For public radio, international, WANAR program continues. …"
+    },
+    {
+      "segment_id": 246,
+      "start_sentence_idx": 354,
+      "end_sentence_idx": 355,
+      "num_sentences": 1,
+      "start_time_sec": 1336.08,
+      "end_time_sec": 1336.08,
+      "text_preview": "It's a American life from our class today, so close to the boy that July, the program about past and what they can ask.",
+      "keywords": [
+        "today",
+        "program",
+        "past",
+        "life",
+        "july",
+        "close"
+      ],
+      "summary": "It's a American life from our class today, so close to the boy that July, the program about past and what they can ask. …"
+    },
+    {
+      "segment_id": 247,
+      "start_sentence_idx": 355,
+      "end_sentence_idx": 356,
+      "num_sentences": 1,
+      "start_time_sec": 1338.08,
+      "end_time_sec": 1338.08,
+      "text_preview": "We continue with the story of Sarah Val and her sister Amy retracing past teleptheres.",
+      "keywords": [],
+      "summary": "We continue with the story of Sarah Val and her sister Amy retracing past teleptheres. …"
+    },
+    {
+      "segment_id": 248,
+      "start_sentence_idx": 356,
+      "end_sentence_idx": 357,
+      "num_sentences": 1,
+      "start_time_sec": 1342.0,
+      "end_time_sec": 1342.0,
+      "text_preview": "They have just arrived from the President responsible for the show, someone they hate and tend to keep hating.",
+      "keywords": [],
+      "summary": "They have just arrived from the President responsible for the show, someone they hate and tend to keep hating. …"
+    },
+    {
+      "segment_id": 249,
+      "start_sentence_idx": 357,
+      "end_sentence_idx": 358,
+      "num_sentences": 1,
+      "start_time_sec": 1344.72,
+      "end_time_sec": 1344.72,
+      "text_preview": "Very un...",
+      "keywords": [],
+      "summary": "Very un... …"
+    },
+    {
+      "segment_id": 250,
+      "start_sentence_idx": 358,
+      "end_sentence_idx": 359,
+      "num_sentences": 1,
+      "start_time_sec": 1346.72,
+      "end_time_sec": 1346.72,
+      "text_preview": "The house in museum are close to the public when we arrive because of a astonishing tornado damage.",
+      "keywords": [],
+      "summary": "The house in museum are close to the public when we arrive because of a astonishing tornado damage. …"
+    },
+    {
+      "segment_id": 251,
+      "start_sentence_idx": 359,
+      "end_sentence_idx": 360,
+      "num_sentences": 1,
+      "start_time_sec": 1350.0,
+      "end_time_sec": 1350.0,
+      "text_preview": "Part of me wanted to destroy Andrew Jackson and everything he represented seeing all those hacked up trees may be feel  someone had eaten me through the pot.",
+      "keywords": [
+        "wanted",
+        "trees",
+        "someone",
+        "seeing",
+        "represented",
+        "pot"
+      ],
+      "summary": "Part of me wanted to destroy Andrew Jackson and everything he represented seeing all those hacked up trees may be feel  someone had eaten me through the pot. …"
+    },
+    {
+      "segment_id": 252,
+      "start_sentence_idx": 360,
+      "end_sentence_idx": 368,
+      "num_sentences": 8,
+      "start_time_sec": 1353.0,
+      "end_time_sec": 1380.0,
+      "text_preview": "What was it? I had to treat her down. The rat was gone. Inside there's notice. explaining and mentioning Indian removal because remarkably there is no display about Jackson's presidency. Carolyn Brackett showed us around the house, the column and the Bella Mansion that looks a cr…",
+      "keywords": [
+        "carolyn",
+        "brackett",
+        "us",
+        "unfortunately",
+        "treat",
+        "showed"
+      ],
+      "summary": "Carolyn Brackett showed us around the house, the column and the Bella Mansion that looks a cross between Grace Land and Tara. Inside there's notice explaining and mentioning Indian removal"
+    },
+    {
+      "segment_id": 253,
+      "start_sentence_idx": 368,
+      "end_sentence_idx": 369,
+      "num_sentences": 1,
+      "start_time_sec": 1380.0,
+      "end_time_sec": 1380.0,
+      "text_preview": "she would point into the library and say Jackson's describes to a lot of newspapers before his death, and I'd say was one of them the Cherokee Phoenix?",
+      "keywords": [
+        "say",
+        "would",
+        "point",
+        "phoenix",
+        "one",
+        "newspapers"
+      ],
+      "summary": "she would point into the library and say Jackson's describes to a lot of newspapers before his death, and I'd say was one of them the Cherokee Phoenix? …"
+    },
+    {
+      "segment_id": 254,
+      "start_sentence_idx": 369,
+      "end_sentence_idx": 370,
+      "num_sentences": 1,
+      "start_time_sec": 1380.0,
+      "end_time_sec": 1380.0,
+      "text_preview": "She was sure.",
+      "keywords": [],
+      "summary": "She was sure. …"
+    },
+    {
+      "segment_id": 255,
+      "start_sentence_idx": 370,
+      "end_sentence_idx": 371,
+      "num_sentences": 1,
+      "start_time_sec": 1396.0,
+      "end_time_sec": 1396.0,
+      "text_preview": "Ski one!!",
+      "keywords": [],
+      "summary": "Ski one!! …"
+    },
+    {
+      "segment_id": 256,
+      "start_sentence_idx": 371,
+      "end_sentence_idx": 372,
+      "num_sentences": 1,
+      "start_time_sec": 1401.76,
+      "end_time_sec": 1401.76,
+      "text_preview": "to show off the mansion's pain-staking restoration.",
+      "keywords": [],
+      "summary": "to show off the mansion's pain-staking restoration. …"
+    },
+    {
+      "segment_id": 257,
+      "start_sentence_idx": 372,
+      "end_sentence_idx": 373,
+      "num_sentences": 1,
+      "start_time_sec": 1401.76,
+      "end_time_sec": 1401.76,
+      "text_preview": "All of the rames that have original wallpaper, all of the papers is conserved and had be cleaned with a racer, the size of a pencil or acer.",
+      "keywords": [
+        "wallpaper",
+        "size",
+        "rames",
+        "racer",
+        "pencil",
+        "papers"
+      ],
+      "summary": "All of the rames that have original wallpaper, all of the papers is conserved and had be cleaned with a racer, the size of a pencil or acer. …"
+    },
+    {
+      "segment_id": 258,
+      "start_sentence_idx": 373,
+      "end_sentence_idx": 374,
+      "num_sentences": 1,
+      "start_time_sec": 1410.0,
+      "end_time_sec": 1410.0,
+      "text_preview": "So that was quite unusual.",
+      "keywords": [],
+      "summary": "So that was quite unusual. …"
+    },
+    {
+      "segment_id": 259,
+      "start_sentence_idx": 374,
+      "end_sentence_idx": 375,
+      "num_sentences": 1,
+      "start_time_sec": 1414.48,
+      "end_time_sec": 1414.48,
+      "text_preview": "The cordured objects that finished nine days before his death he shows the where and tear of his life in that portrait.",
+      "keywords": [
+        "tear",
+        "shows",
+        "portrait",
+        "objects",
+        "nine",
+        "life"
+      ],
+      "summary": "The cordured objects that finished nine days before his death he shows the where and tear of his life in that portrait. …"
+    },
+    {
+      "segment_id": 260,
+      "start_sentence_idx": 375,
+      "end_sentence_idx": 376,
+      "num_sentences": 1,
+      "start_time_sec": 1417.84,
+      "end_time_sec": 1417.84,
+      "text_preview": "It looks  he's sticking his head up.",
+      "keywords": [],
+      "summary": "It looks  he's sticking his head up. …"
+    },
+    {
+      "segment_id": 261,
+      "start_sentence_idx": 376,
+      "end_sentence_idx": 377,
+      "num_sentences": 1,
+      "start_time_sec": 1421.04,
+      "end_time_sec": 1421.04,
+      "text_preview": "at Car.",
+      "keywords": [],
+      "summary": "at Car. …"
+    },
+    {
+      "segment_id": 262,
+      "start_sentence_idx": 377,
+      "end_sentence_idx": 378,
+      "num_sentences": 1,
+      "start_time_sec": 1423.12,
+      "end_time_sec": 1423.12,
+      "text_preview": "I can see what's worrying about his hair.",
+      "keywords": [],
+      "summary": "I can see what's worrying about his hair. …"
+    },
+    {
+      "segment_id": 263,
+      "start_sentence_idx": 378,
+      "end_sentence_idx": 379,
+      "num_sentences": 1,
+      "start_time_sec": 1424.12,
+      "end_time_sec": 1424.12,
+      "text_preview": "Carolyn, guys, is past the flower garden planted by Jackson's wife Rachel and into the family graveyard.",
+      "keywords": [],
+      "summary": "Carolyn, guys, is past the flower garden planted by Jackson's wife Rachel and into the family graveyard. …"
+    },
+    {
+      "segment_id": 264,
+      "start_sentence_idx": 379,
+      "end_sentence_idx": 380,
+      "num_sentences": 1,
+      "start_time_sec": 1426.0,
+      "end_time_sec": 1426.0,
+      "text_preview": "There are a few tidly headstones and one Greco Roman monstrosity with an obelisk rising from the center.",
+      "keywords": [],
+      "summary": "There are a few tidly headstones and one Greco Roman monstrosity with an obelisk rising from the center. …"
+    },
+    {
+      "segment_id": 265,
+      "start_sentence_idx": 380,
+      "end_sentence_idx": 382,
+      "num_sentences": 2,
+      "start_time_sec": 1430.36,
+      "end_time_sec": 1431.52,
+      "text_preview": "I mean, yes, which one of these graces? Yes, we have this design or Rachel and left room for him.",
+      "keywords": [
+        "yes",
+        "room",
+        "rachel",
+        "one",
+        "mean",
+        "left"
+      ],
+      "summary": "I mean, yes, which one of these graces? Yes, we have this design or Rachel and left room for him. …"
+    },
+    {
+      "segment_id": 266,
+      "start_sentence_idx": 382,
+      "end_sentence_idx": 383,
+      "num_sentences": 1,
+      "start_time_sec": 1436.84,
+      "end_time_sec": 1436.84,
+      "text_preview": "And these are other family members.",
+      "keywords": [],
+      "summary": "And these are other family members. …"
+    },
+    {
+      "segment_id": 267,
+      "start_sentence_idx": 383,
+      "end_sentence_idx": 384,
+      "num_sentences": 1,
+      "start_time_sec": 1437.84,
+      "end_time_sec": 1437.84,
+      "text_preview": "I pull a book out of my backpack, a book with the subtitle, Andrew Jackson and the subjugation of the American Aegean.",
+      "keywords": [
+        "book",
+        "subtitle",
+        "subjugation",
+        "pull",
+        "jackson",
+        "backpack"
+      ],
+      "summary": "I pull a book out of my backpack, a book with the subtitle, Andrew Jackson and the subjugation of the American Aegean. …"
+    },
+    {
+      "segment_id": 268,
+      "start_sentence_idx": 384,
+      "end_sentence_idx": 386,
+      "num_sentences": 2,
+      "start_time_sec": 1440.0,
+      "end_time_sec": 1460.6,
+      "text_preview": "Carolyn and Aegean exchanged a worry book. Well, so I'm standing here on the Andrew Jackson's grave and there's part of me as a person of partly charity descent that wouldn't mind dancing on it.",
+      "keywords": [
+        "worry",
+        "well",
+        "standing",
+        "person",
+        "partly",
+        "part"
+      ],
+      "summary": "Carolyn and Aegean exchanged a worry book. Well, so I'm standing here on the Andrew Jackson's grave and there's part of me as a person of partly charity descent that wouldn't mind dancing on it. …"
+    },
+    {
+      "segment_id": 269,
+      "start_sentence_idx": 386,
+      "end_sentence_idx": 389,
+      "num_sentences": 3,
+      "start_time_sec": 1462.6,
+      "end_time_sec": 1470.0,
+      "text_preview": "there's a... a letter that Jackson wrote about the removal of the southeast contrives and this is his opinion on the southeast contrives leaving their land. Doubtless it will be painful to leave the graves of their fathers, but what do they more than our ancestors did nor than ou…",
+      "keywords": [
+        "southeast",
+        "land",
+        "contrives",
+        "ticket",
+        "unknown",
+        "wrote"
+      ],
+      "summary": "Jackson wrote about the removal of the southeast contrives and this is his opinion. \"To better their condition in an unknown land, our forefathers left was a ticket\""
+    },
+    {
+      "segment_id": 270,
+      "start_sentence_idx": 389,
+      "end_sentence_idx": 394,
+      "num_sentences": 5,
+      "start_time_sec": 1474.6,
+      "end_time_sec": 1483.04,
+      "text_preview": "all that was dear and earthly objects. Our children by thousands, yearly we've the land of their birth to seek new homes in distant regions. And then it ends. Can it be cruel in the government when by events, which it cannot control the Indian is made discontent in his ancient ho…",
+      "keywords": [
+        "new",
+        "thousands",
+        "yearly",
+        "territory",
+        "year",
+        "support"
+      ],
+      "summary": "Our children by thousands, yearly we've the land of their birth to seek new homes in distant regions. And then it ends. all that was dear and earthly objects. How many thousands of our own people?"
+    },
+    {
+      "segment_id": 271,
+      "start_sentence_idx": 394,
+      "end_sentence_idx": 395,
+      "num_sentences": 1,
+      "start_time_sec": 1490.4,
+      "end_time_sec": 1490.4,
+      "text_preview": "with gladly embraced the opportunity of removing to the West on such conditions.",
+      "keywords": [],
+      "summary": "with gladly embraced the opportunity of removing to the West on such conditions. …"
+    },
+    {
+      "segment_id": 272,
+      "start_sentence_idx": 395,
+      "end_sentence_idx": 396,
+      "num_sentences": 1,
+      "start_time_sec": 1490.4,
+      "end_time_sec": 1490.4,
+      "text_preview": "There's something sort of nutty about, oh, I'm a big gree, and this path did , just the fact that he just thinks, well, well to compare the removal of Indians from their land, the opportunity of his generation to just go out west.",
+      "keywords": [
+        "well",
+        "west",
+        "thinks",
+        "sort",
+        "something",
+        "removal"
+      ],
+      "summary": "There's something sort of nutty about, oh, I'm a big gree, and this path did , just the fact that he just thinks, well, well to compare the removal of Indians from their land, the opportunity of his generation to just go …"
+    },
+    {
+      "segment_id": 273,
+      "start_sentence_idx": 396,
+      "end_sentence_idx": 401,
+      "num_sentences": 5,
+      "start_time_sec": 1495.12,
+      "end_time_sec": 1509.0,
+      "text_preview": "do you think, I mean, what do you make of that? Can you help me understand that mindset? Probably not. I mean, the interesting thing about that era was that that they really felt that they were preserving. This is how they just about it in their own minds was that they were actua…",
+      "keywords": [
+        "mean",
+        "understand",
+        "think",
+        "really",
+        "thing",
+        "preserving"
+      ],
+      "summary": "\"They really felt that they were preserving. This is how they just about it in their own minds\" \"I mean, what do you make of that"
+    },
+    {
+      "segment_id": 274,
+      "start_sentence_idx": 401,
+      "end_sentence_idx": 402,
+      "num_sentences": 1,
+      "start_time_sec": 1511.0,
+      "end_time_sec": 1511.0,
+      "text_preview": "That this was inevitable.",
+      "keywords": [],
+      "summary": "That this was inevitable. …"
+    },
+    {
+      "segment_id": 275,
+      "start_sentence_idx": 402,
+      "end_sentence_idx": 403,
+      "num_sentences": 1,
+      "start_time_sec": 1512.0,
+      "end_time_sec": 1512.0,
+      "text_preview": "It was sort of the early thought of manifest destiny that it was inevitable that this would happen.",
+      "keywords": [],
+      "summary": "It was sort of the early thought of manifest destiny that it was inevitable that this would happen. …"
+    },
+    {
+      "segment_id": 276,
+      "start_sentence_idx": 403,
+      "end_sentence_idx": 404,
+      "num_sentences": 1,
+      "start_time_sec": 1514.0,
+      "end_time_sec": 1514.0,
+      "text_preview": ", at the interesting lady me is they never seem to think that we're gonna settle the country all the way to the west all the way to California So if they just kept moving everybody further away They would suddenly get to a point where there wasn't gonna be any settlement which of…",
+      "keywords": [
+        "way",
+        "gonna",
+        "kentucky",
+        "suddenly",
+        "upon",
+        "west"
+      ],
+      "summary": "The trail of tears passed through suddenly Kentucky in December of 1838. The traveler from Maine happened upon a group of charities."
+    },
+    {
+      "segment_id": 277,
+      "start_sentence_idx": 404,
+      "end_sentence_idx": 411,
+      "num_sentences": 7,
+      "start_time_sec": 1520.0,
+      "end_time_sec": 1546.4,
+      "text_preview": "He wrote, We found them in the forest by a roadside, can't for the night under a severe fall of rain accompanied by heavy wind. Canvass were a shield against the inclimancy of the weather and the cold wet ground for a resting place. After the fatigue of the day they spent the nig…",
+      "keywords": [
+        "sometimes",
+        "night",
+        "place",
+        "ground",
+        "heavy",
+        "weather"
+      ],
+      "summary": "\"We found them in the forest by a roadside, can't for the night under a severe fall of rain accompanied by heavy wind. Canvass were a shield against the inclimancy of the weather and the cold wet ground for a resting place,\" he wrote."
+    },
+    {
+      "segment_id": 278,
+      "start_sentence_idx": 411,
+      "end_sentence_idx": 412,
+      "num_sentences": 1,
+      "start_time_sec": 1549.0,
+      "end_time_sec": 1549.0,
+      "text_preview": "John Ross's wife died in place  this in winter of pneumonia.",
+      "keywords": [],
+      "summary": "John Ross's wife died in place  this in winter of pneumonia. …"
+    },
+    {
+      "segment_id": 279,
+      "start_sentence_idx": 412,
+      "end_sentence_idx": 413,
+      "num_sentences": 1,
+      "start_time_sec": 1554.0,
+      "end_time_sec": 1554.0,
+      "text_preview": "She had one blanket to protect herself from the weather and she gave it to a sick child during a sleep storm.",
+      "keywords": [
+        "weather",
+        "storm",
+        "sleep",
+        "sick",
+        "protect",
+        "one"
+      ],
+      "summary": "She had one blanket to protect herself from the weather and she gave it to a sick child during a sleep storm. …"
+    },
+    {
+      "segment_id": 280,
+      "start_sentence_idx": 413,
+      "end_sentence_idx": 414,
+      "num_sentences": 1,
+      "start_time_sec": 1560.0,
+      "end_time_sec": 1560.0,
+      "text_preview": "There's more.",
+      "keywords": [],
+      "summary": "There's more. …"
+    },
+    {
+      "segment_id": 281,
+      "start_sentence_idx": 414,
+      "end_sentence_idx": 415,
+      "num_sentences": 1,
+      "start_time_sec": 1562.6,
+      "end_time_sec": 1562.6,
+      "text_preview": "He gets worse.",
+      "keywords": [],
+      "summary": "He gets worse. …"
+    },
+    {
+      "segment_id": 282,
+      "start_sentence_idx": 415,
+      "end_sentence_idx": 416,
+      "num_sentences": 1,
+      "start_time_sec": 1567.56,
+      "end_time_sec": 1567.56,
+      "text_preview": "I always knew the Cherokee owned slaves that they owned them in the East and that they owned them in the West.",
+      "keywords": [
+        "owned",
+        "west",
+        "slaves",
+        "knew",
+        "east",
+        "cherokee"
+      ],
+      "summary": "I always knew the Cherokee owned slaves that they owned them in the East and that they owned them in the West. …"
+    },
+    {
+      "segment_id": 283,
+      "start_sentence_idx": 416,
+      "end_sentence_idx": 434,
+      "num_sentences": 18,
+      "start_time_sec": 1573.44,
+      "end_time_sec": 1650.0,
+      "text_preview": "Only in the course of this road trip, they did a courtesy that the slaves got to Indian territory in the same manner as their masters. On the trail of tears. You imagine as if being a slave was bad enough to be a slave to a torture Indian may do a pathway across the continent Day…",
+      "keywords": [
+        "graves",
+        "white",
+        "path",
+        "cherokee",
+        "jackson",
+        "trail"
+      ],
+      "summary": "The graves are up on a little hill. You can hear the highway down below, but still, it's serene. The black nurse, the grave, says that white path was one of the charity who fought under Andrew Jackson in 1814, the Battle of Porsche."
+    },
+    {
+      "segment_id": 284,
+      "start_sentence_idx": 434,
+      "end_sentence_idx": 443,
+      "num_sentences": 9,
+      "start_time_sec": 1656.4,
+      "end_time_sec": 1694.88,
+      "text_preview": "It took the Cherokee about six months to walk to Oklahoma. We're doing it in five days. Every 10 minutes we cover the same amount of ground they covered in a day. We drive with the sun in our eyes. On back roads through Kentucky, we duck into a remote section of downstate Illinoi…",
+      "keywords": [
+        "cherokee",
+        "cross",
+        "fast",
+        "took",
+        "walk",
+        "unable"
+      ],
+      "summary": "It took the Cherokee about six months to walk to Oklahoma. We're doing it in five days. Every 10 minutes we cover the same amount of ground they covered in a day."
+    },
+    {
+      "segment_id": 285,
+      "start_sentence_idx": 443,
+      "end_sentence_idx": 448,
+      "num_sentences": 5,
+      "start_time_sec": 1699.6,
+      "end_time_sec": 1716.0,
+      "text_preview": "Missouri stopping it yet another trail of the Earth's state car. There's actually a name for what we're doing. It's called Fieritage Tourism. Which sounds so grand. it's going to be one freaking epiphany after another.",
+      "keywords": [
+        "another",
+        "trail",
+        "yet",
+        "tourism",
+        "stopping",
+        "sounds"
+      ],
+      "summary": "Missouri stopping it yet another trail of the Earth's state car. There's actually a name for what we're doing. It's called Fieritage Tourism. Which sounds so grand. it's going to be one freaking epiphany after another. …"
+    },
+    {
+      "segment_id": 286,
+      "start_sentence_idx": 448,
+      "end_sentence_idx": 449,
+      "num_sentences": 1,
+      "start_time_sec": 1718.4,
+      "end_time_sec": 1718.4,
+      "text_preview": "But after a while we just read the signs without even getting out of the car.",
+      "keywords": [],
+      "summary": "But after a while we just read the signs without even getting out of the car. …"
+    },
+    {
+      "segment_id": 287,
+      "start_sentence_idx": 449,
+      "end_sentence_idx": 450,
+      "num_sentences": 1,
+      "start_time_sec": 1721.36,
+      "end_time_sec": 1721.36,
+      "text_preview": "At the end of every day we fall into our most palpates wrecked.",
+      "keywords": [],
+      "summary": "At the end of every day we fall into our most palpates wrecked. …"
+    },
+    {
+      "segment_id": 288,
+      "start_sentence_idx": 450,
+      "end_sentence_idx": 451,
+      "num_sentences": 1,
+      "start_time_sec": 1724.08,
+      "end_time_sec": 1724.08,
+      "text_preview": "day four in the morning we plough through our team saw we get to pay it bill in the afternoon.",
+      "keywords": [
+        "team",
+        "saw",
+        "plough",
+        "pay",
+        "morning",
+        "get"
+      ],
+      "summary": "day four in the morning we plough through our team saw we get to pay it bill in the afternoon. …"
+    },
+    {
+      "segment_id": 289,
+      "start_sentence_idx": 451,
+      "end_sentence_idx": 452,
+      "num_sentences": 1,
+      "start_time_sec": 1728.48,
+      "end_time_sec": 1728.48,
+      "text_preview": "We have lunch with two old roommates of mine, Brad and Rilani, who take us to a little trail of tears Marker next to a high school parking lot.",
+      "keywords": [
+        "us",
+        "two",
+        "trail",
+        "tears",
+        "take",
+        "school"
+      ],
+      "summary": "We have lunch with two old roommates of mine, Brad and Rilani, who take us to a little trail of tears Marker next to a high school parking lot. …"
+    },
+    {
+      "segment_id": 290,
+      "start_sentence_idx": 452,
+      "end_sentence_idx": 454,
+      "num_sentences": 2,
+      "start_time_sec": 1733.36,
+      "end_time_sec": 1736.16,
+      "text_preview": "That look quite  huh. On this site in the summer of 1839, their camped 1,000 characters men, women and children and route to the signs facing a semi-circular arrangement of folders.",
+      "keywords": [
+        "women",
+        "summer",
+        "site",
+        "signs",
+        "semi",
+        "route"
+      ],
+      "summary": "That look quite  huh. On this site in the summer of 1839, their camped 1,000 characters men, women and children and route to the signs facing a semi-circular arrangement of folders. …"
+    },
+    {
+      "segment_id": 291,
+      "start_sentence_idx": 454,
+      "end_sentence_idx": 455,
+      "num_sentences": 1,
+      "start_time_sec": 1740.0,
+      "end_time_sec": 1740.0,
+      "text_preview": "Anyone.",
+      "keywords": [],
+      "summary": "Anyone. …"
+    },
+    {
+      "segment_id": 292,
+      "start_sentence_idx": 455,
+      "end_sentence_idx": 456,
+      "num_sentences": 1,
+      "start_time_sec": 1747.0,
+      "end_time_sec": 1747.0,
+      "text_preview": "who's ever been the high school would recognize it immediately as the place students go to sneak cigarettes or get stoned.",
+      "keywords": [
+        "would",
+        "students",
+        "stoned",
+        "sneak",
+        "school",
+        "recognize"
+      ],
+      "summary": "who's ever been the high school would recognize it immediately as the place students go to sneak cigarettes or get stoned. …"
+    },
+    {
+      "segment_id": 293,
+      "start_sentence_idx": 456,
+      "end_sentence_idx": 457,
+      "num_sentences": 1,
+      "start_time_sec": 1751.84,
+      "end_time_sec": 1751.84,
+      "text_preview": "And once again, it's striking how the two American tendencies exist side by side to remember our past and to completely ignore it and have fun.",
+      "keywords": [
+        "side",
+        "tendencies",
+        "two",
+        "striking",
+        "remember",
+        "past"
+      ],
+      "summary": "And once again, it's striking how the two American tendencies exist side by side to remember our past and to completely ignore it and have fun. …"
+    },
+    {
+      "segment_id": 294,
+      "start_sentence_idx": 457,
+      "end_sentence_idx": 460,
+      "num_sentences": 3,
+      "start_time_sec": 1757.44,
+      "end_time_sec": 1761.88,
+      "text_preview": "Look at how we treat our national holidays. Don't we mourn the dead on Memorial Day with volleyball and sunscreen? Don't we the people commemorate the Fourth of July by setting me?",
+      "keywords": [
+        "volleyball",
+        "treat",
+        "sunscreen",
+        "setting",
+        "people",
+        "national"
+      ],
+      "summary": "Look at how we treat our national holidays. Don't we mourn the dead on Memorial Day with volleyball and sunscreen? Don't we the people commemorate the Fourth of July by setting me? …"
+    },
+    {
+      "segment_id": 295,
+      "start_sentence_idx": 460,
+      "end_sentence_idx": 463,
+      "num_sentences": 3,
+      "start_time_sec": 1765.84,
+      "end_time_sec": 1770.0,
+      "text_preview": "and bottle rockets on fire . It makes a lot of sense when you remember that a phrase is weird and whimsical as the pursuit of happiness sits right there in the second sentence of the founding document of the country. The most happiness I find.",
+      "keywords": [
+        "happiness",
+        "whimsical",
+        "sits",
+        "weird",
+        "sentence",
+        "sense"
+      ],
+      "summary": "and bottle rockets on fire . It makes a lot of sense when you remember that a phrase is weird and whimsical as the pursuit of happiness sits right there in the second sentence of the founding document of the country. The …"
+    },
+    {
+      "segment_id": 296,
+      "start_sentence_idx": 463,
+      "end_sentence_idx": 465,
+      "num_sentences": 2,
+      "start_time_sec": 1770.0,
+      "end_time_sec": 1770.0,
+      "text_preview": "on the trip, as when we're in the car and I can glare the Chuck Berry pay by broad. We drive the trail where thousands died and we're listening from music to the tape.",
+      "keywords": [
+        "trip",
+        "trail",
+        "thousands",
+        "tape",
+        "pay",
+        "music"
+      ],
+      "summary": "on the trip, as when we're in the car and I can glare the Chuck Berry pay by broad. We drive the trail where thousands died and we're listening from music to the tape. …"
+    },
+    {
+      "segment_id": 297,
+      "start_sentence_idx": 465,
+      "end_sentence_idx": 470,
+      "num_sentences": 5,
+      "start_time_sec": 1775.52,
+      "end_time_sec": 1789.36,
+      "text_preview": "What are we supposed to do with the Grizzly past? I feel a righteous anger and bitterness about every historical fact of what the American nation did to the charity. But at the same time, I'm an entirely American creature. I'm in love with this song in the country that gave birth…",
+      "keywords": [
+        "american",
+        "time",
+        "song",
+        "righteous",
+        "publishing",
+        "past"
+      ],
+      "summary": "\"I feel a righteous anger and bitterness about every historical fact of what the American nation did to the charity. But at the same time, I'm an entirely American"
+    },
+    {
+      "segment_id": 298,
+      "start_sentence_idx": 470,
+      "end_sentence_idx": 471,
+      "num_sentences": 1,
+      "start_time_sec": 1789.36,
+      "end_time_sec": 1789.36,
+      "text_preview": "Listen to back in the USA while driving the trail of tears, I turn it over and over in my head.",
+      "keywords": [
+        "usa",
+        "turn",
+        "trail",
+        "tears",
+        "listen",
+        "head"
+      ],
+      "summary": "Listen to back in the USA while driving the trail of tears, I turn it over and over in my head. …"
+    },
+    {
+      "segment_id": 299,
+      "start_sentence_idx": 471,
+      "end_sentence_idx": 475,
+      "num_sentences": 4,
+      "start_time_sec": 1798.32,
+      "end_time_sec": 1821.74,
+      "text_preview": "It's a good country. It's a bad country. Good country. Bad country.",
+      "keywords": [],
+      "summary": "It's a good country. It's a bad country. Good country. Bad country. …"
+    },
+    {
+      "segment_id": 300,
+      "start_sentence_idx": 475,
+      "end_sentence_idx": 476,
+      "num_sentences": 1,
+      "start_time_sec": 1800.0,
+      "end_time_sec": 1800.0,
+      "text_preview": "And of course, it's vote.",
+      "keywords": [],
+      "summary": "And of course, it's vote. …"
+    },
+    {
+      "segment_id": 301,
+      "start_sentence_idx": 476,
+      "end_sentence_idx": 477,
+      "num_sentences": 1,
+      "start_time_sec": 1805.0,
+      "end_time_sec": 1805.0,
+      "text_preview": "And I think about my relationship with America, I feel  a badder.",
+      "keywords": [],
+      "summary": "And I think about my relationship with America, I feel  a badder. …"
+    },
+    {
+      "segment_id": 302,
+      "start_sentence_idx": 477,
+      "end_sentence_idx": 478,
+      "num_sentences": 1,
+      "start_time_sec": 1810.0,
+      "end_time_sec": 1810.0,
+      "text_preview": "Why?",
+      "keywords": [],
+      "summary": "Why? …"
+    },
+    {
+      "segment_id": 303,
+      "start_sentence_idx": 478,
+      "end_sentence_idx": 479,
+      "num_sentences": 1,
+      "start_time_sec": 1815.0,
+      "end_time_sec": 1815.0,
+      "text_preview": "Yeah, he knocks me around a lot but boy sure can dance Well, for so long, Native America Ha Up Help your skin!",
+      "keywords": [
+        "yeah",
+        "well",
+        "sure",
+        "skin",
+        "native",
+        "lot"
+      ],
+      "summary": "Yeah, he knocks me around a lot but boy sure can dance Well, for so long, Native America Ha Up Help your skin! …"
+    },
+    {
+      "segment_id": 304,
+      "start_sentence_idx": 479,
+      "end_sentence_idx": 480,
+      "num_sentences": 1,
+      "start_time_sec": 1816.0,
+      "end_time_sec": 1816.0,
+      "text_preview": "Need I'll go home, is okay?",
+      "keywords": [],
+      "summary": "Need I'll go home, is okay? …"
+    },
+    {
+      "segment_id": 305,
+      "start_sentence_idx": 480,
+      "end_sentence_idx": 481,
+      "num_sentences": 1,
+      "start_time_sec": 1817.0,
+      "end_time_sec": 1817.0,
+      "text_preview": "He's with the Batwright, you're going to go straight.",
+      "keywords": [],
+      "summary": "He's with the Batwright, you're going to go straight. …"
+    },
+    {
+      "segment_id": 306,
+      "start_sentence_idx": 481,
+      "end_sentence_idx": 482,
+      "num_sentences": 1,
+      "start_time_sec": 1819.0,
+      "end_time_sec": 1819.0,
+      "text_preview": "Across the state line, we're in the Western Cherokee Nation.",
+      "keywords": [],
+      "summary": "Across the state line, we're in the Western Cherokee Nation. …"
+    },
+    {
+      "segment_id": 307,
+      "start_sentence_idx": 482,
+      "end_sentence_idx": 483,
+      "num_sentences": 1,
+      "start_time_sec": 1822.0,
+      "end_time_sec": 1822.0,
+      "text_preview": "And the Madmou thing, the heartbreaking cruel sad pullback, is that North Eastern Oklahoma looks exactly  North Western Georgia.",
+      "keywords": [],
+      "summary": "And the Madmou thing, the heartbreaking cruel sad pullback, is that North Eastern Oklahoma looks exactly  North Western Georgia. …"
+    },
+    {
+      "segment_id": 308,
+      "start_sentence_idx": 483,
+      "end_sentence_idx": 487,
+      "num_sentences": 4,
+      "start_time_sec": 1826.0,
+      "end_time_sec": 1835.0,
+      "text_preview": "Same old tree, same old grassy farmland. The Cherokee walked all this way, crossed rivers, suffered blizzards, buried their dead, and all. for what? The same old land they left.",
+      "keywords": [
+        "old",
+        "walked",
+        "way",
+        "tree",
+        "suffered",
+        "rivers"
+      ],
+      "summary": "Same old tree, same old grassy farmland. The Cherokee walked all this way, crossed rivers, suffered blizzards, buried their dead, and all. for what? The same old land they left. …"
+    },
+    {
+      "segment_id": 309,
+      "start_sentence_idx": 487,
+      "end_sentence_idx": 488,
+      "num_sentences": 1,
+      "start_time_sec": 1839.0,
+      "end_time_sec": 1839.0,
+      "text_preview": "We breeze through Palaclo at the Cherokee capital.",
+      "keywords": [],
+      "summary": "We breeze through Palaclo at the Cherokee capital. …"
+    },
+    {
+      "segment_id": 310,
+      "start_sentence_idx": 488,
+      "end_sentence_idx": 489,
+      "num_sentences": 1,
+      "start_time_sec": 1841.0,
+      "end_time_sec": 1841.0,
+      "text_preview": "Even though the trail of tears officially stops there, our trail won't be over until we get to our home town.",
+      "keywords": [
+        "trail",
+        "town",
+        "though",
+        "tears",
+        "stops",
+        "officially"
+      ],
+      "summary": "Even though the trail of tears officially stops there, our trail won't be over until we get to our home town. …"
+    },
+    {
+      "segment_id": 311,
+      "start_sentence_idx": 489,
+      "end_sentence_idx": 490,
+      "num_sentences": 1,
+      "start_time_sec": 1843.0,
+      "end_time_sec": 1843.0,
+      "text_preview": "Braggs.",
+      "keywords": [],
+      "summary": "Braggs. …"
+    },
+    {
+      "segment_id": 312,
+      "start_sentence_idx": 490,
+      "end_sentence_idx": 491,
+      "num_sentences": 1,
+      "start_time_sec": 1843.0,
+      "end_time_sec": 1843.0,
+      "text_preview": "It's about 20 minutes away and we plan on spending the evening with our aunts and uncles there.",
+      "keywords": [],
+      "summary": "It's about 20 minutes away and we plan on spending the evening with our aunts and uncles there. …"
+    },
+    {
+      "segment_id": 313,
+      "start_sentence_idx": 491,
+      "end_sentence_idx": 492,
+      "num_sentences": 1,
+      "start_time_sec": 1848.0,
+      "end_time_sec": 1848.0,
+      "text_preview": "I wanted to talk to my uncle, John A.",
+      "keywords": [],
+      "summary": "I wanted to talk to my uncle, John A. …"
+    },
+    {
+      "segment_id": 314,
+      "start_sentence_idx": 492,
+      "end_sentence_idx": 498,
+      "num_sentences": 6,
+      "start_time_sec": 1851.0,
+      "end_time_sec": 1865.28,
+      "text_preview": "My mother's brother. It's 74. He's my oldest living relative. I asked him about his great grandfather, Peter Pars, who came to Oklahoma on the trail of tears. 12 years old. He grew up from 12 years old.",
+      "keywords": [
+        "years",
+        "12",
+        "old",
+        "tears",
+        "trail",
+        "pars"
+      ],
+      "summary": "My mother's brother. It's 74. He's my oldest living relative. I asked him about his great grandfather, Peter Pars, who came to Oklahoma on the trail of tears. 12 years old. He grew up from 12 years old. …"
+    },
+    {
+      "segment_id": 315,
+      "start_sentence_idx": 498,
+      "end_sentence_idx": 499,
+      "num_sentences": 1,
+      "start_time_sec": 1869.68,
+      "end_time_sec": 1869.68,
+      "text_preview": "He was a stone lady.",
+      "keywords": [],
+      "summary": "He was a stone lady. …"
+    },
+    {
+      "segment_id": 316,
+      "start_sentence_idx": 499,
+      "end_sentence_idx": 500,
+      "num_sentences": 1,
+      "start_time_sec": 1874.32,
+      "end_time_sec": 1874.32,
+      "text_preview": "And some of this work is still around, you're going up to the end.",
+      "keywords": [],
+      "summary": "And some of this work is still around, you're going up to the end. …"
+    },
+    {
+      "segment_id": 317,
+      "start_sentence_idx": 500,
+      "end_sentence_idx": 501,
+      "num_sentences": 1,
+      "start_time_sec": 1874.32,
+      "end_time_sec": 1874.32,
+      "text_preview": "To the village to walk.",
+      "keywords": [],
+      "summary": "To the village to walk. …"
+    },
+    {
+      "segment_id": 318,
+      "start_sentence_idx": 501,
+      "end_sentence_idx": 502,
+      "num_sentences": 1,
+      "start_time_sec": 1874.32,
+      "end_time_sec": 1874.32,
+      "text_preview": "We'll treat you to this call.",
+      "keywords": [],
+      "summary": "We'll treat you to this call. …"
+    },
+    {
+      "segment_id": 319,
+      "start_sentence_idx": 502,
+      "end_sentence_idx": 504,
+      "num_sentences": 2,
+      "start_time_sec": 1878.4,
+      "end_time_sec": 1878.4,
+      "text_preview": "He bit him, he built those. He bit, he built those two calls.",
+      "keywords": [],
+      "summary": "He bit him, he built those. He bit, he built those two calls. …"
+    },
+    {
+      "segment_id": 320,
+      "start_sentence_idx": 504,
+      "end_sentence_idx": 505,
+      "num_sentences": 1,
+      "start_time_sec": 1884.08,
+      "end_time_sec": 1884.08,
+      "text_preview": "He's a built cat right after they came up.",
+      "keywords": [],
+      "summary": "He's a built cat right after they came up. …"
+    },
+    {
+      "segment_id": 321,
+      "start_sentence_idx": 505,
+      "end_sentence_idx": 506,
+      "num_sentences": 1,
+      "start_time_sec": 1884.08,
+      "end_time_sec": 1884.08,
+      "text_preview": "I didn't know that.",
+      "keywords": [],
+      "summary": "I didn't know that. …"
+    },
+    {
+      "segment_id": 322,
+      "start_sentence_idx": 506,
+      "end_sentence_idx": 507,
+      "num_sentences": 1,
+      "start_time_sec": 1890.0,
+      "end_time_sec": 1890.0,
+      "text_preview": "The columns he's talking about and they're actually three instead of two are the great symbols of the Cherokee Nation in the West.",
+      "keywords": [
+        "west",
+        "two",
+        "three",
+        "talking",
+        "symbols",
+        "nation"
+      ],
+      "summary": "The columns he's talking about and they're actually three instead of two are the great symbols of the Cherokee Nation in the West. …"
+    },
+    {
+      "segment_id": 323,
+      "start_sentence_idx": 507,
+      "end_sentence_idx": 508,
+      "num_sentences": 1,
+      "start_time_sec": 1895.66,
+      "end_time_sec": 1895.66,
+      "text_preview": "For years I've had a... and old photographs and stuck on my refrigerator door.",
+      "keywords": [],
+      "summary": "For years I've had a... and old photographs and stuck on my refrigerator door. …"
+    },
+    {
+      "segment_id": 324,
+      "start_sentence_idx": 508,
+      "end_sentence_idx": 509,
+      "num_sentences": 1,
+      "start_time_sec": 1903.8,
+      "end_time_sec": 1903.8,
+      "text_preview": "They're all that's left of the remains of the Cherokee female seminary, the very first public school for girls west of the Mississippi, which my great grandmother attended.",
+      "keywords": [
+        "west",
+        "seminary",
+        "school",
+        "remains",
+        "public",
+        "mississippi"
+      ],
+      "summary": "They're all that's left of the remains of the Cherokee female seminary, the very first public school for girls west of the Mississippi, which my great grandmother attended. …"
+    },
+    {
+      "segment_id": 325,
+      "start_sentence_idx": 509,
+      "end_sentence_idx": 510,
+      "num_sentences": 1,
+      "start_time_sec": 1911.48,
+      "end_time_sec": 1911.48,
+      "text_preview": "Everything about the journey until now has been a little world historical, hearing that our ancestors help build the columns as the first time I felt an actual familial connection to the storm.",
+      "keywords": [
+        "world",
+        "time",
+        "storm",
+        "little",
+        "journey",
+        "historical"
+      ],
+      "summary": "Everything about the journey until now has been a little world historical, hearing that our ancestors help build the columns as the first time I felt an actual familial connection to the storm. …"
+    },
+    {
+      "segment_id": 326,
+      "start_sentence_idx": 510,
+      "end_sentence_idx": 511,
+      "num_sentences": 1,
+      "start_time_sec": 1920.0,
+      "end_time_sec": 1920.0,
+      "text_preview": "I asked John A about our family and the Cherokee presence in Oklahoma.",
+      "keywords": [],
+      "summary": "I asked John A about our family and the Cherokee presence in Oklahoma. …"
+    },
+    {
+      "segment_id": 327,
+      "start_sentence_idx": 511,
+      "end_sentence_idx": 512,
+      "num_sentences": 1,
+      "start_time_sec": 1927.76,
+      "end_time_sec": 1927.76,
+      "text_preview": "I asked him a lot of off-top of questions about his service in World War II.",
+      "keywords": [],
+      "summary": "I asked him a lot of off-top of questions about his service in World War II. …"
+    },
+    {
+      "segment_id": 328,
+      "start_sentence_idx": 512,
+      "end_sentence_idx": 513,
+      "num_sentences": 1,
+      "start_time_sec": 1932.96,
+      "end_time_sec": 1932.96,
+      "text_preview": "Mainly because I was dying too.",
+      "keywords": [],
+      "summary": "Mainly because I was dying too. …"
+    },
+    {
+      "segment_id": 329,
+      "start_sentence_idx": 513,
+      "end_sentence_idx": 514,
+      "num_sentences": 1,
+      "start_time_sec": 1935.24,
+      "end_time_sec": 1935.24,
+      "text_preview": "I was never allowed to ask him about it when I was a kid.",
+      "keywords": [],
+      "summary": "I was never allowed to ask him about it when I was a kid. …"
+    },
+    {
+      "segment_id": 330,
+      "start_sentence_idx": 514,
+      "end_sentence_idx": 515,
+      "num_sentences": 1,
+      "start_time_sec": 1940.2,
+      "end_time_sec": 1940.2,
+      "text_preview": "And then I asked him a mundane reporterly question about whether he thinks the state of Oklahoma has done a good job educating its students about American Indian history.",
+      "keywords": [
+        "whether",
+        "thinks",
+        "students",
+        "state",
+        "reporterly",
+        "question"
+      ],
+      "summary": "And then I asked him a mundane reporterly question about whether he thinks the state of Oklahoma has done a good job educating its students about American Indian history. …"
+    },
+    {
+      "segment_id": 331,
+      "start_sentence_idx": 515,
+      "end_sentence_idx": 516,
+      "num_sentences": 1,
+      "start_time_sec": 1943.56,
+      "end_time_sec": 1943.56,
+      "text_preview": "He says yes, then jumps into a non-secretor about his own education, then I haven't been able to stop thinking about sense.",
+      "keywords": [
+        "yes",
+        "thinking",
+        "stop",
+        "sense",
+        "secretor",
+        "says"
+      ],
+      "summary": "He says yes, then jumps into a non-secretor about his own education, then I haven't been able to stop thinking about sense. …"
+    },
+    {
+      "segment_id": 332,
+      "start_sentence_idx": 516,
+      "end_sentence_idx": 517,
+      "num_sentences": 1,
+      "start_time_sec": 1948.56,
+      "end_time_sec": 1948.56,
+      "text_preview": "How can I wait for it?",
+      "keywords": [],
+      "summary": "How can I wait for it? …"
+    },
+    {
+      "segment_id": 333,
+      "start_sentence_idx": 517,
+      "end_sentence_idx": 518,
+      "num_sentences": 1,
+      "start_time_sec": 1950.0,
+      "end_time_sec": 1950.0,
+      "text_preview": "I could have, maybe I want to school.",
+      "keywords": [],
+      "summary": "I could have, maybe I want to school. …"
+    },
+    {
+      "segment_id": 334,
+      "start_sentence_idx": 518,
+      "end_sentence_idx": 519,
+      "num_sentences": 1,
+      "start_time_sec": 1956.0,
+      "end_time_sec": 1956.0,
+      "text_preview": "I just, I just, I just, I just don't know what to taste.",
+      "keywords": [],
+      "summary": "I just, I just, I just, I just don't know what to taste. …"
+    },
+    {
+      "segment_id": 335,
+      "start_sentence_idx": 519,
+      "end_sentence_idx": 523,
+      "num_sentences": 4,
+      "start_time_sec": 1957.0,
+      "end_time_sec": 2028.16,
+      "text_preview": "And that was one of my best things. But when I was growing up, it was okay everybody to make it to make a living. I had a work. There's always that a master's degree in education.",
+      "keywords": [
+        "make",
+        "things",
+        "one",
+        "okay",
+        "work",
+        "master"
+      ],
+      "summary": "And that was one of my best things. But when I was growing up, it was okay everybody to make it to make a living. I had a work. There's always that a master's degree in education. …"
+    },
+    {
+      "segment_id": 336,
+      "start_sentence_idx": 523,
+      "end_sentence_idx": 524,
+      "num_sentences": 1,
+      "start_time_sec": 2033.24,
+      "end_time_sec": 2033.24,
+      "text_preview": "Not that's so great.",
+      "keywords": [],
+      "summary": "Not that's so great. …"
+    },
+    {
+      "segment_id": 337,
+      "start_sentence_idx": 524,
+      "end_sentence_idx": 529,
+      "num_sentences": 5,
+      "start_time_sec": 2037.84,
+      "end_time_sec": 2055.0,
+      "text_preview": "Do  that? No, that's great. All I'm certain. Boating about 342. Really good.",
+      "keywords": [],
+      "summary": "Do  that? No, that's great. All I'm certain. Boating about 342. Really good. …"
+    },
+    {
+      "segment_id": 338,
+      "start_sentence_idx": 529,
+      "end_sentence_idx": 531,
+      "num_sentences": 2,
+      "start_time_sec": 2059.0,
+      "end_time_sec": 2061.0,
+      "text_preview": "So, ... ... What you learn? You really... You can afford this job.",
+      "keywords": [],
+      "summary": "So, ... ... What you learn? You really... You can afford this job. …"
+    },
+    {
+      "segment_id": 339,
+      "start_sentence_idx": 531,
+      "end_sentence_idx": 532,
+      "num_sentences": 1,
+      "start_time_sec": 2064.0,
+      "end_time_sec": 2064.0,
+      "text_preview": "On this trip, I've been so wrapped up in all the stories of all the deaths I'm in fail of two years.",
+      "keywords": [
+        "years",
+        "wrapped",
+        "two",
+        "trip",
+        "stories",
+        "fail"
+      ],
+      "summary": "On this trip, I've been so wrapped up in all the stories of all the deaths I'm in fail of two years. …"
+    },
+    {
+      "segment_id": 340,
+      "start_sentence_idx": 532,
+      "end_sentence_idx": 533,
+      "num_sentences": 1,
+      "start_time_sec": 2068.0,
+      "end_time_sec": 2068.0,
+      "text_preview": "Sitting there listening to my uncle asked what if I realized that there are lots of ways that lie to a pampered boy.",
+      "keywords": [
+        "ways",
+        "uncle",
+        "sitting",
+        "realized",
+        "pampered",
+        "lots"
+      ],
+      "summary": "Sitting there listening to my uncle asked what if I realized that there are lots of ways that lie to a pampered boy. …"
+    },
+    {
+      "segment_id": 341,
+      "start_sentence_idx": 533,
+      "end_sentence_idx": 534,
+      "num_sentences": 1,
+      "start_time_sec": 2070.0,
+      "end_time_sec": 2070.0,
+      "text_preview": "history.",
+      "keywords": [],
+      "summary": "history. …"
+    },
+    {
+      "segment_id": 342,
+      "start_sentence_idx": 534,
+      "end_sentence_idx": 535,
+      "num_sentences": 1,
+      "start_time_sec": 2075.08,
+      "end_time_sec": 2075.08,
+      "text_preview": "If the trail of tears is a glacier that inched its way west, my uncle is one of the boulders at the positive when it stopped.",
+      "keywords": [
+        "west",
+        "way",
+        "uncle",
+        "trail",
+        "tears",
+        "stopped"
+      ],
+      "summary": "If the trail of tears is a glacier that inched its way west, my uncle is one of the boulders at the positive when it stopped. …"
+    },
+    {
+      "segment_id": 343,
+      "start_sentence_idx": 535,
+      "end_sentence_idx": 537,
+      "num_sentences": 2,
+      "start_time_sec": 2076.76,
+      "end_time_sec": 2081.08,
+      "text_preview": "He had to work the farm, and the farm he worked was what was left of his grandfather's Indian alotmus, and then came the dustball, and then came the war. All these historical forces were down on him, but he did not break.",
+      "keywords": [
+        "farm",
+        "came",
+        "war",
+        "work",
+        "worked",
+        "indian"
+      ],
+      "summary": "He had to work the farm, and the farm he worked was what was left of his grandfather's Indian alotmus, and then came the dustball, and then came the war. All these historical forces were down on him, but he did not break …"
+    },
+    {
+      "segment_id": 344,
+      "start_sentence_idx": 537,
+      "end_sentence_idx": 538,
+      "num_sentences": 1,
+      "start_time_sec": 2084.28,
+      "end_time_sec": 2084.28,
+      "text_preview": "Compared to him, compared to the people we descend from.",
+      "keywords": [],
+      "summary": "Compared to him, compared to the people we descend from. …"
+    },
+    {
+      "segment_id": 345,
+      "start_sentence_idx": 538,
+      "end_sentence_idx": 539,
+      "num_sentences": 1,
+      "start_time_sec": 2088.08,
+      "end_time_sec": 2088.08,
+      "text_preview": "I am free of history.",
+      "keywords": [],
+      "summary": "I am free of history. …"
+    },
+    {
+      "segment_id": 346,
+      "start_sentence_idx": 539,
+      "end_sentence_idx": 540,
+      "num_sentences": 1,
+      "start_time_sec": 2089.64,
+      "end_time_sec": 2089.64,
+      "text_preview": "I'm so free of history, I have to get in a car and drive seven states and find it.",
+      "keywords": [],
+      "summary": "I'm so free of history, I have to get in a car and drive seven states and find it. …"
+    },
+    {
+      "segment_id": 347,
+      "start_sentence_idx": 540,
+      "end_sentence_idx": 541,
+      "num_sentences": 1,
+      "start_time_sec": 2094.28,
+      "end_time_sec": 2094.28,
+      "text_preview": "It's good to know who you are, and who you are for you to get in it.",
+      "keywords": [],
+      "summary": "It's good to know who you are, and who you are for you to get in it. …"
+    },
+    {
+      "segment_id": 348,
+      "start_sentence_idx": 541,
+      "end_sentence_idx": 542,
+      "num_sentences": 1,
+      "start_time_sec": 2094.28,
+      "end_time_sec": 2094.28,
+      "text_preview": "It really probably don't amount all that much.",
+      "keywords": [],
+      "summary": "It really probably don't amount all that much. …"
+    },
+    {
+      "segment_id": 349,
+      "start_sentence_idx": 542,
+      "end_sentence_idx": 543,
+      "num_sentences": 1,
+      "start_time_sec": 2098.44,
+      "end_time_sec": 2098.44,
+      "text_preview": "Only just to want it.",
+      "keywords": [],
+      "summary": "Only just to want it. …"
+    },
+    {
+      "segment_id": 350,
+      "start_sentence_idx": 543,
+      "end_sentence_idx": 544,
+      "num_sentences": 1,
+      "start_time_sec": 2099.6,
+      "end_time_sec": 2099.6,
+      "text_preview": "has nothing to do with getting out here doing this, but you're going to do tomorrow or waiting for you.",
+      "keywords": [
+        "waiting",
+        "tomorrow",
+        "nothing",
+        "going",
+        "getting"
+      ],
+      "summary": "has nothing to do with getting out here doing this, but you're going to do tomorrow or waiting for you. …"
+    },
+    {
+      "segment_id": 351,
+      "start_sentence_idx": 544,
+      "end_sentence_idx": 545,
+      "num_sentences": 1,
+      "start_time_sec": 2099.6,
+      "end_time_sec": 2099.6,
+      "text_preview": "But at least if you want to look back, you can look back maybe only straight and say, well, I was down in the area there, I was going to order some of my ancestors already dated Tom.",
+      "keywords": [
+        "look",
+        "back",
+        "well",
+        "straight",
+        "say",
+        "want"
+      ],
+      "summary": "But at least if you want to look back, you can look back maybe only straight and say, well, I was down in the area there, I was going to order some of my ancestors already dated Tom. …"
+    },
+    {
+      "segment_id": 352,
+      "start_sentence_idx": 545,
+      "end_sentence_idx": 546,
+      "num_sentences": 1,
+      "start_time_sec": 2100.0,
+      "end_time_sec": 2100.0,
+      "text_preview": "They fight Shalagi.",
+      "keywords": [],
+      "summary": "They fight Shalagi. …"
+    },
+    {
+      "segment_id": 353,
+      "start_sentence_idx": 546,
+      "end_sentence_idx": 547,
+      "num_sentences": 1,
+      "start_time_sec": 2103.44,
+      "end_time_sec": 2103.44,
+      "text_preview": "You're a woman, see me?",
+      "keywords": [],
+      "summary": "You're a woman, see me? …"
+    },
+    {
+      "segment_id": 354,
+      "start_sentence_idx": 547,
+      "end_sentence_idx": 554,
+      "num_sentences": 7,
+      "start_time_sec": 2106.92,
+      "end_time_sec": 2130.0,
+      "text_preview": "What? You remember this? Yeah. So you? Look at her. Let's see yours. Let's move.",
+      "keywords": [],
+      "summary": "What? You remember this? Yeah. So you? Look at her. Let's see yours. Let's move. …"
+    },
+    {
+      "segment_id": 355,
+      "start_sentence_idx": 554,
+      "end_sentence_idx": 555,
+      "num_sentences": 1,
+      "start_time_sec": 2130.0,
+      "end_time_sec": 2130.0,
+      "text_preview": "We'll haught you all.",
+      "keywords": [],
+      "summary": "We'll haught you all. …"
+    },
+    {
+      "segment_id": 356,
+      "start_sentence_idx": 555,
+      "end_sentence_idx": 556,
+      "num_sentences": 1,
+      "start_time_sec": 2135.76,
+      "end_time_sec": 2135.76,
+      "text_preview": "Remember them?",
+      "keywords": [],
+      "summary": "Remember them? …"
+    },
+    {
+      "segment_id": 357,
+      "start_sentence_idx": 556,
+      "end_sentence_idx": 557,
+      "num_sentences": 1,
+      "start_time_sec": 2141.2,
+      "end_time_sec": 2141.2,
+      "text_preview": "Just being nice.",
+      "keywords": [],
+      "summary": "Just being nice. …"
+    },
+    {
+      "segment_id": 358,
+      "start_sentence_idx": 557,
+      "end_sentence_idx": 558,
+      "num_sentences": 1,
+      "start_time_sec": 2141.2,
+      "end_time_sec": 2141.2,
+      "text_preview": "arrows into the sky.",
+      "keywords": [],
+      "summary": "arrows into the sky. …"
+    },
+    {
+      "segment_id": 359,
+      "start_sentence_idx": 558,
+      "end_sentence_idx": 559,
+      "num_sentences": 1,
+      "start_time_sec": 2146.88,
+      "end_time_sec": 2146.88,
+      "text_preview": "They can't be more than what 20 feet tall.",
+      "keywords": [],
+      "summary": "They can't be more than what 20 feet tall. …"
+    },
+    {
+      "segment_id": 360,
+      "start_sentence_idx": 559,
+      "end_sentence_idx": 560,
+      "num_sentences": 1,
+      "start_time_sec": 2149.76,
+      "end_time_sec": 2149.76,
+      "text_preview": "Look, no one has to get there.",
+      "keywords": [],
+      "summary": "Look, no one has to get there. …"
+    },
+    {
+      "segment_id": 361,
+      "start_sentence_idx": 560,
+      "end_sentence_idx": 561,
+      "num_sentences": 1,
+      "start_time_sec": 2153.04,
+      "end_time_sec": 2153.04,
+      "text_preview": "Get your program.",
+      "keywords": [],
+      "summary": "Get your program. …"
+    },
+    {
+      "segment_id": 362,
+      "start_sentence_idx": 561,
+      "end_sentence_idx": 562,
+      "num_sentences": 1,
+      "start_time_sec": 2160.0,
+      "end_time_sec": 2160.0,
+      "text_preview": "And this is that tree of sequoia.",
+      "keywords": [],
+      "summary": "And this is that tree of sequoia. …"
+    },
+    {
+      "segment_id": 363,
+      "start_sentence_idx": 562,
+      "end_sentence_idx": 563,
+      "num_sentences": 1,
+      "start_time_sec": 2163.0,
+      "end_time_sec": 2163.0,
+      "text_preview": "Have you best with these two bright things?",
+      "keywords": [],
+      "summary": "Have you best with these two bright things? …"
+    },
+    {
+      "segment_id": 364,
+      "start_sentence_idx": 563,
+      "end_sentence_idx": 564,
+      "num_sentences": 1,
+      "start_time_sec": 2169.0,
+      "end_time_sec": 2169.0,
+      "text_preview": "Over there, over there is a bit down there on the right.",
+      "keywords": [],
+      "summary": "Over there, over there is a bit down there on the right. …"
+    },
+    {
+      "segment_id": 365,
+      "start_sentence_idx": 564,
+      "end_sentence_idx": 565,
+      "num_sentences": 1,
+      "start_time_sec": 2172.0,
+      "end_time_sec": 2172.0,
+      "text_preview": "That's where I remember standing  he was always throwing a fit.",
+      "keywords": [],
+      "summary": "That's where I remember standing  he was always throwing a fit. …"
+    },
+    {
+      "segment_id": 366,
+      "start_sentence_idx": 565,
+      "end_sentence_idx": 566,
+      "num_sentences": 1,
+      "start_time_sec": 2175.0,
+      "end_time_sec": 2175.0,
+      "text_preview": "That's amazing.",
+      "keywords": [],
+      "summary": "That's amazing. …"
+    },
+    {
+      "segment_id": 367,
+      "start_sentence_idx": 566,
+      "end_sentence_idx": 567,
+      "num_sentences": 1,
+      "start_time_sec": 2183.0,
+      "end_time_sec": 2183.0,
+      "text_preview": "Really?",
+      "keywords": [],
+      "summary": "Really? …"
+    },
+    {
+      "segment_id": 368,
+      "start_sentence_idx": 567,
+      "end_sentence_idx": 568,
+      "num_sentences": 1,
+      "start_time_sec": 2188.0,
+      "end_time_sec": 2188.0,
+      "text_preview": "Unfortunately, due to last of funding, the drama here at Jalaq.",
+      "keywords": [],
+      "summary": "Unfortunately, due to last of funding, the drama here at Jalaq. …"
+    },
+    {
+      "segment_id": 369,
+      "start_sentence_idx": 568,
+      "end_sentence_idx": 569,
+      "num_sentences": 1,
+      "start_time_sec": 2190.0,
+      "end_time_sec": 2190.0,
+      "text_preview": "won't be performed this summer.",
+      "keywords": [],
+      "summary": "won't be performed this summer. …"
+    },
+    {
+      "segment_id": 370,
+      "start_sentence_idx": 569,
+      "end_sentence_idx": 570,
+      "num_sentences": 1,
+      "start_time_sec": 2198.16,
+      "end_time_sec": 2198.16,
+      "text_preview": "Amy and I sit, chairs where we first learned about the trail of tears and talk about our trip.",
+      "keywords": [],
+      "summary": "Amy and I sit, chairs where we first learned about the trail of tears and talk about our trip. …"
+    },
+    {
+      "segment_id": 371,
+      "start_sentence_idx": 570,
+      "end_sentence_idx": 571,
+      "num_sentences": 1,
+      "start_time_sec": 2205.36,
+      "end_time_sec": 2205.36,
+      "text_preview": "Our experiences were different.",
+      "keywords": [],
+      "summary": "Our experiences were different. …"
+    },
+    {
+      "segment_id": 372,
+      "start_sentence_idx": 571,
+      "end_sentence_idx": 572,
+      "num_sentences": 1,
+      "start_time_sec": 2207.88,
+      "end_time_sec": 2207.88,
+      "text_preview": "She minored in Native American studies in college.",
+      "keywords": [],
+      "summary": "She minored in Native American studies in college. …"
+    },
+    {
+      "segment_id": 373,
+      "start_sentence_idx": 572,
+      "end_sentence_idx": 573,
+      "num_sentences": 1,
+      "start_time_sec": 2210.56,
+      "end_time_sec": 2210.56,
+      "text_preview": "She not only owns a copy of black-out speech, she could quote from it, and for her, the trip was about it.",
+      "keywords": [
+        "trip",
+        "speech",
+        "quote",
+        "owns",
+        "could",
+        "copy"
+      ],
+      "summary": "She not only owns a copy of black-out speech, she could quote from it, and for her, the trip was about it. …"
+    },
+    {
+      "segment_id": 374,
+      "start_sentence_idx": 573,
+      "end_sentence_idx": 574,
+      "num_sentences": 1,
+      "start_time_sec": 2214.0,
+      "end_time_sec": 2214.0,
+      "text_preview": ", I've been  pretty close to your sometimes.",
+      "keywords": [],
+      "summary": ", I've been  pretty close to your sometimes. …"
+    },
+    {
+      "segment_id": 375,
+      "start_sentence_idx": 574,
+      "end_sentence_idx": 575,
+      "num_sentences": 1,
+      "start_time_sec": 2216.36,
+      "end_time_sec": 2216.36,
+      "text_preview": "It's thinking about the pain, whatever,  what the chance was.",
+      "keywords": [],
+      "summary": "It's thinking about the pain, whatever,  what the chance was. …"
+    },
+    {
+      "segment_id": 376,
+      "start_sentence_idx": 575,
+      "end_sentence_idx": 577,
+      "num_sentences": 2,
+      "start_time_sec": 2216.36,
+      "end_time_sec": 2219.76,
+      "text_preview": "When you're driving, I just kept imagine, , the kids and you, where are we going? Where are we going?",
+      "keywords": [
+        "going",
+        "kids",
+        "kept",
+        "imagine",
+        "driving"
+      ],
+      "summary": "When you're driving, I just kept imagine, , the kids and you, where are we going? Where are we going? …"
+    },
+    {
+      "segment_id": 377,
+      "start_sentence_idx": 577,
+      "end_sentence_idx": 578,
+      "num_sentences": 1,
+      "start_time_sec": 2220.0,
+      "end_time_sec": 2220.0,
+      "text_preview": "what happened.",
+      "keywords": [],
+      "summary": "what happened. …"
+    },
+    {
+      "segment_id": 378,
+      "start_sentence_idx": 578,
+      "end_sentence_idx": 579,
+      "num_sentences": 1,
+      "start_time_sec": 2220.0,
+      "end_time_sec": 2220.0,
+      "text_preview": "I guess I've been sort of thinking about what it really must be.",
+      "keywords": [],
+      "summary": "I guess I've been sort of thinking about what it really must be. …"
+    },
+    {
+      "segment_id": 379,
+      "start_sentence_idx": 579,
+      "end_sentence_idx": 580,
+      "num_sentences": 1,
+      "start_time_sec": 2224.04,
+      "end_time_sec": 2224.04,
+      "text_preview": "Why?",
+      "keywords": [],
+      "summary": "Why? …"
+    },
+    {
+      "segment_id": 380,
+      "start_sentence_idx": 580,
+      "end_sentence_idx": 581,
+      "num_sentences": 1,
+      "start_time_sec": 2229.0,
+      "end_time_sec": 2229.0,
+      "text_preview": "I've been thinking about those kids too.",
+      "keywords": [],
+      "summary": "I've been thinking about those kids too. …"
+    },
+    {
+      "segment_id": 381,
+      "start_sentence_idx": 581,
+      "end_sentence_idx": 582,
+      "num_sentences": 1,
+      "start_time_sec": 2231.0,
+      "end_time_sec": 2231.0,
+      "text_preview": "First, and I identify with most in this history, John Ross, the principal chief during the trail of years.",
+      "keywords": [],
+      "summary": "First, and I identify with most in this history, John Ross, the principal chief during the trail of years. …"
+    },
+    {
+      "segment_id": 382,
+      "start_sentence_idx": 582,
+      "end_sentence_idx": 586,
+      "num_sentences": 4,
+      "start_time_sec": 2235.88,
+      "end_time_sec": 2246.8,
+      "text_preview": "because he was caught between the two nations. He believed in the possibilities of the American Constitution enough to make sure the Cherokee had one too. He believed in the liberties, the Declaration of Independence promises, and the civil rights, the Constitution ensured. And w…",
+      "keywords": [
+        "would",
+        "ross",
+        "constitution",
+        "guess",
+        "john",
+        "cherokee"
+      ],
+      "summary": "John Ross believed in the possibilities of the American Constitution enough to make sure the Cherokee had one too. And when the US betrayed not only the Cherokee, but its own creed, I would guess that John Ross was not only angry"
+    },
+    {
+      "segment_id": 383,
+      "start_sentence_idx": 586,
+      "end_sentence_idx": 587,
+      "num_sentences": 1,
+      "start_time_sec": 2250.0,
+      "end_time_sec": 2250.0,
+      "text_preview": "little broken hearted.",
+      "keywords": [],
+      "summary": "little broken hearted. …"
+    },
+    {
+      "segment_id": 384,
+      "start_sentence_idx": 587,
+      "end_sentence_idx": 594,
+      "num_sentences": 7,
+      "start_time_sec": 2257.0,
+      "end_time_sec": 2288.64,
+      "text_preview": "Because that's how I feel. I've been experiencing the trail of tears not as a charity but as an American. John Ridge, one of the signers of the Treaty of New Acchota, what's prophesized? Cherokee blood if not destroyed will. aligned its courses in beings of fair complexions who w…",
+      "keywords": [
+        "trail",
+        "story",
+        "tears",
+        "charity",
+        "treaty",
+        "talking"
+      ],
+      "summary": "The story of the trail of tears, the story of America, is as complicated as our charity Swedish Scottish English-Grench-Siminal family tree. John Ridge, one of the signers of the Treaty of New Acchota, what's prophesized? Cherokee blood"
+    },
+    {
+      "segment_id": 385,
+      "start_sentence_idx": 594,
+      "end_sentence_idx": 595,
+      "num_sentences": 1,
+      "start_time_sec": 2293.24,
+      "end_time_sec": 2293.24,
+      "text_preview": "Just as our blood will never be pure, the trail of tears will never make sense.",
+      "keywords": [],
+      "summary": "Just as our blood will never be pure, the trail of tears will never make sense. …"
+    },
+    {
+      "segment_id": 386,
+      "start_sentence_idx": 595,
+      "end_sentence_idx": 596,
+      "num_sentences": 1,
+      "start_time_sec": 2296.74,
+      "end_time_sec": 2296.74,
+      "text_preview": "Sarah Bowl, just put a version of her story about the trailer upstairs into her book.",
+      "keywords": [],
+      "summary": "Sarah Bowl, just put a version of her story about the trailer upstairs into her book. …"
+    },
+    {
+      "segment_id": 387,
+      "start_sentence_idx": 596,
+      "end_sentence_idx": 597,
+      "num_sentences": 1,
+      "start_time_sec": 2300.12,
+      "end_time_sec": 2300.12,
+      "text_preview": "It's an only story-saving world.",
+      "keywords": [],
+      "summary": "It's an only story-saving world. …"
+    },
+    {
+      "segment_id": 388,
+      "start_sentence_idx": 597,
+      "end_sentence_idx": 598,
+      "num_sentences": 1,
+      "start_time_sec": 2302.32,
+      "end_time_sec": 2302.32,
+      "text_preview": "Well, that problem is produced today by Julie Snyder and myself, the SNC Updike Annabes Eagle, Senior Editor for this show, caught up, shooting editors Jack did, Harvey Wapp went in, once a year, he's set up a house, production up and head-hand of our Adagged and Sylvia Gimis.",
+      "keywords": [
+        "year",
+        "went",
+        "well",
+        "wapp",
+        "updike",
+        "today"
+      ],
+      "summary": "Well, that problem is produced today by Julie Snyder and myself, the SNC Updike Annabes Eagle, Senior Editor for this show, caught up, shooting editors Jack did, Harvey Wapp went in, once a year, he's set up a house, pro …"
+    },
+    {
+      "segment_id": 389,
+      "start_sentence_idx": 598,
+      "end_sentence_idx": 604,
+      "num_sentences": 6,
+      "start_time_sec": 2304.32,
+      "end_time_sec": 2334.4,
+      "text_preview": "Special thanks to David Ben Boyd, Leidani Schweitzer and Brad Summer Hill, Pat and Jane Now, Princess, our website, www. Ilsmed cái topic We can use it or show us free or by FAPES. We know you can download all your virtual show at audible.com slash this American life, but they ha…",
+      "keywords": [
+        "show",
+        "public",
+        "new",
+        "video",
+        "wb",
+        "com"
+      ],
+      "summary": "This American life is distributed by public video international funding for our show comes in the listeners, WB EZ Chicago. We know you can download all your virtual show at audible.com slash this American life."
+    }
+  ]
+}
