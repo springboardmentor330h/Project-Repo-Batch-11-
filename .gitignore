@@ -1,0 +1,6 @@
+# Ignore raw dataset
+libri_speech/data/raw_audio/
+
+# Ignore large generated files
+libri_speech/data/processed_audio/
+libri_speech/data/audio_chunks/
