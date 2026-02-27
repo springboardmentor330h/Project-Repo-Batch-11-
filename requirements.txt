@@ -1,0 +1,32 @@
+# App (Streamlit)
+streamlit>=1.28.0
+altair>=5.0.0
+
+# Data & numerics
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Embedding segmentation & similarity
+sentence-transformers>=2.2.0
+scikit-learn>=1.3.0
+
+# Audio (preprocessing)
+librosa>=0.10.0
+soundfile>=0.12.0
+pyloudnorm>=0.1.0
+pydub>=0.25.0
+
+# Transcription
+openai-whisper>=20231117
+
+# NLP (keywords, summaries, sentiment)
+nltk>=3.8.0
+torch>=2.0.0
+transformers>=4.30.0
+
+# Utilities
+tqdm>=4.65.0

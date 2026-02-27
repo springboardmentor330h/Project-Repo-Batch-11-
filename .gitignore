@@ -1,0 +1,34 @@
+download_manifest.csv
+cookies.txt
+episodes/
+*.mp4
+*.part
+*.ytdl
+*.wav
+
+__pycache__/
+.streamlit/
+
+# Large output directories (hundreds of JSON files, too large for git)
+output_json_baseline/
+output_json_embedding/
+output_kws_summaries/
+transcripts/
+segments_runtime/
+audio_processed/
+audio_input/
+audio_chunks/
+
+# Downloaded models
+models/
+
+app0.py
+app_alt.py
+app_alt_alt.py
+app_alt2.py
+
+app_alt.py
+parquet_to_csv.py
+lex_fridman_cleaned.csv
+segments_all_baseline.csv
+segments_all_embedding.csv
