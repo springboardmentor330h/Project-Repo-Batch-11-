@@ -1,0 +1,79 @@
+# Audio Files - Large media files
+data/audio_raw/
+data/audio_processed/
+data/audio_tmp/
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.aac
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+data/env
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+*~
+
+# IDE Configuration (but keep them if you want to share)
+# .vscode/settings.json
+# .vscode/extensions.json
+
+# Large data files (optional - uncomment if needed)
+# data/transcripts_raw/
+# data/transcripts_processed/
+# *.csv
+# *.json

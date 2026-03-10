@@ -1,0 +1,5198 @@
+{
+  "episode_id": "episode_187",
+  "source_file": "episode_187_whisper.json",
+  "total_sentences": 623,
+  "algorithm_used": "embedding-based (Sentence Transformers)",
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_sentence_idx": 0,
+      "end_sentence_idx": 10,
+      "num_sentences": 10,
+      "start_time_sec": 0.0,
+      "end_time_sec": 42.58,
+      "text_preview": "From the BB-Easy Chicago, the Public Radio International, it's a American life from our class. Father's Day soon. I was about 9 or 10, and my parents were splitting up, and we lived in a very small rural town in North Dakota. And my dad, he left, and he left the house, and he got…",
+      "keywords": [
+        "uncomfortable",
+        "see",
+        "left",
+        "parents",
+        "us",
+        "trees"
+      ],
+      "summary": "\"My parents were splitting up, and we lived in a very small rural town in North Dakota\" \"To go and see him somewhere, where there was no lawn or pets. for a few of our trees and just flatten us out the strange plus the back of the tree\""
+    },
+    {
+      "segment_id": 2,
+      "start_sentence_idx": 10,
+      "end_sentence_idx": 15,
+      "num_sentences": 5,
+      "start_time_sec": 44.58,
+      "end_time_sec": 56.52,
+      "text_preview": "And then there was the apartment itself. We went up the stairs and it was a three-flat behind the grocery store across from the library. we had that apartment smell. cabbage and all. and then we went in and it was  a living room and then a kitchen and then a bathroom.",
+      "keywords": [
+        "went",
+        "apartment",
+        "store",
+        "three",
+        "smell",
+        "room"
+      ],
+      "summary": "\"We went up the stairs and it was a three-flat behind the grocery store across from the library. And then there was the apartment"
+    },
+    {
+      "segment_id": 3,
+      "start_sentence_idx": 15,
+      "end_sentence_idx": 16,
+      "num_sentences": 1,
+      "start_time_sec": 58.52,
+      "end_time_sec": 58.52,
+      "text_preview": "And I remember I was , wait, where's the paper?",
+      "keywords": [],
+      "summary": "And I remember I was , wait, where's the paper? …"
+    },
+    {
+      "segment_id": 4,
+      "start_sentence_idx": 16,
+      "end_sentence_idx": 21,
+      "num_sentences": 5,
+      "start_time_sec": 60.0,
+      "end_time_sec": 75.64,
+      "text_preview": "And he's , that's the great part. , this is the cool part. See those doors? Open the doors. And I went over to open the doors and there's just metal, straight.",
+      "keywords": [
+        "doors",
+        "part",
+        "open",
+        "went",
+        "see",
+        "straight"
+      ],
+      "summary": "And he's , that's the great part. , this is the cool part. See those doors? Open the doors. And I went over to open the doors and there's just metal, straight. …"
+    },
+    {
+      "segment_id": 5,
+      "start_sentence_idx": 21,
+      "end_sentence_idx": 23,
+      "num_sentences": 2,
+      "start_time_sec": 76.64,
+      "end_time_sec": 77.64,
+      "text_preview": "And that's the bed. And it's called a Murphy Bed.",
+      "keywords": [],
+      "summary": "And that's the bed. And it's called a Murphy Bed. …"
+    },
+    {
+      "segment_id": 6,
+      "start_sentence_idx": 23,
+      "end_sentence_idx": 26,
+      "num_sentences": 3,
+      "start_time_sec": 80.96,
+      "end_time_sec": 84.28,
+      "text_preview": "I'd never seen one before. Inside the pool of town and pert. down and pull it down and make this really awful noise ,  it was, , need to be oiled.",
+      "keywords": [
+        "town",
+        "seen",
+        "really",
+        "pull",
+        "pool",
+        "pert"
+      ],
+      "summary": "I'd never seen one before. Inside the pool of town and pert. down and pull it down and make this really awful noise ,  it was, , need to be oiled. …"
+    },
+    {
+      "segment_id": 7,
+      "start_sentence_idx": 26,
+      "end_sentence_idx": 27,
+      "num_sentences": 1,
+      "start_time_sec": 86.28,
+      "end_time_sec": 86.28,
+      "text_preview": "And I hated seeing it.",
+      "keywords": [],
+      "summary": "And I hated seeing it. …"
+    },
+    {
+      "segment_id": 8,
+      "start_sentence_idx": 27,
+      "end_sentence_idx": 28,
+      "num_sentences": 1,
+      "start_time_sec": 87.28,
+      "end_time_sec": 87.28,
+      "text_preview": "It was  a lumpy mattress and  there was thin blanket on it and it just didn't look it was very good quality or comfortable.",
+      "keywords": [
+        "thin",
+        "quality",
+        "mattress",
+        "lumpy",
+        "look",
+        "good"
+      ],
+      "summary": "It was  a lumpy mattress and  there was thin blanket on it and it just didn't look it was very good quality or comfortable. …"
+    },
+    {
+      "segment_id": 9,
+      "start_sentence_idx": 28,
+      "end_sentence_idx": 29,
+      "num_sentences": 1,
+      "start_time_sec": 90.0,
+      "end_time_sec": 90.0,
+      "text_preview": "And we would sit on it sometimes to watch TV and remember just thinking this is so weird to sit on a bed and watch TV.",
+      "keywords": [
+        "watch",
+        "sit",
+        "tv",
+        "would",
+        "weird",
+        "thinking"
+      ],
+      "summary": "And we would sit on it sometimes to watch TV and remember just thinking this is so weird to sit on a bed and watch TV. …"
+    },
+    {
+      "segment_id": 10,
+      "start_sentence_idx": 29,
+      "end_sentence_idx": 30,
+      "num_sentences": 1,
+      "start_time_sec": 90.0,
+      "end_time_sec": 90.0,
+      "text_preview": "It's in the olipathetic and lonely and it's lonely and depressing anyway because  your parent just putting up a tendency where your dad is living and it's not nice.",
+      "keywords": [
+        "lonely",
+        "tendency",
+        "putting",
+        "parent",
+        "olipathetic",
+        "nice"
+      ],
+      "summary": "It's in the olipathetic and lonely and it's lonely and depressing anyway because  your parent just putting up a tendency where your dad is living and it's not nice. …"
+    },
+    {
+      "segment_id": 11,
+      "start_sentence_idx": 30,
+      "end_sentence_idx": 31,
+      "num_sentences": 1,
+      "start_time_sec": 97.44,
+      "end_time_sec": 97.44,
+      "text_preview": "Oh, and it was so incongruous with who I knew him to be.",
+      "keywords": [],
+      "summary": "Oh, and it was so incongruous with who I knew him to be. …"
+    },
+    {
+      "segment_id": 12,
+      "start_sentence_idx": 31,
+      "end_sentence_idx": 32,
+      "num_sentences": 1,
+      "start_time_sec": 99.44,
+      "end_time_sec": 99.44,
+      "text_preview": "I mean, he's someone who belongs outside, working outside animals, pets, agriculture, all that, and here he is in this heart.",
+      "keywords": [
+        "outside",
+        "working",
+        "someone",
+        "pets",
+        "mean",
+        "heart"
+      ],
+      "summary": "I mean, he's someone who belongs outside, working outside animals, pets, agriculture, all that, and here he is in this heart. …"
+    },
+    {
+      "segment_id": 13,
+      "start_sentence_idx": 32,
+      "end_sentence_idx": 33,
+      "num_sentences": 1,
+      "start_time_sec": 99.44,
+      "end_time_sec": 99.44,
+      "text_preview": "And he even hated the word apartments for a while.",
+      "keywords": [],
+      "summary": "And he even hated the word apartments for a while. …"
+    },
+    {
+      "segment_id": 14,
+      "start_sentence_idx": 33,
+      "end_sentence_idx": 36,
+      "num_sentences": 3,
+      "start_time_sec": 103.68,
+      "end_time_sec": 110.88,
+      "text_preview": "I remember seeing it in books or animals reading. I think it's somewhere in the newspaper. It's a part of it.",
+      "keywords": [
+        "think",
+        "somewhere",
+        "seeing",
+        "remember",
+        "reading",
+        "part"
+      ],
+      "summary": "I remember seeing it in books or animals reading. I think it's somewhere in the newspaper. It's a part of it. …"
+    },
+    {
+      "segment_id": 15,
+      "start_sentence_idx": 36,
+      "end_sentence_idx": 37,
+      "num_sentences": 1,
+      "start_time_sec": 120.0,
+      "end_time_sec": 120.0,
+      "text_preview": "It was really part of it.",
+      "keywords": [],
+      "summary": "It was really part of it. …"
+    },
+    {
+      "segment_id": 16,
+      "start_sentence_idx": 37,
+      "end_sentence_idx": 38,
+      "num_sentences": 1,
+      "start_time_sec": 124.0,
+      "end_time_sec": 124.0,
+      "text_preview": "Was that the first time you saw him say, well, yeah, I mean he'd always been, my horse used to get out, the scape and the climb up road for  miles.",
+      "keywords": [
+        "yeah",
+        "well",
+        "used",
+        "time",
+        "scape",
+        "say"
+      ],
+      "summary": "Was that the first time you saw him say, well, yeah, I mean he'd always been, my horse used to get out, the scape and the climb up road for  miles. …"
+    },
+    {
+      "segment_id": 17,
+      "start_sentence_idx": 38,
+      "end_sentence_idx": 39,
+      "num_sentences": 1,
+      "start_time_sec": 129.0,
+      "end_time_sec": 129.0,
+      "text_preview": "I would meet him.",
+      "keywords": [],
+      "summary": "I would meet him. …"
+    },
+    {
+      "segment_id": 18,
+      "start_sentence_idx": 39,
+      "end_sentence_idx": 45,
+      "num_sentences": 6,
+      "start_time_sec": 134.0,
+      "end_time_sec": 153.0,
+      "text_preview": "And my dad would just conflict with him, or drive, find him in the beanfield and lead him back. I mean, he was my, who else could do that. ? But here in this apartment, and it seemed kind of cowed by it. They would do all's clothes did up. So I saw him just being kind of helpless…",
+      "keywords": [
+        "would",
+        "kind",
+        "seemed",
+        "saw",
+        "mean",
+        "lead"
+      ],
+      "summary": "\"I saw him just being kind of helpless. And my dad would just conflict with him, or drive, find him in the beanfield and lead him back"
+    },
+    {
+      "segment_id": 19,
+      "start_sentence_idx": 45,
+      "end_sentence_idx": 46,
+      "num_sentences": 1,
+      "start_time_sec": 161.0,
+      "end_time_sec": 161.0,
+      "text_preview": "As the years went on, we could resume this whole song.",
+      "keywords": [],
+      "summary": "As the years went on, we could resume this whole song. …"
+    },
+    {
+      "segment_id": 20,
+      "start_sentence_idx": 46,
+      "end_sentence_idx": 47,
+      "num_sentences": 1,
+      "start_time_sec": 164.0,
+      "end_time_sec": 164.0,
+      "text_preview": "So we could stay more  the future at home in that apartment.",
+      "keywords": [],
+      "summary": "So we could stay more  the future at home in that apartment. …"
+    },
+    {
+      "segment_id": 21,
+      "start_sentence_idx": 47,
+      "end_sentence_idx": 48,
+      "num_sentences": 1,
+      "start_time_sec": 164.0,
+      "end_time_sec": 164.0,
+      "text_preview": "No.",
+      "keywords": [],
+      "summary": "No. …"
+    },
+    {
+      "segment_id": 22,
+      "start_sentence_idx": 48,
+      "end_sentence_idx": 49,
+      "num_sentences": 1,
+      "start_time_sec": 166.0,
+      "end_time_sec": 166.0,
+      "text_preview": "That image was kind of shout it could never regave.",
+      "keywords": [],
+      "summary": "That image was kind of shout it could never regave. …"
+    },
+    {
+      "segment_id": 23,
+      "start_sentence_idx": 49,
+      "end_sentence_idx": 51,
+      "num_sentences": 2,
+      "start_time_sec": 168.0,
+      "end_time_sec": 169.0,
+      "text_preview": "He never regained the statue. Never regained the statue that he had before them.",
+      "keywords": [],
+      "summary": "He never regained the statue. Never regained the statue that he had before them. …"
+    },
+    {
+      "segment_id": 24,
+      "start_sentence_idx": 51,
+      "end_sentence_idx": 52,
+      "num_sentences": 1,
+      "start_time_sec": 170.0,
+      "end_time_sec": 170.0,
+      "text_preview": "Before that, he was that year to be with them.",
+      "keywords": [],
+      "summary": "Before that, he was that year to be with them. …"
+    },
+    {
+      "segment_id": 25,
+      "start_sentence_idx": 52,
+      "end_sentence_idx": 53,
+      "num_sentences": 1,
+      "start_time_sec": 171.0,
+      "end_time_sec": 171.0,
+      "text_preview": "Leo is nine.",
+      "keywords": [],
+      "summary": "Leo is nine. …"
+    },
+    {
+      "segment_id": 26,
+      "start_sentence_idx": 53,
+      "end_sentence_idx": 54,
+      "num_sentences": 1,
+      "start_time_sec": 173.0,
+      "end_time_sec": 173.0,
+      "text_preview": "She has a repair and it's hadn't split up.",
+      "keywords": [],
+      "summary": "She has a repair and it's hadn't split up. …"
+    },
+    {
+      "segment_id": 27,
+      "start_sentence_idx": 54,
+      "end_sentence_idx": 60,
+      "num_sentences": 6,
+      "start_time_sec": 174.0,
+      "end_time_sec": 187.28,
+      "text_preview": "She probably would have had two or three more years. She would have kept her dad on that pedestal. Four adolescents would have had any would have come down to size in that. No, father did not. And that would have happened. And they'd come to work from that.",
+      "keywords": [
+        "would",
+        "come",
+        "years",
+        "two",
+        "three",
+        "size"
+      ],
+      "summary": "She probably would have had two or three more years. She would have kept her dad on that pedestal. Four adolescents would have had any would have come down to size in that. No, father did not. And that would have happene …"
+    },
+    {
+      "segment_id": 28,
+      "start_sentence_idx": 60,
+      "end_sentence_idx": 61,
+      "num_sentences": 1,
+      "start_time_sec": 189.72,
+      "end_time_sec": 189.72,
+      "text_preview": "It was more charming to have.",
+      "keywords": [],
+      "summary": "It was more charming to have. …"
+    },
+    {
+      "segment_id": 29,
+      "start_sentence_idx": 61,
+      "end_sentence_idx": 62,
+      "num_sentences": 1,
+      "start_time_sec": 200.6,
+      "end_time_sec": 200.6,
+      "text_preview": "Do you regret that you lost those years of idealizing the more do you think?",
+      "keywords": [],
+      "summary": "Do you regret that you lost those years of idealizing the more do you think? …"
+    },
+    {
+      "segment_id": 30,
+      "start_sentence_idx": 62,
+      "end_sentence_idx": 63,
+      "num_sentences": 1,
+      "start_time_sec": 203.24,
+      "end_time_sec": 203.24,
+      "text_preview": "I think it matters.",
+      "keywords": [],
+      "summary": "I think it matters. …"
+    },
+    {
+      "segment_id": 31,
+      "start_sentence_idx": 63,
+      "end_sentence_idx": 64,
+      "num_sentences": 1,
+      "start_time_sec": 209.56,
+      "end_time_sec": 209.56,
+      "text_preview": "I think that it really, it was so painful.",
+      "keywords": [],
+      "summary": "I think that it really, it was so painful. …"
+    },
+    {
+      "segment_id": 32,
+      "start_sentence_idx": 64,
+      "end_sentence_idx": 65,
+      "num_sentences": 1,
+      "start_time_sec": 210.0,
+      "end_time_sec": 210.0,
+      "text_preview": "And you're so young.",
+      "keywords": [],
+      "summary": "And you're so young. …"
+    },
+    {
+      "segment_id": 33,
+      "start_sentence_idx": 65,
+      "end_sentence_idx": 68,
+      "num_sentences": 3,
+      "start_time_sec": 214.0,
+      "end_time_sec": 219.0,
+      "text_preview": "And just , you don't need that. You need to make a difference. You need it for more years.",
+      "keywords": [],
+      "summary": "And just , you don't need that. You need to make a difference. You need it for more years. …"
+    },
+    {
+      "segment_id": 34,
+      "start_sentence_idx": 68,
+      "end_sentence_idx": 69,
+      "num_sentences": 1,
+      "start_time_sec": 222.0,
+      "end_time_sec": 222.0,
+      "text_preview": "You need to have it cut to you on your own terms.",
+      "keywords": [],
+      "summary": "You need to have it cut to you on your own terms. …"
+    },
+    {
+      "segment_id": 35,
+      "start_sentence_idx": 69,
+      "end_sentence_idx": 70,
+      "num_sentences": 1,
+      "start_time_sec": 224.0,
+      "end_time_sec": 224.0,
+      "text_preview": "I don't think that it's good when it happens in a way that you don't control.",
+      "keywords": [],
+      "summary": "I don't think that it's good when it happens in a way that you don't control. …"
+    },
+    {
+      "segment_id": 36,
+      "start_sentence_idx": 70,
+      "end_sentence_idx": 71,
+      "num_sentences": 1,
+      "start_time_sec": 226.0,
+      "end_time_sec": 226.0,
+      "text_preview": "And the way that it came about, when it was natural, it was very shocked.",
+      "keywords": [],
+      "summary": "And the way that it came about, when it was natural, it was very shocked. …"
+    },
+    {
+      "segment_id": 37,
+      "start_sentence_idx": 71,
+      "end_sentence_idx": 72,
+      "num_sentences": 1,
+      "start_time_sec": 228.0,
+      "end_time_sec": 228.0,
+      "text_preview": "It was  one day, it was there, and two and a slater that you knew was not there.",
+      "keywords": [],
+      "summary": "It was  one day, it was there, and two and a slater that you knew was not there. …"
+    },
+    {
+      "segment_id": 38,
+      "start_sentence_idx": 72,
+      "end_sentence_idx": 76,
+      "num_sentences": 4,
+      "start_time_sec": 230.0,
+      "end_time_sec": 238.0,
+      "text_preview": "What's the difference between the two? What's the difference between the two? What's the difference between the two? What's the difference between the two?",
+      "keywords": [
+        "two",
+        "difference"
+      ],
+      "summary": "What's the difference between the two? What's the difference between the two? What's the difference between the two? What's the difference between the two? …"
+    },
+    {
+      "segment_id": 39,
+      "start_sentence_idx": 76,
+      "end_sentence_idx": 77,
+      "num_sentences": 1,
+      "start_time_sec": 240.0,
+      "end_time_sec": 240.0,
+      "text_preview": "Here's the story of everyone and their dad.",
+      "keywords": [],
+      "summary": "Here's the story of everyone and their dad. …"
+    },
+    {
+      "segment_id": 40,
+      "start_sentence_idx": 77,
+      "end_sentence_idx": 78,
+      "num_sentences": 1,
+      "start_time_sec": 244.0,
+      "end_time_sec": 244.0,
+      "text_preview": "Once, that is on a pedestal.",
+      "keywords": [],
+      "summary": "Once, that is on a pedestal. …"
+    },
+    {
+      "segment_id": 41,
+      "start_sentence_idx": 78,
+      "end_sentence_idx": 79,
+      "num_sentences": 1,
+      "start_time_sec": 258.0,
+      "end_time_sec": 258.0,
+      "text_preview": "Then we got older.",
+      "keywords": [],
+      "summary": "Then we got older. …"
+    },
+    {
+      "segment_id": 42,
+      "start_sentence_idx": 79,
+      "end_sentence_idx": 85,
+      "num_sentences": 6,
+      "start_time_sec": 258.0,
+      "end_time_sec": 270.0,
+      "text_preview": "came off at a school. And with some dads that happens more or less gracefully, with others, it is a quick painful crash from which none of the participants ever would have used for them. And how a father manages that descent from power, that transition being human sized with his …",
+      "keywords": [
+        "dad",
+        "really",
+        "one",
+        "go",
+        "birthday",
+        "ever"
+      ],
+      "summary": "With some dads that happens more or less gracefully, with others, it is a quick painful crash from which none of the participants ever would have used for them. And how a father manages that descent from power, that transition being human sized with his children. A degree, Legend of a Bank Rapper's"
+    },
+    {
+      "segment_id": 43,
+      "start_sentence_idx": 85,
+      "end_sentence_idx": 86,
+      "num_sentences": 1,
+      "start_time_sec": 272.88,
+      "end_time_sec": 272.88,
+      "text_preview": "And if you find yourself still somehow imitating him?",
+      "keywords": [],
+      "summary": "And if you find yourself still somehow imitating him? …"
+    },
+    {
+      "segment_id": 44,
+      "start_sentence_idx": 86,
+      "end_sentence_idx": 87,
+      "num_sentences": 1,
+      "start_time_sec": 275.28,
+      "end_time_sec": 275.28,
+      "text_preview": "Answers, see what is.",
+      "keywords": [],
+      "summary": "Answers, see what is. …"
+    },
+    {
+      "segment_id": 45,
+      "start_sentence_idx": 87,
+      "end_sentence_idx": 88,
+      "num_sentences": 1,
+      "start_time_sec": 278.08,
+      "end_time_sec": 278.08,
+      "text_preview": "At one, driving the divorce material.",
+      "keywords": [],
+      "summary": "At one, driving the divorce material. …"
+    },
+    {
+      "segment_id": 46,
+      "start_sentence_idx": 88,
+      "end_sentence_idx": 89,
+      "num_sentences": 1,
+      "start_time_sec": 279.2,
+      "end_time_sec": 279.2,
+      "text_preview": "Kids whose parents divorce,  Lille, are often forced to see the parents as human-sized, all of a sudden, way before.",
+      "keywords": [
+        "parents",
+        "whose",
+        "sudden",
+        "way",
+        "sized",
+        "see"
+      ],
+      "summary": "Kids whose parents divorce,  Lille, are often forced to see the parents as human-sized, all of a sudden, way before. …"
+    },
+    {
+      "segment_id": 47,
+      "start_sentence_idx": 89,
+      "end_sentence_idx": 90,
+      "num_sentences": 1,
+      "start_time_sec": 281.4,
+      "end_time_sec": 281.4,
+      "text_preview": "they want.",
+      "keywords": [],
+      "summary": "they want. …"
+    },
+    {
+      "segment_id": 48,
+      "start_sentence_idx": 90,
+      "end_sentence_idx": 93,
+      "num_sentences": 3,
+      "start_time_sec": 283.84,
+      "end_time_sec": 286.64,
+      "text_preview": "And if there is a separate culture in this country of diverse kids, this story is at the heart of the tradition. This story is swapped  trading cards. This story of parents and how they acted in those first few months after they split up.",
+      "keywords": [
+        "story",
+        "tradition",
+        "trading",
+        "swapped",
+        "split",
+        "separate"
+      ],
+      "summary": "And if there is a separate culture in this country of diverse kids, this story is at the heart of the tradition. This story is swapped  trading cards. This story of parents and how they acted in those first few months af …"
+    },
+    {
+      "segment_id": 49,
+      "start_sentence_idx": 93,
+      "end_sentence_idx": 94,
+      "num_sentences": 1,
+      "start_time_sec": 288.92,
+      "end_time_sec": 288.92,
+      "text_preview": "Those first few months when they were perfectly flawed from the things.",
+      "keywords": [],
+      "summary": "Those first few months when they were perfectly flawed from the things. …"
+    },
+    {
+      "segment_id": 50,
+      "start_sentence_idx": 94,
+      "end_sentence_idx": 105,
+      "num_sentences": 11,
+      "start_time_sec": 289.72,
+      "end_time_sec": 322.32,
+      "text_preview": "And to start our show today, we've collected the fathers, right after we get to this. Our dad, take my brother and I out on Sundays, give him Sunday. And... This one time took us out. Anyone tell us where we were going. Till we pulled up to this shopping mall that had this fair g…",
+      "keywords": [
+        "us",
+        "going",
+        "one",
+        "today",
+        "time",
+        "went"
+      ],
+      "summary": "\"Our dad, take my brother and I out on Sundays, give him Sunday. And... This one time took us out. Anyone tell us where we were going?\""
+    },
+    {
+      "segment_id": 51,
+      "start_sentence_idx": 105,
+      "end_sentence_idx": 106,
+      "num_sentences": 1,
+      "start_time_sec": 323.32,
+      "end_time_sec": 323.32,
+      "text_preview": "And first ride went on.",
+      "keywords": [],
+      "summary": "And first ride went on. …"
+    },
+    {
+      "segment_id": 52,
+      "start_sentence_idx": 106,
+      "end_sentence_idx": 111,
+      "num_sentences": 5,
+      "start_time_sec": 328.44,
+      "end_time_sec": 342.0,
+      "text_preview": "Because this airplane ride, we could go around the circle and there. and go up and down, you had to go in prior to the gunning. And I remember  every time circular that was washing us, that's where we sort of go around and every time we go around, people, the stickships, so we wo…",
+      "keywords": [
+        "go",
+        "around",
+        "would",
+        "dad",
+        "every",
+        "time"
+      ],
+      "summary": "Every time circular that was washing us, that's where we sort of go around and every time we go around, people, the stickships, so we would rise up. This is as we pass our dad, we can"
+    },
+    {
+      "segment_id": 53,
+      "start_sentence_idx": 111,
+      "end_sentence_idx": 118,
+      "num_sentences": 7,
+      "start_time_sec": 348.0,
+      "end_time_sec": 371.0,
+      "text_preview": "It's really nice moment. And then in prior to the three or four times. We noticed the third talking to this guy, the side of him. And we were  one in second. That's all. And then  the next time around, they were  closer together. We were  one in the first.",
+      "keywords": [
+        "one",
+        "together",
+        "time",
+        "times",
+        "three",
+        "third"
+      ],
+      "summary": "\"We noticed the third talking to this guy, the side of him. And we were  one in second. And then  the"
+    },
+    {
+      "segment_id": 54,
+      "start_sentence_idx": 118,
+      "end_sentence_idx": 119,
+      "num_sentences": 1,
+      "start_time_sec": 380.0,
+      "end_time_sec": 380.0,
+      "text_preview": "It's going on.",
+      "keywords": [],
+      "summary": "It's going on. …"
+    },
+    {
+      "segment_id": 55,
+      "start_sentence_idx": 119,
+      "end_sentence_idx": 128,
+      "num_sentences": 9,
+      "start_time_sec": 383.0,
+      "end_time_sec": 408.0,
+      "text_preview": "And then the next time around, the next time  it, this guy's got my dad, kind of  a headlocker. Just got my dad's shirt pulled up over his back. wrestling him, trying to punch him, the brother-in-law in shock. And up. So we kept going around and  instead of pulling those thick sh…",
+      "keywords": [
+        "dad",
+        "around",
+        "head",
+        "ride",
+        "want",
+        "time"
+      ],
+      "summary": "\"We kept going around and  instead of pulling those thick ships  we were just closing them, we were constantly in the air, surfing around\" \"I remember this lady coming up with my dad's father, she should have punched them, sheShould have hit them in the face\""
+    },
+    {
+      "segment_id": 56,
+      "start_sentence_idx": 128,
+      "end_sentence_idx": 131,
+      "num_sentences": 3,
+      "start_time_sec": 414.0,
+      "end_time_sec": 420.0,
+      "text_preview": "Just connect them, damper off the day. So what my dad was talking about is , I was trying to get a little bit off of it. Once we got back in the car, the fighting was not the answer.",
+      "keywords": [
+        "trying",
+        "talking",
+        "little",
+        "got",
+        "get",
+        "fighting"
+      ],
+      "summary": "Just connect them, damper off the day. So what my dad was talking about is , I was trying to get a little bit off of it. Once we got back in the car, the fighting was not the answer. …"
+    },
+    {
+      "segment_id": 57,
+      "start_sentence_idx": 131,
+      "end_sentence_idx": 132,
+      "num_sentences": 1,
+      "start_time_sec": 422.24,
+      "end_time_sec": 422.24,
+      "text_preview": "I think , I was talking to 10.",
+      "keywords": [],
+      "summary": "I think , I was talking to 10. …"
+    },
+    {
+      "segment_id": 58,
+      "start_sentence_idx": 132,
+      "end_sentence_idx": 133,
+      "num_sentences": 1,
+      "start_time_sec": 424.64,
+      "end_time_sec": 424.64,
+      "text_preview": "But I thought it was time you get to 8.",
+      "keywords": [],
+      "summary": "But I thought it was time you get to 8. …"
+    },
+    {
+      "segment_id": 59,
+      "start_sentence_idx": 133,
+      "end_sentence_idx": 134,
+      "num_sentences": 1,
+      "start_time_sec": 431.72,
+      "end_time_sec": 431.72,
+      "text_preview": "You sure it's already off your back, would you?",
+      "keywords": [],
+      "summary": "You sure it's already off your back, would you? …"
+    },
+    {
+      "segment_id": 60,
+      "start_sentence_idx": 134,
+      "end_sentence_idx": 135,
+      "num_sentences": 1,
+      "start_time_sec": 433.92,
+      "end_time_sec": 433.92,
+      "text_preview": "When I think of my father, I think of a very kind, dry, retiring, very British, kind of man.",
+      "keywords": [],
+      "summary": "When I think of my father, I think of a very kind, dry, retiring, very British, kind of man. …"
+    },
+    {
+      "segment_id": 61,
+      "start_sentence_idx": 135,
+      "end_sentence_idx": 136,
+      "num_sentences": 1,
+      "start_time_sec": 435.16,
+      "end_time_sec": 435.16,
+      "text_preview": "Everything he did was very measured, very calm.",
+      "keywords": [],
+      "summary": "Everything he did was very measured, very calm. …"
+    },
+    {
+      "segment_id": 62,
+      "start_sentence_idx": 136,
+      "end_sentence_idx": 137,
+      "num_sentences": 1,
+      "start_time_sec": 436.92,
+      "end_time_sec": 436.92,
+      "text_preview": ", he was talking about a guy who made music, his personal soundtrack, found his radio station, and the play music all day, kind of wandered around humming.",
+      "keywords": [
+        "music",
+        "talking",
+        "wandered",
+        "soundtrack",
+        "radio",
+        "play"
+      ],
+      "summary": ", he was talking about a guy who made music, his personal soundtrack, found his radio station, and the play music all day, kind of wandered around humming. …"
+    },
+    {
+      "segment_id": 63,
+      "start_sentence_idx": 137,
+      "end_sentence_idx": 145,
+      "num_sentences": 8,
+      "start_time_sec": 441.2,
+      "end_time_sec": 466.0,
+      "text_preview": "So I'd hear him running around the house. But once said, My parents got divorced, he joined the Y, started working happily just late. And , suddenly he was saying incredibly bizarre things , , I'm going to the gym and I'm going to weigh a lot in my packs. When he was first divorc…",
+      "keywords": [
+        "divorced",
+        "going",
+        "office",
+        "live",
+        "us",
+        "unfortunately"
+      ],
+      "summary": "\"My parents got divorced, he joined the Y, started working happily just late. And , suddenly he was saying incredibly bizarre things,\" she says. \"He was saying I'm going to the gym and I's going to weigh a lot in my packs\""
+    },
+    {
+      "segment_id": 64,
+      "start_sentence_idx": 145,
+      "end_sentence_idx": 146,
+      "num_sentences": 1,
+      "start_time_sec": 469.0,
+      "end_time_sec": 469.0,
+      "text_preview": "So he would actually get me to go to the bathroom with him on the roof into a cook bottle and somehow he made this fun to go out into the roof and  practice my name and it was actually became  a fun thing to do that actually with the flowers here during the day.",
+      "keywords": [
+        "actually",
+        "fun",
+        "roof",
+        "go",
+        "would",
+        "practice"
+      ],
+      "summary": "\"He would actually get me to go to the bathroom with him on the roof into a cook bottle and somehow he made this fun to go out into"
+    },
+    {
+      "segment_id": 65,
+      "start_sentence_idx": 146,
+      "end_sentence_idx": 148,
+      "num_sentences": 2,
+      "start_time_sec": 475.0,
+      "end_time_sec": 477.0,
+      "text_preview": "and have a really good competitor. , he's always insisting on showing me this non-existent muscle group  me, sitting watching TV and I can hear him thundering down the stairs, generally!",
+      "keywords": [
+        "watching",
+        "tv",
+        "thundering",
+        "stairs",
+        "sitting",
+        "showing"
+      ],
+      "summary": "and have a really good competitor. , he's always insisting on showing me this non-existent muscle group  me, sitting watching TV and I can hear him thundering down the stairs, generally! …"
+    },
+    {
+      "segment_id": 66,
+      "start_sentence_idx": 148,
+      "end_sentence_idx": 149,
+      "num_sentences": 1,
+      "start_time_sec": 480.0,
+      "end_time_sec": 480.0,
+      "text_preview": "Sure enough, I go out there at the bottom of the stairs, and make it flexing  this, divorce, say, pumping iron iron with sweats and egg, swam in the ground is vice of to see how they're growing.",
+      "keywords": [
+        "iron",
+        "vice",
+        "sweats",
+        "swam",
+        "stairs",
+        "sure"
+      ],
+      "summary": "Sure enough, I go out there at the bottom of the stairs, and make it flexing  this, divorce, say, pumping iron iron with sweats and egg, swam in the ground is vice of to see how they're growing. …"
+    },
+    {
+      "segment_id": 67,
+      "start_sentence_idx": 149,
+      "end_sentence_idx": 150,
+      "num_sentences": 1,
+      "start_time_sec": 482.0,
+      "end_time_sec": 482.0,
+      "text_preview": "It's just absolutely grow.",
+      "keywords": [],
+      "summary": "It's just absolutely grow. …"
+    },
+    {
+      "segment_id": 68,
+      "start_sentence_idx": 150,
+      "end_sentence_idx": 151,
+      "num_sentences": 1,
+      "start_time_sec": 483.0,
+      "end_time_sec": 483.0,
+      "text_preview": "I knew David with him.",
+      "keywords": [],
+      "summary": "I knew David with him. …"
+    },
+    {
+      "segment_id": 69,
+      "start_sentence_idx": 151,
+      "end_sentence_idx": 161,
+      "num_sentences": 10,
+      "start_time_sec": 485.0,
+      "end_time_sec": 501.0,
+      "text_preview": "I was about 10 years old. I wasn't used to certain habits that there were. One of them was where he would sit in a living room with a hairdryer on his head. I'm completely naked. And it's surreal enough to see your father under a hairdryer. I mean, I'm talking  the old one. And I…",
+      "keywords": [
+        "women",
+        "embarrassed",
+        "dad",
+        "old",
+        "one",
+        "naked"
+      ],
+      "summary": "I was about 10 years old. I wasn't used to certain habits that there were. One of them was where he would sit in a living room with a hairdryer on his head. He sort of thought I was a single guy too. And of course you started dating."
+    },
+    {
+      "segment_id": 70,
+      "start_sentence_idx": 161,
+      "end_sentence_idx": 162,
+      "num_sentences": 1,
+      "start_time_sec": 503.0,
+      "end_time_sec": 503.0,
+      "text_preview": "And there you are, ten years old, you're now in this popsicle colored tree for that, this rusted has fallen for us.",
+      "keywords": [
+        "years",
+        "us",
+        "tree",
+        "ten",
+        "rusted",
+        "popsicle"
+      ],
+      "summary": "And there you are, ten years old, you're now in this popsicle colored tree for that, this rusted has fallen for us. …"
+    },
+    {
+      "segment_id": 71,
+      "start_sentence_idx": 162,
+      "end_sentence_idx": 163,
+      "num_sentences": 1,
+      "start_time_sec": 506.0,
+      "end_time_sec": 506.0,
+      "text_preview": "We talked to a half dozen dads about on this, and we discovered that the most part they did not have some memories.",
+      "keywords": [
+        "talked",
+        "part",
+        "memories",
+        "half",
+        "dozen",
+        "discovered"
+      ],
+      "summary": "We talked to a half dozen dads about on this, and we discovered that the most part they did not have some memories. …"
+    },
+    {
+      "segment_id": 72,
+      "start_sentence_idx": 163,
+      "end_sentence_idx": 167,
+      "num_sentences": 4,
+      "start_time_sec": 508.0,
+      "end_time_sec": 519.0,
+      "text_preview": "The moments when they realized kids were singing a little bit. Maybe the kids noticed because for a child, any kind of change in what they used to is huge. Maybe, it just said the dads, understandably, more importantly, that they were not diminished in their children's eyes. And …",
+      "keywords": [
+        "kids",
+        "maybe",
+        "singing",
+        "said",
+        "used",
+        "understandably"
+      ],
+      "summary": "The dads were not diminished in their children's eyes. Maybe, it just said the dads, understandably, more importantly, that they were not"
+    },
+    {
+      "segment_id": 73,
+      "start_sentence_idx": 167,
+      "end_sentence_idx": 168,
+      "num_sentences": 1,
+      "start_time_sec": 523.0,
+      "end_time_sec": 523.0,
+      "text_preview": "change.",
+      "keywords": [],
+      "summary": "change. …"
+    },
+    {
+      "segment_id": 74,
+      "start_sentence_idx": 168,
+      "end_sentence_idx": 169,
+      "num_sentences": 1,
+      "start_time_sec": 530.0,
+      "end_time_sec": 530.0,
+      "text_preview": "Fortunately, that post story about this one.",
+      "keywords": [],
+      "summary": "Fortunately, that post story about this one. …"
+    },
+    {
+      "segment_id": 75,
+      "start_sentence_idx": 169,
+      "end_sentence_idx": 173,
+      "num_sentences": 4,
+      "start_time_sec": 540.0,
+      "end_time_sec": 549.44,
+      "text_preview": "I call the boys every day and talk about what I'm talking about in the days. And one day I was on the phone with my eight-year-old Alex. So we were having a conversation and there was a law in the conversation and I decided to say that. And then he just asked me, Mom.",
+      "keywords": [
+        "day",
+        "conversation",
+        "year",
+        "talk",
+        "talking",
+        "say"
+      ],
+      "summary": "\"I call the boys every day and talk about what I'm talking about in the days. And one day I was on the phone with my eight"
+    },
+    {
+      "segment_id": 76,
+      "start_sentence_idx": 173,
+      "end_sentence_idx": 175,
+      "num_sentences": 2,
+      "start_time_sec": 551.44,
+      "end_time_sec": 552.48,
+      "text_preview": "And I almost started to cry, I was so taking the back by his perception. And I was honest, I said, no, I'm just kidding.",
+      "keywords": [
+        "taking",
+        "started",
+        "said",
+        "perception",
+        "kidding",
+        "honest"
+      ],
+      "summary": "And I almost started to cry, I was so taking the back by his perception. And I was honest, I said, no, I'm just kidding. …"
+    },
+    {
+      "segment_id": 77,
+      "start_sentence_idx": 175,
+      "end_sentence_idx": 176,
+      "num_sentences": 1,
+      "start_time_sec": 555.12,
+      "end_time_sec": 555.12,
+      "text_preview": "Even in this case, this dad didn't really think that this kid saw him that different, sensitive horse.",
+      "keywords": [],
+      "summary": "Even in this case, this dad didn't really think that this kid saw him that different, sensitive horse. …"
+    },
+    {
+      "segment_id": 78,
+      "start_sentence_idx": 176,
+      "end_sentence_idx": 178,
+      "num_sentences": 2,
+      "start_time_sec": 557.92,
+      "end_time_sec": 561.04,
+      "text_preview": "Since seeing him so far, since seeing him cry, one time we did notice the change in his hands. Ryan Masters, which at all.",
+      "keywords": [
+        "since",
+        "seeing",
+        "time",
+        "ryan",
+        "one",
+        "notice"
+      ],
+      "summary": "Since seeing him so far, since seeing him cry, one time we did notice the change in his hands. Ryan Masters, which at all. …"
+    },
+    {
+      "segment_id": 79,
+      "start_sentence_idx": 178,
+      "end_sentence_idx": 180,
+      "num_sentences": 2,
+      "start_time_sec": 564.12,
+      "end_time_sec": 566.44,
+      "text_preview": "Since he and his wife split up eight months ago, his young son started looking out for him. They didn't care of him.",
+      "keywords": [
+        "young",
+        "wife",
+        "started",
+        "split",
+        "son",
+        "since"
+      ],
+      "summary": "Since he and his wife split up eight months ago, his young son started looking out for him. They didn't care of him. …"
+    },
+    {
+      "segment_id": 80,
+      "start_sentence_idx": 180,
+      "end_sentence_idx": 181,
+      "num_sentences": 1,
+      "start_time_sec": 570.0,
+      "end_time_sec": 570.0,
+      "text_preview": "The way he never had the boy with him.",
+      "keywords": [],
+      "summary": "The way he never had the boy with him. …"
+    },
+    {
+      "segment_id": 81,
+      "start_sentence_idx": 181,
+      "end_sentence_idx": 182,
+      "num_sentences": 1,
+      "start_time_sec": 587.0,
+      "end_time_sec": 587.0,
+      "text_preview": "Probably the first thing that he started doing was helping him grab on the swiffer and on doing the hardwood floors and sleeping porch.",
+      "keywords": [
+        "thing",
+        "swiffer",
+        "started",
+        "sleeping",
+        "probably",
+        "porch"
+      ],
+      "summary": "Probably the first thing that he started doing was helping him grab on the swiffer and on doing the hardwood floors and sleeping porch. …"
+    },
+    {
+      "segment_id": 82,
+      "start_sentence_idx": 182,
+      "end_sentence_idx": 183,
+      "num_sentences": 1,
+      "start_time_sec": 592.0,
+      "end_time_sec": 592.0,
+      "text_preview": "Going around and opening up windows to kind of fresh him and playing cell phone.",
+      "keywords": [],
+      "summary": "Going around and opening up windows to kind of fresh him and playing cell phone. …"
+    },
+    {
+      "segment_id": 83,
+      "start_sentence_idx": 183,
+      "end_sentence_idx": 185,
+      "num_sentences": 2,
+      "start_time_sec": 595.0,
+      "end_time_sec": 595.0,
+      "text_preview": ", just sort of some. the kinds of things that you don't think of a kid even having on their radar.",
+      "keywords": [
+        "think",
+        "things",
+        "sort",
+        "radar",
+        "kinds",
+        "kid"
+      ],
+      "summary": ", just sort of some. the kinds of things that you don't think of a kid even having on their radar. …"
+    },
+    {
+      "segment_id": 84,
+      "start_sentence_idx": 185,
+      "end_sentence_idx": 186,
+      "num_sentences": 1,
+      "start_time_sec": 600.0,
+      "end_time_sec": 600.0,
+      "text_preview": "What else would he do to try to be their sponsor one or in the house?",
+      "keywords": [],
+      "summary": "What else would he do to try to be their sponsor one or in the house? …"
+    },
+    {
+      "segment_id": 85,
+      "start_sentence_idx": 186,
+      "end_sentence_idx": 187,
+      "num_sentences": 1,
+      "start_time_sec": 608.0,
+      "end_time_sec": 608.0,
+      "text_preview": "He runs through this sort of checklist on our way out the door.",
+      "keywords": [],
+      "summary": "He runs through this sort of checklist on our way out the door. …"
+    },
+    {
+      "segment_id": 86,
+      "start_sentence_idx": 187,
+      "end_sentence_idx": 188,
+      "num_sentences": 1,
+      "start_time_sec": 612.0,
+      "end_time_sec": 612.0,
+      "text_preview": "Do you have yourself on?",
+      "keywords": [],
+      "summary": "Do you have yourself on? …"
+    },
+    {
+      "segment_id": 87,
+      "start_sentence_idx": 188,
+      "end_sentence_idx": 189,
+      "num_sentences": 1,
+      "start_time_sec": 620.0,
+      "end_time_sec": 620.0,
+      "text_preview": "Did you come up with your other?",
+      "keywords": [],
+      "summary": "Did you come up with your other? …"
+    },
+    {
+      "segment_id": 88,
+      "start_sentence_idx": 189,
+      "end_sentence_idx": 190,
+      "num_sentences": 1,
+      "start_time_sec": 624.0,
+      "end_time_sec": 624.0,
+      "text_preview": "Is it back door locked?",
+      "keywords": [],
+      "summary": "Is it back door locked? …"
+    },
+    {
+      "segment_id": 89,
+      "start_sentence_idx": 190,
+      "end_sentence_idx": 191,
+      "num_sentences": 1,
+      "start_time_sec": 626.0,
+      "end_time_sec": 626.0,
+      "text_preview": ", little litany of things that he knows I'm going to be worried about later.",
+      "keywords": [],
+      "summary": ", little litany of things that he knows I'm going to be worried about later. …"
+    },
+    {
+      "segment_id": 90,
+      "start_sentence_idx": 191,
+      "end_sentence_idx": 194,
+      "num_sentences": 3,
+      "start_time_sec": 630.0,
+      "end_time_sec": 640.08,
+      "text_preview": "He's nine? , ten. He's ten, yeah.",
+      "keywords": [],
+      "summary": "He's nine? , ten. He's ten, yeah. …"
+    },
+    {
+      "segment_id": 91,
+      "start_sentence_idx": 194,
+      "end_sentence_idx": 195,
+      "num_sentences": 1,
+      "start_time_sec": 640.08,
+      "end_time_sec": 640.08,
+      "text_preview": "Well, that is... it, right?",
+      "keywords": [],
+      "summary": "Well, that is... it, right? …"
+    },
+    {
+      "segment_id": 92,
+      "start_sentence_idx": 195,
+      "end_sentence_idx": 196,
+      "num_sentences": 1,
+      "start_time_sec": 643.4,
+      "end_time_sec": 643.4,
+      "text_preview": "Didn't it?",
+      "keywords": [],
+      "summary": "Didn't it? …"
+    },
+    {
+      "segment_id": 93,
+      "start_sentence_idx": 196,
+      "end_sentence_idx": 197,
+      "num_sentences": 1,
+      "start_time_sec": 648.44,
+      "end_time_sec": 648.44,
+      "text_preview": "Oh, I know.",
+      "keywords": [],
+      "summary": "Oh, I know. …"
+    },
+    {
+      "segment_id": 94,
+      "start_sentence_idx": 197,
+      "end_sentence_idx": 198,
+      "num_sentences": 1,
+      "start_time_sec": 651.72,
+      "end_time_sec": 651.72,
+      "text_preview": "I would love it if that only made him happy.",
+      "keywords": [],
+      "summary": "I would love it if that only made him happy. …"
+    },
+    {
+      "segment_id": 95,
+      "start_sentence_idx": 198,
+      "end_sentence_idx": 199,
+      "num_sentences": 1,
+      "start_time_sec": 656.16,
+      "end_time_sec": 656.16,
+      "text_preview": "The fact is it also makes him think the same.",
+      "keywords": [],
+      "summary": "The fact is it also makes him think the same. …"
+    },
+    {
+      "segment_id": 96,
+      "start_sentence_idx": 199,
+      "end_sentence_idx": 200,
+      "num_sentences": 1,
+      "start_time_sec": 658.16,
+      "end_time_sec": 658.16,
+      "text_preview": "Because, well, because no position, position, can't get the place.",
+      "keywords": [],
+      "summary": "Because, well, because no position, position, can't get the place. …"
+    },
+    {
+      "segment_id": 97,
+      "start_sentence_idx": 200,
+      "end_sentence_idx": 201,
+      "num_sentences": 1,
+      "start_time_sec": 660.0,
+      "end_time_sec": 660.0,
+      "text_preview": "As much as I tried to pick you up, not in the specific, but especially in the early go on, martial with them.",
+      "keywords": [
+        "tried",
+        "specific",
+        "pick",
+        "much",
+        "martial",
+        "go"
+      ],
+      "summary": "As much as I tried to pick you up, not in the specific, but especially in the early go on, martial with them. …"
+    },
+    {
+      "segment_id": 98,
+      "start_sentence_idx": 201,
+      "end_sentence_idx": 202,
+      "num_sentences": 1,
+      "start_time_sec": 670.08,
+      "end_time_sec": 670.08,
+      "text_preview": "you're a teacher, you'll be doing this homework.",
+      "keywords": [],
+      "summary": "you're a teacher, you'll be doing this homework. …"
+    },
+    {
+      "segment_id": 99,
+      "start_sentence_idx": 202,
+      "end_sentence_idx": 203,
+      "num_sentences": 1,
+      "start_time_sec": 678.72,
+      "end_time_sec": 678.72,
+      "text_preview": "I'm being reading magazine.",
+      "keywords": [],
+      "summary": "I'm being reading magazine. …"
+    },
+    {
+      "segment_id": 100,
+      "start_sentence_idx": 203,
+      "end_sentence_idx": 204,
+      "num_sentences": 1,
+      "start_time_sec": 686.32,
+      "end_time_sec": 686.32,
+      "text_preview": "They look across the country.",
+      "keywords": [],
+      "summary": "They look across the country. …"
+    },
+    {
+      "segment_id": 101,
+      "start_sentence_idx": 204,
+      "end_sentence_idx": 205,
+      "num_sentences": 1,
+      "start_time_sec": 690.0,
+      "end_time_sec": 690.0,
+      "text_preview": "She's working.",
+      "keywords": [],
+      "summary": "She's working. …"
+    },
+    {
+      "segment_id": 102,
+      "start_sentence_idx": 205,
+      "end_sentence_idx": 206,
+      "num_sentences": 1,
+      "start_time_sec": 692.6,
+      "end_time_sec": 692.6,
+      "text_preview": "But she's a good girl.",
+      "keywords": [],
+      "summary": "But she's a good girl. …"
+    },
+    {
+      "segment_id": 103,
+      "start_sentence_idx": 206,
+      "end_sentence_idx": 208,
+      "num_sentences": 2,
+      "start_time_sec": 695.92,
+      "end_time_sec": 699.7,
+      "text_preview": "I love how the second satin's after she's really pretty is she's a good girl. Yeah she's probably.",
+      "keywords": [],
+      "summary": "I love how the second satin's after she's really pretty is she's a good girl. Yeah she's probably. …"
+    },
+    {
+      "segment_id": 104,
+      "start_sentence_idx": 208,
+      "end_sentence_idx": 209,
+      "num_sentences": 1,
+      "start_time_sec": 701.2,
+      "end_time_sec": 701.2,
+      "text_preview": "I bet she's a good girl.",
+      "keywords": [],
+      "summary": "I bet she's a good girl. …"
+    },
+    {
+      "segment_id": 105,
+      "start_sentence_idx": 209,
+      "end_sentence_idx": 210,
+      "num_sentences": 1,
+      "start_time_sec": 703.0,
+      "end_time_sec": 703.0,
+      "text_preview": "Did you get to learn new things to cook after entry as you ?",
+      "keywords": [],
+      "summary": "Did you get to learn new things to cook after entry as you ? …"
+    },
+    {
+      "segment_id": 106,
+      "start_sentence_idx": 210,
+      "end_sentence_idx": 211,
+      "num_sentences": 1,
+      "start_time_sec": 705.2,
+      "end_time_sec": 705.2,
+      "text_preview": "I had to remember to click, which was the hardest part in the darkest days.",
+      "keywords": [],
+      "summary": "I had to remember to click, which was the hardest part in the darkest days. …"
+    },
+    {
+      "segment_id": 107,
+      "start_sentence_idx": 211,
+      "end_sentence_idx": 212,
+      "num_sentences": 1,
+      "start_time_sec": 708.0,
+      "end_time_sec": 708.0,
+      "text_preview": "It was just remembering that kids need to be fed just down their every day for things to go well.",
+      "keywords": [
+        "well",
+        "things",
+        "remembering",
+        "need",
+        "kids",
+        "go"
+      ],
+      "summary": "It was just remembering that kids need to be fed just down their every day for things to go well. …"
+    },
+    {
+      "segment_id": 108,
+      "start_sentence_idx": 212,
+      "end_sentence_idx": 213,
+      "num_sentences": 1,
+      "start_time_sec": 711.8,
+      "end_time_sec": 711.8,
+      "text_preview": "And occasionally, you would, about 7.38 o'clock at night.",
+      "keywords": [],
+      "summary": "And occasionally, you would, about 7.38 o'clock at night. …"
+    },
+    {
+      "segment_id": 109,
+      "start_sentence_idx": 213,
+      "end_sentence_idx": 214,
+      "num_sentences": 1,
+      "start_time_sec": 714.4,
+      "end_time_sec": 714.4,
+      "text_preview": "Very chatually say, hey,  what it'd be me, did I?",
+      "keywords": [],
+      "summary": "Very chatually say, hey,  what it'd be me, did I? …"
+    },
+    {
+      "segment_id": 110,
+      "start_sentence_idx": 214,
+      "end_sentence_idx": 215,
+      "num_sentences": 1,
+      "start_time_sec": 720.0,
+      "end_time_sec": 720.0,
+      "text_preview": "She went, is that up in the?",
+      "keywords": [],
+      "summary": "She went, is that up in the? …"
+    },
+    {
+      "segment_id": 111,
+      "start_sentence_idx": 215,
+      "end_sentence_idx": 216,
+      "num_sentences": 1,
+      "start_time_sec": 725.44,
+      "end_time_sec": 725.44,
+      "text_preview": "that is, , it's really hard for the child, for the parent to be prematurely taken from them as a superperson.",
+      "keywords": [
+        "taken",
+        "superperson",
+        "really",
+        "prematurely",
+        "parent",
+        "hard"
+      ],
+      "summary": "that is, , it's really hard for the child, for the parent to be prematurely taken from them as a superperson. …"
+    },
+    {
+      "segment_id": 112,
+      "start_sentence_idx": 216,
+      "end_sentence_idx": 217,
+      "num_sentences": 1,
+      "start_time_sec": 727.76,
+      "end_time_sec": 727.76,
+      "text_preview": "But hard is that for the dad?",
+      "keywords": [],
+      "summary": "But hard is that for the dad? …"
+    },
+    {
+      "segment_id": 113,
+      "start_sentence_idx": 217,
+      "end_sentence_idx": 218,
+      "num_sentences": 1,
+      "start_time_sec": 730.32,
+      "end_time_sec": 730.32,
+      "text_preview": "Oh, it's a terrible experience.",
+      "keywords": [],
+      "summary": "Oh, it's a terrible experience. …"
+    },
+    {
+      "segment_id": 114,
+      "start_sentence_idx": 218,
+      "end_sentence_idx": 219,
+      "num_sentences": 1,
+      "start_time_sec": 735.68,
+      "end_time_sec": 735.68,
+      "text_preview": "I mean, talk about it, talk about a failure.",
+      "keywords": [],
+      "summary": "I mean, talk about it, talk about a failure. …"
+    },
+    {
+      "segment_id": 115,
+      "start_sentence_idx": 219,
+      "end_sentence_idx": 220,
+      "num_sentences": 1,
+      "start_time_sec": 738.24,
+      "end_time_sec": 738.24,
+      "text_preview": "And it was important to me to be able to, you know, the gentlemanly reclimit him some of that ground, not just to appear to, but to actually did you, did you consciously try to reclaim?",
+      "keywords": [
+        "try",
+        "reclimit",
+        "reclaim",
+        "know",
+        "important",
+        "ground"
+      ],
+      "summary": "And it was important to me to be able to, you know, the gentlemanly reclimit him some of that ground, not just to appear to, but to actually did you, did you consciously try to reclaim? …"
+    },
+    {
+      "segment_id": 116,
+      "start_sentence_idx": 220,
+      "end_sentence_idx": 221,
+      "num_sentences": 1,
+      "start_time_sec": 742.32,
+      "end_time_sec": 742.32,
+      "text_preview": "Absolutely, sure.",
+      "keywords": [],
+      "summary": "Absolutely, sure. …"
+    },
+    {
+      "segment_id": 117,
+      "start_sentence_idx": 221,
+      "end_sentence_idx": 222,
+      "num_sentences": 1,
+      "start_time_sec": 745.0,
+      "end_time_sec": 745.0,
+      "text_preview": ", those weren't proud moments in my life to realize that my kid had begun to look out for him, that my kid had begun to come aware of the changes in my own.",
+      "keywords": [
+        "begun",
+        "kid",
+        "proud",
+        "realize",
+        "look",
+        "moments"
+      ],
+      "summary": ", those weren't proud moments in my life to realize that my kid had begun to look out for him, that my kid had begun to come aware of the changes in my own. …"
+    },
+    {
+      "segment_id": 118,
+      "start_sentence_idx": 222,
+      "end_sentence_idx": 223,
+      "num_sentences": 1,
+      "start_time_sec": 748.76,
+      "end_time_sec": 748.76,
+      "text_preview": "Video in the Spanish thing?",
+      "keywords": [],
+      "summary": "Video in the Spanish thing? …"
+    },
+    {
+      "segment_id": 119,
+      "start_sentence_idx": 223,
+      "end_sentence_idx": 224,
+      "num_sentences": 1,
+      "start_time_sec": 750.0,
+      "end_time_sec": 750.0,
+      "text_preview": "Well, I won't be doing anything with marshers and there is no one to date with.",
+      "keywords": [],
+      "summary": "Well, I won't be doing anything with marshers and there is no one to date with. …"
+    },
+    {
+      "segment_id": 120,
+      "start_sentence_idx": 224,
+      "end_sentence_idx": 225,
+      "num_sentences": 1,
+      "start_time_sec": 757.76,
+      "end_time_sec": 757.76,
+      "text_preview": "But I get to stand with him.",
+      "keywords": [],
+      "summary": "But I get to stand with him. …"
+    },
+    {
+      "segment_id": 121,
+      "start_sentence_idx": 225,
+      "end_sentence_idx": 226,
+      "num_sentences": 1,
+      "start_time_sec": 765.12,
+      "end_time_sec": 765.12,
+      "text_preview": "Unless we make some fun with this session.",
+      "keywords": [],
+      "summary": "Unless we make some fun with this session. …"
+    },
+    {
+      "segment_id": 122,
+      "start_sentence_idx": 226,
+      "end_sentence_idx": 227,
+      "num_sentences": 1,
+      "start_time_sec": 768.24,
+      "end_time_sec": 768.24,
+      "text_preview": "to do so when we end we haven't just yet so I would suspect that Sunday will be will be a little important.",
+      "keywords": [
+        "yet",
+        "would",
+        "suspect",
+        "sunday",
+        "little",
+        "important"
+      ],
+      "summary": "to do so when we end we haven't just yet so I would suspect that Sunday will be will be a little important. …"
+    },
+    {
+      "segment_id": 123,
+      "start_sentence_idx": 227,
+      "end_sentence_idx": 228,
+      "num_sentences": 1,
+      "start_time_sec": 770.24,
+      "end_time_sec": 770.24,
+      "text_preview": "Okay, this is Kishabhi Al-Ahm.",
+      "keywords": [],
+      "summary": "Okay, this is Kishabhi Al-Ahm. …"
+    },
+    {
+      "segment_id": 124,
+      "start_sentence_idx": 228,
+      "end_sentence_idx": 229,
+      "num_sentences": 1,
+      "start_time_sec": 773.04,
+      "end_time_sec": 773.04,
+      "text_preview": "They're interesting to see if a Marshal could use a satin steps in.",
+      "keywords": [],
+      "summary": "They're interesting to see if a Marshal could use a satin steps in. …"
+    },
+    {
+      "segment_id": 125,
+      "start_sentence_idx": 229,
+      "end_sentence_idx": 230,
+      "num_sentences": 1,
+      "start_time_sec": 775.54,
+      "end_time_sec": 775.54,
+      "text_preview": "I'm hopeful that he will and on another level I'm trying to hope for that the whole thing slides past him that it isn't concerned for him.",
+      "keywords": [
+        "whole",
+        "trying",
+        "thing",
+        "slides",
+        "past",
+        "level"
+      ],
+      "summary": "I'm hopeful that he will and on another level I'm trying to hope for that the whole thing slides past him that it isn't concerned for him. …"
+    },
+    {
+      "segment_id": 126,
+      "start_sentence_idx": 230,
+      "end_sentence_idx": 231,
+      "num_sentences": 1,
+      "start_time_sec": 782.9,
+      "end_time_sec": 782.9,
+      "text_preview": "That would be strange if he's comforting to me.",
+      "keywords": [],
+      "summary": "That would be strange if he's comforting to me. …"
+    },
+    {
+      "segment_id": 127,
+      "start_sentence_idx": 231,
+      "end_sentence_idx": 232,
+      "num_sentences": 1,
+      "start_time_sec": 780.0,
+      "end_time_sec": 780.0,
+      "text_preview": "Why, explain that, why that would be a sign for it, maybe, healthier.",
+      "keywords": [],
+      "summary": "Why, explain that, why that would be a sign for it, maybe, healthier. …"
+    },
+    {
+      "segment_id": 128,
+      "start_sentence_idx": 232,
+      "end_sentence_idx": 233,
+      "num_sentences": 1,
+      "start_time_sec": 787.6,
+      "end_time_sec": 787.6,
+      "text_preview": ", it would be, if that were to happen, it would be an indication that he's less aware of my loneliness and less aware of my frail to in a little less, , concerned about it.",
+      "keywords": [
+        "less",
+        "would",
+        "aware",
+        "little",
+        "loneliness",
+        "indication"
+      ],
+      "summary": ", it would be, if that were to happen, it would be an indication that he's less aware of my loneliness and less aware of my frail to in a little less, , concerned about it. …"
+    },
+    {
+      "segment_id": 129,
+      "start_sentence_idx": 233,
+      "end_sentence_idx": 234,
+      "num_sentences": 1,
+      "start_time_sec": 792.4,
+      "end_time_sec": 792.4,
+      "text_preview": "Yeah.",
+      "keywords": [],
+      "summary": "Yeah. …"
+    },
+    {
+      "segment_id": 130,
+      "start_sentence_idx": 234,
+      "end_sentence_idx": 235,
+      "num_sentences": 1,
+      "start_time_sec": 792.4,
+      "end_time_sec": 792.4,
+      "text_preview": "Let me a great problem, yeah, no?",
+      "keywords": [],
+      "summary": "Let me a great problem, yeah, no? …"
+    },
+    {
+      "segment_id": 131,
+      "start_sentence_idx": 235,
+      "end_sentence_idx": 236,
+      "num_sentences": 1,
+      "start_time_sec": 798.6,
+      "end_time_sec": 798.6,
+      "text_preview": "Be a great agent.",
+      "keywords": [],
+      "summary": "Be a great agent. …"
+    },
+    {
+      "segment_id": 132,
+      "start_sentence_idx": 236,
+      "end_sentence_idx": 238,
+      "num_sentences": 2,
+      "start_time_sec": 798.6,
+      "end_time_sec": 803.84,
+      "text_preview": "Thanks for the kids and down. me.",
+      "keywords": [],
+      "summary": "Thanks for the kids and down. me. …"
+    },
+    {
+      "segment_id": 133,
+      "start_sentence_idx": 238,
+      "end_sentence_idx": 239,
+      "num_sentences": 1,
+      "start_time_sec": 810.0,
+      "end_time_sec": 810.0,
+      "text_preview": "I did.",
+      "keywords": [],
+      "summary": "I did. …"
+    },
+    {
+      "segment_id": 134,
+      "start_sentence_idx": 239,
+      "end_sentence_idx": 240,
+      "num_sentences": 1,
+      "start_time_sec": 818.0,
+      "end_time_sec": 818.0,
+      "text_preview": "Back to.",
+      "keywords": [],
+      "summary": "Back to. …"
+    },
+    {
+      "segment_id": 135,
+      "start_sentence_idx": 240,
+      "end_sentence_idx": 241,
+      "num_sentences": 1,
+      "start_time_sec": 820.0,
+      "end_time_sec": 820.0,
+      "text_preview": "And if that time, you ringed on shine.",
+      "keywords": [],
+      "summary": "And if that time, you ringed on shine. …"
+    },
+    {
+      "segment_id": 136,
+      "start_sentence_idx": 241,
+      "end_sentence_idx": 242,
+      "num_sentences": 1,
+      "start_time_sec": 824.0,
+      "end_time_sec": 824.0,
+      "text_preview": "There are moments when a dad is tested, and on this father's day, what is the examine one of them?",
+      "keywords": [
+        "tested",
+        "one",
+        "moments",
+        "father",
+        "examine",
+        "day"
+      ],
+      "summary": "There are moments when a dad is tested, and on this father's day, what is the examine one of them? …"
+    },
+    {
+      "segment_id": 137,
+      "start_sentence_idx": 242,
+      "end_sentence_idx": 243,
+      "num_sentences": 1,
+      "start_time_sec": 830.0,
+      "end_time_sec": 830.0,
+      "text_preview": "The daughter's birthday.",
+      "keywords": [],
+      "summary": "The daughter's birthday. …"
+    },
+    {
+      "segment_id": 138,
+      "start_sentence_idx": 243,
+      "end_sentence_idx": 244,
+      "num_sentences": 1,
+      "start_time_sec": 836.0,
+      "end_time_sec": 836.0,
+      "text_preview": "Ian Brown is a writer and a radio host for the Canadian broadcasting corporation.",
+      "keywords": [],
+      "summary": "Ian Brown is a writer and a radio host for the Canadian broadcasting corporation. …"
+    },
+    {
+      "segment_id": 139,
+      "start_sentence_idx": 244,
+      "end_sentence_idx": 246,
+      "num_sentences": 2,
+      "start_time_sec": 838.0,
+      "end_time_sec": 840.0,
+      "text_preview": "He has this story about what it means to be a dad who is merely human-sized. He recorded this at a American life show that we didn't find a fly-voltaiances in Boston.",
+      "keywords": [
+        "voltaiances",
+        "story",
+        "sized",
+        "show",
+        "recorded",
+        "merely"
+      ],
+      "summary": "He has this story about what it means to be a dad who is merely human-sized. He recorded this at a American life show that we didn't find a fly-voltaiances in Boston. …"
+    },
+    {
+      "segment_id": 140,
+      "start_sentence_idx": 246,
+      "end_sentence_idx": 247,
+      "num_sentences": 1,
+      "start_time_sec": 841.0,
+      "end_time_sec": 841.0,
+      "text_preview": "He's a father.",
+      "keywords": [],
+      "summary": "He's a father. …"
+    },
+    {
+      "segment_id": 141,
+      "start_sentence_idx": 247,
+      "end_sentence_idx": 248,
+      "num_sentences": 1,
+      "start_time_sec": 845.0,
+      "end_time_sec": 845.0,
+      "text_preview": "No one arrives, fashionably, late, for the seven girls birthday party.",
+      "keywords": [],
+      "summary": "No one arrives, fashionably, late, for the seven girls birthday party. …"
+    },
+    {
+      "segment_id": 142,
+      "start_sentence_idx": 248,
+      "end_sentence_idx": 249,
+      "num_sentences": 1,
+      "start_time_sec": 852.0,
+      "end_time_sec": 852.0,
+      "text_preview": "That offense will one of parental life, never waste free babysitting.",
+      "keywords": [],
+      "summary": "That offense will one of parental life, never waste free babysitting. …"
+    },
+    {
+      "segment_id": 143,
+      "start_sentence_idx": 249,
+      "end_sentence_idx": 250,
+      "num_sentences": 1,
+      "start_time_sec": 856.6,
+      "end_time_sec": 856.6,
+      "text_preview": "But all seven guests at my daughter Hayley's seventh birthday party were dropped off by their parents, mysteriously, seven minutes, early.",
+      "keywords": [
+        "seven",
+        "seventh",
+        "party",
+        "parents",
+        "mysteriously",
+        "minutes"
+      ],
+      "summary": "But all seven guests at my daughter Hayley's seventh birthday party were dropped off by their parents, mysteriously, seven minutes, early. …"
+    },
+    {
+      "segment_id": 144,
+      "start_sentence_idx": 250,
+      "end_sentence_idx": 251,
+      "num_sentences": 1,
+      "start_time_sec": 861.4,
+      "end_time_sec": 861.4,
+      "text_preview": "That sort of behavior is just plain rude.",
+      "keywords": [],
+      "summary": "That sort of behavior is just plain rude. …"
+    },
+    {
+      "segment_id": 145,
+      "start_sentence_idx": 251,
+      "end_sentence_idx": 252,
+      "num_sentences": 1,
+      "start_time_sec": 865.4,
+      "end_time_sec": 865.4,
+      "text_preview": "It was  being swarmed by a gang from planet time.",
+      "keywords": [],
+      "summary": "It was  being swarmed by a gang from planet time. …"
+    },
+    {
+      "segment_id": 146,
+      "start_sentence_idx": 252,
+      "end_sentence_idx": 253,
+      "num_sentences": 1,
+      "start_time_sec": 867.4,
+      "end_time_sec": 867.4,
+      "text_preview": "They dropped their coats in the hall, and immediately scattered to the farthest corners of the house some new, realistically contagious, form biological weapon.",
+      "keywords": [
+        "weapon",
+        "scattered",
+        "realistically",
+        "new",
+        "immediately",
+        "house"
+      ],
+      "summary": "They dropped their coats in the hall, and immediately scattered to the farthest corners of the house some new, realistically contagious, form biological weapon. …"
+    },
+    {
+      "segment_id": 147,
+      "start_sentence_idx": 253,
+      "end_sentence_idx": 254,
+      "num_sentences": 1,
+      "start_time_sec": 870.0,
+      "end_time_sec": 870.0,
+      "text_preview": "I staggered upstairs with a small mount of coats in my arms.",
+      "keywords": [],
+      "summary": "I staggered upstairs with a small mount of coats in my arms. …"
+    },
+    {
+      "segment_id": 148,
+      "start_sentence_idx": 254,
+      "end_sentence_idx": 258,
+      "num_sentences": 4,
+      "start_time_sec": 877.0,
+      "end_time_sec": 898.0,
+      "text_preview": "She's not... have choreized some of myself performing back when I was young and longing to be grown up. Even when I was 11, I wanted to be married because married people I knew had sex every night of their lives. That's not a story. I was lugging coats.",
+      "keywords": [
+        "married",
+        "wanted",
+        "young",
+        "story",
+        "sex",
+        "people"
+      ],
+      "summary": "She's not... have choreized some of myself performing back when I was young and longing to be grown up. Even when I was 11, I wanted to be married because married people I knew had sex every night of their lives. That's  …"
+    },
+    {
+      "segment_id": 149,
+      "start_sentence_idx": 258,
+      "end_sentence_idx": 260,
+      "num_sentences": 2,
+      "start_time_sec": 900.0,
+      "end_time_sec": 902.0,
+      "text_preview": "Back downstairs, Trish, the mother of K.T. Hey, the best friend, too best.",
+      "keywords": [],
+      "summary": "Back downstairs, Trish, the mother of K.T. Hey, the best friend, too best. …"
+    },
+    {
+      "segment_id": 150,
+      "start_sentence_idx": 260,
+      "end_sentence_idx": 262,
+      "num_sentences": 2,
+      "start_time_sec": 905.8,
+      "end_time_sec": 906.8,
+      "text_preview": "friends ago, Trish shot me a knowingler, magician night, having to tell us, fiber optic wants by the force. That was the first hint.",
+      "keywords": [
+        "wants",
+        "us",
+        "trish",
+        "tell",
+        "shot",
+        "optic"
+      ],
+      "summary": "friends ago, Trish shot me a knowingler, magician night, having to tell us, fiber optic wants by the force. That was the first hint. …"
+    },
+    {
+      "segment_id": 151,
+      "start_sentence_idx": 262,
+      "end_sentence_idx": 263,
+      "num_sentences": 1,
+      "start_time_sec": 907.8,
+      "end_time_sec": 907.8,
+      "text_preview": "My wife and I might have gone slightly over the top first day of the race.",
+      "keywords": [],
+      "summary": "My wife and I might have gone slightly over the top first day of the race. …"
+    },
+    {
+      "segment_id": 152,
+      "start_sentence_idx": 263,
+      "end_sentence_idx": 265,
+      "num_sentences": 2,
+      "start_time_sec": 909.6,
+      "end_time_sec": 914.28,
+      "text_preview": "That we might have stepped over the strict moral boundary that separates caring, thoughtful parents, who believe in personal attention. I'm going to tell you, Trish shot me a knowingler, having to tell us, fiber optic wants by the force.",
+      "keywords": [
+        "tell",
+        "wants",
+        "us",
+        "trish",
+        "thoughtful",
+        "strict"
+      ],
+      "summary": "That we might have stepped over the strict moral boundary that separates caring, thoughtful parents, who believe in personal attention. I'm going to tell you, Trish shot me a knowingler, having to tell us, fiber optic wa …"
+    },
+    {
+      "segment_id": 153,
+      "start_sentence_idx": 265,
+      "end_sentence_idx": 266,
+      "num_sentences": 1,
+      "start_time_sec": 919.12,
+      "end_time_sec": 919.12,
+      "text_preview": "That we might have gone over the strict moral boundary that separates caring, thoughtful and thoughtful, and thoughtful, and thoughtful, and thoughtful, and thoughtful and thoughtful, and thoughtful, and thoughtful, and thoughtful, and thoughtful Call the daytime from cheeseballs…",
+      "keywords": [
+        "thoughtful",
+        "way",
+        "us",
+        "tried",
+        "strict",
+        "separates"
+      ],
+      "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a"
+    },
+    {
+      "segment_id": 154,
+      "start_sentence_idx": 266,
+      "end_sentence_idx": 267,
+      "num_sentences": 1,
+      "start_time_sec": 927.12,
+      "end_time_sec": 927.12,
+      "text_preview": "It's easy to commit that social gap these days my wife and I both work The harder we work the guilt you feel they more we want daily birthday parties to be Well, this is both a matter of space would be gratifying We've been planning daily seventh birthday, or to be slightly more …",
+      "keywords": [
+        "work",
+        "wife",
+        "planning",
+        "daily",
+        "birthday",
+        "would"
+      ],
+      "summary": "We've been planning daily seventh birthday, or to be slightly more accurate, my wife Johanna had been planning as an Ivy with nothing. It's easy to commit that social gap"
+    },
+    {
+      "segment_id": 155,
+      "start_sentence_idx": 267,
+      "end_sentence_idx": 268,
+      "num_sentences": 1,
+      "start_time_sec": 930.0,
+      "end_time_sec": 930.0,
+      "text_preview": "For weeks, what there was was cake, iced, five professionals.",
+      "keywords": [],
+      "summary": "For weeks, what there was was cake, iced, five professionals. …"
+    },
+    {
+      "segment_id": 156,
+      "start_sentence_idx": 268,
+      "end_sentence_idx": 270,
+      "num_sentences": 2,
+      "start_time_sec": 935.0,
+      "end_time_sec": 940.0,
+      "text_preview": "In the shape of a magician's top hat, rich cost 30 bucks. a tropical aged brokerage peanut-free party favors.",
+      "keywords": [],
+      "summary": "In the shape of a magician's top hat, rich cost 30 bucks. a tropical aged brokerage peanut-free party favors. …"
+    },
+    {
+      "segment_id": 157,
+      "start_sentence_idx": 270,
+      "end_sentence_idx": 271,
+      "num_sentences": 1,
+      "start_time_sec": 945.0,
+      "end_time_sec": 945.0,
+      "text_preview": "As $15 a bag.",
+      "keywords": [],
+      "summary": "As $15 a bag. …"
+    },
+    {
+      "segment_id": 158,
+      "start_sentence_idx": 271,
+      "end_sentence_idx": 272,
+      "num_sentences": 1,
+      "start_time_sec": 946.0,
+      "end_time_sec": 946.0,
+      "text_preview": "And of course the magician himself at $150 to 2 hours.",
+      "keywords": [],
+      "summary": "And of course the magician himself at $150 to 2 hours. …"
+    },
+    {
+      "segment_id": 159,
+      "start_sentence_idx": 272,
+      "end_sentence_idx": 273,
+      "num_sentences": 1,
+      "start_time_sec": 948.0,
+      "end_time_sec": 948.0,
+      "text_preview": "He called himself the amazing Robert.",
+      "keywords": [],
+      "summary": "He called himself the amazing Robert. …"
+    },
+    {
+      "segment_id": 160,
+      "start_sentence_idx": 273,
+      "end_sentence_idx": 274,
+      "num_sentences": 1,
+      "start_time_sec": 950.0,
+      "end_time_sec": 950.0,
+      "text_preview": "I don't think he meant that I run a thing.",
+      "keywords": [],
+      "summary": "I don't think he meant that I run a thing. …"
+    },
+    {
+      "segment_id": 161,
+      "start_sentence_idx": 274,
+      "end_sentence_idx": 275,
+      "num_sentences": 1,
+      "start_time_sec": 956.0,
+      "end_time_sec": 956.0,
+      "text_preview": "I  to do- of Special Aunt Hayley's birthday.",
+      "keywords": [],
+      "summary": "I  to do- of Special Aunt Hayley's birthday. …"
+    },
+    {
+      "segment_id": 162,
+      "start_sentence_idx": 275,
+      "end_sentence_idx": 276,
+      "num_sentences": 1,
+      "start_time_sec": 957.0,
+      "end_time_sec": 957.0,
+      "text_preview": "Still, don't you think I said to my wife the sheep frantic, tried to find a magician who wasn't booked three months in advance?",
+      "keywords": [
+        "wife",
+        "tried",
+        "three",
+        "think",
+        "still",
+        "sheep"
+      ],
+      "summary": "Still, don't you think I said to my wife the sheep frantic, tried to find a magician who wasn't booked three months in advance? …"
+    },
+    {
+      "segment_id": 163,
+      "start_sentence_idx": 276,
+      "end_sentence_idx": 279,
+      "num_sentences": 3,
+      "start_time_sec": 958.0,
+      "end_time_sec": 960.0,
+      "text_preview": "Don't you think you might be over empty? But honey, if we don't go slightly crazy, Johannes said quite logically, some other parent will. Then what's he going to think?",
+      "keywords": [
+        "think",
+        "slightly",
+        "said",
+        "quite",
+        "parent",
+        "might"
+      ],
+      "summary": "Don't you think you might be over empty? But honey, if we don't go slightly crazy, Johannes said quite logically, some other parent will. Then what's he going to think? …"
+    },
+    {
+      "segment_id": 164,
+      "start_sentence_idx": 279,
+      "end_sentence_idx": 280,
+      "num_sentences": 1,
+      "start_time_sec": 960.0,
+      "end_time_sec": 960.0,
+      "text_preview": "And anyway, do you have a better idea?",
+      "keywords": [],
+      "summary": "And anyway, do you have a better idea? …"
+    },
+    {
+      "segment_id": 165,
+      "start_sentence_idx": 280,
+      "end_sentence_idx": 281,
+      "num_sentences": 1,
+      "start_time_sec": 960.0,
+      "end_time_sec": 960.0,
+      "text_preview": "And I did not have a better idea.",
+      "keywords": [],
+      "summary": "And I did not have a better idea. …"
+    },
+    {
+      "segment_id": 166,
+      "start_sentence_idx": 281,
+      "end_sentence_idx": 282,
+      "num_sentences": 1,
+      "start_time_sec": 960.0,
+      "end_time_sec": 960.0,
+      "text_preview": "contributions of the magician party had been to suggest that we include a woopy cushion in every loop bed or at least it was my idea to blow them up and put them in the loop bags pre-inflated.",
+      "keywords": [
+        "loop",
+        "woopy",
+        "suggest",
+        "pre",
+        "put",
+        "party"
+      ],
+      "summary": "contributions of the magician party had been to suggest that we include a woopy cushion in every loop bed or at least it was my idea to blow them up and put them in the loop bags pre-inflated. …"
+    },
+    {
+      "segment_id": 167,
+      "start_sentence_idx": 282,
+      "end_sentence_idx": 283,
+      "num_sentences": 1,
+      "start_time_sec": 960.0,
+      "end_time_sec": 960.0,
+      "text_preview": "In the old days when Daily with small people, we kept to grip they simple.",
+      "keywords": [],
+      "summary": "In the old days when Daily with small people, we kept to grip they simple. …"
+    },
+    {
+      "segment_id": 168,
+      "start_sentence_idx": 283,
+      "end_sentence_idx": 284,
+      "num_sentences": 1,
+      "start_time_sec": 966.72,
+      "end_time_sec": 966.72,
+      "text_preview": "I learned that lesson when I lived in Los Angeles and your Beverly Hills.",
+      "keywords": [],
+      "summary": "I learned that lesson when I lived in Los Angeles and your Beverly Hills. …"
+    },
+    {
+      "segment_id": 169,
+      "start_sentence_idx": 284,
+      "end_sentence_idx": 286,
+      "num_sentences": 2,
+      "start_time_sec": 966.72,
+      "end_time_sec": 973.0,
+      "text_preview": "In Beverly Hills parents  their children's birthday parties have a theme and a fairly significant theme that that manifests destiny, say, or a NASA moon shot. In LA, I never went to a birthday party to teach you anything less than home units.",
+      "keywords": [
+        "theme",
+        "birthday",
+        "units",
+        "went",
+        "significant",
+        "shot"
+      ],
+      "summary": "In Beverly Hills parents  their children's birthday parties have a theme and a fairly significant theme that that manifests destiny, say, or a NASA moon shot. In LA, I never went to a birthday party to teach you anything …"
+    },
+    {
+      "segment_id": 170,
+      "start_sentence_idx": 286,
+      "end_sentence_idx": 295,
+      "num_sentences": 9,
+      "start_time_sec": 977.0,
+      "end_time_sec": 1008.24,
+      "text_preview": "One mother actually gave our Gucci t-shirts in the loop bags. It was hard to compete with that. In an active appliance, a friend of ours is struggling right, staged her daughter's birthday, apart from the promises. Kids have been at times regretting around, swan on swings, play t…",
+      "keywords": [
+        "bags",
+        "daughter",
+        "friend",
+        "birthday",
+        "flocked",
+        "catherine"
+      ],
+      "summary": "A friend of ours is struggling right, staged her daughter's birthday, apart from the promises. One mother actually gave our Gucci t-shirts in the loop bags. Afterwards, the Beverly Hills parents flocked, a little bit of them flocked round on the fence."
+    },
+    {
+      "segment_id": 171,
+      "start_sentence_idx": 295,
+      "end_sentence_idx": 296,
+      "num_sentences": 1,
+      "start_time_sec": 1008.24,
+      "end_time_sec": 1008.24,
+      "text_preview": "That was the theme of the party.",
+      "keywords": [],
+      "summary": "That was the theme of the party. …"
+    },
+    {
+      "segment_id": 172,
+      "start_sentence_idx": 296,
+      "end_sentence_idx": 297,
+      "num_sentences": 1,
+      "start_time_sec": 1008.24,
+      "end_time_sec": 1008.24,
+      "text_preview": "Steering candies on stick.",
+      "keywords": [],
+      "summary": "Steering candies on stick. …"
+    },
+    {
+      "segment_id": 173,
+      "start_sentence_idx": 297,
+      "end_sentence_idx": 299,
+      "num_sentences": 2,
+      "start_time_sec": 1011.36,
+      "end_time_sec": 1020.0,
+      "text_preview": "There were some risk of eye injury and the entire gimmick seemed to have Freudian undertones. The little girls kept saying, I'm gonna stick this skewer of gummy's tiny butt.",
+      "keywords": [
+        "undertones",
+        "tiny",
+        "stick",
+        "skewer",
+        "seemed",
+        "saying"
+      ],
+      "summary": "There were some risk of eye injury and the entire gimmick seemed to have Freudian undertones. The little girls kept saying, I'm gonna stick this skewer of gummy's tiny butt. …"
+    },
+    {
+      "segment_id": 174,
+      "start_sentence_idx": 299,
+      "end_sentence_idx": 300,
+      "num_sentences": 1,
+      "start_time_sec": 1025.0,
+      "end_time_sec": 1025.0,
+      "text_preview": "And Giggling hysterically.",
+      "keywords": [],
+      "summary": "And Giggling hysterically. …"
+    },
+    {
+      "segment_id": 175,
+      "start_sentence_idx": 300,
+      "end_sentence_idx": 301,
+      "num_sentences": 1,
+      "start_time_sec": 1032.0,
+      "end_time_sec": 1032.0,
+      "text_preview": "But all at all, it was a winner.",
+      "keywords": [],
+      "summary": "But all at all, it was a winner. …"
+    },
+    {
+      "segment_id": 176,
+      "start_sentence_idx": 301,
+      "end_sentence_idx": 302,
+      "num_sentences": 1,
+      "start_time_sec": 1038.0,
+      "end_time_sec": 1038.0,
+      "text_preview": "Only one girl part.",
+      "keywords": [],
+      "summary": "Only one girl part. …"
+    },
+    {
+      "segment_id": 177,
+      "start_sentence_idx": 302,
+      "end_sentence_idx": 303,
+      "num_sentences": 1,
+      "start_time_sec": 1043.0,
+      "end_time_sec": 1043.0,
+      "text_preview": "The entire party cost 15 bucks.",
+      "keywords": [],
+      "summary": "The entire party cost 15 bucks. …"
+    },
+    {
+      "segment_id": 178,
+      "start_sentence_idx": 303,
+      "end_sentence_idx": 304,
+      "num_sentences": 1,
+      "start_time_sec": 1050.0,
+      "end_time_sec": 1050.0,
+      "text_preview": "Canadian.",
+      "keywords": [],
+      "summary": "Canadian. …"
+    },
+    {
+      "segment_id": 179,
+      "start_sentence_idx": 304,
+      "end_sentence_idx": 305,
+      "num_sentences": 1,
+      "start_time_sec": 1056.6,
+      "end_time_sec": 1056.6,
+      "text_preview": "It is true that Catherine had a pinata.",
+      "keywords": [],
+      "summary": "It is true that Catherine had a pinata. …"
+    },
+    {
+      "segment_id": 180,
+      "start_sentence_idx": 305,
+      "end_sentence_idx": 306,
+      "num_sentences": 1,
+      "start_time_sec": 1056.6,
+      "end_time_sec": 1056.6,
+      "text_preview": "The Nioca is her excellent, because they entail hitting an object.",
+      "keywords": [],
+      "summary": "The Nioca is her excellent, because they entail hitting an object. …"
+    },
+    {
+      "segment_id": 181,
+      "start_sentence_idx": 306,
+      "end_sentence_idx": 307,
+      "num_sentences": 1,
+      "start_time_sec": 1056.6,
+      "end_time_sec": 1056.6,
+      "text_preview": "Violent, you're the stick.",
+      "keywords": [],
+      "summary": "Violent, you're the stick. …"
+    },
+    {
+      "segment_id": 182,
+      "start_sentence_idx": 307,
+      "end_sentence_idx": 308,
+      "num_sentences": 1,
+      "start_time_sec": 1064.04,
+      "end_time_sec": 1064.04,
+      "text_preview": "The Dose were the old pre-backen alien for the days.",
+      "keywords": [],
+      "summary": "The Dose were the old pre-backen alien for the days. …"
+    },
+    {
+      "segment_id": 183,
+      "start_sentence_idx": 308,
+      "end_sentence_idx": 309,
+      "num_sentences": 1,
+      "start_time_sec": 1064.04,
+      "end_time_sec": 1064.04,
+      "text_preview": "By the time Hayley turned five, the year of our most corrupt and their foremost successful.",
+      "keywords": [],
+      "summary": "By the time Hayley turned five, the year of our most corrupt and their foremost successful. …"
+    },
+    {
+      "segment_id": 184,
+      "start_sentence_idx": 309,
+      "end_sentence_idx": 310,
+      "num_sentences": 1,
+      "start_time_sec": 1071.88,
+      "end_time_sec": 1071.88,
+      "text_preview": "We've gone as low as it.",
+      "keywords": [],
+      "summary": "We've gone as low as it. …"
+    },
+    {
+      "segment_id": 185,
+      "start_sentence_idx": 310,
+      "end_sentence_idx": 311,
+      "num_sentences": 1,
+      "start_time_sec": 1076.68,
+      "end_time_sec": 1076.68,
+      "text_preview": "We've got, we've hired human body.",
+      "keywords": [],
+      "summary": "We've got, we've hired human body. …"
+    },
+    {
+      "segment_id": 186,
+      "start_sentence_idx": 311,
+      "end_sentence_idx": 312,
+      "num_sentences": 1,
+      "start_time_sec": 1080.0,
+      "end_time_sec": 1080.0,
+      "text_preview": "For $300, human Barbie dressed up in full-sized versions, Barbie doll outfits, came to your house.",
+      "keywords": [],
+      "summary": "For $300, human Barbie dressed up in full-sized versions, Barbie doll outfits, came to your house. …"
+    },
+    {
+      "segment_id": 187,
+      "start_sentence_idx": 312,
+      "end_sentence_idx": 313,
+      "num_sentences": 1,
+      "start_time_sec": 1080.0,
+      "end_time_sec": 1080.0,
+      "text_preview": "Human Barbie arrived in a Dodge Dragon.",
+      "keywords": [],
+      "summary": "Human Barbie arrived in a Dodge Dragon. …"
+    },
+    {
+      "segment_id": 188,
+      "start_sentence_idx": 313,
+      "end_sentence_idx": 314,
+      "num_sentences": 1,
+      "start_time_sec": 1097.0,
+      "end_time_sec": 1097.0,
+      "text_preview": "and Karavan with human nature assist.",
+      "keywords": [],
+      "summary": "and Karavan with human nature assist. …"
+    },
+    {
+      "segment_id": 189,
+      "start_sentence_idx": 314,
+      "end_sentence_idx": 315,
+      "num_sentences": 1,
+      "start_time_sec": 1101.0,
+      "end_time_sec": 1101.0,
+      "text_preview": "Two giant mobile racks party dressed for the girls, the T-Setting case, two chess make.",
+      "keywords": [],
+      "summary": "Two giant mobile racks party dressed for the girls, the T-Setting case, two chess make. …"
+    },
+    {
+      "segment_id": 190,
+      "start_sentence_idx": 315,
+      "end_sentence_idx": 316,
+      "num_sentences": 1,
+      "start_time_sec": 1107.0,
+      "end_time_sec": 1107.0,
+      "text_preview": "Dressed kids discuss the possibility of multiple careers.",
+      "keywords": [],
+      "summary": "Dressed kids discuss the possibility of multiple careers. …"
+    },
+    {
+      "segment_id": 191,
+      "start_sentence_idx": 316,
+      "end_sentence_idx": 317,
+      "num_sentences": 1,
+      "start_time_sec": 1107.0,
+      "end_time_sec": 1107.0,
+      "text_preview": "And said them came.",
+      "keywords": [],
+      "summary": "And said them came. …"
+    },
+    {
+      "segment_id": 192,
+      "start_sentence_idx": 317,
+      "end_sentence_idx": 318,
+      "num_sentences": 1,
+      "start_time_sec": 1110.0,
+      "end_time_sec": 1110.0,
+      "text_preview": "All our friends were deeply formed.",
+      "keywords": [],
+      "summary": "All our friends were deeply formed. …"
+    },
+    {
+      "segment_id": 193,
+      "start_sentence_idx": 318,
+      "end_sentence_idx": 319,
+      "num_sentences": 1,
+      "start_time_sec": 1110.0,
+      "end_time_sec": 1110.0,
+      "text_preview": "I might as well have said, oh, this.",
+      "keywords": [],
+      "summary": "I might as well have said, oh, this. …"
+    },
+    {
+      "segment_id": 194,
+      "start_sentence_idx": 319,
+      "end_sentence_idx": 322,
+      "num_sentences": 3,
+      "start_time_sec": 1116.0,
+      "end_time_sec": 1122.0,
+      "text_preview": "year, Haley is having a crack party. We're having a cake made of crack too. My Canadian friends put this crass in the stow to the fact that Johanna, my wife, is American.",
+      "keywords": [
+        "crack",
+        "wife",
+        "year",
+        "put",
+        "party",
+        "made"
+      ],
+      "summary": "year, Haley is having a crack party. We're having a cake made of crack too. My Canadian friends put this crass in the stow to the fact that Johanna, my wife, is American. …"
+    },
+    {
+      "segment_id": 195,
+      "start_sentence_idx": 322,
+      "end_sentence_idx": 323,
+      "num_sentences": 1,
+      "start_time_sec": 1126.0,
+      "end_time_sec": 1126.0,
+      "text_preview": "But successful.",
+      "keywords": [],
+      "summary": "But successful. …"
+    },
+    {
+      "segment_id": 196,
+      "start_sentence_idx": 323,
+      "end_sentence_idx": 324,
+      "num_sentences": 1,
+      "start_time_sec": 1132.0,
+      "end_time_sec": 1132.0,
+      "text_preview": "Well, it was as if the Dalai Lama had made a stop at our house.",
+      "keywords": [],
+      "summary": "Well, it was as if the Dalai Lama had made a stop at our house. …"
+    },
+    {
+      "segment_id": 197,
+      "start_sentence_idx": 324,
+      "end_sentence_idx": 325,
+      "num_sentences": 1,
+      "start_time_sec": 1132.0,
+      "end_time_sec": 1132.0,
+      "text_preview": "The girls were hypnotized with all.",
+      "keywords": [],
+      "summary": "The girls were hypnotized with all. …"
+    },
+    {
+      "segment_id": 198,
+      "start_sentence_idx": 325,
+      "end_sentence_idx": 326,
+      "num_sentences": 1,
+      "start_time_sec": 1140.0,
+      "end_time_sec": 1140.0,
+      "text_preview": "They spent most of the afternoon standing in a circle, brushing, human, bodies.",
+      "keywords": [],
+      "summary": "They spent most of the afternoon standing in a circle, brushing, human, bodies. …"
+    },
+    {
+      "segment_id": 199,
+      "start_sentence_idx": 326,
+      "end_sentence_idx": 327,
+      "num_sentences": 1,
+      "start_time_sec": 1147.0,
+      "end_time_sec": 1147.0,
+      "text_preview": "I had the feeling that secretly, quite a few mums wouldn't have mind at giving it to cry for so, as it turned out, I needed to worry about the amazing robber for magician, either.",
+      "keywords": [
+        "worry",
+        "turned",
+        "secretly",
+        "robber",
+        "quite",
+        "needed"
+      ],
+      "summary": "I had the feeling that secretly, quite a few mums wouldn't have mind at giving it to cry for so, as it turned out, I needed to worry about the amazing robber for magician, either. …"
+    },
+    {
+      "segment_id": 200,
+      "start_sentence_idx": 327,
+      "end_sentence_idx": 328,
+      "num_sentences": 1,
+      "start_time_sec": 1154.16,
+      "end_time_sec": 1154.16,
+      "text_preview": "He was a handsome guy.",
+      "keywords": [],
+      "summary": "He was a handsome guy. …"
+    },
+    {
+      "segment_id": 201,
+      "start_sentence_idx": 328,
+      "end_sentence_idx": 329,
+      "num_sentences": 1,
+      "start_time_sec": 1163.44,
+      "end_time_sec": 1163.44,
+      "text_preview": "with sideburns, a grime, if someone designed.",
+      "keywords": [],
+      "summary": "with sideburns, a grime, if someone designed. …"
+    },
+    {
+      "segment_id": 202,
+      "start_sentence_idx": 329,
+      "end_sentence_idx": 330,
+      "num_sentences": 1,
+      "start_time_sec": 1164.44,
+      "end_time_sec": 1164.44,
+      "text_preview": "Man, the new one he's doing though, he started cracking jokes and hits right away.",
+      "keywords": [],
+      "summary": "Man, the new one he's doing though, he started cracking jokes and hits right away. …"
+    },
+    {
+      "segment_id": 203,
+      "start_sentence_idx": 330,
+      "end_sentence_idx": 334,
+      "num_sentences": 4,
+      "start_time_sec": 1165.44,
+      "end_time_sec": 1200.0,
+      "text_preview": "He must be Hayley said to one of boys, as he walked with a door, no Peter said, I'm a boy, clap to his hands. Hey, the magician said, no clapping. So all the kids clap. I said, no clapping.",
+      "keywords": [
+        "said",
+        "clapping",
+        "clap",
+        "one",
+        "must",
+        "walked"
+      ],
+      "summary": "He must be Hayley said to one of boys, as he walked with a door, no Peter said, I'm a boy, clap to his hands. Hey, the magician said, no clapping. So all the kids clap. I said, no clapping. …"
+    },
+    {
+      "segment_id": 204,
+      "start_sentence_idx": 334,
+      "end_sentence_idx": 335,
+      "num_sentences": 1,
+      "start_time_sec": 1202.0,
+      "end_time_sec": 1202.0,
+      "text_preview": "By the time he started going eggs out of there, no, he's really gone.",
+      "keywords": [],
+      "summary": "By the time he started going eggs out of there, no, he's really gone. …"
+    },
+    {
+      "segment_id": 205,
+      "start_sentence_idx": 335,
+      "end_sentence_idx": 336,
+      "num_sentences": 1,
+      "start_time_sec": 1205.0,
+      "end_time_sec": 1205.0,
+      "text_preview": "And I chose that moment, he ran upstairs.",
+      "keywords": [],
+      "summary": "And I chose that moment, he ran upstairs. …"
+    },
+    {
+      "segment_id": 206,
+      "start_sentence_idx": 336,
+      "end_sentence_idx": 337,
+      "num_sentences": 1,
+      "start_time_sec": 1207.0,
+      "end_time_sec": 1207.0,
+      "text_preview": "I find I need to.",
+      "keywords": [],
+      "summary": "I find I need to. …"
+    },
+    {
+      "segment_id": 207,
+      "start_sentence_idx": 337,
+      "end_sentence_idx": 338,
+      "num_sentences": 1,
+      "start_time_sec": 1209.0,
+      "end_time_sec": 1209.0,
+      "text_preview": "of all glow-ups, regular inter-based cities, kitty, birthday, vashes, also at the dolphins.",
+      "keywords": [],
+      "summary": "of all glow-ups, regular inter-based cities, kitty, birthday, vashes, also at the dolphins. …"
+    },
+    {
+      "segment_id": 208,
+      "start_sentence_idx": 338,
+      "end_sentence_idx": 339,
+      "num_sentences": 1,
+      "start_time_sec": 1212.64,
+      "end_time_sec": 1212.64,
+      "text_preview": "Pack a juice of all glow-red love now.",
+      "keywords": [],
+      "summary": "Pack a juice of all glow-red love now. …"
+    },
+    {
+      "segment_id": 209,
+      "start_sentence_idx": 339,
+      "end_sentence_idx": 340,
+      "num_sentences": 1,
+      "start_time_sec": 1213.64,
+      "end_time_sec": 1213.64,
+      "text_preview": "But when I open the door to my bed, what do I find?",
+      "keywords": [],
+      "summary": "But when I open the door to my bed, what do I find? …"
+    },
+    {
+      "segment_id": 210,
+      "start_sentence_idx": 340,
+      "end_sentence_idx": 341,
+      "num_sentences": 1,
+      "start_time_sec": 1215.64,
+      "end_time_sec": 1215.64,
+      "text_preview": "Line, line on my bed, surrounded by entire Mount Ranges, miniature winter coats, two of my adult guests, holding me.",
+      "keywords": [
+        "line",
+        "two",
+        "surrounded",
+        "ranges",
+        "winter",
+        "mount"
+      ],
+      "summary": "Line, line on my bed, surrounded by entire Mount Ranges, miniature winter coats, two of my adult guests, holding me. …"
+    },
+    {
+      "segment_id": 211,
+      "start_sentence_idx": 341,
+      "end_sentence_idx": 342,
+      "num_sentences": 1,
+      "start_time_sec": 1219.64,
+      "end_time_sec": 1219.64,
+      "text_preview": "There's spouses in downstairs.",
+      "keywords": [],
+      "summary": "There's spouses in downstairs. …"
+    },
+    {
+      "segment_id": 212,
+      "start_sentence_idx": 342,
+      "end_sentence_idx": 343,
+      "num_sentences": 1,
+      "start_time_sec": 1223.64,
+      "end_time_sec": 1223.64,
+      "text_preview": "I must say they played a cool, but headache, they weren't set.",
+      "keywords": [],
+      "summary": "I must say they played a cool, but headache, they weren't set. …"
+    },
+    {
+      "segment_id": 213,
+      "start_sentence_idx": 343,
+      "end_sentence_idx": 344,
+      "num_sentences": 1,
+      "start_time_sec": 1228.64,
+      "end_time_sec": 1228.64,
+      "text_preview": "Robin here, temples, non-bred I asked.",
+      "keywords": [],
+      "summary": "Robin here, temples, non-bred I asked. …"
+    },
+    {
+      "segment_id": 214,
+      "start_sentence_idx": 344,
+      "end_sentence_idx": 345,
+      "num_sentences": 1,
+      "start_time_sec": 1230.0,
+      "end_time_sec": 1230.0,
+      "text_preview": "Yeah, I said these kids' parties, who, I tell you, I left class, they weren't laughs, so if we didn't know.",
+      "keywords": [
+        "yeah",
+        "tell",
+        "said",
+        "parties",
+        "left",
+        "laughs"
+      ],
+      "summary": "Yeah, I said these kids' parties, who, I tell you, I left class, they weren't laughs, so if we didn't know. …"
+    },
+    {
+      "segment_id": 215,
+      "start_sentence_idx": 345,
+      "end_sentence_idx": 346,
+      "num_sentences": 1,
+      "start_time_sec": 1238.0,
+      "end_time_sec": 1238.0,
+      "text_preview": "downstairs the amazing Robert was making cards disappear, reappear, the trash, 80s, mum.",
+      "keywords": [],
+      "summary": "downstairs the amazing Robert was making cards disappear, reappear, the trash, 80s, mum. …"
+    },
+    {
+      "segment_id": 216,
+      "start_sentence_idx": 346,
+      "end_sentence_idx": 347,
+      "num_sentences": 1,
+      "start_time_sec": 1244.0,
+      "end_time_sec": 1244.0,
+      "text_preview": "She kept staring, just, I thought she disapproved it.",
+      "keywords": [],
+      "summary": "She kept staring, just, I thought she disapproved it. …"
+    },
+    {
+      "segment_id": 217,
+      "start_sentence_idx": 347,
+      "end_sentence_idx": 348,
+      "num_sentences": 1,
+      "start_time_sec": 1254.0,
+      "end_time_sec": 1254.0,
+      "text_preview": "tricks.",
+      "keywords": [],
+      "summary": "tricks. …"
+    },
+    {
+      "segment_id": 218,
+      "start_sentence_idx": 348,
+      "end_sentence_idx": 349,
+      "num_sentences": 1,
+      "start_time_sec": 1260.0,
+      "end_time_sec": 1260.0,
+      "text_preview": "The little shuri, I know,\" said, I knew I knew that magician is just come through a terrible divorce from a birthday come.",
+      "keywords": [
+        "knew",
+        "come",
+        "shuri",
+        "terrible",
+        "said",
+        "magician"
+      ],
+      "summary": "The little shuri, I know,\" said, I knew I knew that magician is just come through a terrible divorce from a birthday come. …"
+    },
+    {
+      "segment_id": 219,
+      "start_sentence_idx": 349,
+      "end_sentence_idx": 350,
+      "num_sentences": 1,
+      "start_time_sec": 1264.0,
+      "end_time_sec": 1264.0,
+      "text_preview": "Which pretty much says it all, does that?",
+      "keywords": [],
+      "summary": "Which pretty much says it all, does that? …"
+    },
+    {
+      "segment_id": 220,
+      "start_sentence_idx": 350,
+      "end_sentence_idx": 351,
+      "num_sentences": 1,
+      "start_time_sec": 1270.0,
+      "end_time_sec": 1270.0,
+      "text_preview": "It's terrible getting old at this point.",
+      "keywords": [],
+      "summary": "It's terrible getting old at this point. …"
+    },
+    {
+      "segment_id": 221,
+      "start_sentence_idx": 351,
+      "end_sentence_idx": 353,
+      "num_sentences": 2,
+      "start_time_sec": 1272.0,
+      "end_time_sec": 1276.0,
+      "text_preview": "Let's, the no child believes that they want to get old, If you're seven, you can't wait to be nine. I mean, nine, that is gonna be the greatest.",
+      "keywords": [
+        "nine",
+        "want",
+        "seven",
+        "wait",
+        "old",
+        "mean"
+      ],
+      "summary": "Let's, the no child believes that they want to get old, If you're seven, you can't wait to be nine. I mean, nine, that is gonna be the greatest. …"
+    },
+    {
+      "segment_id": 222,
+      "start_sentence_idx": 353,
+      "end_sentence_idx": 354,
+      "num_sentences": 1,
+      "start_time_sec": 1283.0,
+      "end_time_sec": 1283.0,
+      "text_preview": "Because they think life just gets better, better, better.",
+      "keywords": [],
+      "summary": "Because they think life just gets better, better, better. …"
+    },
+    {
+      "segment_id": 223,
+      "start_sentence_idx": 354,
+      "end_sentence_idx": 355,
+      "num_sentences": 1,
+      "start_time_sec": 1289.0,
+      "end_time_sec": 1289.0,
+      "text_preview": "The older you get, we grow nubs.",
+      "keywords": [],
+      "summary": "The older you get, we grow nubs. …"
+    },
+    {
+      "segment_id": 224,
+      "start_sentence_idx": 355,
+      "end_sentence_idx": 356,
+      "num_sentences": 1,
+      "start_time_sec": 1290.0,
+      "end_time_sec": 1290.0,
+      "text_preview": "We know better.",
+      "keywords": [],
+      "summary": "We know better. …"
+    },
+    {
+      "segment_id": 225,
+      "start_sentence_idx": 356,
+      "end_sentence_idx": 357,
+      "num_sentences": 1,
+      "start_time_sec": 1296.24,
+      "end_time_sec": 1296.24,
+      "text_preview": "Oh, think we do.",
+      "keywords": [],
+      "summary": "Oh, think we do. …"
+    },
+    {
+      "segment_id": 226,
+      "start_sentence_idx": 357,
+      "end_sentence_idx": 358,
+      "num_sentences": 1,
+      "start_time_sec": 1303.0,
+      "end_time_sec": 1303.0,
+      "text_preview": "Or at least we need.",
+      "keywords": [],
+      "summary": "Or at least we need. …"
+    },
+    {
+      "segment_id": 227,
+      "start_sentence_idx": 358,
+      "end_sentence_idx": 359,
+      "num_sentences": 1,
+      "start_time_sec": 1306.0,
+      "end_time_sec": 1306.0,
+      "text_preview": "But I didn't have much time such a long gone's rank on food.",
+      "keywords": [],
+      "summary": "But I didn't have much time such a long gone's rank on food. …"
+    },
+    {
+      "segment_id": 228,
+      "start_sentence_idx": 359,
+      "end_sentence_idx": 360,
+      "num_sentences": 1,
+      "start_time_sec": 1313.28,
+      "end_time_sec": 1313.28,
+      "text_preview": "Because a new sound was walked again, but sound it is rank.",
+      "keywords": [],
+      "summary": "Because a new sound was walked again, but sound it is rank. …"
+    },
+    {
+      "segment_id": 229,
+      "start_sentence_idx": 360,
+      "end_sentence_idx": 361,
+      "num_sentences": 1,
+      "start_time_sec": 1315.12,
+      "end_time_sec": 1315.12,
+      "text_preview": "It's a really good, fast-food content, better.",
+      "keywords": [],
+      "summary": "It's a really good, fast-food content, better. …"
+    },
+    {
+      "segment_id": 230,
+      "start_sentence_idx": 361,
+      "end_sentence_idx": 362,
+      "num_sentences": 1,
+      "start_time_sec": 1318.0,
+      "end_time_sec": 1318.0,
+      "text_preview": "Thanks for having the loot bags.",
+      "keywords": [],
+      "summary": "Thanks for having the loot bags. …"
+    },
+    {
+      "segment_id": 231,
+      "start_sentence_idx": 362,
+      "end_sentence_idx": 363,
+      "num_sentences": 1,
+      "start_time_sec": 1320.0,
+      "end_time_sec": 1320.0,
+      "text_preview": "Cras, shirt, cheesy, absolutely.",
+      "keywords": [],
+      "summary": "Cras, shirt, cheesy, absolutely. …"
+    },
+    {
+      "segment_id": 232,
+      "start_sentence_idx": 363,
+      "end_sentence_idx": 364,
+      "num_sentences": 1,
+      "start_time_sec": 1328.86,
+      "end_time_sec": 1328.86,
+      "text_preview": "Growing up, not at all.",
+      "keywords": [],
+      "summary": "Growing up, not at all. …"
+    },
+    {
+      "segment_id": 233,
+      "start_sentence_idx": 364,
+      "end_sentence_idx": 366,
+      "num_sentences": 2,
+      "start_time_sec": 1330.36,
+      "end_time_sec": 1333.6,
+      "text_preview": "That's what I . The end round is the author of Man Medium Rare and Free Reeling and hosted video program called Talking Growth on the CBC.",
+      "keywords": [
+        "video",
+        "talking",
+        "round",
+        "reeling",
+        "rare",
+        "program"
+      ],
+      "summary": "That's what I . The end round is the author of Man Medium Rare and Free Reeling and hosted video program called Talking Growth on the CBC. …"
+    },
+    {
+      "segment_id": 234,
+      "start_sentence_idx": 366,
+      "end_sentence_idx": 367,
+      "num_sentences": 1,
+      "start_time_sec": 1340.0,
+      "end_time_sec": 1340.0,
+      "text_preview": "Coming up, more parental nudity, very very very very very harmless parental nudity.",
+      "keywords": [],
+      "summary": "Coming up, more parental nudity, very very very very very harmless parental nudity. …"
+    },
+    {
+      "segment_id": 235,
+      "start_sentence_idx": 367,
+      "end_sentence_idx": 368,
+      "num_sentences": 1,
+      "start_time_sec": 1346.92,
+      "end_time_sec": 1346.92,
+      "text_preview": "Which is frankly the only way I can take it.",
+      "keywords": [],
+      "summary": "Which is frankly the only way I can take it. …"
+    },
+    {
+      "segment_id": 236,
+      "start_sentence_idx": 368,
+      "end_sentence_idx": 369,
+      "num_sentences": 1,
+      "start_time_sec": 1350.0,
+      "end_time_sec": 1350.0,
+      "text_preview": "I don't know about you.",
+      "keywords": [],
+      "summary": "I don't know about you. …"
+    },
+    {
+      "segment_id": 237,
+      "start_sentence_idx": 369,
+      "end_sentence_idx": 370,
+      "num_sentences": 1,
+      "start_time_sec": 1356.92,
+      "end_time_sec": 1356.92,
+      "text_preview": "That's in a minute.",
+      "keywords": [],
+      "summary": "That's in a minute. …"
+    },
+    {
+      "segment_id": 238,
+      "start_sentence_idx": 370,
+      "end_sentence_idx": 371,
+      "num_sentences": 1,
+      "start_time_sec": 1359.92,
+      "end_time_sec": 1359.92,
+      "text_preview": "I'm not making God inventata This is American Life, America.",
+      "keywords": [],
+      "summary": "I'm not making God inventata This is American Life, America. …"
+    },
+    {
+      "segment_id": 239,
+      "start_sentence_idx": 371,
+      "end_sentence_idx": 372,
+      "num_sentences": 1,
+      "start_time_sec": 1364.92,
+      "end_time_sec": 1364.92,
+      "text_preview": "American Life, America.",
+      "keywords": [],
+      "summary": "American Life, America. …"
+    },
+    {
+      "segment_id": 240,
+      "start_sentence_idx": 372,
+      "end_sentence_idx": 373,
+      "num_sentences": 1,
+      "start_time_sec": 1369.92,
+      "end_time_sec": 1369.92,
+      "text_preview": "Last, each weekend our program of course we choose some theme, bring you a variety of different kinds of stories on that theme.",
+      "keywords": [
+        "theme",
+        "weekend",
+        "variety",
+        "stories",
+        "program",
+        "last"
+      ],
+      "summary": "Last, each weekend our program of course we choose some theme, bring you a variety of different kinds of stories on that theme. …"
+    },
+    {
+      "segment_id": 241,
+      "start_sentence_idx": 373,
+      "end_sentence_idx": 374,
+      "num_sentences": 1,
+      "start_time_sec": 1350.0,
+      "end_time_sec": 1350.0,
+      "text_preview": "Today's show, for Father's Day, stories about dads with the move from the pedestal of eternal grandeur that's where we're entirely from the style, we've arrived at a career of our show, that great legend of the Ben Grabber's song.",
+      "keywords": [
+        "show",
+        "style",
+        "today",
+        "stories",
+        "song",
+        "pedestal"
+      ],
+      "summary": "Today's show, for Father's Day, stories about dads with the move from the pedestal of eternal grandeur that's where we're entirely from the style, we've arrived at a career of our show, that great legend of the Ben Grabb …"
+    },
+    {
+      "segment_id": 242,
+      "start_sentence_idx": 374,
+      "end_sentence_idx": 375,
+      "num_sentences": 1,
+      "start_time_sec": 1354.8,
+      "end_time_sec": 1354.8,
+      "text_preview": "The Clint's father deserted the family not long after the first film was made in the middle of the hall.",
+      "keywords": [
+        "middle",
+        "made",
+        "long",
+        "hall",
+        "first",
+        "film"
+      ],
+      "summary": "The Clint's father deserted the family not long after the first film was made in the middle of the hall. …"
+    },
+    {
+      "segment_id": 243,
+      "start_sentence_idx": 375,
+      "end_sentence_idx": 376,
+      "num_sentences": 1,
+      "start_time_sec": 1359.68,
+      "end_time_sec": 1359.68,
+      "text_preview": "Father was a check forger and a band grabber and for a brief period in the 70s, certain time for it.",
+      "keywords": [
+        "time",
+        "period",
+        "grabber",
+        "forger",
+        "father",
+        "check"
+      ],
+      "summary": "Father was a check forger and a band grabber and for a brief period in the 70s, certain time for it. …"
+    },
+    {
+      "segment_id": 244,
+      "start_sentence_idx": 376,
+      "end_sentence_idx": 377,
+      "num_sentences": 1,
+      "start_time_sec": 1364.48,
+      "end_time_sec": 1364.48,
+      "text_preview": "makes mother for it to bring up work for her bank and at one point if they split up saw the dad on a wanted poster, she brought home and showed his brother saying that you dad eventually under rather odd circumstances, Nick and his father met and started to get to know each other…",
+      "keywords": [
+        "dad",
+        "wanted",
+        "work",
+        "split",
+        "showed",
+        "saying"
+      ],
+      "summary": "Nick and his father met and started to get to know each other under odd circumstances. Nick's mother made his father a wanted poster to bring up work"
+    },
+    {
+      "segment_id": 245,
+      "start_sentence_idx": 377,
+      "end_sentence_idx": 378,
+      "num_sentences": 1,
+      "start_time_sec": 1371.88,
+      "end_time_sec": 1371.88,
+      "text_preview": "I think I'd already heard about my father being prison and I knew the news that and off my heart, and I was probably dies or so , and I was actually pretty heavily then also in doing drugs.",
+      "keywords": [
+        "think",
+        "probably",
+        "prison",
+        "pretty",
+        "news",
+        "knew"
+      ],
+      "summary": "I think I'd already heard about my father being prison and I knew the news that and off my heart, and I was probably dies or so , and I was actually pretty heavily then also in doing drugs. …"
+    },
+    {
+      "segment_id": 246,
+      "start_sentence_idx": 378,
+      "end_sentence_idx": 379,
+      "num_sentences": 1,
+      "start_time_sec": 1375.12,
+      "end_time_sec": 1375.12,
+      "text_preview": "And I'm more than concerned about, she's sort of , , I think she was afraid that I was, , that I was just gonna be  him.",
+      "keywords": [
+        "think",
+        "sort",
+        "gonna",
+        "concerned",
+        "afraid"
+      ],
+      "summary": "And I'm more than concerned about, she's sort of , , I think she was afraid that I was, , that I was just gonna be  him. …"
+    },
+    {
+      "segment_id": 247,
+      "start_sentence_idx": 379,
+      "end_sentence_idx": 385,
+      "num_sentences": 6,
+      "start_time_sec": 1380.0,
+      "end_time_sec": 1415.0,
+      "text_preview": "And it probably very difficult for her to have me in the house, , she's , , made a choice to leave her relationship  that and now her I was sort of becoming that person. I remember we were sitting in the living of our house and she, . I'd probably come home one more night, , comp…",
+      "keywords": [
+        "probably",
+        "good",
+        "house",
+        "sitting",
+        "shattered",
+        "think"
+      ],
+      "summary": "\"I remember we were sitting in the living of our house and she, . I'd probably come home one more night, , completely shattered. And it probably very difficult for her to have me in the house, , she's , , made a choice to leave her relationship that and now"
+    },
+    {
+      "segment_id": 248,
+      "start_sentence_idx": 385,
+      "end_sentence_idx": 386,
+      "num_sentences": 1,
+      "start_time_sec": 1417.0,
+      "end_time_sec": 1417.0,
+      "text_preview": "And we didn't have a lot of money growing up.",
+      "keywords": [],
+      "summary": "And we didn't have a lot of money growing up. …"
+    },
+    {
+      "segment_id": 249,
+      "start_sentence_idx": 386,
+      "end_sentence_idx": 393,
+      "num_sentences": 7,
+      "start_time_sec": 1420.0,
+      "end_time_sec": 1446.0,
+      "text_preview": "I mother worked with two of these jobs and we things were tight. And I told her I tend to go to crime. It seemed  a reason for me to think of doing. , , that's been waiting a lot of money fast. , that was rare pathways, you see. But when I told her that she'd get to crime, I coul…",
+      "keywords": [
+        "crime",
+        "sort",
+        "told",
+        "see",
+        "waiting",
+        "white"
+      ],
+      "summary": "\"I told her I tend to go to crime. It seemed  a reason for me to think of doing. , , that's been waiting a lot of money fast\""
+    },
+    {
+      "segment_id": 250,
+      "start_sentence_idx": 393,
+      "end_sentence_idx": 394,
+      "num_sentences": 1,
+      "start_time_sec": 1450.0,
+      "end_time_sec": 1450.0,
+      "text_preview": "And then she just left the room just  that.",
+      "keywords": [],
+      "summary": "And then she just left the room just  that. …"
+    },
+    {
+      "segment_id": 251,
+      "start_sentence_idx": 394,
+      "end_sentence_idx": 395,
+      "num_sentences": 1,
+      "start_time_sec": 1454.0,
+      "end_time_sec": 1454.0,
+      "text_preview": "I'd seen him, , until I was 16, I think I'd seen him  this two or three times.",
+      "keywords": [],
+      "summary": "I'd seen him, , until I was 16, I think I'd seen him  this two or three times. …"
+    },
+    {
+      "segment_id": 252,
+      "start_sentence_idx": 395,
+      "end_sentence_idx": 396,
+      "num_sentences": 1,
+      "start_time_sec": 1457.0,
+      "end_time_sec": 1457.0,
+      "text_preview": "I actually remembered looking for him, we were thinking I would see him places, because he had friends and situate in my hometown, but by that point my mother had a warrant on him for, , nine payment of child support.",
+      "keywords": [
+        "would",
+        "warrant",
+        "thinking",
+        "support",
+        "situate",
+        "see"
+      ],
+      "summary": "I actually remembered looking for him, we were thinking I would see him places, because he had friends and situate in my hometown, but by that point my mother had a warrant on him for, , nine payment of child support. …"
+    },
+    {
+      "segment_id": 253,
+      "start_sentence_idx": 396,
+      "end_sentence_idx": 397,
+      "num_sentences": 1,
+      "start_time_sec": 1459.0,
+      "end_time_sec": 1459.0,
+      "text_preview": "And then when I was 16, he's when.",
+      "keywords": [],
+      "summary": "And then when I was 16, he's when. …"
+    },
+    {
+      "segment_id": 254,
+      "start_sentence_idx": 397,
+      "end_sentence_idx": 398,
+      "num_sentences": 1,
+      "start_time_sec": 1461.0,
+      "end_time_sec": 1461.0,
+      "text_preview": "My mother first showed me a letter that he sent.",
+      "keywords": [],
+      "summary": "My mother first showed me a letter that he sent. …"
+    },
+    {
+      "segment_id": 255,
+      "start_sentence_idx": 398,
+      "end_sentence_idx": 402,
+      "num_sentences": 4,
+      "start_time_sec": 1464.0,
+      "end_time_sec": 1478.0,
+      "text_preview": "And there's a lot of letters. I spent a couple weeks, a couple of years ago going through all the letters. He sent me pulling it together. And the first letter that I had was for 1976.",
+      "keywords": [
+        "couple",
+        "letters",
+        "together",
+        "spent",
+        "years",
+        "weeks"
+      ],
+      "summary": "And there's a lot of letters. I spent a couple weeks, a couple of years ago going through all the letters. He sent me pulling it together. And the first letter that I had was for 1976. …"
+    },
+    {
+      "segment_id": 256,
+      "start_sentence_idx": 402,
+      "end_sentence_idx": 403,
+      "num_sentences": 1,
+      "start_time_sec": 1494.0,
+      "end_time_sec": 1494.0,
+      "text_preview": "And I just said, really, it's postmark June 25th, signed dad.",
+      "keywords": [],
+      "summary": "And I just said, really, it's postmark June 25th, signed dad. …"
+    },
+    {
+      "segment_id": 257,
+      "start_sentence_idx": 403,
+      "end_sentence_idx": 404,
+      "num_sentences": 1,
+      "start_time_sec": 1500.0,
+      "end_time_sec": 1500.0,
+      "text_preview": "And you get to work for getting a date of my birthday.",
+      "keywords": [],
+      "summary": "And you get to work for getting a date of my birthday. …"
+    },
+    {
+      "segment_id": 258,
+      "start_sentence_idx": 404,
+      "end_sentence_idx": 405,
+      "num_sentences": 1,
+      "start_time_sec": 1503.08,
+      "end_time_sec": 1503.08,
+      "text_preview": "And then one of the lines, and it was, tell me about tell me of yourself and this you both.",
+      "keywords": [
+        "tell",
+        "one",
+        "lines"
+      ],
+      "summary": "And then one of the lines, and it was, tell me about tell me of yourself and this you both. …"
+    },
+    {
+      "segment_id": 259,
+      "start_sentence_idx": 405,
+      "end_sentence_idx": 407,
+      "num_sentences": 2,
+      "start_time_sec": 1505.16,
+      "end_time_sec": 1506.88,
+      "text_preview": "Until... very soon and shall be known. that soon, very soon, I shall be known.",
+      "keywords": [],
+      "summary": "Until... very soon and shall be known. that soon, very soon, I shall be known. …"
+    },
+    {
+      "segment_id": 260,
+      "start_sentence_idx": 407,
+      "end_sentence_idx": 408,
+      "num_sentences": 1,
+      "start_time_sec": 1509.8,
+      "end_time_sec": 1509.8,
+      "text_preview": "One of the things about my father is that he identifies himself as a writer, as a poet.",
+      "keywords": [],
+      "summary": "One of the things about my father is that he identifies himself as a writer, as a poet. …"
+    },
+    {
+      "segment_id": 261,
+      "start_sentence_idx": 408,
+      "end_sentence_idx": 409,
+      "num_sentences": 1,
+      "start_time_sec": 1512.92,
+      "end_time_sec": 1512.92,
+      "text_preview": "He has a sense of grandiosity about himself and what his achievements, his place in the world.",
+      "keywords": [],
+      "summary": "He has a sense of grandiosity about himself and what his achievements, his place in the world. …"
+    },
+    {
+      "segment_id": 262,
+      "start_sentence_idx": 409,
+      "end_sentence_idx": 410,
+      "num_sentences": 1,
+      "start_time_sec": 1521.12,
+      "end_time_sec": 1521.12,
+      "text_preview": "The often what he would do is he would take a letter from someone else in the Xeroxet and then send it on to someone else.",
+      "keywords": [
+        "would",
+        "someone",
+        "else",
+        "xeroxet",
+        "take",
+        "send"
+      ],
+      "summary": "The often what he would do is he would take a letter from someone else in the Xeroxet and then send it on to someone else. …"
+    },
+    {
+      "segment_id": 263,
+      "start_sentence_idx": 410,
+      "end_sentence_idx": 412,
+      "num_sentences": 2,
+      "start_time_sec": 1523.0,
+      "end_time_sec": 1526.36,
+      "text_preview": "He has a correspondence with Ted Kennedy. He writes them all the time and being a senator, the senator, I think, just as someone who answers the letters form .",
+      "keywords": [
+        "senator",
+        "time",
+        "writes",
+        "think",
+        "ted",
+        "someone"
+      ],
+      "summary": "He has a correspondence with Ted Kennedy. He writes them all the time and being a senator, the senator, I think, just as someone who answers the letters form . …"
+    },
+    {
+      "segment_id": 264,
+      "start_sentence_idx": 412,
+      "end_sentence_idx": 415,
+      "num_sentences": 3,
+      "start_time_sec": 1528.84,
+      "end_time_sec": 1532.0,
+      "text_preview": "It'll often be that often hope to just write something maybe it's maybe a couple words and then maybe a zero-ish letter from Ted Kennedy. I have one here, I mean I just got one, actually the most recent, I just got one a couple days ago. Letter from Ted Kennedy, the printed actio…",
+      "keywords": [
+        "one",
+        "maybe",
+        "falling",
+        "ted",
+        "kennedy",
+        "letter"
+      ],
+      "summary": "\"The printed actions are falling apart and the construction is falling. It'll often be that often hope to just write something maybe it's maybe a couple words and then maybe"
+    },
+    {
+      "segment_id": 265,
+      "start_sentence_idx": 415,
+      "end_sentence_idx": 418,
+      "num_sentences": 3,
+      "start_time_sec": 1540.0,
+      "end_time_sec": 1560.0,
+      "text_preview": "Mr. Flynn, thank you for your recent correspondence and advising me as a further views and critical issues facing us in Congress. There's one they can be in variety. These are some lines from a letter that I received from my colleague in 1995.",
+      "keywords": [
+        "views",
+        "variety",
+        "us",
+        "thank",
+        "recent",
+        "received"
+      ],
+      "summary": "Mr. Flynn, thank you for your recent correspondence and advising me as a further views and critical issues facing us in Congress. There's one they can be in variety. These are some lines from a letter that I received fro …"
+    },
+    {
+      "segment_id": 266,
+      "start_sentence_idx": 418,
+      "end_sentence_idx": 419,
+      "num_sentences": 1,
+      "start_time_sec": 1565.36,
+      "end_time_sec": 1565.36,
+      "text_preview": "You must have one love, one great love in our life.",
+      "keywords": [],
+      "summary": "You must have one love, one great love in our life. …"
+    },
+    {
+      "segment_id": 267,
+      "start_sentence_idx": 419,
+      "end_sentence_idx": 420,
+      "num_sentences": 1,
+      "start_time_sec": 1566.36,
+      "end_time_sec": 1566.36,
+      "text_preview": "We are a nation of crunchers.",
+      "keywords": [],
+      "summary": "We are a nation of crunchers. …"
+    },
+    {
+      "segment_id": 268,
+      "start_sentence_idx": 420,
+      "end_sentence_idx": 421,
+      "num_sentences": 1,
+      "start_time_sec": 1574.36,
+      "end_time_sec": 1574.36,
+      "text_preview": "I fully intend to control Senator Kennedy's reelection.",
+      "keywords": [],
+      "summary": "I fully intend to control Senator Kennedy's reelection. …"
+    },
+    {
+      "segment_id": 269,
+      "start_sentence_idx": 421,
+      "end_sentence_idx": 427,
+      "num_sentences": 6,
+      "start_time_sec": 1580.56,
+      "end_time_sec": 1608.0,
+      "text_preview": "He shall win. And I should be named the head of the American Arts Council. The shall happen. I do hope you both are well in order to some solid pursuits of solid goals in life. In another letter from 1989, I shall be able to do for American now. What Mr. Solge needs to be done fo…",
+      "keywords": [
+        "shall",
+        "solid",
+        "american",
+        "well",
+        "solge",
+        "russia"
+      ],
+      "summary": "I do hope you both are well in order to some solid pursuits of solid goals in life. In another letter from 1989, I shall be able to do for"
+    },
+    {
+      "segment_id": 270,
+      "start_sentence_idx": 427,
+      "end_sentence_idx": 428,
+      "num_sentences": 1,
+      "start_time_sec": 1613.44,
+      "end_time_sec": 1613.44,
+      "text_preview": "I work so waiting and shall be soon.",
+      "keywords": [],
+      "summary": "I work so waiting and shall be soon. …"
+    },
+    {
+      "segment_id": 271,
+      "start_sentence_idx": 428,
+      "end_sentence_idx": 429,
+      "num_sentences": 1,
+      "start_time_sec": 1620.0,
+      "end_time_sec": 1620.0,
+      "text_preview": "And this from 1987.",
+      "keywords": [],
+      "summary": "And this from 1987. …"
+    },
+    {
+      "segment_id": 272,
+      "start_sentence_idx": 429,
+      "end_sentence_idx": 430,
+      "num_sentences": 1,
+      "start_time_sec": 1625.0,
+      "end_time_sec": 1625.0,
+      "text_preview": "Riders, especially poets, are particularly prone to madness.",
+      "keywords": [],
+      "summary": "Riders, especially poets, are particularly prone to madness. …"
+    },
+    {
+      "segment_id": 273,
+      "start_sentence_idx": 430,
+      "end_sentence_idx": 431,
+      "num_sentences": 1,
+      "start_time_sec": 1629.0,
+      "end_time_sec": 1629.0,
+      "text_preview": "Whether you  it or not, you are me.",
+      "keywords": [],
+      "summary": "Whether you  it or not, you are me. …"
+    },
+    {
+      "segment_id": 274,
+      "start_sentence_idx": 431,
+      "end_sentence_idx": 432,
+      "num_sentences": 1,
+      "start_time_sec": 1632.0,
+      "end_time_sec": 1632.0,
+      "text_preview": "the B now tells me you are into drugs.",
+      "keywords": [],
+      "summary": "the B now tells me you are into drugs. …"
+    },
+    {
+      "segment_id": 275,
+      "start_sentence_idx": 432,
+      "end_sentence_idx": 433,
+      "num_sentences": 1,
+      "start_time_sec": 1635.0,
+      "end_time_sec": 1635.0,
+      "text_preview": "If so, good luck.",
+      "keywords": [],
+      "summary": "If so, good luck. …"
+    },
+    {
+      "segment_id": 276,
+      "start_sentence_idx": 433,
+      "end_sentence_idx": 434,
+      "num_sentences": 1,
+      "start_time_sec": 1638.0,
+      "end_time_sec": 1638.0,
+      "text_preview": "Cool sage, good luck.",
+      "keywords": [],
+      "summary": "Cool sage, good luck. …"
+    },
+    {
+      "segment_id": 277,
+      "start_sentence_idx": 434,
+      "end_sentence_idx": 435,
+      "num_sentences": 1,
+      "start_time_sec": 1643.0,
+      "end_time_sec": 1643.0,
+      "text_preview": "I knew we were your heroes.",
+      "keywords": [],
+      "summary": "I knew we were your heroes. …"
+    },
+    {
+      "segment_id": 278,
+      "start_sentence_idx": 435,
+      "end_sentence_idx": 436,
+      "num_sentences": 1,
+      "start_time_sec": 1647.0,
+      "end_time_sec": 1647.0,
+      "text_preview": "out of federal prisons and I knew he was driving a cab and I think that taxi involved and I knew something about him but I hadn't seen him for 10, 12 years.",
+      "keywords": [
+        "knew",
+        "think",
+        "taxi",
+        "something",
+        "years",
+        "seen"
+      ],
+      "summary": "out of federal prisons and I knew he was driving a cab and I think that taxi involved and I knew something about him but I hadn't seen him for 10, 12 years. …"
+    },
+    {
+      "segment_id": 279,
+      "start_sentence_idx": 436,
+      "end_sentence_idx": 437,
+      "num_sentences": 1,
+      "start_time_sec": 1650.0,
+      "end_time_sec": 1650.0,
+      "text_preview": "And we finally did see each other.",
+      "keywords": [],
+      "summary": "And we finally did see each other. …"
+    },
+    {
+      "segment_id": 280,
+      "start_sentence_idx": 437,
+      "end_sentence_idx": 438,
+      "num_sentences": 1,
+      "start_time_sec": 1650.0,
+      "end_time_sec": 1650.0,
+      "text_preview": "He had my phone number and at some point I did was in the 1970s he called me up and said he was getting a Vickit from the Greenhouse Museum.",
+      "keywords": [
+        "vickit",
+        "said",
+        "point",
+        "phone",
+        "number",
+        "museum"
+      ],
+      "summary": "He had my phone number and at some point I did was in the 1970s he called me up and said he was getting a Vickit from the Greenhouse Museum. …"
+    },
+    {
+      "segment_id": 281,
+      "start_sentence_idx": 438,
+      "end_sentence_idx": 439,
+      "num_sentences": 1,
+      "start_time_sec": 1655.76,
+      "end_time_sec": 1655.76,
+      "text_preview": "Now he's in Guadgame.",
+      "keywords": [],
+      "summary": "Now he's in Guadgame. …"
+    },
+    {
+      "segment_id": 282,
+      "start_sentence_idx": 439,
+      "end_sentence_idx": 442,
+      "num_sentences": 3,
+      "start_time_sec": 1655.76,
+      "end_time_sec": 1662.0,
+      "text_preview": "more of her intake. , you knew I had to pick up trucks and hire and he wanted me to move all this stuff out of the house and out of his apartment. This might have been the first time I ever thought she could.",
+      "keywords": [
+        "wanted",
+        "trucks",
+        "time",
+        "thought",
+        "stuff",
+        "pick"
+      ],
+      "summary": "more of her intake. , you knew I had to pick up trucks and hire and he wanted me to move all this stuff out of the house and out of his apartment. This might have been the first time I ever thought she could. …"
+    },
+    {
+      "segment_id": 283,
+      "start_sentence_idx": 442,
+      "end_sentence_idx": 443,
+      "num_sentences": 1,
+      "start_time_sec": 1674.12,
+      "end_time_sec": 1674.12,
+      "text_preview": ", because when I was a kid, I don't think I talked to her on the men.",
+      "keywords": [],
+      "summary": ", because when I was a kid, I don't think I talked to her on the men. …"
+    },
+    {
+      "segment_id": 284,
+      "start_sentence_idx": 443,
+      "end_sentence_idx": 444,
+      "num_sentences": 1,
+      "start_time_sec": 1678.12,
+      "end_time_sec": 1678.12,
+      "text_preview": "I got these letters from which I had answered.",
+      "keywords": [],
+      "summary": "I got these letters from which I had answered. …"
+    },
+    {
+      "segment_id": 285,
+      "start_sentence_idx": 444,
+      "end_sentence_idx": 449,
+      "num_sentences": 5,
+      "start_time_sec": 1680.0,
+      "end_time_sec": 1698.08,
+      "text_preview": "Yeah, he was used pretty drunk and he called and he said that he was sitting behind this in the shot done, made him from not to turn. He was just gonna , , he wasn't gonna let him take his stuff and he was gonna leave him, but I should get over there. It's actually brought a coup…",
+      "keywords": [
+        "gonna",
+        "got",
+        "sitting",
+        "said",
+        "used",
+        "witnesses"
+      ],
+      "summary": "\"He was sort of an amazing scene who was, I got to an octopus door and he said to come in, I went in and he was sitting, chin hub naked. He knew of his room, having a, back and drinking vodka out of a silver chalice\""
+    },
+    {
+      "segment_id": 286,
+      "start_sentence_idx": 449,
+      "end_sentence_idx": 450,
+      "num_sentences": 1,
+      "start_time_sec": 1700.88,
+      "end_time_sec": 1700.88,
+      "text_preview": "And I never seen it before and they just stood up naked in front of me and covered the water.",
+      "keywords": [
+        "water",
+        "stood",
+        "seen",
+        "never",
+        "naked",
+        "front"
+      ],
+      "summary": "And I never seen it before and they just stood up naked in front of me and covered the water. …"
+    },
+    {
+      "segment_id": 287,
+      "start_sentence_idx": 450,
+      "end_sentence_idx": 451,
+      "num_sentences": 1,
+      "start_time_sec": 1704.04,
+      "end_time_sec": 1704.04,
+      "text_preview": "I just stood up.",
+      "keywords": [],
+      "summary": "I just stood up. …"
+    },
+    {
+      "segment_id": 288,
+      "start_sentence_idx": 451,
+      "end_sentence_idx": 455,
+      "num_sentences": 4,
+      "start_time_sec": 1710.0,
+      "end_time_sec": 1729.2,
+      "text_preview": "It was shocking. It was shocking to me. I was shocked. It was shocking to me.",
+      "keywords": [],
+      "summary": "It was shocking. It was shocking to me. I was shocked. It was shocking to me. …"
+    },
+    {
+      "segment_id": 289,
+      "start_sentence_idx": 455,
+      "end_sentence_idx": 456,
+      "num_sentences": 1,
+      "start_time_sec": 1734.2,
+      "end_time_sec": 1734.2,
+      "text_preview": "My friend that I stayed with him for maybe half an hour and I ended up giving him some money, put his stuff in stores, he thought , hire trucking.",
+      "keywords": [
+        "trucking",
+        "thought",
+        "stuff",
+        "stores",
+        "stayed",
+        "put"
+      ],
+      "summary": "My friend that I stayed with him for maybe half an hour and I ended up giving him some money, put his stuff in stores, he thought , hire trucking. …"
+    },
+    {
+      "segment_id": 290,
+      "start_sentence_idx": 456,
+      "end_sentence_idx": 457,
+      "num_sentences": 1,
+      "start_time_sec": 1734.2,
+      "end_time_sec": 1734.2,
+      "text_preview": "the hot dinner storage unit did with $50.",
+      "keywords": [],
+      "summary": "the hot dinner storage unit did with $50. …"
+    },
+    {
+      "segment_id": 291,
+      "start_sentence_idx": 457,
+      "end_sentence_idx": 464,
+      "num_sentences": 7,
+      "start_time_sec": 1740.0,
+      "end_time_sec": 1774.0,
+      "text_preview": "And then left, and then he moved the stuff out. And then the next time I saw him was maybe a couple months later, he was getting warm on the most sort of one day, maybe April or something. And I was riding my bike along the shelter, and he was seeking a bench, and the Esplanade b…",
+      "keywords": [
+        "shelter",
+        "bed",
+        "day",
+        "saw",
+        "maybe",
+        "homeless"
+      ],
+      "summary": "\"I was riding my bike along the shelter, and he was seeking a bench, and the Esplanade by the Charles River. And I realized that he was , , at this point you saw him as well\" \"I also had a sick feeling in my stomach that he would show up at the shelter"
+    },
+    {
+      "segment_id": 292,
+      "start_sentence_idx": 464,
+      "end_sentence_idx": 465,
+      "num_sentences": 1,
+      "start_time_sec": 1778.0,
+      "end_time_sec": 1778.0,
+      "text_preview": "I didn't want people to know this.",
+      "keywords": [],
+      "summary": "I didn't want people to know this. …"
+    },
+    {
+      "segment_id": 293,
+      "start_sentence_idx": 465,
+      "end_sentence_idx": 473,
+      "num_sentences": 8,
+      "start_time_sec": 1780.0,
+      "end_time_sec": 1791.0,
+      "text_preview": "I probably tell people that he'd been prisoned, that he was a writer, , that he was a failed writer. And all of those things seemed actually sort of, , distinct sort of a misty. It was something you could just relate at the good story. But then, , then when it comes almost, it ce…",
+      "keywords": [
+        "people",
+        "writer",
+        "something",
+        "shame",
+        "homeless",
+        "happened"
+      ],
+      "summary": "\"I felt real which retold with shame that this man was my father,\" she says. \"I had worked with the homeless for three years and I had a lot of compassion for homeless people\""
+    },
+    {
+      "segment_id": 294,
+      "start_sentence_idx": 473,
+      "end_sentence_idx": 476,
+      "num_sentences": 3,
+      "start_time_sec": 1793.0,
+      "end_time_sec": 1799.0,
+      "text_preview": "I was his family, why was I, I lived in space, why did he live in my place? But then , I did not want him to be, , I had to sense that he had, you know, he hadn't really given me much in my life and now he's going to come and take away job I, in some way that I would come to my j…",
+      "keywords": [
+        "come",
+        "job",
+        "wish",
+        "would",
+        "want",
+        "take"
+      ],
+      "summary": "I was his family, why was I, I lived in space, why did he live in my place? But then , I did not want him to be, , I had to sense that he had, you know, he hadn't really"
+    },
+    {
+      "segment_id": 295,
+      "start_sentence_idx": 476,
+      "end_sentence_idx": 479,
+      "num_sentences": 3,
+      "start_time_sec": 1800.0,
+      "end_time_sec": 1807.0,
+      "text_preview": "He would actually, he got a job, he sort of a model, homeless person. He had a day job at a labor pool who would have a bed help for him. By someone else, I didn't have a lot of interaction with him.",
+      "keywords": [
+        "would",
+        "job",
+        "sort",
+        "pool",
+        "someone",
+        "person"
+      ],
+      "summary": "He would actually, he got a job, he sort of a model, homeless person. He had a day job at a labor pool who would have a bed help for him. By someone else, I didn't have a lot of interaction with him. …"
+    },
+    {
+      "segment_id": 296,
+      "start_sentence_idx": 479,
+      "end_sentence_idx": 482,
+      "num_sentences": 3,
+      "start_time_sec": 1813.0,
+      "end_time_sec": 1821.0,
+      "text_preview": "I remember him being in the lobby of the shelter and him coming in at night. I would have, , radar for when he came in. I would know when he was there, I would look up and see him go and get his bed ticket.",
+      "keywords": [
+        "would",
+        "ticket",
+        "shelter",
+        "see",
+        "remember",
+        "radar"
+      ],
+      "summary": "I remember him being in the lobby of the shelter and him coming in at night. I would have, , radar for when he came in. I would know when he was there, I would look up and see him go and get his bed ticket. …"
+    },
+    {
+      "segment_id": 297,
+      "start_sentence_idx": 482,
+      "end_sentence_idx": 483,
+      "num_sentences": 1,
+      "start_time_sec": 1828.0,
+      "end_time_sec": 1828.0,
+      "text_preview": "Good night.",
+      "keywords": [],
+      "summary": "Good night. …"
+    },
+    {
+      "segment_id": 298,
+      "start_sentence_idx": 483,
+      "end_sentence_idx": 484,
+      "num_sentences": 1,
+      "start_time_sec": 1830.0,
+      "end_time_sec": 1830.0,
+      "text_preview": "Lead up!",
+      "keywords": [],
+      "summary": "Lead up! …"
+    },
+    {
+      "segment_id": 299,
+      "start_sentence_idx": 484,
+      "end_sentence_idx": 485,
+      "num_sentences": 1,
+      "start_time_sec": 1833.0,
+      "end_time_sec": 1833.0,
+      "text_preview": "probably wouldn't say anything to them.",
+      "keywords": [],
+      "summary": "probably wouldn't say anything to them. …"
+    },
+    {
+      "segment_id": 300,
+      "start_sentence_idx": 485,
+      "end_sentence_idx": 488,
+      "num_sentences": 3,
+      "start_time_sec": 1838.0,
+      "end_time_sec": 1848.0,
+      "text_preview": "And then I've just sort of see it. And I judge whether you seem drunk or not, whether you seem  it's just going to be a smooth transition from the day into the night. Or if it wasn't, there's going to be a scene.",
+      "keywords": [
+        "whether",
+        "seem",
+        "going",
+        "transition",
+        "smooth",
+        "sort"
+      ],
+      "summary": "And then I've just sort of see it. And I judge whether you seem drunk or not, whether you seem  it's just going to be a smooth transition from the day into the night. Or if it wasn't, there's going to be a scene. …"
+    },
+    {
+      "segment_id": 301,
+      "start_sentence_idx": 488,
+      "end_sentence_idx": 490,
+      "num_sentences": 2,
+      "start_time_sec": 1855.0,
+      "end_time_sec": 1860.0,
+      "text_preview": "And there were a few times, I remember, , maybe if you're actually after work, I think it's a dawn who's on his way to the labor of this, he worked in the walkie room talking, actually,  outside the shelter. walking along, trying to figure out what was going on in him.",
+      "keywords": [
+        "actually",
+        "worked",
+        "way",
+        "work",
+        "walking",
+        "walkie"
+      ],
+      "summary": "\"I think it's a dawn who's on his way to the labor of this, he worked in the walkie room talking, actually"
+    },
+    {
+      "segment_id": 302,
+      "start_sentence_idx": 490,
+      "end_sentence_idx": 491,
+      "num_sentences": 1,
+      "start_time_sec": 1860.0,
+      "end_time_sec": 1860.0,
+      "text_preview": "And I went back to the shelter recently, this past winter for the first time.",
+      "keywords": [],
+      "summary": "And I went back to the shelter recently, this past winter for the first time. …"
+    },
+    {
+      "segment_id": 303,
+      "start_sentence_idx": 491,
+      "end_sentence_idx": 498,
+      "num_sentences": 7,
+      "start_time_sec": 1868.4,
+      "end_time_sec": 1892.4,
+      "text_preview": "And I talked a lot of people who asked them, what they were thinking of this, what how we interact with, what I seemed , what they thought. And most people said that they were just only confused, that they had no idea what to, heart to me, heart to whom. And it seemed to them tha…",
+      "keywords": [
+        "feeling",
+        "seemed",
+        "people",
+        "want",
+        "know",
+        "heart"
+      ],
+      "summary": "\"I was just sort of, we'd two-free-thouard, and I couldn't, I didn't want to say. So I don't know what I was feeling,\" she says."
+    },
+    {
+      "segment_id": 304,
+      "start_sentence_idx": 498,
+      "end_sentence_idx": 499,
+      "num_sentences": 1,
+      "start_time_sec": 1895.36,
+      "end_time_sec": 1895.36,
+      "text_preview": "That's how when my father showed up in 1987 in the shelter.",
+      "keywords": [],
+      "summary": "That's how when my father showed up in 1987 in the shelter. …"
+    },
+    {
+      "segment_id": 305,
+      "start_sentence_idx": 499,
+      "end_sentence_idx": 506,
+      "num_sentences": 7,
+      "start_time_sec": 1898.8,
+      "end_time_sec": 1914.24,
+      "text_preview": "I was actively drinking and using drugs. And I, , from what I remember, my drug industry's probably drug intake, I imagine, increased. I had a total three vehicles, . all of them I think drinking drugs was driving. At one point I had a motorcycle accident, I was drunk and he said…",
+      "keywords": [
+        "drinking",
+        "drugs",
+        "motorcycle",
+        "drug",
+        "three",
+        "using"
+      ],
+      "summary": "\"I was actively drinking and using drugs. And I, , from what I remember, my drug industry's probably drug intake, I imagine, increased\""
+    },
+    {
+      "segment_id": 306,
+      "start_sentence_idx": 506,
+      "end_sentence_idx": 507,
+      "num_sentences": 1,
+      "start_time_sec": 1917.36,
+      "end_time_sec": 1917.36,
+      "text_preview": "I was sort of feeding a coke bottle of someone who was on the way to some kind of me.",
+      "keywords": [
+        "way",
+        "sort",
+        "someone",
+        "kind",
+        "feeding",
+        "coke"
+      ],
+      "summary": "I was sort of feeding a coke bottle of someone who was on the way to some kind of me. …"
+    },
+    {
+      "segment_id": 307,
+      "start_sentence_idx": 507,
+      "end_sentence_idx": 510,
+      "num_sentences": 3,
+      "start_time_sec": 1920.0,
+      "end_time_sec": 1942.0,
+      "text_preview": "I looked at my father for 30 years old and he was identified himself as a writer, I identified myself as a writer. He didn't take it seriously, he didn't take his situation seriously and that maybe I didn't either at that point. How is he able to be perspective by looking at him …",
+      "keywords": [
+        "writer",
+        "take",
+        "seriously",
+        "identified",
+        "years",
+        "start"
+      ],
+      "summary": "\"I looked at my father for 30 years old and he was identified himself as a writer, I identified myself as a writers. He didn't take it seriously, he didn't"
+    },
+    {
+      "segment_id": 308,
+      "start_sentence_idx": 510,
+      "end_sentence_idx": 511,
+      "num_sentences": 1,
+      "start_time_sec": 1946.0,
+      "end_time_sec": 1946.0,
+      "text_preview": "if I look at it all the other homes, and then I'm drinking it, and then I'm just saying no was tidy.",
+      "keywords": [
+        "tidy",
+        "saying",
+        "look",
+        "homes",
+        "drinking"
+      ],
+      "summary": "if I look at it all the other homes, and then I'm drinking it, and then I'm just saying no was tidy. …"
+    },
+    {
+      "segment_id": 309,
+      "start_sentence_idx": 511,
+      "end_sentence_idx": 512,
+      "num_sentences": 1,
+      "start_time_sec": 1948.0,
+      "end_time_sec": 1948.0,
+      "text_preview": "But somehow looking at him and feeling , okay, , I don't know this, him as a father, with some connection to this, and if I keep going  I'm going, I'm going to end up  him, and that's, , terrify.",
+      "keywords": [
+        "going",
+        "somehow",
+        "terrify",
+        "okay",
+        "looking",
+        "know"
+      ],
+      "summary": "But somehow looking at him and feeling , okay, , I don't know this, him as a father, with some connection to this, and if I keep going  I'm going, I'm going to end up  him, and that's, , terrify. …"
+    },
+    {
+      "segment_id": 310,
+      "start_sentence_idx": 512,
+      "end_sentence_idx": 513,
+      "num_sentences": 1,
+      "start_time_sec": 1950.0,
+      "end_time_sec": 1950.0,
+      "text_preview": "And after you've been there for two years, I ended up getting into therapy and getting sober.",
+      "keywords": [],
+      "summary": "And after you've been there for two years, I ended up getting into therapy and getting sober. …"
+    },
+    {
+      "segment_id": 311,
+      "start_sentence_idx": 513,
+      "end_sentence_idx": 514,
+      "num_sentences": 1,
+      "start_time_sec": 1960.24,
+      "end_time_sec": 1960.24,
+      "text_preview": ", I think it's the next.",
+      "keywords": [],
+      "summary": ", I think it's the next. …"
+    },
+    {
+      "segment_id": 312,
+      "start_sentence_idx": 514,
+      "end_sentence_idx": 515,
+      "num_sentences": 1,
+      "start_time_sec": 1961.84,
+      "end_time_sec": 1961.84,
+      "text_preview": "There's a lot to do with that.",
+      "keywords": [],
+      "summary": "There's a lot to do with that. …"
+    },
+    {
+      "segment_id": 313,
+      "start_sentence_idx": 515,
+      "end_sentence_idx": 516,
+      "num_sentences": 1,
+      "start_time_sec": 1969.0,
+      "end_time_sec": 1969.0,
+      "text_preview": "It's seen my father, and see what could happen to someone's life.",
+      "keywords": [],
+      "summary": "It's seen my father, and see what could happen to someone's life. …"
+    },
+    {
+      "segment_id": 314,
+      "start_sentence_idx": 516,
+      "end_sentence_idx": 517,
+      "num_sentences": 1,
+      "start_time_sec": 1970.72,
+      "end_time_sec": 1970.72,
+      "text_preview": "I sort of had to see something that extreme I think, to realize what a potential fate could happen.",
+      "keywords": [],
+      "summary": "I sort of had to see something that extreme I think, to realize what a potential fate could happen. …"
+    },
+    {
+      "segment_id": 315,
+      "start_sentence_idx": 517,
+      "end_sentence_idx": 525,
+      "num_sentences": 8,
+      "start_time_sec": 1971.72,
+      "end_time_sec": 2059.0,
+      "text_preview": "Mm. Mm. Mm. Mm. Mm. Mm. Mm. Mm.",
+      "keywords": [],
+      "summary": "Mm. Mm. Mm. Mm. Mm. Mm. Mm. Mm. …"
+    },
+    {
+      "segment_id": 316,
+      "start_sentence_idx": 525,
+      "end_sentence_idx": 526,
+      "num_sentences": 1,
+      "start_time_sec": 2065.0,
+      "end_time_sec": 2065.0,
+      "text_preview": "Hmm.",
+      "keywords": [],
+      "summary": "Hmm. …"
+    },
+    {
+      "segment_id": 317,
+      "start_sentence_idx": 526,
+      "end_sentence_idx": 527,
+      "num_sentences": 1,
+      "start_time_sec": 2070.0,
+      "end_time_sec": 2070.0,
+      "text_preview": "We had it together enough to realize that when he turned 60, who's eligible for senior housing, when he turned 60, he actually got an apartment in subsidized housing, section of housing.",
+      "keywords": [
+        "housing",
+        "60",
+        "turned",
+        "together",
+        "subsidized",
+        "section"
+      ],
+      "summary": "We had it together enough to realize that when he turned 60, who's eligible for senior housing, when he turned 60, he actually got an apartment in subsidized housing, section of housing. …"
+    },
+    {
+      "segment_id": 318,
+      "start_sentence_idx": 527,
+      "end_sentence_idx": 528,
+      "num_sentences": 1,
+      "start_time_sec": 2075.48,
+      "end_time_sec": 2075.48,
+      "text_preview": "And at the end, filming him, probably five years after that, I could move  little for 90s.",
+      "keywords": [],
+      "summary": "And at the end, filming him, probably five years after that, I could move  little for 90s. …"
+    },
+    {
+      "segment_id": 319,
+      "start_sentence_idx": 528,
+      "end_sentence_idx": 529,
+      "num_sentences": 1,
+      "start_time_sec": 2080.04,
+      "end_time_sec": 2080.04,
+      "text_preview": "Because I had learned that the 90s had been there, what would happen?",
+      "keywords": [],
+      "summary": "Because I had learned that the 90s had been there, what would happen? …"
+    },
+    {
+      "segment_id": 320,
+      "start_sentence_idx": 529,
+      "end_sentence_idx": 530,
+      "num_sentences": 1,
+      "start_time_sec": 2086.08,
+      "end_time_sec": 2086.08,
+      "text_preview": "Right now, the look  to lose what track did a shot of mulled life with a knees, and not even higher.",
+      "keywords": [
+        "track",
+        "shot",
+        "right",
+        "mulled",
+        "lose",
+        "look"
+      ],
+      "summary": "Right now, the look  to lose what track did a shot of mulled life with a knees, and not even higher. …"
+    },
+    {
+      "segment_id": 321,
+      "start_sentence_idx": 530,
+      "end_sentence_idx": 531,
+      "num_sentences": 1,
+      "start_time_sec": 2088.32,
+      "end_time_sec": 2088.32,
+      "text_preview": "I was going to seek out and interview the man that had done my mother, and the man that it, , I've been in my most life for five years or for about a month, and so the first time I really went to look for my father was with a video company, I interviewed him.",
+      "keywords": [
+        "man",
+        "went",
+        "years",
+        "video",
+        "time",
+        "really"
+      ],
+      "summary": "\"I was going to seek out and interview the man that had done my mother,\" she says. \"I've been in my most life for"
+    },
+    {
+      "segment_id": 322,
+      "start_sentence_idx": 531,
+      "end_sentence_idx": 532,
+      "num_sentences": 1,
+      "start_time_sec": 2095.04,
+      "end_time_sec": 2095.04,
+      "text_preview": "Every time I go to him, I've been extircled for years, I've been a family, just the stories type on me.",
+      "keywords": [
+        "years",
+        "type",
+        "time",
+        "stories",
+        "go",
+        "family"
+      ],
+      "summary": "Every time I go to him, I've been extircled for years, I've been a family, just the stories type on me. …"
+    },
+    {
+      "segment_id": 323,
+      "start_sentence_idx": 532,
+      "end_sentence_idx": 533,
+      "num_sentences": 1,
+      "start_time_sec": 2100.0,
+      "end_time_sec": 2100.0,
+      "text_preview": "io NOEveryone's lead Mary and Illinois, which was built to replace Alcatraz.",
+      "keywords": [],
+      "summary": "io NOEveryone's lead Mary and Illinois, which was built to replace Alcatraz. …"
+    },
+    {
+      "segment_id": 324,
+      "start_sentence_idx": 533,
+      "end_sentence_idx": 534,
+      "num_sentences": 1,
+      "start_time_sec": 2100.0,
+      "end_time_sec": 2100.0,
+      "text_preview": "I mean, I was there.",
+      "keywords": [],
+      "summary": "I mean, I was there. …"
+    },
+    {
+      "segment_id": 325,
+      "start_sentence_idx": 534,
+      "end_sentence_idx": 535,
+      "num_sentences": 1,
+      "start_time_sec": 2103.02,
+      "end_time_sec": 2103.02,
+      "text_preview": "And I had the pleasure of speaking as a source in Asia.",
+      "keywords": [],
+      "summary": "And I had the pleasure of speaking as a source in Asia. …"
+    },
+    {
+      "segment_id": 326,
+      "start_sentence_idx": 535,
+      "end_sentence_idx": 536,
+      "num_sentences": 1,
+      "start_time_sec": 2105.74,
+      "end_time_sec": 2105.74,
+      "text_preview": "I mean, I wanted to look back and I was right about everything in Jesus.",
+      "keywords": [],
+      "summary": "I mean, I wanted to look back and I was right about everything in Jesus. …"
+    },
+    {
+      "segment_id": 327,
+      "start_sentence_idx": 536,
+      "end_sentence_idx": 537,
+      "num_sentences": 1,
+      "start_time_sec": 2108.18,
+      "end_time_sec": 2108.18,
+      "text_preview": "A source in East America, jump with everything in Jesus.",
+      "keywords": [],
+      "summary": "A source in East America, jump with everything in Jesus. …"
+    },
+    {
+      "segment_id": 328,
+      "start_sentence_idx": 537,
+      "end_sentence_idx": 538,
+      "num_sentences": 1,
+      "start_time_sec": 2110.1,
+      "end_time_sec": 2110.1,
+      "text_preview": "As well as he and all the CFP called for the birthday of the President.",
+      "keywords": [],
+      "summary": "As well as he and all the CFP called for the birthday of the President. …"
+    },
+    {
+      "segment_id": 329,
+      "start_sentence_idx": 538,
+      "end_sentence_idx": 539,
+      "num_sentences": 1,
+      "start_time_sec": 2112.78,
+      "end_time_sec": 2112.78,
+      "text_preview": "Just a Russian prince.",
+      "keywords": [],
+      "summary": "Just a Russian prince. …"
+    },
+    {
+      "segment_id": 330,
+      "start_sentence_idx": 539,
+      "end_sentence_idx": 540,
+      "num_sentences": 1,
+      "start_time_sec": 2115.7,
+      "end_time_sec": 2115.7,
+      "text_preview": "Yeah.",
+      "keywords": [],
+      "summary": "Yeah. …"
+    },
+    {
+      "segment_id": 331,
+      "start_sentence_idx": 540,
+      "end_sentence_idx": 541,
+      "num_sentences": 1,
+      "start_time_sec": 2117.1,
+      "end_time_sec": 2117.1,
+      "text_preview": "Paul Allen, I do was to give me his three-step plan for how to run back.",
+      "keywords": [],
+      "summary": "Paul Allen, I do was to give me his three-step plan for how to run back. …"
+    },
+    {
+      "segment_id": 332,
+      "start_sentence_idx": 541,
+      "end_sentence_idx": 542,
+      "num_sentences": 1,
+      "start_time_sec": 2118.26,
+      "end_time_sec": 2118.26,
+      "text_preview": "Which seemed to be his... version of bodily advice.",
+      "keywords": [],
+      "summary": "Which seemed to be his... version of bodily advice. …"
+    },
+    {
+      "segment_id": 333,
+      "start_sentence_idx": 542,
+      "end_sentence_idx": 543,
+      "num_sentences": 1,
+      "start_time_sec": 2119.84,
+      "end_time_sec": 2119.84,
+      "text_preview": "We've never spoken before and this is the first real conversation had with him laying out his net that he's probably best.",
+      "keywords": [
+        "spoken",
+        "real",
+        "probably",
+        "never",
+        "net",
+        "laying"
+      ],
+      "summary": "We've never spoken before and this is the first real conversation had with him laying out his net that he's probably best. …"
+    },
+    {
+      "segment_id": 334,
+      "start_sentence_idx": 543,
+      "end_sentence_idx": 545,
+      "num_sentences": 2,
+      "start_time_sec": 2121.86,
+      "end_time_sec": 2125.34,
+      "text_preview": "Three steps in the whole program. Step one.",
+      "keywords": [],
+      "summary": "Three steps in the whole program. Step one. …"
+    },
+    {
+      "segment_id": 335,
+      "start_sentence_idx": 545,
+      "end_sentence_idx": 548,
+      "num_sentences": 3,
+      "start_time_sec": 2127.0,
+      "end_time_sec": 2133.28,
+      "text_preview": "Open on a car. Open on a car. He's so equipped with getting steps also.",
+      "keywords": [],
+      "summary": "Open on a car. Open on a car. He's so equipped with getting steps also. …"
+    },
+    {
+      "segment_id": 336,
+      "start_sentence_idx": 548,
+      "end_sentence_idx": 549,
+      "num_sentences": 1,
+      "start_time_sec": 2135.68,
+      "end_time_sec": 2135.68,
+      "text_preview": "He's involved.",
+      "keywords": [],
+      "summary": "He's involved. …"
+    },
+    {
+      "segment_id": 337,
+      "start_sentence_idx": 549,
+      "end_sentence_idx": 550,
+      "num_sentences": 1,
+      "start_time_sec": 2138.4,
+      "end_time_sec": 2138.4,
+      "text_preview": "Getting someone to steal some checks from insurance company and then.",
+      "keywords": [],
+      "summary": "Getting someone to steal some checks from insurance company and then. …"
+    },
+    {
+      "segment_id": 338,
+      "start_sentence_idx": 550,
+      "end_sentence_idx": 551,
+      "num_sentences": 1,
+      "start_time_sec": 2140.04,
+      "end_time_sec": 2140.04,
+      "text_preview": "to forge those checks, make a whole series of forge checks, and to open bank accounts, and bank accounts around the country.",
+      "keywords": [
+        "accounts",
+        "forge",
+        "bank",
+        "checks",
+        "series",
+        "whole"
+      ],
+      "summary": "to forge those checks, make a whole series of forge checks, and to open bank accounts, and bank accounts around the country. …"
+    },
+    {
+      "segment_id": 339,
+      "start_sentence_idx": 551,
+      "end_sentence_idx": 552,
+      "num_sentences": 1,
+      "start_time_sec": 2142.12,
+      "end_time_sec": 2142.12,
+      "text_preview": "It was sort of elaborate, elaborate, and contributed, and ultimately, , I failed, I took my step one.",
+      "keywords": [],
+      "summary": "It was sort of elaborate, elaborate, and contributed, and ultimately, , I failed, I took my step one. …"
+    },
+    {
+      "segment_id": 340,
+      "start_sentence_idx": 552,
+      "end_sentence_idx": 553,
+      "num_sentences": 1,
+      "start_time_sec": 2143.32,
+      "end_time_sec": 2143.32,
+      "text_preview": "I was given  $100 bills, right?",
+      "keywords": [],
+      "summary": "I was given  $100 bills, right? …"
+    },
+    {
+      "segment_id": 341,
+      "start_sentence_idx": 553,
+      "end_sentence_idx": 554,
+      "num_sentences": 1,
+      "start_time_sec": 2146.24,
+      "end_time_sec": 2146.24,
+      "text_preview": "But it did be due to a dribbling of the bank, by suitcase, right?",
+      "keywords": [],
+      "summary": "But it did be due to a dribbling of the bank, by suitcase, right? …"
+    },
+    {
+      "segment_id": 342,
+      "start_sentence_idx": 554,
+      "end_sentence_idx": 555,
+      "num_sentences": 1,
+      "start_time_sec": 2152.52,
+      "end_time_sec": 2152.52,
+      "text_preview": "The way it was my story.",
+      "keywords": [],
+      "summary": "The way it was my story. …"
+    },
+    {
+      "segment_id": 343,
+      "start_sentence_idx": 555,
+      "end_sentence_idx": 556,
+      "num_sentences": 1,
+      "start_time_sec": 2155.88,
+      "end_time_sec": 2155.88,
+      "text_preview": "Always a few miles on the bus.",
+      "keywords": [],
+      "summary": "Always a few miles on the bus. …"
+    },
+    {
+      "segment_id": 344,
+      "start_sentence_idx": 556,
+      "end_sentence_idx": 557,
+      "num_sentences": 1,
+      "start_time_sec": 2157.4,
+      "end_time_sec": 2157.4,
+      "text_preview": "Always all the young people.",
+      "keywords": [],
+      "summary": "Always all the young people. …"
+    },
+    {
+      "segment_id": 345,
+      "start_sentence_idx": 557,
+      "end_sentence_idx": 558,
+      "num_sentences": 1,
+      "start_time_sec": 2160.0,
+      "end_time_sec": 2160.0,
+      "text_preview": "male.",
+      "keywords": [],
+      "summary": "male. …"
+    },
+    {
+      "segment_id": 346,
+      "start_sentence_idx": 558,
+      "end_sentence_idx": 559,
+      "num_sentences": 1,
+      "start_time_sec": 2168.4,
+      "end_time_sec": 2168.4,
+      "text_preview": "My guy is not a gentleman, or myself.",
+      "keywords": [],
+      "summary": "My guy is not a gentleman, or myself. …"
+    },
+    {
+      "segment_id": 347,
+      "start_sentence_idx": 559,
+      "end_sentence_idx": 561,
+      "num_sentences": 2,
+      "start_time_sec": 2170.0,
+      "end_time_sec": 2173.2,
+      "text_preview": "When I first met up with him, he went to a soup kitchen where he ate, and I did it in there, and he introduced me to the other people who ate with the people in the soup kitchen. He had known him for years, and he closed the soup kitchen so a time to eat.",
+      "keywords": [
+        "soup",
+        "kitchen",
+        "people",
+        "ate",
+        "years",
+        "went"
+      ],
+      "summary": "\"He had known him for years, and he closed the soup kitchen so a time to eat. When I first met up with him, he went"
+    },
+    {
+      "segment_id": 348,
+      "start_sentence_idx": 561,
+      "end_sentence_idx": 562,
+      "num_sentences": 1,
+      "start_time_sec": 2176.2,
+      "end_time_sec": 2176.2,
+      "text_preview": "He just said, this is my son, necklace.",
+      "keywords": [],
+      "summary": "He just said, this is my son, necklace. …"
+    },
+    {
+      "segment_id": 349,
+      "start_sentence_idx": 562,
+      "end_sentence_idx": 563,
+      "num_sentences": 1,
+      "start_time_sec": 2179.6,
+      "end_time_sec": 2179.6,
+      "text_preview": "He wanted to have you here.",
+      "keywords": [],
+      "summary": "He wanted to have you here. …"
+    },
+    {
+      "segment_id": 350,
+      "start_sentence_idx": 563,
+      "end_sentence_idx": 564,
+      "num_sentences": 1,
+      "start_time_sec": 2181.0,
+      "end_time_sec": 2181.0,
+      "text_preview": "Hello, so different.",
+      "keywords": [],
+      "summary": "Hello, so different. …"
+    },
+    {
+      "segment_id": 351,
+      "start_sentence_idx": 564,
+      "end_sentence_idx": 567,
+      "num_sentences": 3,
+      "start_time_sec": 2184.56,
+      "end_time_sec": 2190.0,
+      "text_preview": "I don't get it. I thought you had somebody picked that by the way, making the documents. He, I can't believe I answered you, I can't believe I answered you.",
+      "keywords": [
+        "believe",
+        "answered",
+        "way",
+        "thought",
+        "somebody",
+        "making"
+      ],
+      "summary": "I don't get it. I thought you had somebody picked that by the way, making the documents. He, I can't believe I answered you, I can't believe I answered you. …"
+    },
+    {
+      "segment_id": 352,
+      "start_sentence_idx": 567,
+      "end_sentence_idx": 568,
+      "num_sentences": 1,
+      "start_time_sec": 2206.2,
+      "end_time_sec": 2206.2,
+      "text_preview": "It was a mother.",
+      "keywords": [],
+      "summary": "It was a mother. …"
+    },
+    {
+      "segment_id": 353,
+      "start_sentence_idx": 568,
+      "end_sentence_idx": 569,
+      "num_sentences": 1,
+      "start_time_sec": 2209.84,
+      "end_time_sec": 2209.84,
+      "text_preview": "Mother was beautiful.",
+      "keywords": [],
+      "summary": "Mother was beautiful. …"
+    },
+    {
+      "segment_id": 354,
+      "start_sentence_idx": 569,
+      "end_sentence_idx": 570,
+      "num_sentences": 1,
+      "start_time_sec": 2214.56,
+      "end_time_sec": 2214.56,
+      "text_preview": "He was so cried that, , this is my son, no one will be here to son and I said, yeah, I was son and and he told me, you can brag to people that I was working at Columbia University.",
+      "keywords": [
+        "son",
+        "working",
+        "yeah",
+        "university",
+        "told",
+        "said"
+      ],
+      "summary": "He was so cried that, , this is my son, no one will be here to son and I said, yeah, I was son and and he told me, you can brag to people that I was working at Columbia University. …"
+    },
+    {
+      "segment_id": 355,
+      "start_sentence_idx": 570,
+      "end_sentence_idx": 571,
+      "num_sentences": 1,
+      "start_time_sec": 2217.68,
+      "end_time_sec": 2217.68,
+      "text_preview": "Yeah, what's your name?",
+      "keywords": [],
+      "summary": "Yeah, what's your name? …"
+    },
+    {
+      "segment_id": 356,
+      "start_sentence_idx": 571,
+      "end_sentence_idx": 573,
+      "num_sentences": 2,
+      "start_time_sec": 2220.0,
+      "end_time_sec": 2224.0,
+      "text_preview": "He's named Walt. Walt, recently, he was a London University.",
+      "keywords": [],
+      "summary": "He's named Walt. Walt, recently, he was a London University. …"
+    },
+    {
+      "segment_id": 357,
+      "start_sentence_idx": 573,
+      "end_sentence_idx": 574,
+      "num_sentences": 1,
+      "start_time_sec": 2226.76,
+      "end_time_sec": 2226.76,
+      "text_preview": "My kid, may I say that?",
+      "keywords": [],
+      "summary": "My kid, may I say that? …"
+    },
+    {
+      "segment_id": 358,
+      "start_sentence_idx": 574,
+      "end_sentence_idx": 575,
+      "num_sentences": 1,
+      "start_time_sec": 2230.64,
+      "end_time_sec": 2230.64,
+      "text_preview": "Right?",
+      "keywords": [],
+      "summary": "Right? …"
+    },
+    {
+      "segment_id": 359,
+      "start_sentence_idx": 575,
+      "end_sentence_idx": 576,
+      "num_sentences": 1,
+      "start_time_sec": 2232.64,
+      "end_time_sec": 2232.64,
+      "text_preview": "Yeah, right He got right again.",
+      "keywords": [],
+      "summary": "Yeah, right He got right again. …"
+    },
+    {
+      "segment_id": 360,
+      "start_sentence_idx": 576,
+      "end_sentence_idx": 577,
+      "num_sentences": 1,
+      "start_time_sec": 2237.04,
+      "end_time_sec": 2237.04,
+      "text_preview": "There's mother that brings On 35 right yeah, yeah, what's the last time I saw you?",
+      "keywords": [],
+      "summary": "There's mother that brings On 35 right yeah, yeah, what's the last time I saw you? …"
+    },
+    {
+      "segment_id": 361,
+      "start_sentence_idx": 577,
+      "end_sentence_idx": 578,
+      "num_sentences": 1,
+      "start_time_sec": 2241.8,
+      "end_time_sec": 2241.8,
+      "text_preview": "How'd you go to that NYU?",
+      "keywords": [],
+      "summary": "How'd you go to that NYU? …"
+    },
+    {
+      "segment_id": 362,
+      "start_sentence_idx": 578,
+      "end_sentence_idx": 579,
+      "num_sentences": 1,
+      "start_time_sec": 2244.52,
+      "end_time_sec": 2244.52,
+      "text_preview": "Yeah, I don't see how long I talk come over How'd you go there?",
+      "keywords": [],
+      "summary": "Yeah, I don't see how long I talk come over How'd you go there? …"
+    },
+    {
+      "segment_id": 363,
+      "start_sentence_idx": 579,
+      "end_sentence_idx": 580,
+      "num_sentences": 1,
+      "start_time_sec": 2249.48,
+      "end_time_sec": 2249.48,
+      "text_preview": "What did you make major writing?",
+      "keywords": [],
+      "summary": "What did you make major writing? …"
+    },
+    {
+      "segment_id": 364,
+      "start_sentence_idx": 580,
+      "end_sentence_idx": 581,
+      "num_sentences": 1,
+      "start_time_sec": 2250.0,
+      "end_time_sec": 2250.0,
+      "text_preview": "Yeah Oh, I was in the middle of the school.",
+      "keywords": [],
+      "summary": "Yeah Oh, I was in the middle of the school. …"
+    },
+    {
+      "segment_id": 365,
+      "start_sentence_idx": 581,
+      "end_sentence_idx": 582,
+      "num_sentences": 1,
+      "start_time_sec": 2253.0,
+      "end_time_sec": 2253.0,
+      "text_preview": "A lot of times I'm very frustrated when I go to the meeting, but it's just a simple thing.",
+      "keywords": [],
+      "summary": "A lot of times I'm very frustrated when I go to the meeting, but it's just a simple thing. …"
+    },
+    {
+      "segment_id": 366,
+      "start_sentence_idx": 582,
+      "end_sentence_idx": 583,
+      "num_sentences": 1,
+      "start_time_sec": 2256.0,
+      "end_time_sec": 2256.0,
+      "text_preview": "It tells the same story is over and over again.",
+      "keywords": [],
+      "summary": "It tells the same story is over and over again. …"
+    },
+    {
+      "segment_id": 367,
+      "start_sentence_idx": 583,
+      "end_sentence_idx": 584,
+      "num_sentences": 1,
+      "start_time_sec": 2261.0,
+      "end_time_sec": 2261.0,
+      "text_preview": "They seem very disconnected, but there's a few times where I have got some connection.",
+      "keywords": [],
+      "summary": "They seem very disconnected, but there's a few times where I have got some connection. …"
+    },
+    {
+      "segment_id": 368,
+      "start_sentence_idx": 584,
+      "end_sentence_idx": 585,
+      "num_sentences": 1,
+      "start_time_sec": 2270.0,
+      "end_time_sec": 2270.0,
+      "text_preview": "It doesn't seem that he just let his guard down a little bit and let him sort of glimpse at his struggle in some way.",
+      "keywords": [
+        "let",
+        "way",
+        "struggle",
+        "seem",
+        "sort",
+        "little"
+      ],
+      "summary": "It doesn't seem that he just let his guard down a little bit and let him sort of glimpse at his struggle in some way. …"
+    },
+    {
+      "segment_id": 369,
+      "start_sentence_idx": 585,
+      "end_sentence_idx": 586,
+      "num_sentences": 1,
+      "start_time_sec": 2274.0,
+      "end_time_sec": 2274.0,
+      "text_preview": "And that is... What what  what connects us he actually wrote me letter right after He sent me a couple letters after one of the poems to my The first one Says just says your nick book is a classic love That that was a that's unique letter because Class is only been word that he's…",
+      "keywords": [
+        "sort",
+        "word",
+        "one",
+        "says",
+        "letter",
+        "unique"
+      ],
+      "summary": "\"What what  what connects us he actually wrote me letter right after he sent me a couple letters after one of the poems to my The first one Says just says your nick book is a classic love,\" she says."
+    },
+    {
+      "segment_id": 370,
+      "start_sentence_idx": 586,
+      "end_sentence_idx": 587,
+      "num_sentences": 1,
+      "start_time_sec": 2276.0,
+      "end_time_sec": 2276.0,
+      "text_preview": "It has to be a reason that I've fell down to his letters for all these years.",
+      "keywords": [],
+      "summary": "It has to be a reason that I've fell down to his letters for all these years. …"
+    },
+    {
+      "segment_id": 371,
+      "start_sentence_idx": 587,
+      "end_sentence_idx": 588,
+      "num_sentences": 1,
+      "start_time_sec": 2280.0,
+      "end_time_sec": 2280.0,
+      "text_preview": "It has to be some sort of reason, something I've actually been waiting for on the before or hoping for.",
+      "keywords": [
+        "waiting",
+        "sort",
+        "something",
+        "reason",
+        "hoping",
+        "actually"
+      ],
+      "summary": "It has to be some sort of reason, something I've actually been waiting for on the before or hoping for. …"
+    },
+    {
+      "segment_id": 372,
+      "start_sentence_idx": 588,
+      "end_sentence_idx": 589,
+      "num_sentences": 1,
+      "start_time_sec": 2285.76,
+      "end_time_sec": 2285.76,
+      "text_preview": "And yeah, something  this is sort of maybe as close as I'll get to it.",
+      "keywords": [],
+      "summary": "And yeah, something  this is sort of maybe as close as I'll get to it. …"
+    },
+    {
+      "segment_id": 373,
+      "start_sentence_idx": 589,
+      "end_sentence_idx": 590,
+      "num_sentences": 1,
+      "start_time_sec": 2285.76,
+      "end_time_sec": 2285.76,
+      "text_preview": "I would  to have sort of.",
+      "keywords": [],
+      "summary": "I would  to have sort of. …"
+    },
+    {
+      "segment_id": 374,
+      "start_sentence_idx": 590,
+      "end_sentence_idx": 591,
+      "num_sentences": 1,
+      "start_time_sec": 2288.16,
+      "end_time_sec": 2288.16,
+      "text_preview": "one of those looks sort of deep connecting moments with him but I'm not really sure if I have a machine that well and I'm not really sure yet I'm actually not even sure at this point I would hope for  maybe  maybe you always hope for you sort of deny that hope for you.",
+      "keywords": [
+        "sure",
+        "hope",
+        "really",
+        "maybe",
+        "sort",
+        "yet"
+      ],
+      "summary": "\"I'm not really sure if I have a machine that well,\" he says. \"I'm actually not even sure at this point I would hope"
+    },
+    {
+      "segment_id": 375,
+      "start_sentence_idx": 591,
+      "end_sentence_idx": 592,
+      "num_sentences": 1,
+      "start_time_sec": 2291.56,
+      "end_time_sec": 2291.56,
+      "text_preview": "I don't know if I can do this.",
+      "keywords": [],
+      "summary": "I don't know if I can do this. …"
+    },
+    {
+      "segment_id": 376,
+      "start_sentence_idx": 592,
+      "end_sentence_idx": 593,
+      "num_sentences": 1,
+      "start_time_sec": 2291.56,
+      "end_time_sec": 2291.56,
+      "text_preview": "It's all the enough just to  sort of to sit in front of them, go to his room and sit with him for an hour and to see where he is.",
+      "keywords": [
+        "sit",
+        "sort",
+        "see",
+        "room",
+        "hour",
+        "go"
+      ],
+      "summary": "It's all the enough just to  sort of to sit in front of them, go to his room and sit with him for an hour and to see where he is. …"
+    },
+    {
+      "segment_id": 377,
+      "start_sentence_idx": 593,
+      "end_sentence_idx": 600,
+      "num_sentences": 7,
+      "start_time_sec": 2295.56,
+      "end_time_sec": 2334.0,
+      "text_preview": "and tell him, whatever, I'll tell him one thing about myself. If he hears it, that's why it doesn't hear it, that's fine. I don't expect him to give me anything to exploit it. It's always enough just to go and see it. Somehow, calm, it's enough or settled my soul and up, just to …",
+      "keywords": [
+        "tell",
+        "sort",
+        "enough",
+        "go",
+        "basic",
+        "father"
+      ],
+      "summary": "\"It's always enough just to go and see it. Somehow, calm, it's enough or settled my soul and up,\" he says. \"It's just sort of down to sort of real basic, but , strip down to the most basic father"
+    },
+    {
+      "segment_id": 378,
+      "start_sentence_idx": 600,
+      "end_sentence_idx": 601,
+      "num_sentences": 1,
+      "start_time_sec": 2338.0,
+      "end_time_sec": 2338.0,
+      "text_preview": "He's not there.",
+      "keywords": [],
+      "summary": "He's not there. …"
+    },
+    {
+      "segment_id": 379,
+      "start_sentence_idx": 601,
+      "end_sentence_idx": 602,
+      "num_sentences": 1,
+      "start_time_sec": 2340.0,
+      "end_time_sec": 2340.0,
+      "text_preview": "I can do about that, it's nothing.",
+      "keywords": [],
+      "summary": "I can do about that, it's nothing. …"
+    },
+    {
+      "segment_id": 380,
+      "start_sentence_idx": 602,
+      "end_sentence_idx": 603,
+      "num_sentences": 1,
+      "start_time_sec": 2345.0,
+      "end_time_sec": 2345.0,
+      "text_preview": "He can do about that.",
+      "keywords": [],
+      "summary": "He can do about that. …"
+    },
+    {
+      "segment_id": 381,
+      "start_sentence_idx": 603,
+      "end_sentence_idx": 604,
+      "num_sentences": 1,
+      "start_time_sec": 2346.0,
+      "end_time_sec": 2346.0,
+      "text_preview": "I go and sit and have a relationship with you personally.",
+      "keywords": [],
+      "summary": "I go and sit and have a relationship with you personally. …"
+    },
+    {
+      "segment_id": 382,
+      "start_sentence_idx": 604,
+      "end_sentence_idx": 605,
+      "num_sentences": 1,
+      "start_time_sec": 2349.0,
+      "end_time_sec": 2349.0,
+      "text_preview": "Nick Plans, book of poems, is called Summithir, is working on a book and just that.",
+      "keywords": [],
+      "summary": "Nick Plans, book of poems, is called Summithir, is working on a book and just that. …"
+    },
+    {
+      "segment_id": 383,
+      "start_sentence_idx": 605,
+      "end_sentence_idx": 606,
+      "num_sentences": 1,
+      "start_time_sec": 2351.0,
+      "end_time_sec": 2351.0,
+      "text_preview": "Well, the problem is produced today by Wendy Dore and myself, it's one book, Jonathan Goldstein's Sterley, I'm Senior Producer to this nighter.",
+      "keywords": [
+        "wendy",
+        "well",
+        "today",
+        "sterley",
+        "senior",
+        "producer"
+      ],
+      "summary": "Well, the problem is produced today by Wendy Dore and myself, it's one book, Jonathan Goldstein's Sterley, I'm Senior Producer to this nighter. …"
+    },
+    {
+      "segment_id": 384,
+      "start_sentence_idx": 606,
+      "end_sentence_idx": 607,
+      "num_sentences": 1,
+      "start_time_sec": 2357.0,
+      "end_time_sec": 2357.0,
+      "text_preview": "Jubilee Gaddawners, Power Top, Jacket, Muggywacken, Rebecca Carroll, Least, Eagle, Nancy Updike, and Conceary, Sarah, Valm, Lizard with myster runs our website production out from Pat Batman, Tom McCarthy, musical help from Mr. John Piner's, special thanks today to KM UW and Rich…",
+      "keywords": [
+        "website",
+        "wb",
+        "valm",
+        "uw",
+        "updike",
+        "top"
+      ],
+      "summary": "Jubilee Gaddawners, Power Top, Jacket, Muggywacken, Rebecca Carroll, Least, Eagle. Nancy Updike, and Conceary, Sarah, Valm, Lizard with Lizard."
+    },
+    {
+      "segment_id": 385,
+      "start_sentence_idx": 607,
+      "end_sentence_idx": 608,
+      "num_sentences": 1,
+      "start_time_sec": 2363.0,
+      "end_time_sec": 2363.0,
+      "text_preview": "We can also listen to our programs for free, absolutely free.",
+      "keywords": [],
+      "summary": "We can also listen to our programs for free, absolutely free. …"
+    },
+    {
+      "segment_id": 386,
+      "start_sentence_idx": 608,
+      "end_sentence_idx": 609,
+      "num_sentences": 1,
+      "start_time_sec": 2365.0,
+      "end_time_sec": 2365.0,
+      "text_preview": "www.thisamericanlife.org This American Life is distributed by public-ready international funding for our show, and divided by capital group companies, investing for individuals and institutions throughout the world, and sponsored the American Funds for the mutual funds, have them…",
+      "keywords": [
+        "www",
+        "thisamericanlife",
+        "public",
+        "org",
+        "funds",
+        "american"
+      ],
+      "summary": "\"I don't get what is going on with him these days,\" says Bob Greene. \"The staff of the service keep complaining about it really, they run into him in the restroom\""
+    },
+    {
+      "segment_id": 387,
+      "start_sentence_idx": 609,
+      "end_sentence_idx": 610,
+      "num_sentences": 1,
+      "start_time_sec": 2370.0,
+      "end_time_sec": 2370.0,
+      "text_preview": "Make it!",
+      "keywords": [],
+      "summary": "Make it! …"
+    },
+    {
+      "segment_id": 388,
+      "start_sentence_idx": 610,
+      "end_sentence_idx": 611,
+      "num_sentences": 1,
+      "start_time_sec": 2374.0,
+      "end_time_sec": 2374.0,
+      "text_preview": "Flexing  this, D-horse say, Humping iron, Arnold Schwarzenegger.",
+      "keywords": [],
+      "summary": "Flexing  this, D-horse say, Humping iron, Arnold Schwarzenegger. …"
+    },
+    {
+      "segment_id": 389,
+      "start_sentence_idx": 611,
+      "end_sentence_idx": 612,
+      "num_sentences": 1,
+      "start_time_sec": 2380.0,
+      "end_time_sec": 2380.0,
+      "text_preview": "Am I a glass?",
+      "keywords": [],
+      "summary": "Am I a glass? …"
+    },
+    {
+      "segment_id": 390,
+      "start_sentence_idx": 612,
+      "end_sentence_idx": 613,
+      "num_sentences": 1,
+      "start_time_sec": 2384.0,
+      "end_time_sec": 2384.0,
+      "text_preview": "Back next week.",
+      "keywords": [],
+      "summary": "Back next week. …"
+    },
+    {
+      "segment_id": 391,
+      "start_sentence_idx": 613,
+      "end_sentence_idx": 614,
+      "num_sentences": 1,
+      "start_time_sec": 2387.0,
+      "end_time_sec": 2387.0,
+      "text_preview": "The more star is this American light.",
+      "keywords": [],
+      "summary": "The more star is this American light. …"
+    },
+    {
+      "segment_id": 392,
+      "start_sentence_idx": 614,
+      "end_sentence_idx": 615,
+      "num_sentences": 1,
+      "start_time_sec": 2389.5,
+      "end_time_sec": 2389.5,
+      "text_preview": "He'd want me to  grab his bicep to see how their groin is just absolutely horrible.",
+      "keywords": [],
+      "summary": "He'd want me to  grab his bicep to see how their groin is just absolutely horrible. …"
+    },
+    {
+      "segment_id": 393,
+      "start_sentence_idx": 615,
+      "end_sentence_idx": 616,
+      "num_sentences": 1,
+      "start_time_sec": 2397.5,
+      "end_time_sec": 2397.5,
+      "text_preview": "Sw steady, We're gonna have all we love.",
+      "keywords": [],
+      "summary": "Sw steady, We're gonna have all we love. …"
+    },
+    {
+      "segment_id": 394,
+      "start_sentence_idx": 616,
+      "end_sentence_idx": 617,
+      "num_sentences": 1,
+      "start_time_sec": 2400.0,
+      "end_time_sec": 2400.0,
+      "text_preview": "We're gonna have all we love.",
+      "keywords": [],
+      "summary": "We're gonna have all we love. …"
+    },
+    {
+      "segment_id": 395,
+      "start_sentence_idx": 617,
+      "end_sentence_idx": 623,
+      "num_sentences": 6,
+      "start_time_sec": 2400.0,
+      "end_time_sec": 2416.32,
+      "text_preview": "When the door is shut, it's a year ago. If you still don't have a wall to do, maybe get off my knees. I know it's so good. I know it's so good. P.R.I. Public Radio International.",
+      "keywords": [
+        "good",
+        "know",
+        "still",
+        "shut",
+        "year",
+        "wall"
+      ],
+      "summary": "When the door is shut, it's a year ago. If you still don't have a wall to do, maybe get off my knees. I know it's so good. I know it's so good. P.R.I. Public Radio International. …"
+    }
+  ]
+}
