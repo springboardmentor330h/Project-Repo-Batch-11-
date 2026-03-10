@@ -215,8 +215,9 @@ if st.session_state.transcript:
             st.markdown(f"<span style='color:{selected_segment['sentiment_color']}; float:right;'>Sentiment Analysis: **{selected_segment['sentiment_label']} ({selected_segment['sentiment_score']})**</span>", unsafe_allow_html=True)
             st.divider()
             
-            st.markdown("**Summary**")
-            st.success(selected_segment['summary'])
+            st.markdown("**Transcript**")
+            with st.expander("📄 View Topic Transcript", expanded=True):
+                st.text_area("Segment Text", selected_segment["text"], height=200, label_visibility="collapsed")
             
             st.markdown("**Keywords**")
             kw_html = "".join([f"<span style='background-color: #f0f2f6; color: #31333f; padding: 4px 12px; border-radius: 16px; margin: 4px; display: inline-block; border: 1px solid #dfe1e5;'>{kw}</span>" for kw in selected_segment['keywords']])
@@ -225,7 +226,7 @@ if st.session_state.transcript:
             with st.expander("☁️ View Topic Word Cloud", expanded=True):
                 wc_img = generate_wordcloud(selected_segment['keywords'])
                 if wc_img is not None: st.image(wc_img, use_container_width=True)
-            
-            st.markdown("**Transcript**")
-            st.text_area("Segment Text", selected_segment["text"], height=200, label_visibility="collapsed")
+
+            st.markdown("**Summary**")
+            st.success(selected_segment['summary'])
 
