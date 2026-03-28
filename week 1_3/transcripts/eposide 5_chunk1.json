@@ -1,0 +1,34 @@
+{
+  "text": " Good morning cut after noon or good evening depending on where you're",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 24.94,
+      "text": " Good morning cut after noon or good evening depending on where you're",
+      "tokens": [
+        50364,
+        2205,
+        2446,
+        1723,
+        934,
+        24040,
+        420,
+        665,
+        5634,
+        5413,
+        322,
+        689,
+        291,
+        434,
+        51611
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.567775547504425,
+      "compression_ratio": 1.0454545454545454,
+      "no_speech_prob": 0.38184961676597595
+    }
+  ],
+  "language": "en"
+}
